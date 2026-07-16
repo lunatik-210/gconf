@@ -1,0 +1,38 @@
+# macOS and editor state
+.DS_Store
+**/.DS_Store
+.obsidian/workspace*.json
+.obsidian/cache/
+.trash/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Private community exports: keep local unless explicitly approved
+telegram/ИИ-сообщество GCONF*.json
+
+# Large local media. Research metadata, comments, captions, and thumbnails stay tracked.
+YouTube/**/*.mp4
+YouTube/**/*.mkv
+YouTube/**/*.webm
+YouTube/**/*.wav
+YouTube/**/*.m4a
+YouTube/**/*.mp3
+
+# Raw yt-dlp metadata contains large format lists and expiring signed media URLs.
+# Normalized stats/comments/chapters/descriptions/captions remain tracked.
+YouTube/**/*.info.json
+
+# Rebuildable knowledge indexes and local run state
+knowledge/_index/
+knowledge/runs/

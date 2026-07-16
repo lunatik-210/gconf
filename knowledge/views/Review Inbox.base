@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.inFolder("_inbox")
+views:
+  - type: table
+    name: Review Inbox
+    order:
+      - file.name
+      - type
+      - status
+      - review_status

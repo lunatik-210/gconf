@@ -1,0 +1,8255 @@
+1
+00:00:00,000 --> 00:00:04,390
+
+HERE'S
+
+2
+00:00:04,390 --> 00:00:04,400
+
+ 
+
+3
+00:00:04,400 --> 00:00:06,070
+
+the AI news you probably missed this
+
+4
+00:00:06,070 --> 00:00:06,080
+the AI news you probably missed this
+ 
+
+5
+00:00:06,080 --> 00:00:07,349
+the AI news you probably missed this
+week. Starting with the thing that most
+
+6
+00:00:07,349 --> 00:00:07,359
+week. Starting with the thing that most
+ 
+
+7
+00:00:07,359 --> 00:00:08,470
+week. Starting with the thing that most
+people have been talking about lately,
+
+8
+00:00:08,470 --> 00:00:08,480
+people have been talking about lately,
+ 
+
+9
+00:00:08,480 --> 00:00:10,629
+people have been talking about lately,
+and that's that we finally got our Fable
+
+10
+00:00:10,629 --> 00:00:10,639
+and that's that we finally got our Fable
+ 
+
+11
+00:00:10,639 --> 00:00:12,790
+and that's that we finally got our Fable
+5 back. Now, if you haven't been paying
+
+12
+00:00:12,790 --> 00:00:12,800
+5 back. Now, if you haven't been paying
+ 
+
+13
+00:00:12,800 --> 00:00:15,350
+5 back. Now, if you haven't been paying
+attention, Fable 5 was released on June
+
+14
+00:00:15,350 --> 00:00:15,360
+attention, Fable 5 was released on June
+ 
+
+15
+00:00:15,360 --> 00:00:17,750
+attention, Fable 5 was released on June
+9th, 2026, and it was pretty much the
+
+16
+00:00:17,750 --> 00:00:17,760
+9th, 2026, and it was pretty much the
+ 
+
+17
+00:00:17,760 --> 00:00:19,750
+9th, 2026, and it was pretty much the
+best model anyone has ever seen,
+
+18
+00:00:19,750 --> 00:00:19,760
+best model anyone has ever seen,
+ 
+
+19
+00:00:19,760 --> 00:00:21,670
+best model anyone has ever seen,
+including me. It worked really, really
+
+20
+00:00:21,670 --> 00:00:21,680
+including me. It worked really, really
+ 
+
+21
+00:00:21,680 --> 00:00:23,349
+including me. It worked really, really
+well. Then, just a few days later on
+
+22
+00:00:23,349 --> 00:00:23,359
+well. Then, just a few days later on
+ 
+
+23
+00:00:23,359 --> 00:00:25,509
+well. Then, just a few days later on
+June 12th, the US government basically
+
+24
+00:00:25,509 --> 00:00:25,519
+June 12th, the US government basically
+ 
+
+25
+00:00:25,519 --> 00:00:27,349
+June 12th, the US government basically
+said, "No, this model is too dangerous
+
+26
+00:00:27,349 --> 00:00:27,359
+said, "No, this model is too dangerous
+ 
+
+27
+00:00:27,359 --> 00:00:28,870
+said, "No, this model is too dangerous
+for it to be out in the public."
+
+28
+00:00:28,870 --> 00:00:28,880
+for it to be out in the public."
+ 
+
+29
+00:00:28,880 --> 00:00:31,589
+for it to be out in the public."
+Apparently, some people at Amazon had
+
+30
+00:00:31,589 --> 00:00:31,599
+Apparently, some people at Amazon had
+ 
+
+31
+00:00:31,599 --> 00:00:33,430
+Apparently, some people at Amazon had
+found some vulnerabilities with it,
+
+32
+00:00:33,430 --> 00:00:33,440
+found some vulnerabilities with it,
+ 
+
+33
+00:00:33,440 --> 00:00:35,670
+found some vulnerabilities with it,
+reported them to the government, and got
+
+34
+00:00:35,670 --> 00:00:35,680
+reported them to the government, and got
+ 
+
+35
+00:00:35,680 --> 00:00:37,590
+reported them to the government, and got
+Fable shut down. Fast forward to this
+
+36
+00:00:37,590 --> 00:00:37,600
+Fable shut down. Fast forward to this
+ 
+
+37
+00:00:37,600 --> 00:00:40,069
+Fable shut down. Fast forward to this
+week, 2 and 1/2 weeks later, and on July
+
+38
+00:00:40,069 --> 00:00:40,079
+week, 2 and 1/2 weeks later, and on July
+ 
+
+39
+00:00:40,079 --> 00:00:42,950
+week, 2 and 1/2 weeks later, and on July
+1st, they finally gave us our Fable 5
+
+40
+00:00:42,950 --> 00:00:42,960
+1st, they finally gave us our Fable 5
+ 
+
+41
+00:00:42,960 --> 00:00:44,470
+1st, they finally gave us our Fable 5
+back. Now, the version that they
+
+42
+00:00:44,470 --> 00:00:44,480
+back. Now, the version that they
+ 
+
+43
+00:00:44,480 --> 00:00:46,790
+back. Now, the version that they
+redeployed isn't exactly the same
+
+44
+00:00:46,790 --> 00:00:46,800
+redeployed isn't exactly the same
+ 
+
+45
+00:00:46,800 --> 00:00:48,950
+redeployed isn't exactly the same
+version. Now, supposedly has all of the
+
+46
+00:00:48,950 --> 00:00:48,960
+version. Now, supposedly has all of the
+ 
+
+47
+00:00:48,960 --> 00:00:50,869
+version. Now, supposedly has all of the
+same capabilities, but they did have to
+
+48
+00:00:50,869 --> 00:00:50,879
+same capabilities, but they did have to
+ 
+
+49
+00:00:50,879 --> 00:00:52,709
+same capabilities, but they did have to
+build in some extra safeguards.
+
+50
+00:00:52,709 --> 00:00:52,719
+build in some extra safeguards.
+ 
+
+51
+00:00:52,719 --> 00:00:54,389
+build in some extra safeguards.
+According to their article, the new
+
+52
+00:00:54,389 --> 00:00:54,399
+According to their article, the new
+ 
+
+53
+00:00:54,399 --> 00:00:56,790
+According to their article, the new
+classifier comes at the cost of flagging
+
+54
+00:00:56,790 --> 00:00:56,800
+classifier comes at the cost of flagging
+ 
+
+55
+00:00:56,800 --> 00:00:58,790
+classifier comes at the cost of flagging
+benign requests more often during
+
+56
+00:00:58,790 --> 00:00:58,800
+benign requests more often during
+ 
+
+57
+00:00:58,800 --> 00:01:01,189
+benign requests more often during
+routine coding and debugging tasks. Now,
+
+58
+00:01:01,189 --> 00:01:01,199
+routine coding and debugging tasks. Now,
+ 
+
+59
+00:01:01,199 --> 00:01:03,349
+routine coding and debugging tasks. Now,
+if you remember from the last time they
+
+60
+00:01:03,349 --> 00:01:03,359
+if you remember from the last time they
+ 
+
+61
+00:01:03,359 --> 00:01:05,109
+if you remember from the last time they
+launched this product, the biggest
+
+62
+00:01:05,109 --> 00:01:05,119
+launched this product, the biggest
+ 
+
+63
+00:01:05,119 --> 00:01:07,670
+launched this product, the biggest
+complaint was that it would not actually
+
+64
+00:01:07,670 --> 00:01:07,680
+complaint was that it would not actually
+ 
+
+65
+00:01:07,680 --> 00:01:10,469
+complaint was that it would not actually
+do too many of the benign things that
+
+66
+00:01:10,469 --> 00:01:10,479
+do too many of the benign things that
+ 
+
+67
+00:01:10,479 --> 00:01:12,789
+do too many of the benign things that
+people asked it to. Like really simple
+
+68
+00:01:12,789 --> 00:01:12,799
+people asked it to. Like really simple
+ 
+
+69
+00:01:12,799 --> 00:01:14,630
+people asked it to. Like really simple
+stuff. It would say, "Sorry, due to
+
+70
+00:01:14,630 --> 00:01:14,640
+stuff. It would say, "Sorry, due to
+ 
+
+71
+00:01:14,640 --> 00:01:16,310
+stuff. It would say, "Sorry, due to
+cyber security reasons, we can't answer
+
+72
+00:01:16,310 --> 00:01:16,320
+cyber security reasons, we can't answer
+ 
+
+73
+00:01:16,320 --> 00:01:17,670
+cyber security reasons, we can't answer
+that." And it would push you to using
+
+74
+00:01:17,670 --> 00:01:17,680
+that." And it would push you to using
+ 
+
+75
+00:01:17,680 --> 00:01:19,350
+that." And it would push you to using
+one of the Opus models instead. Well,
+
+76
+00:01:19,350 --> 00:01:19,360
+one of the Opus models instead. Well,
+ 
+
+77
+00:01:19,360 --> 00:01:21,910
+one of the Opus models instead. Well,
+this new version apparently is going to
+
+78
+00:01:21,910 --> 00:01:21,920
+this new version apparently is going to
+ 
+
+79
+00:01:21,920 --> 00:01:24,310
+this new version apparently is going to
+not answer even more of your benign
+
+80
+00:01:24,310 --> 00:01:24,320
+not answer even more of your benign
+ 
+
+81
+00:01:24,320 --> 00:01:25,990
+not answer even more of your benign
+requests. They've got this handy little
+
+82
+00:01:25,990 --> 00:01:26,000
+requests. They've got this handy little
+ 
+
+83
+00:01:26,000 --> 00:01:28,230
+requests. They've got this handy little
+chart here to show you this that benign
+
+84
+00:01:28,230 --> 00:01:28,240
+chart here to show you this that benign
+ 
+
+85
+00:01:28,240 --> 00:01:29,830
+chart here to show you this that benign
+stuff is going to fall within this
+
+86
+00:01:29,830 --> 00:01:29,840
+stuff is going to fall within this
+ 
+
+87
+00:01:29,840 --> 00:01:32,310
+stuff is going to fall within this
+larger safety margin and actually not
+
+88
+00:01:32,310 --> 00:01:32,320
+larger safety margin and actually not
+ 
+
+89
+00:01:32,320 --> 00:01:34,469
+larger safety margin and actually not
+get sent to Fable and we'll probably
+
+90
+00:01:34,469 --> 00:01:34,479
+get sent to Fable and we'll probably
+ 
+
+91
+00:01:34,479 --> 00:01:36,390
+get sent to Fable and we'll probably
+just get redirected to Opus. According
+
+92
+00:01:36,390 --> 00:01:36,400
+just get redirected to Opus. According
+ 
+
+93
+00:01:36,400 --> 00:01:38,630
+just get redirected to Opus. According
+to this Bridgemind account over on X,
+
+94
+00:01:38,630 --> 00:01:38,640
+to this Bridgemind account over on X,
+ 
+
+95
+00:01:38,640 --> 00:01:41,030
+to this Bridgemind account over on X,
+Fable 5 came back nerfed. They ran it on
+
+96
+00:01:41,030 --> 00:01:41,040
+Fable 5 came back nerfed. They ran it on
+ 
+
+97
+00:01:41,040 --> 00:01:43,190
+Fable 5 came back nerfed. They ran it on
+their own benchmark and they said that
+
+98
+00:01:43,190 --> 00:01:43,200
+their own benchmark and they said that
+ 
+
+99
+00:01:43,200 --> 00:01:45,590
+their own benchmark and they said that
+debugging went from an 86.2 down to a
+
+100
+00:01:45,590 --> 00:01:45,600
+debugging went from an 86.2 down to a
+ 
+
+101
+00:01:45,600 --> 00:01:48,870
+debugging went from an 86.2 down to a
+25.9. Refactoring went from a 73.6 6 to
+
+102
+00:01:48,870 --> 00:01:48,880
+25.9. Refactoring went from a 73.6 6 to
+ 
+
+103
+00:01:48,880 --> 00:01:52,069
+25.9. Refactoring went from a 73.6 6 to
+a 38.4 and Hallucinations went from 75.9
+
+104
+00:01:52,069 --> 00:01:52,079
+a 38.4 and Hallucinations went from 75.9
+ 
+
+105
+00:01:52,079 --> 00:01:54,630
+a 38.4 and Hallucinations went from 75.9
+to 61.7. They do go on to say that when
+
+106
+00:01:54,630 --> 00:01:54,640
+to 61.7. They do go on to say that when
+ 
+
+107
+00:01:54,640 --> 00:01:56,469
+to 61.7. They do go on to say that when
+the tasks are able to be completed by
+
+108
+00:01:56,469 --> 00:01:56,479
+the tasks are able to be completed by
+ 
+
+109
+00:01:56,479 --> 00:01:58,870
+the tasks are able to be completed by
+Fable 5, it functions the same as it was
+
+110
+00:01:58,870 --> 00:01:58,880
+Fable 5, it functions the same as it was
+ 
+
+111
+00:01:58,880 --> 00:02:00,789
+Fable 5, it functions the same as it was
+before, but the new guardrails are so
+
+112
+00:02:00,789 --> 00:02:00,799
+before, but the new guardrails are so
+ 
+
+113
+00:02:00,799 --> 00:02:03,190
+before, but the new guardrails are so
+strict that it gets through way less.
+
+114
+00:02:03,190 --> 00:02:03,200
+strict that it gets through way less.
+ 
+
+115
+00:02:03,200 --> 00:02:04,789
+strict that it gets through way less.
+And a lot of the comments kind of debate
+
+116
+00:02:04,789 --> 00:02:04,799
+And a lot of the comments kind of debate
+ 
+
+117
+00:02:04,799 --> 00:02:06,389
+And a lot of the comments kind of debate
+this. Most people saying it actually
+
+118
+00:02:06,389 --> 00:02:06,399
+this. Most people saying it actually
+ 
+
+119
+00:02:06,399 --> 00:02:08,229
+this. Most people saying it actually
+feels kind of the same. And honestly, so
+
+120
+00:02:08,229 --> 00:02:08,239
+feels kind of the same. And honestly, so
+ 
+
+121
+00:02:08,239 --> 00:02:11,190
+feels kind of the same. And honestly, so
+far from my experience, it's yeah, felt
+
+122
+00:02:11,190 --> 00:02:11,200
+far from my experience, it's yeah, felt
+ 
+
+123
+00:02:11,200 --> 00:02:13,510
+far from my experience, it's yeah, felt
+pretty much the same. I haven't actually
+
+124
+00:02:13,510 --> 00:02:13,520
+pretty much the same. I haven't actually
+ 
+
+125
+00:02:13,520 --> 00:02:15,589
+pretty much the same. I haven't actually
+gotten blocked on any of my own tests
+
+126
+00:02:15,589 --> 00:02:15,599
+gotten blocked on any of my own tests
+ 
+
+127
+00:02:15,599 --> 00:02:17,990
+gotten blocked on any of my own tests
+yet, but I'm also not trying anything
+
+128
+00:02:17,990 --> 00:02:18,000
+yet, but I'm also not trying anything
+ 
+
+129
+00:02:18,000 --> 00:02:20,150
+yet, but I'm also not trying anything
+that I feel like should get blocked. So,
+
+130
+00:02:20,150 --> 00:02:20,160
+that I feel like should get blocked. So,
+ 
+
+131
+00:02:20,160 --> 00:02:23,190
+that I feel like should get blocked. So,
+none of my benign requests are getting
+
+132
+00:02:23,190 --> 00:02:23,200
+none of my benign requests are getting
+ 
+
+133
+00:02:23,200 --> 00:02:24,869
+none of my benign requests are getting
+blocked. I mean, check out some of this
+
+134
+00:02:24,869 --> 00:02:24,879
+blocked. I mean, check out some of this
+ 
+
+135
+00:02:24,879 --> 00:02:26,390
+blocked. I mean, check out some of this
+stuff that I've been able to do here.
+
+136
+00:02:26,390 --> 00:02:26,400
+stuff that I've been able to do here.
+ 
+
+137
+00:02:26,400 --> 00:02:28,630
+stuff that I've been able to do here.
+It's still really good at making games.
+
+138
+00:02:28,630 --> 00:02:28,640
+It's still really good at making games.
+ 
+
+139
+00:02:28,640 --> 00:02:30,869
+It's still really good at making games.
+I made this whole Cube Basher game and
+
+140
+00:02:30,869 --> 00:02:30,879
+I made this whole Cube Basher game and
+ 
+
+141
+00:02:30,879 --> 00:02:33,030
+I made this whole Cube Basher game and
+actually continually improved it more
+
+142
+00:02:33,030 --> 00:02:33,040
+actually continually improved it more
+ 
+
+143
+00:02:33,040 --> 00:02:35,830
+actually continually improved it more
+and more. It's very much a Mega Bonk
+
+144
+00:02:35,830 --> 00:02:35,840
+and more. It's very much a Mega Bonk
+ 
+
+145
+00:02:35,840 --> 00:02:38,309
+and more. It's very much a Mega Bonk
+clone, but it works really well. And the
+
+146
+00:02:38,309 --> 00:02:38,319
+clone, but it works really well. And the
+ 
+
+147
+00:02:38,319 --> 00:02:40,470
+clone, but it works really well. And the
+graphics are surprisingly impressive.
+
+148
+00:02:40,470 --> 00:02:40,480
+graphics are surprisingly impressive.
+ 
+
+149
+00:02:40,480 --> 00:02:42,710
+graphics are surprisingly impressive.
+like I can change my camera angles and
+
+150
+00:02:42,710 --> 00:02:42,720
+like I can change my camera angles and
+ 
+
+151
+00:02:42,720 --> 00:02:44,470
+like I can change my camera angles and
+everything just looks good and works
+
+152
+00:02:44,470 --> 00:02:44,480
+everything just looks good and works
+ 
+
+153
+00:02:44,480 --> 00:02:46,550
+everything just looks good and works
+good. I also used Fable to completely
+
+154
+00:02:46,550 --> 00:02:46,560
+good. I also used Fable to completely
+ 
+
+155
+00:02:46,560 --> 00:02:48,949
+good. I also used Fable to completely
+build me a dashboard for creating short
+
+156
+00:02:48,949 --> 00:02:48,959
+build me a dashboard for creating short
+ 
+
+157
+00:02:48,959 --> 00:02:51,030
+build me a dashboard for creating short
+form videos. So I can come up here,
+
+158
+00:02:51,030 --> 00:02:51,040
+form videos. So I can come up here,
+ 
+
+159
+00:02:51,040 --> 00:02:53,030
+form videos. So I can come up here,
+click new short. I can give it a URL to
+
+160
+00:02:53,030 --> 00:02:53,040
+click new short. I can give it a URL to
+ 
+
+161
+00:02:53,040 --> 00:02:55,270
+click new short. I can give it a URL to
+an article. I can copy and paste text. I
+
+162
+00:02:55,270 --> 00:02:55,280
+an article. I can copy and paste text. I
+ 
+
+163
+00:02:55,280 --> 00:02:57,589
+an article. I can copy and paste text. I
+can drag and drop a file here. I can
+
+164
+00:02:57,589 --> 00:02:57,599
+can drag and drop a file here. I can
+ 
+
+165
+00:02:57,599 --> 00:02:59,509
+can drag and drop a file here. I can
+give it directions on how to steer the
+
+166
+00:02:59,509 --> 00:02:59,519
+give it directions on how to steer the
+ 
+
+167
+00:02:59,519 --> 00:03:01,750
+give it directions on how to steer the
+short. I can choose my target length. I
+
+168
+00:03:01,750 --> 00:03:01,760
+short. I can choose my target length. I
+ 
+
+169
+00:03:01,760 --> 00:03:03,110
+short. I can choose my target length. I
+can tell it whether this short is
+
+170
+00:03:03,110 --> 00:03:03,120
+can tell it whether this short is
+ 
+
+171
+00:03:03,120 --> 00:03:04,790
+can tell it whether this short is
+actually a promotion and give it details
+
+172
+00:03:04,790 --> 00:03:04,800
+actually a promotion and give it details
+ 
+
+173
+00:03:04,800 --> 00:03:07,190
+actually a promotion and give it details
+about the sponsor. I can tell it if this
+
+174
+00:03:07,190 --> 00:03:07,200
+about the sponsor. I can tell it if this
+ 
+
+175
+00:03:07,200 --> 00:03:09,670
+about the sponsor. I can tell it if this
+short includes an interview. And I can
+
+176
+00:03:09,670 --> 00:03:09,680
+short includes an interview. And I can
+ 
+
+177
+00:03:09,680 --> 00:03:11,990
+short includes an interview. And I can
+select any model I want for it to
+
+178
+00:03:11,990 --> 00:03:12,000
+select any model I want for it to
+ 
+
+179
+00:03:12,000 --> 00:03:13,830
+select any model I want for it to
+actually generate the script for this
+
+180
+00:03:13,830 --> 00:03:13,840
+actually generate the script for this
+ 
+
+181
+00:03:13,840 --> 00:03:15,589
+actually generate the script for this
+short width. It generates the whole
+
+182
+00:03:15,589 --> 00:03:15,599
+short width. It generates the whole
+ 
+
+183
+00:03:15,599 --> 00:03:16,949
+short width. It generates the whole
+script here. This one happens to be
+
+184
+00:03:16,949 --> 00:03:16,959
+script here. This one happens to be
+ 
+
+185
+00:03:16,959 --> 00:03:19,430
+script here. This one happens to be
+based on an interview. It fact checks a
+
+186
+00:03:19,430 --> 00:03:19,440
+based on an interview. It fact checks a
+ 
+
+187
+00:03:19,440 --> 00:03:21,030
+based on an interview. It fact checks a
+lot of what I say in this script to make
+
+188
+00:03:21,030 --> 00:03:21,040
+lot of what I say in this script to make
+ 
+
+189
+00:03:21,040 --> 00:03:22,390
+lot of what I say in this script to make
+sure that I'm not saying anything that's
+
+190
+00:03:22,390 --> 00:03:22,400
+sure that I'm not saying anything that's
+ 
+
+191
+00:03:22,400 --> 00:03:24,790
+sure that I'm not saying anything that's
+not true. I can give it feedback and it
+
+192
+00:03:24,790 --> 00:03:24,800
+not true. I can give it feedback and it
+ 
+
+193
+00:03:24,800 --> 00:03:26,790
+not true. I can give it feedback and it
+will optimize and edit the script for
+
+194
+00:03:26,790 --> 00:03:26,800
+will optimize and edit the script for
+ 
+
+195
+00:03:26,800 --> 00:03:28,949
+will optimize and edit the script for
+me. It has the formula that it used to
+
+196
+00:03:28,949 --> 00:03:28,959
+me. It has the formula that it used to
+ 
+
+197
+00:03:28,959 --> 00:03:30,869
+me. It has the formula that it used to
+write the script. I can export it as a
+
+198
+00:03:30,869 --> 00:03:30,879
+write the script. I can export it as a
+ 
+
+199
+00:03:30,879 --> 00:03:32,710
+write the script. I can export it as a
+doc so I can share it with my team. And
+
+200
+00:03:32,710 --> 00:03:32,720
+doc so I can share it with my team. And
+ 
+
+201
+00:03:32,720 --> 00:03:34,550
+doc so I can share it with my team. And
+it even built a teleprompter for me,
+
+202
+00:03:34,550 --> 00:03:34,560
+it even built a teleprompter for me,
+ 
+
+203
+00:03:34,560 --> 00:03:36,309
+it even built a teleprompter for me,
+which I don't really need cuz I've got a
+
+204
+00:03:36,309 --> 00:03:36,319
+which I don't really need cuz I've got a
+ 
+
+205
+00:03:36,319 --> 00:03:38,229
+which I don't really need cuz I've got a
+teleprompter. that it built one for me
+
+206
+00:03:38,229 --> 00:03:38,239
+teleprompter. that it built one for me
+ 
+
+207
+00:03:38,239 --> 00:03:40,070
+teleprompter. that it built one for me
+in here without me even asking it to.
+
+208
+00:03:40,070 --> 00:03:40,080
+in here without me even asking it to.
+ 
+
+209
+00:03:40,080 --> 00:03:41,670
+in here without me even asking it to.
+But then it also goes and generates
+
+210
+00:03:41,670 --> 00:03:41,680
+But then it also goes and generates
+ 
+
+211
+00:03:41,680 --> 00:03:43,750
+But then it also goes and generates
+B-roll for me. So if I click on B-roll
+
+212
+00:03:43,750 --> 00:03:43,760
+B-roll for me. So if I click on B-roll
+ 
+
+213
+00:03:43,760 --> 00:03:46,149
+B-roll for me. So if I click on B-roll
+here, it actually uses Remotion behind
+
+214
+00:03:46,149 --> 00:03:46,159
+here, it actually uses Remotion behind
+ 
+
+215
+00:03:46,159 --> 00:03:48,470
+here, it actually uses Remotion behind
+the scenes for the entire video,
+
+216
+00:03:48,470 --> 00:03:48,480
+the scenes for the entire video,
+ 
+
+217
+00:03:48,480 --> 00:03:50,470
+the scenes for the entire video,
+generates B-roll to go along with the
+
+218
+00:03:50,470 --> 00:03:50,480
+generates B-roll to go along with the
+ 
+
+219
+00:03:50,480 --> 00:03:53,270
+generates B-roll to go along with the
+script. So all I have to do is go and
+
+220
+00:03:53,270 --> 00:03:53,280
+script. So all I have to do is go and
+ 
+
+221
+00:03:53,280 --> 00:03:54,949
+script. So all I have to do is go and
+record the script that it gave me into
+
+222
+00:03:54,949 --> 00:03:54,959
+record the script that it gave me into
+ 
+
+223
+00:03:54,959 --> 00:03:56,789
+record the script that it gave me into
+my teleprompter here. And I have A-roll.
+
+224
+00:03:56,789 --> 00:03:56,799
+my teleprompter here. And I have A-roll.
+ 
+
+225
+00:03:56,799 --> 00:03:59,190
+my teleprompter here. And I have A-roll.
+I go and download the video clips that
+
+226
+00:03:59,190 --> 00:03:59,200
+I go and download the video clips that
+ 
+
+227
+00:03:59,200 --> 00:04:01,990
+I go and download the video clips that
+it generated for me here. And I overlay
+
+228
+00:04:01,990 --> 00:04:02,000
+it generated for me here. And I overlay
+ 
+
+229
+00:04:02,000 --> 00:04:04,710
+it generated for me here. And I overlay
+this video as B-roll over the A-roll
+
+230
+00:04:04,710 --> 00:04:04,720
+this video as B-roll over the A-roll
+ 
+
+231
+00:04:04,720 --> 00:04:06,390
+this video as B-roll over the A-roll
+that I recorded with my teleprompter.
+
+232
+00:04:06,390 --> 00:04:06,400
+that I recorded with my teleprompter.
+ 
+
+233
+00:04:06,400 --> 00:04:08,869
+that I recorded with my teleprompter.
+So, it pretty much does most of the work
+
+234
+00:04:08,869 --> 00:04:08,879
+So, it pretty much does most of the work
+ 
+
+235
+00:04:08,879 --> 00:04:11,030
+So, it pretty much does most of the work
+of generating shorts for me. Now, this
+
+236
+00:04:11,030 --> 00:04:11,040
+of generating shorts for me. Now, this
+ 
+
+237
+00:04:11,040 --> 00:04:12,630
+of generating shorts for me. Now, this
+isn't an app that I'm going to be
+
+238
+00:04:12,630 --> 00:04:12,640
+isn't an app that I'm going to be
+ 
+
+239
+00:04:12,640 --> 00:04:14,390
+isn't an app that I'm going to be
+sharing and making publicly available.
+
+240
+00:04:14,390 --> 00:04:14,400
+sharing and making publicly available.
+ 
+
+241
+00:04:14,400 --> 00:04:16,550
+sharing and making publicly available.
+And the main reason is I designed it so
+
+242
+00:04:16,550 --> 00:04:16,560
+And the main reason is I designed it so
+ 
+
+243
+00:04:16,560 --> 00:04:19,509
+And the main reason is I designed it so
+that it literally watches my shorts. It
+
+244
+00:04:19,509 --> 00:04:19,519
+that it literally watches my shorts. It
+ 
+
+245
+00:04:19,519 --> 00:04:20,710
+that it literally watches my shorts. It
+watches my Instagram reels and it
+
+246
+00:04:20,710 --> 00:04:20,720
+watches my Instagram reels and it
+ 
+
+247
+00:04:20,720 --> 00:04:22,390
+watches my Instagram reels and it
+watches my YouTube shorts, watches for
+
+248
+00:04:22,390 --> 00:04:22,400
+watches my YouTube shorts, watches for
+ 
+
+249
+00:04:22,400 --> 00:04:24,150
+watches my YouTube shorts, watches for
+which ones are performing well and get a
+
+250
+00:04:24,150 --> 00:04:24,160
+which ones are performing well and get a
+ 
+
+251
+00:04:24,160 --> 00:04:25,830
+which ones are performing well and get a
+lot of views and then constantly
+
+252
+00:04:25,830 --> 00:04:25,840
+lot of views and then constantly
+ 
+
+253
+00:04:25,840 --> 00:04:28,150
+lot of views and then constantly
+optimizes to make the scripts better and
+
+254
+00:04:28,150 --> 00:04:28,160
+optimizes to make the scripts better and
+ 
+
+255
+00:04:28,160 --> 00:04:30,550
+optimizes to make the scripts better and
+better based on what was working. Now, I
+
+256
+00:04:30,550 --> 00:04:30,560
+better based on what was working. Now, I
+ 
+
+257
+00:04:30,560 --> 00:04:32,469
+better based on what was working. Now, I
+haven't tested making any videos with
+
+258
+00:04:32,469 --> 00:04:32,479
+haven't tested making any videos with
+ 
+
+259
+00:04:32,479 --> 00:04:34,390
+haven't tested making any videos with
+this yet, but you get the idea here.
+
+260
+00:04:34,390 --> 00:04:34,400
+this yet, but you get the idea here.
+ 
+
+261
+00:04:34,400 --> 00:04:36,310
+this yet, but you get the idea here.
+makes the script. It makes the B-roll.
+
+262
+00:04:36,310 --> 00:04:36,320
+makes the script. It makes the B-roll.
+ 
+
+263
+00:04:36,320 --> 00:04:37,830
+makes the script. It makes the B-roll.
+Tells me where to put the B-roll. And
+
+264
+00:04:37,830 --> 00:04:37,840
+Tells me where to put the B-roll. And
+ 
+
+265
+00:04:37,840 --> 00:04:39,909
+Tells me where to put the B-roll. And
+once it's done all that, I can literally
+
+266
+00:04:39,909 --> 00:04:39,919
+once it's done all that, I can literally
+ 
+
+267
+00:04:39,919 --> 00:04:42,070
+once it's done all that, I can literally
+download each little video here by
+
+268
+00:04:42,070 --> 00:04:42,080
+download each little video here by
+ 
+
+269
+00:04:42,080 --> 00:04:43,510
+download each little video here by
+coming up to the top and clicking
+
+270
+00:04:43,510 --> 00:04:43,520
+coming up to the top and clicking
+ 
+
+271
+00:04:43,520 --> 00:04:45,990
+coming up to the top and clicking
+download all. And I can see exactly how
+
+272
+00:04:45,990 --> 00:04:46,000
+download all. And I can see exactly how
+ 
+
+273
+00:04:46,000 --> 00:04:47,990
+download all. And I can see exactly how
+this whole thing got produced. This is
+
+274
+00:04:47,990 --> 00:04:48,000
+this whole thing got produced. This is
+ 
+
+275
+00:04:48,000 --> 00:04:49,830
+this whole thing got produced. This is
+where my cost came from. So, I have an
+
+276
+00:04:49,830 --> 00:04:49,840
+where my cost came from. So, I have an
+ 
+
+277
+00:04:49,840 --> 00:04:52,150
+where my cost came from. So, I have an
+audit log of every single video that I
+
+278
+00:04:52,150 --> 00:04:52,160
+audit log of every single video that I
+ 
+
+279
+00:04:52,160 --> 00:04:53,909
+audit log of every single video that I
+make. This was built with Fable and it
+
+280
+00:04:53,909 --> 00:04:53,919
+make. This was built with Fable and it
+ 
+
+281
+00:04:53,919 --> 00:04:56,150
+make. This was built with Fable and it
+was built within the last 24 hours or so
+
+282
+00:04:56,150 --> 00:04:56,160
+was built within the last 24 hours or so
+ 
+
+283
+00:04:56,160 --> 00:04:57,749
+was built within the last 24 hours or so
+since this new version's been live. I
+
+284
+00:04:57,749 --> 00:04:57,759
+since this new version's been live. I
+ 
+
+285
+00:04:57,759 --> 00:04:59,030
+since this new version's been live. I
+also built this app that generates
+
+286
+00:04:59,030 --> 00:04:59,040
+also built this app that generates
+ 
+
+287
+00:04:59,040 --> 00:05:01,590
+also built this app that generates
+B-roll for me for long form videos. I
+
+288
+00:05:01,590 --> 00:05:01,600
+B-roll for me for long form videos. I
+ 
+
+289
+00:05:01,600 --> 00:05:03,510
+B-roll for me for long form videos. I
+basically plug in an article here. Like
+
+290
+00:05:03,510 --> 00:05:03,520
+basically plug in an article here. Like
+ 
+
+291
+00:05:03,520 --> 00:05:04,870
+basically plug in an article here. Like
+for instance, this article about
+
+292
+00:05:04,870 --> 00:05:04,880
+for instance, this article about
+ 
+
+293
+00:05:04,880 --> 00:05:06,950
+for instance, this article about
+redeploying Fable 5. Let's paste this in
+
+294
+00:05:06,950 --> 00:05:06,960
+redeploying Fable 5. Let's paste this in
+ 
+
+295
+00:05:06,960 --> 00:05:08,710
+redeploying Fable 5. Let's paste this in
+here. Open the article. And then I can
+
+296
+00:05:08,710 --> 00:05:08,720
+here. Open the article. And then I can
+ 
+
+297
+00:05:08,720 --> 00:05:10,550
+here. Open the article. And then I can
+do things like highlight sections of the
+
+298
+00:05:10,550 --> 00:05:10,560
+do things like highlight sections of the
+ 
+
+299
+00:05:10,560 --> 00:05:12,550
+do things like highlight sections of the
+article. Click save selection. Let's
+
+300
+00:05:12,550 --> 00:05:12,560
+article. Click save selection. Let's
+ 
+
+301
+00:05:12,560 --> 00:05:14,710
+article. Click save selection. Let's
+highlight this. Click save selection.
+
+302
+00:05:14,710 --> 00:05:14,720
+highlight this. Click save selection.
+ 
+
+303
+00:05:14,720 --> 00:05:16,070
+highlight this. Click save selection.
+And I'll go through and highlight a
+
+304
+00:05:16,070 --> 00:05:16,080
+And I'll go through and highlight a
+ 
+
+305
+00:05:16,080 --> 00:05:17,830
+And I'll go through and highlight a
+bunch of stuff. I can even come down
+
+306
+00:05:17,830 --> 00:05:17,840
+bunch of stuff. I can even come down
+ 
+
+307
+00:05:17,840 --> 00:05:20,230
+bunch of stuff. I can even come down
+here and pick images and highlight an
+
+308
+00:05:20,230 --> 00:05:20,240
+here and pick images and highlight an
+ 
+
+309
+00:05:20,240 --> 00:05:21,990
+here and pick images and highlight an
+image and save that to the selection.
+
+310
+00:05:21,990 --> 00:05:22,000
+image and save that to the selection.
+ 
+
+311
+00:05:22,000 --> 00:05:23,990
+image and save that to the selection.
+And then if I click capture page, it
+
+312
+00:05:23,990 --> 00:05:24,000
+And then if I click capture page, it
+ 
+
+313
+00:05:24,000 --> 00:05:25,909
+And then if I click capture page, it
+creates this video for me where it
+
+314
+00:05:25,909 --> 00:05:25,919
+creates this video for me where it
+ 
+
+315
+00:05:25,919 --> 00:05:27,990
+creates this video for me where it
+actually highlights the things that I
+
+316
+00:05:27,990 --> 00:05:28,000
+actually highlights the things that I
+ 
+
+317
+00:05:28,000 --> 00:05:29,990
+actually highlights the things that I
+selected when I was highlighting it
+
+318
+00:05:29,990 --> 00:05:30,000
+selected when I was highlighting it
+ 
+
+319
+00:05:30,000 --> 00:05:31,830
+selected when I was highlighting it
+originally, but it does it like in an
+
+320
+00:05:31,830 --> 00:05:31,840
+originally, but it does it like in an
+ 
+
+321
+00:05:31,840 --> 00:05:33,909
+originally, but it does it like in an
+animated form. So it goes through and
+
+322
+00:05:33,909 --> 00:05:33,919
+animated form. So it goes through and
+ 
+
+323
+00:05:33,919 --> 00:05:35,430
+animated form. So it goes through and
+all of the various sections, it's
+
+324
+00:05:35,430 --> 00:05:35,440
+all of the various sections, it's
+ 
+
+325
+00:05:35,440 --> 00:05:36,550
+all of the various sections, it's
+highlighting them. And you'll see the
+
+326
+00:05:36,550 --> 00:05:36,560
+highlighting them. And you'll see the
+ 
+
+327
+00:05:36,560 --> 00:05:38,310
+highlighting them. And you'll see the
+animation will scroll down the page and
+
+328
+00:05:38,310 --> 00:05:38,320
+animation will scroll down the page and
+ 
+
+329
+00:05:38,320 --> 00:05:40,230
+animation will scroll down the page and
+highlight various things. And then if I
+
+330
+00:05:40,230 --> 00:05:40,240
+highlight various things. And then if I
+ 
+
+331
+00:05:40,240 --> 00:05:41,990
+highlight various things. And then if I
+skip ahead in my video here, you'll
+
+332
+00:05:41,990 --> 00:05:42,000
+skip ahead in my video here, you'll
+ 
+
+333
+00:05:42,000 --> 00:05:43,749
+skip ahead in my video here, you'll
+notice that at the end I selected an
+
+334
+00:05:43,749 --> 00:05:43,759
+notice that at the end I selected an
+ 
+
+335
+00:05:43,759 --> 00:05:45,590
+notice that at the end I selected an
+image and it sort of like zooms in on
+
+336
+00:05:45,590 --> 00:05:45,600
+image and it sort of like zooms in on
+ 
+
+337
+00:05:45,600 --> 00:05:47,749
+image and it sort of like zooms in on
+that image. So, it allows me to talk
+
+338
+00:05:47,749 --> 00:05:47,759
+that image. So, it allows me to talk
+ 
+
+339
+00:05:47,759 --> 00:05:49,909
+that image. So, it allows me to talk
+about news articles, go and highlight
+
+340
+00:05:49,909 --> 00:05:49,919
+about news articles, go and highlight
+ 
+
+341
+00:05:49,919 --> 00:05:51,590
+about news articles, go and highlight
+different things on the news article,
+
+342
+00:05:51,590 --> 00:05:51,600
+different things on the news article,
+ 
+
+343
+00:05:51,600 --> 00:05:53,189
+different things on the news article,
+and then anything that I highlighted
+
+344
+00:05:53,189 --> 00:05:53,199
+and then anything that I highlighted
+ 
+
+345
+00:05:53,199 --> 00:05:55,670
+and then anything that I highlighted
+creates video B-roll for me that I can
+
+346
+00:05:55,670 --> 00:05:55,680
+creates video B-roll for me that I can
+ 
+
+347
+00:05:55,680 --> 00:05:57,749
+creates video B-roll for me that I can
+come up here and export. I built this
+
+348
+00:05:57,749 --> 00:05:57,759
+come up here and export. I built this
+ 
+
+349
+00:05:57,759 --> 00:05:59,510
+come up here and export. I built this
+with Fable, but probably my crowning
+
+350
+00:05:59,510 --> 00:05:59,520
+with Fable, but probably my crowning
+ 
+
+351
+00:05:59,520 --> 00:06:00,950
+with Fable, but probably my crowning
+achievement, the thing that I'm the
+
+352
+00:06:00,950 --> 00:06:00,960
+achievement, the thing that I'm the
+ 
+
+353
+00:06:00,960 --> 00:06:03,029
+achievement, the thing that I'm the
+absolute most excited to share with you
+
+354
+00:06:03,029 --> 00:06:03,039
+absolute most excited to share with you
+ 
+
+355
+00:06:03,039 --> 00:06:04,790
+absolute most excited to share with you
+is the brand new benchmark that I
+
+356
+00:06:04,790 --> 00:06:04,800
+is the brand new benchmark that I
+ 
+
+357
+00:06:04,800 --> 00:06:06,629
+is the brand new benchmark that I
+created. I teased it in my previous
+
+358
+00:06:06,629 --> 00:06:06,639
+created. I teased it in my previous
+ 
+
+359
+00:06:06,639 --> 00:06:08,870
+created. I teased it in my previous
+video called Beautybench. It's a
+
+360
+00:06:08,870 --> 00:06:08,880
+video called Beautybench. It's a
+ 
+
+361
+00:06:08,880 --> 00:06:11,350
+video called Beautybench. It's a
+benchmark to test how well the various
+
+362
+00:06:11,350 --> 00:06:11,360
+benchmark to test how well the various
+ 
+
+363
+00:06:11,360 --> 00:06:15,430
+benchmark to test how well the various
+AI models are at drawing SVG images of
+
+364
+00:06:15,430 --> 00:06:15,440
+AI models are at drawing SVG images of
+ 
+
+365
+00:06:15,440 --> 00:06:18,150
+AI models are at drawing SVG images of
+Gary Buucy. And it is so much fun to go
+
+366
+00:06:18,150 --> 00:06:18,160
+Gary Buucy. And it is so much fun to go
+ 
+
+367
+00:06:18,160 --> 00:06:21,430
+Gary Buucy. And it is so much fun to go
+through and see the evolution of how
+
+368
+00:06:21,430 --> 00:06:21,440
+through and see the evolution of how
+ 
+
+369
+00:06:21,440 --> 00:06:24,309
+through and see the evolution of how
+these models were able to draw SVGs. Now
+
+370
+00:06:24,309 --> 00:06:24,319
+these models were able to draw SVGs. Now
+ 
+
+371
+00:06:24,319 --> 00:06:26,629
+these models were able to draw SVGs. Now
+SVGs are not like an image generator
+
+372
+00:06:26,629 --> 00:06:26,639
+SVGs are not like an image generator
+ 
+
+373
+00:06:26,639 --> 00:06:28,710
+SVGs are not like an image generator
+like Nano Banana or Dolly or Stable
+
+374
+00:06:28,710 --> 00:06:28,720
+like Nano Banana or Dolly or Stable
+ 
+
+375
+00:06:28,720 --> 00:06:31,590
+like Nano Banana or Dolly or Stable
+Diffusion. It's actually using code to
+
+376
+00:06:31,590 --> 00:06:31,600
+Diffusion. It's actually using code to
+ 
+
+377
+00:06:31,600 --> 00:06:33,189
+Diffusion. It's actually using code to
+draw these. So, if we go all the way
+
+378
+00:06:33,189 --> 00:06:33,199
+draw these. So, if we go all the way
+ 
+
+379
+00:06:33,199 --> 00:06:37,270
+draw these. So, if we go all the way
+back to March 2023, this is what GPT 3.5
+
+380
+00:06:37,270 --> 00:06:37,280
+back to March 2023, this is what GPT 3.5
+ 
+
+381
+00:06:37,280 --> 00:06:39,350
+back to March 2023, this is what GPT 3.5
+Turbo thought that Gary Buucy looked
+
+382
+00:06:39,350 --> 00:06:39,360
+Turbo thought that Gary Buucy looked
+ 
+
+383
+00:06:39,360 --> 00:06:41,430
+Turbo thought that Gary Buucy looked
+like. This is roughly the model that the
+
+384
+00:06:41,430 --> 00:06:41,440
+like. This is roughly the model that the
+ 
+
+385
+00:06:41,440 --> 00:06:43,990
+like. This is roughly the model that the
+original Chat GPT was using. Chat GPT
+
+386
+00:06:43,990 --> 00:06:44,000
+original Chat GPT was using. Chat GPT
+ 
+
+387
+00:06:44,000 --> 00:06:46,550
+original Chat GPT was using. Chat GPT
+came out in November of 2022. So, this
+
+388
+00:06:46,550 --> 00:06:46,560
+came out in November of 2022. So, this
+ 
+
+389
+00:06:46,560 --> 00:06:48,550
+came out in November of 2022. So, this
+Turbo model is slightly more advanced
+
+390
+00:06:48,550 --> 00:06:48,560
+Turbo model is slightly more advanced
+ 
+
+391
+00:06:48,560 --> 00:06:51,029
+Turbo model is slightly more advanced
+than that, but it's roughly the original
+
+392
+00:06:51,029 --> 00:06:51,039
+than that, but it's roughly the original
+ 
+
+393
+00:06:51,039 --> 00:06:53,830
+than that, but it's roughly the original
+Chat GPT model. And then over time, you
+
+394
+00:06:53,830 --> 00:06:53,840
+Chat GPT model. And then over time, you
+ 
+
+395
+00:06:53,840 --> 00:06:56,710
+Chat GPT model. And then over time, you
+can kind of see how models evolved at
+
+396
+00:06:56,710 --> 00:06:56,720
+can kind of see how models evolved at
+ 
+
+397
+00:06:56,720 --> 00:06:58,950
+can kind of see how models evolved at
+being able to generate SVGs. And some
+
+398
+00:06:58,950 --> 00:06:58,960
+being able to generate SVGs. And some
+ 
+
+399
+00:06:58,960 --> 00:07:01,029
+being able to generate SVGs. And some
+models haven't evolved at all. But when
+
+400
+00:07:01,029 --> 00:07:01,039
+models haven't evolved at all. But when
+ 
+
+401
+00:07:01,039 --> 00:07:02,629
+models haven't evolved at all. But when
+we get up to the top here, you could
+
+402
+00:07:02,629 --> 00:07:02,639
+we get up to the top here, you could
+ 
+
+403
+00:07:02,639 --> 00:07:05,270
+we get up to the top here, you could
+actually see some pretty big jumps. So
+
+404
+00:07:05,270 --> 00:07:05,280
+actually see some pretty big jumps. So
+ 
+
+405
+00:07:05,280 --> 00:07:08,950
+actually see some pretty big jumps. So
+by February of 2026, Gemini 3.1 was
+
+406
+00:07:08,950 --> 00:07:08,960
+by February of 2026, Gemini 3.1 was
+ 
+
+407
+00:07:08,960 --> 00:07:11,270
+by February of 2026, Gemini 3.1 was
+drawing SVGs that looked like this and
+
+408
+00:07:11,270 --> 00:07:11,280
+drawing SVGs that looked like this and
+ 
+
+409
+00:07:11,280 --> 00:07:13,110
+drawing SVGs that looked like this and
+like this. Gros actually, for some
+
+410
+00:07:13,110 --> 00:07:13,120
+like this. Gros actually, for some
+ 
+
+411
+00:07:13,120 --> 00:07:14,950
+like this. Gros actually, for some
+reason, look more like doodles than they
+
+412
+00:07:14,950 --> 00:07:14,960
+reason, look more like doodles than they
+ 
+
+413
+00:07:14,960 --> 00:07:17,510
+reason, look more like doodles than they
+do sort of lines and circles that SVGs
+
+414
+00:07:17,510 --> 00:07:17,520
+do sort of lines and circles that SVGs
+ 
+
+415
+00:07:17,520 --> 00:07:20,070
+do sort of lines and circles that SVGs
+are known for. This entire benchmark and
+
+416
+00:07:20,070 --> 00:07:20,080
+are known for. This entire benchmark and
+ 
+
+417
+00:07:20,080 --> 00:07:22,629
+are known for. This entire benchmark and
+website I created using Fable. Here's
+
+418
+00:07:22,629 --> 00:07:22,639
+website I created using Fable. Here's
+ 
+
+419
+00:07:22,639 --> 00:07:25,830
+website I created using Fable. Here's
+what GPT 5.5 and 5.5 Pro think Gary
+
+420
+00:07:25,830 --> 00:07:25,840
+what GPT 5.5 and 5.5 Pro think Gary
+ 
+
+421
+00:07:25,840 --> 00:07:28,070
+what GPT 5.5 and 5.5 Pro think Gary
+Buucy looks like in SVG form. And here's
+
+422
+00:07:28,070 --> 00:07:28,080
+Buucy looks like in SVG form. And here's
+ 
+
+423
+00:07:28,080 --> 00:07:30,230
+Buucy looks like in SVG form. And here's
+what Fable thinks that Gary Buucy looks
+
+424
+00:07:30,230 --> 00:07:30,240
+what Fable thinks that Gary Buucy looks
+ 
+
+425
+00:07:30,240 --> 00:07:32,710
+what Fable thinks that Gary Buucy looks
+like in SVG form. I'm partial to this
+
+426
+00:07:32,710 --> 00:07:32,720
+like in SVG form. I'm partial to this
+ 
+
+427
+00:07:32,720 --> 00:07:34,950
+like in SVG form. I'm partial to this
+Fugu model here, but I also made it so
+
+428
+00:07:34,950 --> 00:07:34,960
+Fugu model here, but I also made it so
+ 
+
+429
+00:07:34,960 --> 00:07:37,510
+Fugu model here, but I also made it so
+you can sort by cost, highest to lowest.
+
+430
+00:07:37,510 --> 00:07:37,520
+you can sort by cost, highest to lowest.
+ 
+
+431
+00:07:37,520 --> 00:07:41,830
+you can sort by cost, highest to lowest.
+So, GPT 5.5, it cost me $4 to generate
+
+432
+00:07:41,830 --> 00:07:41,840
+So, GPT 5.5, it cost me $4 to generate
+ 
+
+433
+00:07:41,840 --> 00:07:46,629
+So, GPT 5.5, it cost me $4 to generate
+this SVG with 5.5 Pro. 01 Pro cost me $3
+
+434
+00:07:46,629 --> 00:07:46,639
+this SVG with 5.5 Pro. 01 Pro cost me $3
+ 
+
+435
+00:07:46,639 --> 00:07:49,270
+this SVG with 5.5 Pro. 01 Pro cost me $3
+to generate that. We can sort by tokens
+
+436
+00:07:49,270 --> 00:07:49,280
+to generate that. We can sort by tokens
+ 
+
+437
+00:07:49,280 --> 00:07:51,189
+to generate that. We can sort by tokens
+used, which ones used the most tokens.
+
+438
+00:07:51,189 --> 00:07:51,199
+used, which ones used the most tokens.
+ 
+
+439
+00:07:51,199 --> 00:07:54,550
+used, which ones used the most tokens.
+Grock 420 used 106,000 tokens to get me
+
+440
+00:07:54,550 --> 00:07:54,560
+Grock 420 used 106,000 tokens to get me
+ 
+
+441
+00:07:54,560 --> 00:07:56,550
+Grock 420 used 106,000 tokens to get me
+this. We could sort by run duration.
+
+442
+00:07:56,550 --> 00:07:56,560
+this. We could sort by run duration.
+ 
+
+443
+00:07:56,560 --> 00:07:58,309
+this. We could sort by run duration.
+Which one took the longest to generate?
+
+444
+00:07:58,309 --> 00:07:58,319
+Which one took the longest to generate?
+ 
+
+445
+00:07:58,319 --> 00:08:02,070
+Which one took the longest to generate?
+GLM 5.1 took 6 minutes and 50 seconds to
+
+446
+00:08:02,070 --> 00:08:02,080
+GLM 5.1 took 6 minutes and 50 seconds to
+ 
+
+447
+00:08:02,080 --> 00:08:04,790
+GLM 5.1 took 6 minutes and 50 seconds to
+generate this SVG here. I also built a
+
+448
+00:08:04,790 --> 00:08:04,800
+generate this SVG here. I also built a
+ 
+
+449
+00:08:04,800 --> 00:08:06,950
+generate this SVG here. I also built a
+timeline page. So you can pick any sort
+
+450
+00:08:06,950 --> 00:08:06,960
+timeline page. So you can pick any sort
+ 
+
+451
+00:08:06,960 --> 00:08:08,950
+timeline page. So you can pick any sort
+of model provider here and see the
+
+452
+00:08:08,950 --> 00:08:08,960
+of model provider here and see the
+ 
+
+453
+00:08:08,960 --> 00:08:10,710
+of model provider here and see the
+evolution. So if I click on OpenAI,
+
+454
+00:08:10,710 --> 00:08:10,720
+evolution. So if I click on OpenAI,
+ 
+
+455
+00:08:10,720 --> 00:08:12,390
+evolution. So if I click on OpenAI,
+it'll filter it down. And we can see it
+
+456
+00:08:12,390 --> 00:08:12,400
+it'll filter it down. And we can see it
+ 
+
+457
+00:08:12,400 --> 00:08:15,189
+it'll filter it down. And we can see it
+starts here with GPT 3.5 Turbo. And over
+
+458
+00:08:15,189 --> 00:08:15,199
+starts here with GPT 3.5 Turbo. And over
+ 
+
+459
+00:08:15,199 --> 00:08:17,510
+starts here with GPT 3.5 Turbo. And over
+time, you can see the improvements that
+
+460
+00:08:17,510 --> 00:08:17,520
+time, you can see the improvements that
+ 
+
+461
+00:08:17,520 --> 00:08:20,150
+time, you can see the improvements that
+the OpenAI models have done at making
+
+462
+00:08:20,150 --> 00:08:20,160
+the OpenAI models have done at making
+ 
+
+463
+00:08:20,160 --> 00:08:23,110
+the OpenAI models have done at making
+these SVG images all the way up until we
+
+464
+00:08:23,110 --> 00:08:23,120
+these SVG images all the way up until we
+ 
+
+465
+00:08:23,120 --> 00:08:26,309
+these SVG images all the way up until we
+get to GPT 5.5 and 5.5 Pro. So, this is
+
+466
+00:08:26,309 --> 00:08:26,319
+get to GPT 5.5 and 5.5 Pro. So, this is
+ 
+
+467
+00:08:26,319 --> 00:08:28,710
+get to GPT 5.5 and 5.5 Pro. So, this is
+the SVG of today. Well, you know, the
+
+468
+00:08:28,710 --> 00:08:28,720
+the SVG of today. Well, you know, the
+ 
+
+469
+00:08:28,720 --> 00:08:30,390
+the SVG of today. Well, you know, the
+latest model that came out in April of
+
+470
+00:08:30,390 --> 00:08:30,400
+latest model that came out in April of
+ 
+
+471
+00:08:30,400 --> 00:08:33,670
+latest model that came out in April of
+2026 versus what the original chat GPT
+
+472
+00:08:33,670 --> 00:08:33,680
+2026 versus what the original chat GPT
+ 
+
+473
+00:08:33,680 --> 00:08:35,029
+2026 versus what the original chat GPT
+would have generated. I think my
+
+474
+00:08:35,029 --> 00:08:35,039
+would have generated. I think my
+ 
+
+475
+00:08:35,039 --> 00:08:36,949
+would have generated. I think my
+favorite one to look at is Meta cuz
+
+476
+00:08:36,949 --> 00:08:36,959
+favorite one to look at is Meta cuz
+ 
+
+477
+00:08:36,959 --> 00:08:39,509
+favorite one to look at is Meta cuz
+well, they just kind of never figured it
+
+478
+00:08:39,509 --> 00:08:39,519
+well, they just kind of never figured it
+ 
+
+479
+00:08:39,519 --> 00:08:41,589
+well, they just kind of never figured it
+out. Although, I really like this image
+
+480
+00:08:41,589 --> 00:08:41,599
+out. Although, I really like this image
+ 
+
+481
+00:08:41,599 --> 00:08:43,750
+out. Although, I really like this image
+here that Quinn generated, and it cost a
+
+482
+00:08:43,750 --> 00:08:43,760
+here that Quinn generated, and it cost a
+ 
+
+483
+00:08:43,760 --> 00:08:45,269
+here that Quinn generated, and it cost a
+little over two cents to make. And while
+
+484
+00:08:45,269 --> 00:08:45,279
+little over two cents to make. And while
+ 
+
+485
+00:08:45,279 --> 00:08:46,630
+little over two cents to make. And while
+I was at it, I figured I might as well
+
+486
+00:08:46,630 --> 00:08:46,640
+I was at it, I figured I might as well
+ 
+
+487
+00:08:46,640 --> 00:08:48,389
+I was at it, I figured I might as well
+plug in the image generators as well.
+
+488
+00:08:48,389 --> 00:08:48,399
+plug in the image generators as well.
+ 
+
+489
+00:08:48,399 --> 00:08:50,870
+plug in the image generators as well.
+This one isn't as built out as the SVGs,
+
+490
+00:08:50,870 --> 00:08:50,880
+This one isn't as built out as the SVGs,
+ 
+
+491
+00:08:50,880 --> 00:08:52,630
+This one isn't as built out as the SVGs,
+but we can see how the various image
+
+492
+00:08:52,630 --> 00:08:52,640
+but we can see how the various image
+ 
+
+493
+00:08:52,640 --> 00:08:54,470
+but we can see how the various image
+generators have evolved over time.
+
+494
+00:08:54,470 --> 00:08:54,480
+generators have evolved over time.
+ 
+
+495
+00:08:54,480 --> 00:08:56,310
+generators have evolved over time.
+Starting with MidJourney V1, which came
+
+496
+00:08:56,310 --> 00:08:56,320
+Starting with MidJourney V1, which came
+ 
+
+497
+00:08:56,320 --> 00:08:59,269
+Starting with MidJourney V1, which came
+out in February of 2022, all the way to
+
+498
+00:08:59,269 --> 00:08:59,279
+out in February of 2022, all the way to
+ 
+
+499
+00:08:59,279 --> 00:09:01,590
+out in February of 2022, all the way to
+what we're getting now from Nano Banana
+
+500
+00:09:01,590 --> 00:09:01,600
+what we're getting now from Nano Banana
+ 
+
+501
+00:09:01,600 --> 00:09:04,470
+what we're getting now from Nano Banana
+2 Light and GPT Image 2, which I think
+
+502
+00:09:04,470 --> 00:09:04,480
+2 Light and GPT Image 2, which I think
+ 
+
+503
+00:09:04,480 --> 00:09:06,310
+2 Light and GPT Image 2, which I think
+is currently probably the winner. But
+
+504
+00:09:06,310 --> 00:09:06,320
+is currently probably the winner. But
+ 
+
+505
+00:09:06,320 --> 00:09:08,150
+is currently probably the winner. But
+again, there's a lot of models I haven't
+
+506
+00:09:08,150 --> 00:09:08,160
+again, there's a lot of models I haven't
+ 
+
+507
+00:09:08,160 --> 00:09:10,150
+again, there's a lot of models I haven't
+added in here yet. We've still got like
+
+508
+00:09:10,150 --> 00:09:10,160
+added in here yet. We've still got like
+ 
+
+509
+00:09:10,160 --> 00:09:12,470
+added in here yet. We've still got like
+Crea models, ideoggram models, stable
+
+510
+00:09:12,470 --> 00:09:12,480
+Crea models, ideoggram models, stable
+ 
+
+511
+00:09:12,480 --> 00:09:14,310
+Crea models, ideoggram models, stable
+diffusion models. So, this one isn't
+
+512
+00:09:14,310 --> 00:09:14,320
+diffusion models. So, this one isn't
+ 
+
+513
+00:09:14,320 --> 00:09:17,190
+diffusion models. So, this one isn't
+quite as fleshed out as my uh Buy Bench
+
+514
+00:09:17,190 --> 00:09:17,200
+quite as fleshed out as my uh Buy Bench
+ 
+
+515
+00:09:17,200 --> 00:09:19,430
+quite as fleshed out as my uh Buy Bench
+SVG test here. Why did I make Buucy
+
+516
+00:09:19,430 --> 00:09:19,440
+SVG test here. Why did I make Buucy
+ 
+
+517
+00:09:19,440 --> 00:09:20,949
+SVG test here. Why did I make Buucy
+Bench? Not because I thought the world
+
+518
+00:09:20,949 --> 00:09:20,959
+Bench? Not because I thought the world
+ 
+
+519
+00:09:20,959 --> 00:09:22,710
+Bench? Not because I thought the world
+needed it, but because it was just so
+
+520
+00:09:22,710 --> 00:09:22,720
+needed it, but because it was just so
+ 
+
+521
+00:09:22,720 --> 00:09:24,470
+needed it, but because it was just so
+much fun to make. Like, I was just
+
+522
+00:09:24,470 --> 00:09:24,480
+much fun to make. Like, I was just
+ 
+
+523
+00:09:24,480 --> 00:09:26,070
+much fun to make. Like, I was just
+playing with Fable and adding features
+
+524
+00:09:26,070 --> 00:09:26,080
+playing with Fable and adding features
+ 
+
+525
+00:09:26,080 --> 00:09:28,550
+playing with Fable and adding features
+and testing new models. And I used Open
+
+526
+00:09:28,550 --> 00:09:28,560
+and testing new models. And I used Open
+ 
+
+527
+00:09:28,560 --> 00:09:30,870
+and testing new models. And I used Open
+Router to go and just bulk generate with
+
+528
+00:09:30,870 --> 00:09:30,880
+Router to go and just bulk generate with
+ 
+
+529
+00:09:30,880 --> 00:09:32,389
+Router to go and just bulk generate with
+tons and tons and tons of different
+
+530
+00:09:32,389 --> 00:09:32,399
+tons and tons and tons of different
+ 
+
+531
+00:09:32,399 --> 00:09:35,269
+tons and tons and tons of different
+models. And I lost, you know, 2 days of
+
+532
+00:09:35,269 --> 00:09:35,279
+models. And I lost, you know, 2 days of
+ 
+
+533
+00:09:35,279 --> 00:09:37,030
+models. And I lost, you know, 2 days of
+my life building beauty bench just
+
+534
+00:09:37,030 --> 00:09:37,040
+my life building beauty bench just
+ 
+
+535
+00:09:37,040 --> 00:09:39,110
+my life building beauty bench just
+because I was having a lot of fun. And
+
+536
+00:09:39,110 --> 00:09:39,120
+because I was having a lot of fun. And
+ 
+
+537
+00:09:39,120 --> 00:09:41,590
+because I was having a lot of fun. And
+sometimes just having fun with these AI
+
+538
+00:09:41,590 --> 00:09:41,600
+sometimes just having fun with these AI
+ 
+
+539
+00:09:41,600 --> 00:09:44,310
+sometimes just having fun with these AI
+models is uh a good use of time. Like
+
+540
+00:09:44,310 --> 00:09:44,320
+models is uh a good use of time. Like
+ 
+
+541
+00:09:44,320 --> 00:09:46,550
+models is uh a good use of time. Like
+what do they say? Time you enjoy wasting
+
+542
+00:09:46,550 --> 00:09:46,560
+what do they say? Time you enjoy wasting
+ 
+
+543
+00:09:46,560 --> 00:09:48,710
+what do they say? Time you enjoy wasting
+is not wasted time or something like
+
+544
+00:09:48,710 --> 00:09:48,720
+is not wasted time or something like
+ 
+
+545
+00:09:48,720 --> 00:09:50,470
+is not wasted time or something like
+that. That's why I built beauty bench.
+
+546
+00:09:50,470 --> 00:09:50,480
+that. That's why I built beauty bench.
+ 
+
+547
+00:09:50,480 --> 00:09:52,389
+that. That's why I built beauty bench.
+But if I'm being honest, I actually
+
+548
+00:09:52,389 --> 00:09:52,399
+But if I'm being honest, I actually
+ 
+
+549
+00:09:52,399 --> 00:09:55,829
+But if I'm being honest, I actually
+think it's a fairly legit show of how
+
+550
+00:09:55,829 --> 00:09:55,839
+think it's a fairly legit show of how
+ 
+
+551
+00:09:55,839 --> 00:09:57,910
+think it's a fairly legit show of how
+these models are improving. It's
+
+552
+00:09:57,910 --> 00:09:57,920
+these models are improving. It's
+ 
+
+553
+00:09:57,920 --> 00:09:59,910
+these models are improving. It's
+basically showing us, is this model
+
+554
+00:09:59,910 --> 00:09:59,920
+basically showing us, is this model
+ 
+
+555
+00:09:59,920 --> 00:10:02,550
+basically showing us, is this model
+decent at writing code that can look
+
+556
+00:10:02,550 --> 00:10:02,560
+decent at writing code that can look
+ 
+
+557
+00:10:02,560 --> 00:10:05,509
+decent at writing code that can look
+like faces? And you can definitely see a
+
+558
+00:10:05,509 --> 00:10:05,519
+like faces? And you can definitely see a
+ 
+
+559
+00:10:05,519 --> 00:10:08,230
+like faces? And you can definitely see a
+very clear progression over time that
+
+560
+00:10:08,230 --> 00:10:08,240
+very clear progression over time that
+ 
+
+561
+00:10:08,240 --> 00:10:10,150
+very clear progression over time that
+gives you an idea of how these models
+
+562
+00:10:10,150 --> 00:10:10,160
+gives you an idea of how these models
+ 
+
+563
+00:10:10,160 --> 00:10:11,910
+gives you an idea of how these models
+are improving. But man, has it been fun
+
+564
+00:10:11,910 --> 00:10:11,920
+are improving. But man, has it been fun
+ 
+
+565
+00:10:11,920 --> 00:10:13,990
+are improving. But man, has it been fun
+to make. Anyway, back to Fable 5 here.
+
+566
+00:10:13,990 --> 00:10:14,000
+to make. Anyway, back to Fable 5 here.
+ 
+
+567
+00:10:14,000 --> 00:10:15,990
+to make. Anyway, back to Fable 5 here.
+One thing that is very important to note
+
+568
+00:10:15,990 --> 00:10:16,000
+One thing that is very important to note
+ 
+
+569
+00:10:16,000 --> 00:10:17,750
+One thing that is very important to note
+is that if you're on one of the paid
+
+570
+00:10:17,750 --> 00:10:17,760
+is that if you're on one of the paid
+ 
+
+571
+00:10:17,760 --> 00:10:20,230
+is that if you're on one of the paid
+plans, you get access to Fable 5, but
+
+572
+00:10:20,230 --> 00:10:20,240
+plans, you get access to Fable 5, but
+ 
+
+573
+00:10:20,240 --> 00:10:23,110
+plans, you get access to Fable 5, but
+only through July 7th. So, by the time
+
+574
+00:10:23,110 --> 00:10:23,120
+only through July 7th. So, by the time
+ 
+
+575
+00:10:23,120 --> 00:10:24,870
+only through July 7th. So, by the time
+you're watching this, you probably only
+
+576
+00:10:24,870 --> 00:10:24,880
+you're watching this, you probably only
+ 
+
+577
+00:10:24,880 --> 00:10:27,430
+you're watching this, you probably only
+have like a couple days left to get in
+
+578
+00:10:27,430 --> 00:10:27,440
+have like a couple days left to get in
+ 
+
+579
+00:10:27,440 --> 00:10:30,230
+have like a couple days left to get in
+and use Fable as much as you can on your
+
+580
+00:10:30,230 --> 00:10:30,240
+and use Fable as much as you can on your
+ 
+
+581
+00:10:30,240 --> 00:10:32,150
+and use Fable as much as you can on your
+current account. After that, it's going
+
+582
+00:10:32,150 --> 00:10:32,160
+current account. After that, it's going
+ 
+
+583
+00:10:32,160 --> 00:10:34,790
+current account. After that, it's going
+to be available via usage credits.
+
+584
+00:10:34,790 --> 00:10:34,800
+to be available via usage credits.
+ 
+
+585
+00:10:34,800 --> 00:10:36,710
+to be available via usage credits.
+You're going to have to pay extra on top
+
+586
+00:10:36,710 --> 00:10:36,720
+You're going to have to pay extra on top
+ 
+
+587
+00:10:36,720 --> 00:10:38,710
+You're going to have to pay extra on top
+of your existing plan in order to get
+
+588
+00:10:38,710 --> 00:10:38,720
+of your existing plan in order to get
+ 
+
+589
+00:10:38,720 --> 00:10:40,470
+of your existing plan in order to get
+access to Fable. So, they're not giving
+
+590
+00:10:40,470 --> 00:10:40,480
+access to Fable. So, they're not giving
+ 
+
+591
+00:10:40,480 --> 00:10:43,110
+access to Fable. So, they're not giving
+us a huge window to use this. So any big
+
+592
+00:10:43,110 --> 00:10:43,120
+us a huge window to use this. So any big
+ 
+
+593
+00:10:43,120 --> 00:10:44,949
+us a huge window to use this. So any big
+projects that you have in mind, it's
+
+594
+00:10:44,949 --> 00:10:44,959
+projects that you have in mind, it's
+ 
+
+595
+00:10:44,959 --> 00:10:46,389
+projects that you have in mind, it's
+probably a good idea to give them to
+
+596
+00:10:46,389 --> 00:10:46,399
+probably a good idea to give them to
+ 
+
+597
+00:10:46,399 --> 00:10:48,550
+probably a good idea to give them to
+Fable, have Fable work on them and do
+
+598
+00:10:48,550 --> 00:10:48,560
+Fable, have Fable work on them and do
+ 
+
+599
+00:10:48,560 --> 00:10:50,550
+Fable, have Fable work on them and do
+like the bulk of the work now and then
+
+600
+00:10:50,550 --> 00:10:50,560
+like the bulk of the work now and then
+ 
+
+601
+00:10:50,560 --> 00:10:52,389
+like the bulk of the work now and then
+when you lose access to Fable, go back
+
+602
+00:10:52,389 --> 00:10:52,399
+when you lose access to Fable, go back
+ 
+
+603
+00:10:52,399 --> 00:10:54,389
+when you lose access to Fable, go back
+to your favorite model of before, you
+
+604
+00:10:54,389 --> 00:10:54,399
+to your favorite model of before, you
+ 
+
+605
+00:10:54,399 --> 00:10:57,190
+to your favorite model of before, you
+know, one of the Opus models or GPT 5.5
+
+606
+00:10:57,190 --> 00:10:57,200
+know, one of the Opus models or GPT 5.5
+ 
+
+607
+00:10:57,200 --> 00:10:59,110
+know, one of the Opus models or GPT 5.5
+and let it make the more incremental
+
+608
+00:10:59,110 --> 00:10:59,120
+and let it make the more incremental
+ 
+
+609
+00:10:59,120 --> 00:11:01,350
+and let it make the more incremental
+improvements, but let Fable do like the
+
+610
+00:11:01,350 --> 00:11:01,360
+improvements, but let Fable do like the
+ 
+
+611
+00:11:01,360 --> 00:11:03,269
+improvements, but let Fable do like the
+big portion of the work now. Anyway,
+
+612
+00:11:03,269 --> 00:11:03,279
+big portion of the work now. Anyway,
+ 
+
+613
+00:11:03,279 --> 00:11:04,550
+big portion of the work now. Anyway,
+that's what I'm doing with a lot of my
+
+614
+00:11:04,550 --> 00:11:04,560
+that's what I'm doing with a lot of my
+ 
+
+615
+00:11:04,560 --> 00:11:05,910
+that's what I'm doing with a lot of my
+projects that have been on my list.
+
+616
+00:11:05,910 --> 00:11:05,920
+projects that have been on my list.
+ 
+
+617
+00:11:05,920 --> 00:11:07,670
+projects that have been on my list.
+Another cool AI product I've heard a lot
+
+618
+00:11:07,670 --> 00:11:07,680
+Another cool AI product I've heard a lot
+ 
+
+619
+00:11:07,680 --> 00:11:09,750
+Another cool AI product I've heard a lot
+about lately is GenSpark. And it's
+
+620
+00:11:09,750 --> 00:11:09,760
+about lately is GenSpark. And it's
+ 
+
+621
+00:11:09,760 --> 00:11:11,670
+about lately is GenSpark. And it's
+basically an all-in-one AI workspace
+
+622
+00:11:11,670 --> 00:11:11,680
+basically an all-in-one AI workspace
+ 
+
+623
+00:11:11,680 --> 00:11:13,910
+basically an all-in-one AI workspace
+that brings together a bunch of top AI
+
+624
+00:11:13,910 --> 00:11:13,920
+that brings together a bunch of top AI
+ 
+
+625
+00:11:13,920 --> 00:11:15,910
+that brings together a bunch of top AI
+models and productivity tools into a
+
+626
+00:11:15,910 --> 00:11:15,920
+models and productivity tools into a
+ 
+
+627
+00:11:15,920 --> 00:11:17,750
+models and productivity tools into a
+single platform. And one of their newest
+
+628
+00:11:17,750 --> 00:11:17,760
+single platform. And one of their newest
+ 
+
+629
+00:11:17,760 --> 00:11:20,710
+single platform. And one of their newest
+features is called GenSpark Claw. It's
+
+630
+00:11:20,710 --> 00:11:20,720
+features is called GenSpark Claw. It's
+ 
+
+631
+00:11:20,720 --> 00:11:22,389
+features is called GenSpark Claw. It's
+basically a readytouse version of
+
+632
+00:11:22,389 --> 00:11:22,399
+basically a readytouse version of
+ 
+
+633
+00:11:22,399 --> 00:11:24,710
+basically a readytouse version of
+OpenClaw that runs in the cloud. You can
+
+634
+00:11:24,710 --> 00:11:24,720
+OpenClaw that runs in the cloud. You can
+ 
+
+635
+00:11:24,720 --> 00:11:26,790
+OpenClaw that runs in the cloud. You can
+connect it to tools like Slack, Teams,
+
+636
+00:11:26,790 --> 00:11:26,800
+connect it to tools like Slack, Teams,
+ 
+
+637
+00:11:26,800 --> 00:11:28,630
+connect it to tools like Slack, Teams,
+WhatsApp, Telegram, and more, and then
+
+638
+00:11:28,630 --> 00:11:28,640
+WhatsApp, Telegram, and more, and then
+ 
+
+639
+00:11:28,640 --> 00:11:30,790
+WhatsApp, Telegram, and more, and then
+just tell it to do tasks for you. They
+
+640
+00:11:30,790 --> 00:11:30,800
+just tell it to do tasks for you. They
+ 
+
+641
+00:11:30,800 --> 00:11:32,310
+just tell it to do tasks for you. They
+also have a desktop version that can
+
+642
+00:11:32,310 --> 00:11:32,320
+also have a desktop version that can
+ 
+
+643
+00:11:32,320 --> 00:11:34,069
+also have a desktop version that can
+actually interact with files on your
+
+644
+00:11:34,069 --> 00:11:34,079
+actually interact with files on your
+ 
+
+645
+00:11:34,079 --> 00:11:36,150
+actually interact with files on your
+computer and navigate the web on your
+
+646
+00:11:36,150 --> 00:11:36,160
+computer and navigate the web on your
+ 
+
+647
+00:11:36,160 --> 00:11:37,750
+computer and navigate the web on your
+behalf. Another feature I thought was
+
+648
+00:11:37,750 --> 00:11:37,760
+behalf. Another feature I thought was
+ 
+
+649
+00:11:37,760 --> 00:11:39,750
+behalf. Another feature I thought was
+really interesting is their upgraded AI
+
+650
+00:11:39,750 --> 00:11:39,760
+really interesting is their upgraded AI
+ 
+
+651
+00:11:39,760 --> 00:11:42,310
+really interesting is their upgraded AI
+office suite. They've got AI slides, AI
+
+652
+00:11:42,310 --> 00:11:42,320
+office suite. They've got AI slides, AI
+ 
+
+653
+00:11:42,320 --> 00:11:44,949
+office suite. They've got AI slides, AI
+sheets, and AI docs. For presentations,
+
+654
+00:11:44,949 --> 00:11:44,959
+sheets, and AI docs. For presentations,
+ 
+
+655
+00:11:44,959 --> 00:11:47,110
+sheets, and AI docs. For presentations,
+there's this new guide mode that asks
+
+656
+00:11:47,110 --> 00:11:47,120
+there's this new guide mode that asks
+ 
+
+657
+00:11:47,120 --> 00:11:49,030
+there's this new guide mode that asks
+questions before building your deck. And
+
+658
+00:11:49,030 --> 00:11:49,040
+questions before building your deck. And
+ 
+
+659
+00:11:49,040 --> 00:11:50,470
+questions before building your deck. And
+if you want to change something, you can
+
+660
+00:11:50,470 --> 00:11:50,480
+if you want to change something, you can
+ 
+
+661
+00:11:50,480 --> 00:11:52,230
+if you want to change something, you can
+literally click on an element and tell
+
+662
+00:11:52,230 --> 00:11:52,240
+literally click on an element and tell
+ 
+
+663
+00:11:52,240 --> 00:11:54,230
+literally click on an element and tell
+it what to edit while keeping the rest
+
+664
+00:11:54,230 --> 00:11:54,240
+it what to edit while keeping the rest
+ 
+
+665
+00:11:54,240 --> 00:11:56,310
+it what to edit while keeping the rest
+of the presentation consistent. The AI
+
+666
+00:11:56,310 --> 00:11:56,320
+of the presentation consistent. The AI
+ 
+
+667
+00:11:56,320 --> 00:11:58,069
+of the presentation consistent. The AI
+sheets can pull data from spreadsheets,
+
+668
+00:11:58,069 --> 00:11:58,079
+sheets can pull data from spreadsheets,
+ 
+
+669
+00:11:58,079 --> 00:12:00,389
+sheets can pull data from spreadsheets,
+databases, or online and automatically
+
+670
+00:12:00,389 --> 00:12:00,399
+databases, or online and automatically
+ 
+
+671
+00:12:00,399 --> 00:12:01,910
+databases, or online and automatically
+generate formulas, charts, and
+
+672
+00:12:01,910 --> 00:12:01,920
+generate formulas, charts, and
+ 
+
+673
+00:12:01,920 --> 00:12:04,630
+generate formulas, charts, and
+visualizations for you. And AI docs can
+
+674
+00:12:04,630 --> 00:12:04,640
+visualizations for you. And AI docs can
+ 
+
+675
+00:12:04,640 --> 00:12:06,870
+visualizations for you. And AI docs can
+turn pretty much any word dump into a
+
+676
+00:12:06,870 --> 00:12:06,880
+turn pretty much any word dump into a
+ 
+
+677
+00:12:06,880 --> 00:12:08,550
+turn pretty much any word dump into a
+polished, professionally formatted
+
+678
+00:12:08,550 --> 00:12:08,560
+polished, professionally formatted
+ 
+
+679
+00:12:08,560 --> 00:12:10,710
+polished, professionally formatted
+document. Paid users currently get
+
+680
+00:12:10,710 --> 00:12:10,720
+document. Paid users currently get
+ 
+
+681
+00:12:10,720 --> 00:12:13,110
+document. Paid users currently get
+unlimited AI chat and AI image
+
+682
+00:12:13,110 --> 00:12:13,120
+unlimited AI chat and AI image
+ 
+
+683
+00:12:13,120 --> 00:12:16,069
+unlimited AI chat and AI image
+generation throughout 2026, subject to
+
+684
+00:12:16,069 --> 00:12:16,079
+generation throughout 2026, subject to
+ 
+
+685
+00:12:16,079 --> 00:12:18,069
+generation throughout 2026, subject to
+abuse and guard rails, of course. And
+
+686
+00:12:18,069 --> 00:12:18,079
+abuse and guard rails, of course. And
+ 
+
+687
+00:12:18,079 --> 00:12:20,230
+abuse and guard rails, of course. And
+they're also doing a get started bonus
+
+688
+00:12:20,230 --> 00:12:20,240
+they're also doing a get started bonus
+ 
+
+689
+00:12:20,240 --> 00:12:22,310
+they're also doing a get started bonus
+where new users can try their premium
+
+690
+00:12:22,310 --> 00:12:22,320
+where new users can try their premium
+ 
+
+691
+00:12:22,320 --> 00:12:23,829
+where new users can try their premium
+features for free. So, if you're
+
+692
+00:12:23,829 --> 00:12:23,839
+features for free. So, if you're
+ 
+
+693
+00:12:23,839 --> 00:12:25,430
+features for free. So, if you're
+interested, check out the link in the
+
+694
+00:12:25,430 --> 00:12:25,440
+interested, check out the link in the
+ 
+
+695
+00:12:25,440 --> 00:12:27,190
+interested, check out the link in the
+description. Users who sign up through
+
+696
+00:12:27,190 --> 00:12:27,200
+description. Users who sign up through
+ 
+
+697
+00:12:27,200 --> 00:12:29,030
+description. Users who sign up through
+that link get free credits to try it
+
+698
+00:12:29,030 --> 00:12:29,040
+that link get free credits to try it
+ 
+
+699
+00:12:29,040 --> 00:12:30,949
+that link get free credits to try it
+out. And thanks so much to GenSpark for
+
+700
+00:12:30,949 --> 00:12:30,959
+out. And thanks so much to GenSpark for
+ 
+
+701
+00:12:30,959 --> 00:12:32,389
+out. And thanks so much to GenSpark for
+supporting my channel and sponsoring
+
+702
+00:12:32,389 --> 00:12:32,399
+supporting my channel and sponsoring
+ 
+
+703
+00:12:32,399 --> 00:12:34,150
+supporting my channel and sponsoring
+this portion of today's video. Now,
+
+704
+00:12:34,150 --> 00:12:34,160
+this portion of today's video. Now,
+ 
+
+705
+00:12:34,160 --> 00:12:35,590
+this portion of today's video. Now,
+let's move on to some other news that
+
+706
+00:12:35,590 --> 00:12:35,600
+let's move on to some other news that
+ 
+
+707
+00:12:35,600 --> 00:12:38,230
+let's move on to some other news that
+came out late last week that is very
+
+708
+00:12:38,230 --> 00:12:38,240
+came out late last week that is very
+ 
+
+709
+00:12:38,240 --> 00:12:39,910
+came out late last week that is very
+along similar lines to what we were just
+
+710
+00:12:39,910 --> 00:12:39,920
+along similar lines to what we were just
+ 
+
+711
+00:12:39,920 --> 00:12:41,430
+along similar lines to what we were just
+talking about with Fable, and that's the
+
+712
+00:12:41,430 --> 00:12:41,440
+talking about with Fable, and that's the
+ 
+
+713
+00:12:41,440 --> 00:12:44,629
+talking about with Fable, and that's the
+new GPT 5.6 models. Now, we actually
+
+714
+00:12:44,629 --> 00:12:44,639
+new GPT 5.6 models. Now, we actually
+ 
+
+715
+00:12:44,639 --> 00:12:47,110
+new GPT 5.6 models. Now, we actually
+talked in last Friday's video about how
+
+716
+00:12:47,110 --> 00:12:47,120
+talked in last Friday's video about how
+ 
+
+717
+00:12:47,120 --> 00:12:49,190
+talked in last Friday's video about how
+OpenAI is going to be releasing them,
+
+718
+00:12:49,190 --> 00:12:49,200
+OpenAI is going to be releasing them,
+ 
+
+719
+00:12:49,200 --> 00:12:51,110
+OpenAI is going to be releasing them,
+but most people aren't going to get them
+
+720
+00:12:51,110 --> 00:12:51,120
+but most people aren't going to get them
+ 
+
+721
+00:12:51,120 --> 00:12:53,030
+but most people aren't going to get them
+because the government wants to approve
+
+722
+00:12:53,030 --> 00:12:53,040
+because the government wants to approve
+ 
+
+723
+00:12:53,040 --> 00:12:55,190
+because the government wants to approve
+them person by person or company by
+
+724
+00:12:55,190 --> 00:12:55,200
+them person by person or company by
+ 
+
+725
+00:12:55,200 --> 00:12:56,710
+them person by person or company by
+company or I I don't know how that's
+
+726
+00:12:56,710 --> 00:12:56,720
+company or I I don't know how that's
+ 
+
+727
+00:12:56,720 --> 00:12:58,949
+company or I I don't know how that's
+going to work. But GPT 5.6 was coming
+
+728
+00:12:58,949 --> 00:12:58,959
+going to work. But GPT 5.6 was coming
+ 
+
+729
+00:12:58,959 --> 00:13:01,269
+going to work. But GPT 5.6 was coming
+out, but we normal people weren't going
+
+730
+00:13:01,269 --> 00:13:01,279
+out, but we normal people weren't going
+ 
+
+731
+00:13:01,279 --> 00:13:02,949
+out, but we normal people weren't going
+to get to use it. Well, that came out on
+
+732
+00:13:02,949 --> 00:13:02,959
+to get to use it. Well, that came out on
+ 
+
+733
+00:13:02,959 --> 00:13:04,949
+to get to use it. Well, that came out on
+Thursday and then OpenAI made that
+
+734
+00:13:04,949 --> 00:13:04,959
+Thursday and then OpenAI made that
+ 
+
+735
+00:13:04,959 --> 00:13:07,030
+Thursday and then OpenAI made that
+official on Friday, basically saying,
+
+736
+00:13:07,030 --> 00:13:07,040
+official on Friday, basically saying,
+ 
+
+737
+00:13:07,040 --> 00:13:08,710
+official on Friday, basically saying,
+"Hey, our next generation models are
+
+738
+00:13:08,710 --> 00:13:08,720
+"Hey, our next generation models are
+ 
+
+739
+00:13:08,720 --> 00:13:10,629
+"Hey, our next generation models are
+here, but you can't have them." Now,
+
+740
+00:13:10,629 --> 00:13:10,639
+here, but you can't have them." Now,
+ 
+
+741
+00:13:10,639 --> 00:13:12,150
+here, but you can't have them." Now,
+this model comes in three flavors.
+
+742
+00:13:12,150 --> 00:13:12,160
+this model comes in three flavors.
+ 
+
+743
+00:13:12,160 --> 00:13:13,910
+this model comes in three flavors.
+You've got your Soul, your Terra, and
+
+744
+00:13:13,910 --> 00:13:13,920
+You've got your Soul, your Terra, and
+ 
+
+745
+00:13:13,920 --> 00:13:15,829
+You've got your Soul, your Terra, and
+your Luna. And it kind of sounds like
+
+746
+00:13:15,829 --> 00:13:15,839
+your Luna. And it kind of sounds like
+ 
+
+747
+00:13:15,839 --> 00:13:17,509
+your Luna. And it kind of sounds like
+maybe they're going in the direction
+
+748
+00:13:17,509 --> 00:13:17,519
+maybe they're going in the direction
+ 
+
+749
+00:13:17,519 --> 00:13:19,509
+maybe they're going in the direction
+that like Anthropic went in where like
+
+750
+00:13:19,509 --> 00:13:19,519
+that like Anthropic went in where like
+ 
+
+751
+00:13:19,519 --> 00:13:21,670
+that like Anthropic went in where like
+their biggest models were Opus and their
+
+752
+00:13:21,670 --> 00:13:21,680
+their biggest models were Opus and their
+ 
+
+753
+00:13:21,680 --> 00:13:23,030
+their biggest models were Opus and their
+medium models were Sonnet and their
+
+754
+00:13:23,030 --> 00:13:23,040
+medium models were Sonnet and their
+ 
+
+755
+00:13:23,040 --> 00:13:24,790
+medium models were Sonnet and their
+lowest models were Haiku. And I mean now
+
+756
+00:13:24,790 --> 00:13:24,800
+lowest models were Haiku. And I mean now
+ 
+
+757
+00:13:24,800 --> 00:13:26,790
+lowest models were Haiku. And I mean now
+they have Mythos class on top of that.
+
+758
+00:13:26,790 --> 00:13:26,800
+they have Mythos class on top of that.
+ 
+
+759
+00:13:26,800 --> 00:13:28,069
+they have Mythos class on top of that.
+But it kind of feels like they're going
+
+760
+00:13:28,069 --> 00:13:28,079
+But it kind of feels like they're going
+ 
+
+761
+00:13:28,079 --> 00:13:30,470
+But it kind of feels like they're going
+in that same direction. Like Soul is
+
+762
+00:13:30,470 --> 00:13:30,480
+in that same direction. Like Soul is
+ 
+
+763
+00:13:30,480 --> 00:13:33,110
+in that same direction. Like Soul is
+maybe their mythos class or Opus class.
+
+764
+00:13:33,110 --> 00:13:33,120
+maybe their mythos class or Opus class.
+ 
+
+765
+00:13:33,120 --> 00:13:35,590
+maybe their mythos class or Opus class.
+I'm not quite sure. Somewhere between
+
+766
+00:13:35,590 --> 00:13:35,600
+I'm not quite sure. Somewhere between
+ 
+
+767
+00:13:35,600 --> 00:13:37,350
+I'm not quite sure. Somewhere between
+Mythos and Opus. And then you have
+
+768
+00:13:37,350 --> 00:13:37,360
+Mythos and Opus. And then you have
+ 
+
+769
+00:13:37,360 --> 00:13:38,629
+Mythos and Opus. And then you have
+Terra, which is kind of like their
+
+770
+00:13:38,629 --> 00:13:38,639
+Terra, which is kind of like their
+ 
+
+771
+00:13:38,639 --> 00:13:40,310
+Terra, which is kind of like their
+sonnet. And then you have Luna, which is
+
+772
+00:13:40,310 --> 00:13:40,320
+sonnet. And then you have Luna, which is
+ 
+
+773
+00:13:40,320 --> 00:13:41,670
+sonnet. And then you have Luna, which is
+like their haik coup, their smaller
+
+774
+00:13:41,670 --> 00:13:41,680
+like their haik coup, their smaller
+ 
+
+775
+00:13:41,680 --> 00:13:43,750
+like their haik coup, their smaller
+models, but this sole model does appear
+
+776
+00:13:43,750 --> 00:13:43,760
+models, but this sole model does appear
+ 
+
+777
+00:13:43,760 --> 00:13:45,910
+models, but this sole model does appear
+to be fairly on par with what you get
+
+778
+00:13:45,910 --> 00:13:45,920
+to be fairly on par with what you get
+ 
+
+779
+00:13:45,920 --> 00:13:47,750
+to be fairly on par with what you get
+out of Fable. This is like their version
+
+780
+00:13:47,750 --> 00:13:47,760
+out of Fable. This is like their version
+ 
+
+781
+00:13:47,760 --> 00:13:49,590
+out of Fable. This is like their version
+of Fable or Mythos or whatever you want
+
+782
+00:13:49,590 --> 00:13:49,600
+of Fable or Mythos or whatever you want
+ 
+
+783
+00:13:49,600 --> 00:13:51,269
+of Fable or Mythos or whatever you want
+to call it. But the big difference here
+
+784
+00:13:51,269 --> 00:13:51,279
+to call it. But the big difference here
+ 
+
+785
+00:13:51,279 --> 00:13:55,430
+to call it. But the big difference here
+is the price. Input $5, output $30. If
+
+786
+00:13:55,430 --> 00:13:55,440
+is the price. Input $5, output $30. If
+ 
+
+787
+00:13:55,440 --> 00:13:57,509
+is the price. Input $5, output $30. If
+we compare that to Fable, Fable's input
+
+788
+00:13:57,509 --> 00:13:57,519
+we compare that to Fable, Fable's input
+ 
+
+789
+00:13:57,519 --> 00:14:00,310
+we compare that to Fable, Fable's input
+is 10 and output is 50. So half the
+
+790
+00:14:00,310 --> 00:14:00,320
+is 10 and output is 50. So half the
+ 
+
+791
+00:14:00,320 --> 00:14:02,550
+is 10 and output is 50. So half the
+price for input and almost half the
+
+792
+00:14:02,550 --> 00:14:02,560
+price for input and almost half the
+ 
+
+793
+00:14:02,560 --> 00:14:03,990
+price for input and almost half the
+price for output. But if we look at the
+
+794
+00:14:03,990 --> 00:14:04,000
+price for output. But if we look at the
+ 
+
+795
+00:14:04,000 --> 00:14:05,670
+price for output. But if we look at the
+benchmarks that they share here, this
+
+796
+00:14:05,670 --> 00:14:05,680
+benchmarks that they share here, this
+ 
+
+797
+00:14:05,680 --> 00:14:09,110
+benchmarks that they share here, this
+GPT 5.6 Six. Soul Ultra, which I guess
+
+798
+00:14:09,110 --> 00:14:09,120
+GPT 5.6 Six. Soul Ultra, which I guess
+ 
+
+799
+00:14:09,120 --> 00:14:10,389
+GPT 5.6 Six. Soul Ultra, which I guess
+that's probably a better way to look at
+
+800
+00:14:10,389 --> 00:14:10,399
+that's probably a better way to look at
+ 
+
+801
+00:14:10,399 --> 00:14:12,629
+that's probably a better way to look at
+it. Soul Ultra is like their Fable,
+
+802
+00:14:12,629 --> 00:14:12,639
+it. Soul Ultra is like their Fable,
+ 
+
+803
+00:14:12,639 --> 00:14:15,509
+it. Soul Ultra is like their Fable,
+where Soul is like their Opus. But Soul
+
+804
+00:14:15,509 --> 00:14:15,519
+where Soul is like their Opus. But Soul
+ 
+
+805
+00:14:15,519 --> 00:14:19,269
+where Soul is like their Opus. But Soul
+Ultra on Terminal Bench scores a 91.9%
+
+806
+00:14:19,269 --> 00:14:19,279
+Ultra on Terminal Bench scores a 91.9%
+ 
+
+807
+00:14:19,279 --> 00:14:21,509
+Ultra on Terminal Bench scores a 91.9%
+where Fable's all the way down here at
+
+808
+00:14:21,509 --> 00:14:21,519
+where Fable's all the way down here at
+ 
+
+809
+00:14:21,519 --> 00:14:23,110
+where Fable's all the way down here at
+84.3%.
+
+810
+00:14:23,110 --> 00:14:23,120
+84.3%.
+ 
+
+811
+00:14:23,120 --> 00:14:25,269
+84.3%.
+And their Terra, the sort of middle
+
+812
+00:14:25,269 --> 00:14:25,279
+And their Terra, the sort of middle
+ 
+
+813
+00:14:25,279 --> 00:14:28,069
+And their Terra, the sort of middle
+Sonnet version, is tied with what Fable
+
+814
+00:14:28,069 --> 00:14:28,079
+Sonnet version, is tied with what Fable
+ 
+
+815
+00:14:28,079 --> 00:14:30,389
+Sonnet version, is tied with what Fable
+is doing on Terminal Bench specifically.
+
+816
+00:14:30,389 --> 00:14:30,399
+is doing on Terminal Bench specifically.
+ 
+
+817
+00:14:30,399 --> 00:14:31,990
+is doing on Terminal Bench specifically.
+Now, we don't really have a lot to go
+
+818
+00:14:31,990 --> 00:14:32,000
+Now, we don't really have a lot to go
+ 
+
+819
+00:14:32,000 --> 00:14:34,310
+Now, we don't really have a lot to go
+off of for this model yet. They haven't
+
+820
+00:14:34,310 --> 00:14:34,320
+off of for this model yet. They haven't
+ 
+
+821
+00:14:34,320 --> 00:14:36,389
+off of for this model yet. They haven't
+given us a ton of information other than
+
+822
+00:14:36,389 --> 00:14:36,399
+given us a ton of information other than
+ 
+
+823
+00:14:36,399 --> 00:14:38,150
+given us a ton of information other than
+some of the pricing here. Artificial
+
+824
+00:14:38,150 --> 00:14:38,160
+some of the pricing here. Artificial
+ 
+
+825
+00:14:38,160 --> 00:14:40,150
+some of the pricing here. Artificial
+Analysis doesn't have it within their
+
+826
+00:14:40,150 --> 00:14:40,160
+Analysis doesn't have it within their
+ 
+
+827
+00:14:40,160 --> 00:14:42,550
+Analysis doesn't have it within their
+benchmarking yet at all. So, nothing
+
+828
+00:14:42,550 --> 00:14:42,560
+benchmarking yet at all. So, nothing
+ 
+
+829
+00:14:42,560 --> 00:14:44,230
+benchmarking yet at all. So, nothing
+there. And again, their website is
+
+830
+00:14:44,230 --> 00:14:44,240
+there. And again, their website is
+ 
+
+831
+00:14:44,240 --> 00:14:46,069
+there. And again, their website is
+leaning in heavily on showing off
+
+832
+00:14:46,069 --> 00:14:46,079
+leaning in heavily on showing off
+ 
+
+833
+00:14:46,079 --> 00:14:48,550
+leaning in heavily on showing off
+Terminal Bench, one specific benchmark
+
+834
+00:14:48,550 --> 00:14:48,560
+Terminal Bench, one specific benchmark
+ 
+
+835
+00:14:48,560 --> 00:14:50,870
+Terminal Bench, one specific benchmark
+about how well it runs terminal commands
+
+836
+00:14:50,870 --> 00:14:50,880
+about how well it runs terminal commands
+ 
+
+837
+00:14:50,880 --> 00:14:52,150
+about how well it runs terminal commands
+essentially. But when we scroll down to
+
+838
+00:14:52,150 --> 00:14:52,160
+essentially. But when we scroll down to
+ 
+
+839
+00:14:52,160 --> 00:14:53,750
+essentially. But when we scroll down to
+the availability and pricing section
+
+840
+00:14:53,750 --> 00:14:53,760
+the availability and pricing section
+ 
+
+841
+00:14:53,760 --> 00:14:55,670
+the availability and pricing section
+during the preview, 5.6 models will
+
+842
+00:14:55,670 --> 00:14:55,680
+during the preview, 5.6 models will
+ 
+
+843
+00:14:55,680 --> 00:14:57,189
+during the preview, 5.6 models will
+initially be available through the API
+
+844
+00:14:57,189 --> 00:14:57,199
+initially be available through the API
+ 
+
+845
+00:14:57,199 --> 00:14:59,350
+initially be available through the API
+and codecs to a select group of trusted
+
+846
+00:14:59,350 --> 00:14:59,360
+and codecs to a select group of trusted
+ 
+
+847
+00:14:59,360 --> 00:15:01,189
+and codecs to a select group of trusted
+partners and organizations. We plan to
+
+848
+00:15:01,189 --> 00:15:01,199
+partners and organizations. We plan to
+ 
+
+849
+00:15:01,199 --> 00:15:03,110
+partners and organizations. We plan to
+make them more broadly available to
+
+850
+00:15:03,110 --> 00:15:03,120
+make them more broadly available to
+ 
+
+851
+00:15:03,120 --> 00:15:05,269
+make them more broadly available to
+people using chat GPT codeex and the API
+
+852
+00:15:05,269 --> 00:15:05,279
+people using chat GPT codeex and the API
+ 
+
+853
+00:15:05,279 --> 00:15:07,430
+people using chat GPT codeex and the API
+soon. Still no exact indication of when
+
+854
+00:15:07,430 --> 00:15:07,440
+soon. Still no exact indication of when
+ 
+
+855
+00:15:07,440 --> 00:15:09,269
+soon. Still no exact indication of when
+we're going to get access to it, but my
+
+856
+00:15:09,269 --> 00:15:09,279
+we're going to get access to it, but my
+ 
+
+857
+00:15:09,279 --> 00:15:10,550
+we're going to get access to it, but my
+guess is we'll probably get it within
+
+858
+00:15:10,550 --> 00:15:10,560
+guess is we'll probably get it within
+ 
+
+859
+00:15:10,560 --> 00:15:12,710
+guess is we'll probably get it within
+the next couple weeks. And to be fair, I
+
+860
+00:15:12,710 --> 00:15:12,720
+the next couple weeks. And to be fair, I
+ 
+
+861
+00:15:12,720 --> 00:15:14,629
+the next couple weeks. And to be fair, I
+wouldn't be shocked if you know that
+
+862
+00:15:14,629 --> 00:15:14,639
+wouldn't be shocked if you know that
+ 
+
+863
+00:15:14,639 --> 00:15:16,870
+wouldn't be shocked if you know that
+July 7th deadline where Fable is going
+
+864
+00:15:16,870 --> 00:15:16,880
+July 7th deadline where Fable is going
+ 
+
+865
+00:15:16,880 --> 00:15:18,629
+July 7th deadline where Fable is going
+to cut off on you. Would be kind of
+
+866
+00:15:18,629 --> 00:15:18,639
+to cut off on you. Would be kind of
+ 
+
+867
+00:15:18,639 --> 00:15:20,870
+to cut off on you. Would be kind of
+interesting to see OpenAI turn on their
+
+868
+00:15:20,870 --> 00:15:20,880
+interesting to see OpenAI turn on their
+ 
+
+869
+00:15:20,880 --> 00:15:23,030
+interesting to see OpenAI turn on their
+model for everybody on that date. Like,
+
+870
+00:15:23,030 --> 00:15:23,040
+model for everybody on that date. Like,
+ 
+
+871
+00:15:23,040 --> 00:15:24,629
+model for everybody on that date. Like,
+come on. That sounds like a very OpenAI
+
+872
+00:15:24,629 --> 00:15:24,639
+come on. That sounds like a very OpenAI
+ 
+
+873
+00:15:24,639 --> 00:15:25,910
+come on. That sounds like a very OpenAI
+thing to do, doesn't it? Now, while
+
+874
+00:15:25,910 --> 00:15:25,920
+thing to do, doesn't it? Now, while
+ 
+
+875
+00:15:25,920 --> 00:15:27,910
+thing to do, doesn't it? Now, while
+we're on the topic of Open AI, I want to
+
+876
+00:15:27,910 --> 00:15:27,920
+we're on the topic of Open AI, I want to
+ 
+
+877
+00:15:27,920 --> 00:15:29,430
+we're on the topic of Open AI, I want to
+talk about something really, really
+
+878
+00:15:29,430 --> 00:15:29,440
+talk about something really, really
+ 
+
+879
+00:15:29,440 --> 00:15:31,509
+talk about something really, really
+quickly that's in the same vein, but
+
+880
+00:15:31,509 --> 00:15:31,519
+quickly that's in the same vein, but
+ 
+
+881
+00:15:31,519 --> 00:15:33,590
+quickly that's in the same vein, but
+it's also something I don't quite know
+
+882
+00:15:33,590 --> 00:15:33,600
+it's also something I don't quite know
+ 
+
+883
+00:15:33,600 --> 00:15:35,829
+it's also something I don't quite know
+how I feel about. Apparently, Open AI
+
+884
+00:15:35,829 --> 00:15:35,839
+how I feel about. Apparently, Open AI
+ 
+
+885
+00:15:35,839 --> 00:15:37,670
+how I feel about. Apparently, Open AI
+has been floating the idea of giving the
+
+886
+00:15:37,670 --> 00:15:37,680
+has been floating the idea of giving the
+ 
+
+887
+00:15:37,680 --> 00:15:40,790
+has been floating the idea of giving the
+Trump administration a 5% cut of the AI
+
+888
+00:15:40,790 --> 00:15:40,800
+Trump administration a 5% cut of the AI
+ 
+
+889
+00:15:40,800 --> 00:15:42,310
+Trump administration a 5% cut of the AI
+boom, or basically saying, "Hey, we'll
+
+890
+00:15:42,310 --> 00:15:42,320
+boom, or basically saying, "Hey, we'll
+ 
+
+891
+00:15:42,320 --> 00:15:44,629
+boom, or basically saying, "Hey, we'll
+give you 5% of Open AI." OpenAI has
+
+892
+00:15:44,629 --> 00:15:44,639
+give you 5% of Open AI." OpenAI has
+ 
+
+893
+00:15:44,639 --> 00:15:46,550
+give you 5% of Open AI." OpenAI has
+floated giving the US government a 5%
+
+894
+00:15:46,550 --> 00:15:46,560
+floated giving the US government a 5%
+ 
+
+895
+00:15:46,560 --> 00:15:48,069
+floated giving the US government a 5%
+ownership stake as a way of easing
+
+896
+00:15:48,069 --> 00:15:48,079
+ownership stake as a way of easing
+ 
+
+897
+00:15:48,079 --> 00:15:49,590
+ownership stake as a way of easing
+tension with the Trump administration
+
+898
+00:15:49,590 --> 00:15:49,600
+tension with the Trump administration
+ 
+
+899
+00:15:49,600 --> 00:15:51,590
+tension with the Trump administration
+and blunting mounting public backlash
+
+900
+00:15:51,590 --> 00:15:51,600
+and blunting mounting public backlash
+ 
+
+901
+00:15:51,600 --> 00:15:53,509
+and blunting mounting public backlash
+against AI. Sam argued that giving the
+
+902
+00:15:53,509 --> 00:15:53,519
+against AI. Sam argued that giving the
+ 
+
+903
+00:15:53,519 --> 00:15:55,030
+against AI. Sam argued that giving the
+public a financial interest in the
+
+904
+00:15:55,030 --> 00:15:55,040
+public a financial interest in the
+ 
+
+905
+00:15:55,040 --> 00:15:56,389
+public a financial interest in the
+company would be the best way to share
+
+906
+00:15:56,389 --> 00:15:56,399
+company would be the best way to share
+ 
+
+907
+00:15:56,399 --> 00:15:58,870
+company would be the best way to share
+the upside of AI. That 5% would
+
+908
+00:15:58,870 --> 00:15:58,880
+the upside of AI. That 5% would
+ 
+
+909
+00:15:58,880 --> 00:16:02,710
+the upside of AI. That 5% would
+represent roughly 42.6 billion. Okay, so
+
+910
+00:16:02,710 --> 00:16:02,720
+represent roughly 42.6 billion. Okay, so
+ 
+
+911
+00:16:02,720 --> 00:16:04,389
+represent roughly 42.6 billion. Okay, so
+here's why I have sort of mixed feelings
+
+912
+00:16:04,389 --> 00:16:04,399
+here's why I have sort of mixed feelings
+ 
+
+913
+00:16:04,399 --> 00:16:05,749
+here's why I have sort of mixed feelings
+about this one. And I guess mixed
+
+914
+00:16:05,749 --> 00:16:05,759
+about this one. And I guess mixed
+ 
+
+915
+00:16:05,759 --> 00:16:08,069
+about this one. And I guess mixed
+feelings isn't even the right way to put
+
+916
+00:16:08,069 --> 00:16:08,079
+feelings isn't even the right way to put
+ 
+
+917
+00:16:08,079 --> 00:16:10,230
+feelings isn't even the right way to put
+it. This actually feels off to me. So
+
+918
+00:16:10,230 --> 00:16:10,240
+it. This actually feels off to me. So
+ 
+
+919
+00:16:10,240 --> 00:16:12,470
+it. This actually feels off to me. So
+these AI companies, they need to get
+
+920
+00:16:12,470 --> 00:16:12,480
+these AI companies, they need to get
+ 
+
+921
+00:16:12,480 --> 00:16:14,870
+these AI companies, they need to get
+regulated by the government so that the
+
+922
+00:16:14,870 --> 00:16:14,880
+regulated by the government so that the
+ 
+
+923
+00:16:14,880 --> 00:16:17,030
+regulated by the government so that the
+models don't become harmful, but they
+
+924
+00:16:17,030 --> 00:16:17,040
+models don't become harmful, but they
+ 
+
+925
+00:16:17,040 --> 00:16:19,590
+models don't become harmful, but they
+also need the regulations to not sort of
+
+926
+00:16:19,590 --> 00:16:19,600
+also need the regulations to not sort of
+ 
+
+927
+00:16:19,600 --> 00:16:22,310
+also need the regulations to not sort of
+slow down their business interests like
+
+928
+00:16:22,310 --> 00:16:22,320
+slow down their business interests like
+ 
+
+929
+00:16:22,320 --> 00:16:24,550
+slow down their business interests like
+what we've been seeing with 5.6 and
+
+930
+00:16:24,550 --> 00:16:24,560
+what we've been seeing with 5.6 and
+ 
+
+931
+00:16:24,560 --> 00:16:27,189
+what we've been seeing with 5.6 and
+Fable. But if the government has a stake
+
+932
+00:16:27,189 --> 00:16:27,199
+Fable. But if the government has a stake
+ 
+
+933
+00:16:27,199 --> 00:16:29,590
+Fable. But if the government has a stake
+in the company that the government is
+
+934
+00:16:29,590 --> 00:16:29,600
+in the company that the government is
+ 
+
+935
+00:16:29,600 --> 00:16:32,150
+in the company that the government is
+also in charge of trying to regulate,
+
+936
+00:16:32,150 --> 00:16:32,160
+also in charge of trying to regulate,
+ 
+
+937
+00:16:32,160 --> 00:16:34,069
+also in charge of trying to regulate,
+doesn't that create some pretty massive
+
+938
+00:16:34,069 --> 00:16:34,079
+doesn't that create some pretty massive
+ 
+
+939
+00:16:34,079 --> 00:16:35,829
+doesn't that create some pretty massive
+conflicts of interest? Because now the
+
+940
+00:16:35,829 --> 00:16:35,839
+conflicts of interest? Because now the
+ 
+
+941
+00:16:35,839 --> 00:16:37,829
+conflicts of interest? Because now the
+government stands to make more money
+
+942
+00:16:37,829 --> 00:16:37,839
+government stands to make more money
+ 
+
+943
+00:16:37,839 --> 00:16:40,550
+government stands to make more money
+based on the success of these AI
+
+944
+00:16:40,550 --> 00:16:40,560
+based on the success of these AI
+ 
+
+945
+00:16:40,560 --> 00:16:42,230
+based on the success of these AI
+companies which would then sort of
+
+946
+00:16:42,230 --> 00:16:42,240
+companies which would then sort of
+ 
+
+947
+00:16:42,240 --> 00:16:45,590
+companies which would then sort of
+incentivize them to let some of the
+
+948
+00:16:45,590 --> 00:16:45,600
+incentivize them to let some of the
+ 
+
+949
+00:16:45,600 --> 00:16:48,470
+incentivize them to let some of the
+regulatory hurdles slide so that models
+
+950
+00:16:48,470 --> 00:16:48,480
+regulatory hurdles slide so that models
+ 
+
+951
+00:16:48,480 --> 00:16:50,790
+regulatory hurdles slide so that models
+can get pushed out faster so that the
+
+952
+00:16:50,790 --> 00:16:50,800
+can get pushed out faster so that the
+ 
+
+953
+00:16:50,800 --> 00:16:52,389
+can get pushed out faster so that the
+government could make more money off of
+
+954
+00:16:52,389 --> 00:16:52,399
+government could make more money off of
+ 
+
+955
+00:16:52,399 --> 00:16:54,150
+government could make more money off of
+them. Like how's that going to work? And
+
+956
+00:16:54,150 --> 00:16:54,160
+them. Like how's that going to work? And
+ 
+
+957
+00:16:54,160 --> 00:16:56,710
+them. Like how's that going to work? And
+also the way this article was worded is
+
+958
+00:16:56,710 --> 00:16:56,720
+also the way this article was worded is
+ 
+
+959
+00:16:56,720 --> 00:16:58,550
+also the way this article was worded is
+the Trump administration. Shouldn't it
+
+960
+00:16:58,550 --> 00:16:58,560
+the Trump administration. Shouldn't it
+ 
+
+961
+00:16:58,560 --> 00:17:00,470
+the Trump administration. Shouldn't it
+be like they're giving it to the
+
+962
+00:17:00,470 --> 00:17:00,480
+be like they're giving it to the
+ 
+
+963
+00:17:00,480 --> 00:17:02,150
+be like they're giving it to the
+government so the government could give
+
+964
+00:17:02,150 --> 00:17:02,160
+government so the government could give
+ 
+
+965
+00:17:02,160 --> 00:17:04,230
+government so the government could give
+it back to the people? I don't know. It
+
+966
+00:17:04,230 --> 00:17:04,240
+it back to the people? I don't know. It
+ 
+
+967
+00:17:04,240 --> 00:17:06,870
+it back to the people? I don't know. It
+all feels very odd to me and uh yeah,
+
+968
+00:17:06,870 --> 00:17:06,880
+all feels very odd to me and uh yeah,
+ 
+
+969
+00:17:06,880 --> 00:17:09,189
+all feels very odd to me and uh yeah,
+I'll just get back to sharing other AI
+
+970
+00:17:09,189 --> 00:17:09,199
+I'll just get back to sharing other AI
+ 
+
+971
+00:17:09,199 --> 00:17:11,990
+I'll just get back to sharing other AI
+news, but this was very interesting and
+
+972
+00:17:11,990 --> 00:17:12,000
+news, but this was very interesting and
+ 
+
+973
+00:17:12,000 --> 00:17:13,750
+news, but this was very interesting and
+weird to me because I don't know how
+
+974
+00:17:13,750 --> 00:17:13,760
+weird to me because I don't know how
+ 
+
+975
+00:17:13,760 --> 00:17:15,350
+weird to me because I don't know how
+this plays out. But let's talk about
+
+976
+00:17:15,350 --> 00:17:15,360
+this plays out. But let's talk about
+ 
+
+977
+00:17:15,360 --> 00:17:17,590
+this plays out. But let's talk about
+another new AI model that came out this
+
+978
+00:17:17,590 --> 00:17:17,600
+another new AI model that came out this
+ 
+
+979
+00:17:17,600 --> 00:17:19,990
+another new AI model that came out this
+week, and that's Claude Sonnet 5. Now,
+
+980
+00:17:19,990 --> 00:17:20,000
+week, and that's Claude Sonnet 5. Now,
+ 
+
+981
+00:17:20,000 --> 00:17:21,510
+week, and that's Claude Sonnet 5. Now,
+typically when a brand new Open AAI
+
+982
+00:17:21,510 --> 00:17:21,520
+typically when a brand new Open AAI
+ 
+
+983
+00:17:21,520 --> 00:17:23,429
+typically when a brand new Open AAI
+model or a brand new anthropic model or
+
+984
+00:17:23,429 --> 00:17:23,439
+model or a brand new anthropic model or
+ 
+
+985
+00:17:23,439 --> 00:17:25,510
+model or a brand new anthropic model or
+a brand new Google model comes out, it's
+
+986
+00:17:25,510 --> 00:17:25,520
+a brand new Google model comes out, it's
+ 
+
+987
+00:17:25,520 --> 00:17:27,669
+a brand new Google model comes out, it's
+typically the biggest news story of the
+
+988
+00:17:27,669 --> 00:17:27,679
+typically the biggest news story of the
+ 
+
+989
+00:17:27,679 --> 00:17:29,110
+typically the biggest news story of the
+week. But this one's been totally
+
+990
+00:17:29,110 --> 00:17:29,120
+week. But this one's been totally
+ 
+
+991
+00:17:29,120 --> 00:17:31,110
+week. But this one's been totally
+overshadowed by everything else we just
+
+992
+00:17:31,110 --> 00:17:31,120
+overshadowed by everything else we just
+ 
+
+993
+00:17:31,120 --> 00:17:32,470
+overshadowed by everything else we just
+talked about. Fable getting shut down,
+
+994
+00:17:32,470 --> 00:17:32,480
+talked about. Fable getting shut down,
+ 
+
+995
+00:17:32,480 --> 00:17:35,190
+talked about. Fable getting shut down,
+Fable getting brought back, GPT 5.6
+
+996
+00:17:35,190 --> 00:17:35,200
+Fable getting brought back, GPT 5.6
+ 
+
+997
+00:17:35,200 --> 00:17:37,110
+Fable getting brought back, GPT 5.6
+getting announced but not released. And
+
+998
+00:17:37,110 --> 00:17:37,120
+getting announced but not released. And
+ 
+
+999
+00:17:37,120 --> 00:17:38,950
+getting announced but not released. And
+it doesn't even feel like anthropic
+
+1000
+00:17:38,950 --> 00:17:38,960
+it doesn't even feel like anthropic
+ 
+
+1001
+00:17:38,960 --> 00:17:41,110
+it doesn't even feel like anthropic
+cares that much about Sonnet. Like
+
+1002
+00:17:41,110 --> 00:17:41,120
+cares that much about Sonnet. Like
+ 
+
+1003
+00:17:41,120 --> 00:17:43,190
+cares that much about Sonnet. Like
+here's the benchmarks. Agentic coding,
+
+1004
+00:17:43,190 --> 00:17:43,200
+here's the benchmarks. Agentic coding,
+ 
+
+1005
+00:17:43,200 --> 00:17:45,110
+here's the benchmarks. Agentic coding,
+Sonnet still less than Opus.
+
+1006
+00:17:45,110 --> 00:17:45,120
+Sonnet still less than Opus.
+ 
+
+1007
+00:17:45,120 --> 00:17:47,510
+Sonnet still less than Opus.
+Multi-disiplinary reasoning still less
+
+1008
+00:17:47,510 --> 00:17:47,520
+Multi-disiplinary reasoning still less
+ 
+
+1009
+00:17:47,520 --> 00:17:49,830
+Multi-disiplinary reasoning still less
+than Opus. Computer use still less than
+
+1010
+00:17:49,830 --> 00:17:49,840
+than Opus. Computer use still less than
+ 
+
+1011
+00:17:49,840 --> 00:17:52,310
+than Opus. Computer use still less than
+Opus. And knowledge work slightly
+
+1012
+00:17:52,310 --> 00:17:52,320
+Opus. And knowledge work slightly
+ 
+
+1013
+00:17:52,320 --> 00:17:54,310
+Opus. And knowledge work slightly
+improved over Opus. Apparently, it's got
+
+1014
+00:17:54,310 --> 00:17:54,320
+improved over Opus. Apparently, it's got
+ 
+
+1015
+00:17:54,320 --> 00:17:56,789
+improved over Opus. Apparently, it's got
+a lower rate of undesirable behaviors
+
+1016
+00:17:56,789 --> 00:17:56,799
+a lower rate of undesirable behaviors
+ 
+
+1017
+00:17:56,799 --> 00:17:59,669
+a lower rate of undesirable behaviors
+than Sonnet 4.6. The main benefit of
+
+1018
+00:17:59,669 --> 00:17:59,679
+than Sonnet 4.6. The main benefit of
+ 
+
+1019
+00:17:59,679 --> 00:18:01,750
+than Sonnet 4.6. The main benefit of
+Sonnet is that it's going to be cheaper
+
+1020
+00:18:01,750 --> 00:18:01,760
+Sonnet is that it's going to be cheaper
+ 
+
+1021
+00:18:01,760 --> 00:18:04,230
+Sonnet is that it's going to be cheaper
+to use than Opus and Fable, but it's not
+
+1022
+00:18:04,230 --> 00:18:04,240
+to use than Opus and Fable, but it's not
+ 
+
+1023
+00:18:04,240 --> 00:18:05,430
+to use than Opus and Fable, but it's not
+going to be as good as either one. But
+
+1024
+00:18:05,430 --> 00:18:05,440
+going to be as good as either one. But
+ 
+
+1025
+00:18:05,440 --> 00:18:07,590
+going to be as good as either one. But
+if you need a model that's less than
+
+1026
+00:18:07,590 --> 00:18:07,600
+if you need a model that's less than
+ 
+
+1027
+00:18:07,600 --> 00:18:10,150
+if you need a model that's less than
+those and almost as good as those, then
+
+1028
+00:18:10,150 --> 00:18:10,160
+those and almost as good as those, then
+ 
+
+1029
+00:18:10,160 --> 00:18:11,510
+those and almost as good as those, then
+that's where Sonic comes into the mix.
+
+1030
+00:18:11,510 --> 00:18:11,520
+that's where Sonic comes into the mix.
+ 
+
+1031
+00:18:11,520 --> 00:18:13,830
+that's where Sonic comes into the mix.
+Even on anthropic system card, literally
+
+1032
+00:18:13,830 --> 00:18:13,840
+Even on anthropic system card, literally
+ 
+
+1033
+00:18:13,840 --> 00:18:16,470
+Even on anthropic system card, literally
+on page two, it says Sonet 5 is our most
+
+1034
+00:18:16,470 --> 00:18:16,480
+on page two, it says Sonet 5 is our most
+ 
+
+1035
+00:18:16,480 --> 00:18:18,470
+on page two, it says Sonet 5 is our most
+capable Sonic class model, but it is not
+
+1036
+00:18:18,470 --> 00:18:18,480
+capable Sonic class model, but it is not
+ 
+
+1037
+00:18:18,480 --> 00:18:20,549
+capable Sonic class model, but it is not
+advancer capability frontier compared to
+
+1038
+00:18:20,549 --> 00:18:20,559
+advancer capability frontier compared to
+ 
+
+1039
+00:18:20,559 --> 00:18:22,390
+advancer capability frontier compared to
+more capable Opus or Mythos class
+
+1040
+00:18:22,390 --> 00:18:22,400
+more capable Opus or Mythos class
+ 
+
+1041
+00:18:22,400 --> 00:18:23,750
+more capable Opus or Mythos class
+models. You don't even have to get too
+
+1042
+00:18:23,750 --> 00:18:23,760
+models. You don't even have to get too
+ 
+
+1043
+00:18:23,760 --> 00:18:25,669
+models. You don't even have to get too
+deep into their system card for them to
+
+1044
+00:18:25,669 --> 00:18:25,679
+deep into their system card for them to
+ 
+
+1045
+00:18:25,679 --> 00:18:27,029
+deep into their system card for them to
+be going, "Yeah, it's a new model, but
+
+1046
+00:18:27,029 --> 00:18:27,039
+be going, "Yeah, it's a new model, but
+ 
+
+1047
+00:18:27,039 --> 00:18:28,390
+be going, "Yeah, it's a new model, but
+it's not as good as their other models."
+
+1048
+00:18:28,390 --> 00:18:28,400
+it's not as good as their other models."
+ 
+
+1049
+00:18:28,400 --> 00:18:29,990
+it's not as good as their other models."
+But again, the cost is where it really
+
+1050
+00:18:29,990 --> 00:18:30,000
+But again, the cost is where it really
+ 
+
+1051
+00:18:30,000 --> 00:18:32,310
+But again, the cost is where it really
+matters. If you're using the API and not
+
+1052
+00:18:32,310 --> 00:18:32,320
+matters. If you're using the API and not
+ 
+
+1053
+00:18:32,320 --> 00:18:34,549
+matters. If you're using the API and not
+using like a pro subscription, you can
+
+1054
+00:18:34,549 --> 00:18:34,559
+using like a pro subscription, you can
+ 
+
+1055
+00:18:34,559 --> 00:18:37,590
+using like a pro subscription, you can
+see Fable's $10 input, $50 output for
+
+1056
+00:18:37,590 --> 00:18:37,600
+see Fable's $10 input, $50 output for
+ 
+
+1057
+00:18:37,600 --> 00:18:41,029
+see Fable's $10 input, $50 output for
+your tokens with the API. Opus is $5 in,
+
+1058
+00:18:41,029 --> 00:18:41,039
+your tokens with the API. Opus is $5 in,
+ 
+
+1059
+00:18:41,039 --> 00:18:44,150
+your tokens with the API. Opus is $5 in,
+$25 out, so half the cost of Fable. And
+
+1060
+00:18:44,150 --> 00:18:44,160
+$25 out, so half the cost of Fable. And
+ 
+
+1061
+00:18:44,160 --> 00:18:48,470
+$25 out, so half the cost of Fable. And
+Sonnet 5 is $2 in and $10 out. So, you
+
+1062
+00:18:48,470 --> 00:18:48,480
+Sonnet 5 is $2 in and $10 out. So, you
+ 
+
+1063
+00:18:48,480 --> 00:18:51,029
+Sonnet 5 is $2 in and $10 out. So, you
+know, two-fifths the cost, not even half
+
+1064
+00:18:51,029 --> 00:18:51,039
+know, two-fifths the cost, not even half
+ 
+
+1065
+00:18:51,039 --> 00:18:53,110
+know, two-fifths the cost, not even half
+the cost to jump to Sonnet. But that's
+
+1066
+00:18:53,110 --> 00:18:53,120
+the cost to jump to Sonnet. But that's
+ 
+
+1067
+00:18:53,120 --> 00:18:55,029
+the cost to jump to Sonnet. But that's
+only through August 31st. The price
+
+1068
+00:18:55,029 --> 00:18:55,039
+only through August 31st. The price
+ 
+
+1069
+00:18:55,039 --> 00:18:58,630
+only through August 31st. The price
+jumps to $3. So, three fifths and $15
+
+1070
+00:18:58,630 --> 00:18:58,640
+jumps to $3. So, three fifths and $15
+ 
+
+1071
+00:18:58,640 --> 00:19:01,190
+jumps to $3. So, three fifths and $15
+input after September 1st. But again, if
+
+1072
+00:19:01,190 --> 00:19:01,200
+input after September 1st. But again, if
+ 
+
+1073
+00:19:01,200 --> 00:19:03,350
+input after September 1st. But again, if
+you're using like a Claude subscription,
+
+1074
+00:19:03,350 --> 00:19:03,360
+you're using like a Claude subscription,
+ 
+
+1075
+00:19:03,360 --> 00:19:04,870
+you're using like a Claude subscription,
+you're probably just going to still use
+
+1076
+00:19:04,870 --> 00:19:04,880
+you're probably just going to still use
+ 
+
+1077
+00:19:04,880 --> 00:19:06,230
+you're probably just going to still use
+Opus. But I also know what you're
+
+1078
+00:19:06,230 --> 00:19:06,240
+Opus. But I also know what you're
+ 
+
+1079
+00:19:06,240 --> 00:19:07,909
+Opus. But I also know what you're
+wondering from here. How does it do on
+
+1080
+00:19:07,909 --> 00:19:07,919
+wondering from here. How does it do on
+ 
+
+1081
+00:19:07,919 --> 00:19:09,750
+wondering from here. How does it do on
+beautybench? Well, you probably already
+
+1082
+00:19:09,750 --> 00:19:09,760
+beautybench? Well, you probably already
+ 
+
+1083
+00:19:09,760 --> 00:19:11,510
+beautybench? Well, you probably already
+saw, but let's look again. This is what
+
+1084
+00:19:11,510 --> 00:19:11,520
+saw, but let's look again. This is what
+ 
+
+1085
+00:19:11,520 --> 00:19:14,070
+saw, but let's look again. This is what
+Sonnet 5 did on beauty bench. In my
+
+1086
+00:19:14,070 --> 00:19:14,080
+Sonnet 5 did on beauty bench. In my
+ 
+
+1087
+00:19:14,080 --> 00:19:16,230
+Sonnet 5 did on beauty bench. In my
+opinion, Fugu Ultra does better. And I
+
+1088
+00:19:16,230 --> 00:19:16,240
+opinion, Fugu Ultra does better. And I
+ 
+
+1089
+00:19:16,240 --> 00:19:18,789
+opinion, Fugu Ultra does better. And I
+think even, you know, Quinn 3.7 here and
+
+1090
+00:19:18,789 --> 00:19:18,799
+think even, you know, Quinn 3.7 here and
+ 
+
+1091
+00:19:18,799 --> 00:19:21,669
+think even, you know, Quinn 3.7 here and
+Gemini 3.5 flash here do a better job.
+
+1092
+00:19:21,669 --> 00:19:21,679
+Gemini 3.5 flash here do a better job.
+ 
+
+1093
+00:19:21,679 --> 00:19:24,150
+Gemini 3.5 flash here do a better job.
+But yeah, there's your Claude Sonnet 5
+
+1094
+00:19:24,150 --> 00:19:24,160
+But yeah, there's your Claude Sonnet 5
+ 
+
+1095
+00:19:24,160 --> 00:19:25,990
+But yeah, there's your Claude Sonnet 5
+beauty. We also got some updates out of
+
+1096
+00:19:25,990 --> 00:19:26,000
+beauty. We also got some updates out of
+ 
+
+1097
+00:19:26,000 --> 00:19:27,350
+beauty. We also got some updates out of
+Google this week. They released a new
+
+1098
+00:19:27,350 --> 00:19:27,360
+Google this week. They released a new
+ 
+
+1099
+00:19:27,360 --> 00:19:29,190
+Google this week. They released a new
+version of Nano Banana called Nano
+
+1100
+00:19:29,190 --> 00:19:29,200
+version of Nano Banana called Nano
+ 
+
+1101
+00:19:29,200 --> 00:19:31,270
+version of Nano Banana called Nano
+Banana 2 Light. And they also released
+
+1102
+00:19:31,270 --> 00:19:31,280
+Banana 2 Light. And they also released
+ 
+
+1103
+00:19:31,280 --> 00:19:35,029
+Banana 2 Light. And they also released
+Gemini Omni Flash, so a faster probably
+
+1104
+00:19:35,029 --> 00:19:35,039
+Gemini Omni Flash, so a faster probably
+ 
+
+1105
+00:19:35,039 --> 00:19:37,190
+Gemini Omni Flash, so a faster probably
+not quite as high quality version of
+
+1106
+00:19:37,190 --> 00:19:37,200
+not quite as high quality version of
+ 
+
+1107
+00:19:37,200 --> 00:19:39,669
+not quite as high quality version of
+Gemini Omni for video generation and
+
+1108
+00:19:39,669 --> 00:19:39,679
+Gemini Omni for video generation and
+ 
+
+1109
+00:19:39,679 --> 00:19:42,070
+Gemini Omni for video generation and
+editing. So Nano Banana 2 Light is
+
+1110
+00:19:42,070 --> 00:19:42,080
+editing. So Nano Banana 2 Light is
+ 
+
+1111
+00:19:42,080 --> 00:19:44,870
+editing. So Nano Banana 2 Light is
+basically Nano Banana 2, just way faster
+
+1112
+00:19:44,870 --> 00:19:44,880
+basically Nano Banana 2, just way faster
+ 
+
+1113
+00:19:44,880 --> 00:19:47,110
+basically Nano Banana 2, just way faster
+and cheaper. It generates image outputs
+
+1114
+00:19:47,110 --> 00:19:47,120
+and cheaper. It generates image outputs
+ 
+
+1115
+00:19:47,120 --> 00:19:49,990
+and cheaper. It generates image outputs
+in 4 seconds and it cost about three and
+
+1116
+00:19:49,990 --> 00:19:50,000
+in 4 seconds and it cost about three and
+ 
+
+1117
+00:19:50,000 --> 00:19:53,830
+in 4 seconds and it cost about three and
+a half cents per 1,000 images. So
+
+1118
+00:19:53,830 --> 00:19:53,840
+a half cents per 1,000 images. So
+ 
+
+1119
+00:19:53,840 --> 00:19:55,350
+a half cents per 1,000 images. So
+really, really cheap to generate tons
+
+1120
+00:19:55,350 --> 00:19:55,360
+really, really cheap to generate tons
+ 
+
+1121
+00:19:55,360 --> 00:19:57,029
+really, really cheap to generate tons
+and tons of images. Now, it does say
+
+1122
+00:19:57,029 --> 00:19:57,039
+and tons of images. Now, it does say
+ 
+
+1123
+00:19:57,039 --> 00:19:59,510
+and tons of images. Now, it does say
+it's coming to the consumer platforms
+
+1124
+00:19:59,510 --> 00:19:59,520
+it's coming to the consumer platforms
+ 
+
+1125
+00:19:59,520 --> 00:20:01,350
+it's coming to the consumer platforms
+like AI mode and search, Gemini apps,
+
+1126
+00:20:01,350 --> 00:20:01,360
+like AI mode and search, Gemini apps,
+ 
+
+1127
+00:20:01,360 --> 00:20:03,510
+like AI mode and search, Gemini apps,
+notebook LM, Google Photos, etc. If I
+
+1128
+00:20:03,510 --> 00:20:03,520
+notebook LM, Google Photos, etc. If I
+ 
+
+1129
+00:20:03,520 --> 00:20:05,590
+notebook LM, Google Photos, etc. If I
+jump over to my Gemini account, I do
+
+1130
+00:20:05,590 --> 00:20:05,600
+jump over to my Gemini account, I do
+ 
+
+1131
+00:20:05,600 --> 00:20:07,750
+jump over to my Gemini account, I do
+appear to have access to it. I'll just
+
+1132
+00:20:07,750 --> 00:20:07,760
+appear to have access to it. I'll just
+ 
+
+1133
+00:20:07,760 --> 00:20:09,750
+appear to have access to it. I'll just
+do a wolf howling at the moon and it
+
+1134
+00:20:09,750 --> 00:20:09,760
+do a wolf howling at the moon and it
+ 
+
+1135
+00:20:09,760 --> 00:20:12,070
+do a wolf howling at the moon and it
+took about 6 seconds and it's pretty
+
+1136
+00:20:12,070 --> 00:20:12,080
+took about 6 seconds and it's pretty
+ 
+
+1137
+00:20:12,080 --> 00:20:14,150
+took about 6 seconds and it's pretty
+solid. Now, keep in mind I am on an
+
+1138
+00:20:14,150 --> 00:20:14,160
+solid. Now, keep in mind I am on an
+ 
+
+1139
+00:20:14,160 --> 00:20:17,430
+solid. Now, keep in mind I am on an
+ultra plan, so I'm not 100% sure if it's
+
+1140
+00:20:17,430 --> 00:20:17,440
+ultra plan, so I'm not 100% sure if it's
+ 
+
+1141
+00:20:17,440 --> 00:20:19,510
+ultra plan, so I'm not 100% sure if it's
+rolled out for everybody just yet. A
+
+1142
+00:20:19,510 --> 00:20:19,520
+rolled out for everybody just yet. A
+ 
+
+1143
+00:20:19,520 --> 00:20:21,510
+rolled out for everybody just yet. A
+monkey on roller skates, Gary Buucy's
+
+1144
+00:20:21,510 --> 00:20:21,520
+monkey on roller skates, Gary Buucy's
+ 
+
+1145
+00:20:21,520 --> 00:20:23,270
+monkey on roller skates, Gary Buucy's
+face, a sign in a store window with
+
+1146
+00:20:23,270 --> 00:20:23,280
+face, a sign in a store window with
+ 
+
+1147
+00:20:23,280 --> 00:20:24,710
+face, a sign in a store window with
+three products, their description, and
+
+1148
+00:20:24,710 --> 00:20:24,720
+three products, their description, and
+ 
+
+1149
+00:20:24,720 --> 00:20:26,870
+three products, their description, and
+their price. This one I feel like took
+
+1150
+00:20:26,870 --> 00:20:26,880
+their price. This one I feel like took
+ 
+
+1151
+00:20:26,880 --> 00:20:28,870
+their price. This one I feel like took
+like maybe 2 seconds longer. It took
+
+1152
+00:20:28,870 --> 00:20:28,880
+like maybe 2 seconds longer. It took
+ 
+
+1153
+00:20:28,880 --> 00:20:30,710
+like maybe 2 seconds longer. It took
+about 8 seconds instead of six, but all
+
+1154
+00:20:30,710 --> 00:20:30,720
+about 8 seconds instead of six, but all
+ 
+
+1155
+00:20:30,720 --> 00:20:32,310
+about 8 seconds instead of six, but all
+of them were really, really fast. And
+
+1156
+00:20:32,310 --> 00:20:32,320
+of them were really, really fast. And
+ 
+
+1157
+00:20:32,320 --> 00:20:34,710
+of them were really, really fast. And
+then we have Gemini Omni Flash. Now,
+
+1158
+00:20:34,710 --> 00:20:34,720
+then we have Gemini Omni Flash. Now,
+ 
+
+1159
+00:20:34,720 --> 00:20:37,190
+then we have Gemini Omni Flash. Now,
+this is one that I've had access to and
+
+1160
+00:20:37,190 --> 00:20:37,200
+this is one that I've had access to and
+ 
+
+1161
+00:20:37,200 --> 00:20:38,630
+this is one that I've had access to and
+I've even made a video about it back
+
+1162
+00:20:38,630 --> 00:20:38,640
+I've even made a video about it back
+ 
+
+1163
+00:20:38,640 --> 00:20:40,950
+I've even made a video about it back
+during Google IO, but it looks like now
+
+1164
+00:20:40,950 --> 00:20:40,960
+during Google IO, but it looks like now
+ 
+
+1165
+00:20:40,960 --> 00:20:43,750
+during Google IO, but it looks like now
+it is rolling out to developers via the
+
+1166
+00:20:43,750 --> 00:20:43,760
+it is rolling out to developers via the
+ 
+
+1167
+00:20:43,760 --> 00:20:46,950
+it is rolling out to developers via the
+API and Google AI Studio and it costs 10
+
+1168
+00:20:46,950 --> 00:20:46,960
+API and Google AI Studio and it costs 10
+ 
+
+1169
+00:20:46,960 --> 00:20:49,750
+API and Google AI Studio and it costs 10
+cents per second of video output. If we
+
+1170
+00:20:49,750 --> 00:20:49,760
+cents per second of video output. If we
+ 
+
+1171
+00:20:49,760 --> 00:20:52,149
+cents per second of video output. If we
+head over to Google AI Studio over on
+
+1172
+00:20:52,149 --> 00:20:52,159
+head over to Google AI Studio over on
+ 
+
+1173
+00:20:52,159 --> 00:20:54,310
+head over to Google AI Studio over on
+the right, we make sure that we are on
+
+1174
+00:20:54,310 --> 00:20:54,320
+the right, we make sure that we are on
+ 
+
+1175
+00:20:54,320 --> 00:20:57,909
+the right, we make sure that we are on
+video Gemini Omni Flash Preview. Again,
+
+1176
+00:20:57,909 --> 00:20:57,919
+video Gemini Omni Flash Preview. Again,
+ 
+
+1177
+00:20:57,919 --> 00:21:00,470
+video Gemini Omni Flash Preview. Again,
+this is not necessarily free to use. So,
+
+1178
+00:21:00,470 --> 00:21:00,480
+this is not necessarily free to use. So,
+ 
+
+1179
+00:21:00,480 --> 00:21:02,710
+this is not necessarily free to use. So,
+if you have like payment details on file
+
+1180
+00:21:02,710 --> 00:21:02,720
+if you have like payment details on file
+ 
+
+1181
+00:21:02,720 --> 00:21:04,390
+if you have like payment details on file
+so that you can use the API, you should
+
+1182
+00:21:04,390 --> 00:21:04,400
+so that you can use the API, you should
+ 
+
+1183
+00:21:04,400 --> 00:21:05,750
+so that you can use the API, you should
+be able to test this. I'm actually going
+
+1184
+00:21:05,750 --> 00:21:05,760
+be able to test this. I'm actually going
+ 
+
+1185
+00:21:05,760 --> 00:21:08,549
+be able to test this. I'm actually going
+to take this video that I recorded at
+
+1186
+00:21:08,549 --> 00:21:08,559
+to take this video that I recorded at
+ 
+
+1187
+00:21:08,559 --> 00:21:13,510
+to take this video that I recorded at
+Google IO looks like this.
+
+1188
+00:21:13,510 --> 00:21:13,520
+
+ 
+
+1189
+00:21:13,520 --> 00:21:15,750
+
+And we will toss this in right here and
+
+1190
+00:21:15,750 --> 00:21:15,760
+And we will toss this in right here and
+ 
+
+1191
+00:21:15,760 --> 00:21:17,909
+And we will toss this in right here and
+I'll say make Godzilla enter the scene
+
+1192
+00:21:17,909 --> 00:21:17,919
+I'll say make Godzilla enter the scene
+ 
+
+1193
+00:21:17,919 --> 00:21:19,909
+I'll say make Godzilla enter the scene
+and start stomping around. And well,
+
+1194
+00:21:19,909 --> 00:21:19,919
+and start stomping around. And well,
+ 
+
+1195
+00:21:19,919 --> 00:21:21,830
+and start stomping around. And well,
+I've tried multiple times to get it to
+
+1196
+00:21:21,830 --> 00:21:21,840
+I've tried multiple times to get it to
+ 
+
+1197
+00:21:21,840 --> 00:21:24,149
+I've tried multiple times to get it to
+work and it keeps giving me an internal
+
+1198
+00:21:24,149 --> 00:21:24,159
+work and it keeps giving me an internal
+ 
+
+1199
+00:21:24,159 --> 00:21:25,750
+work and it keeps giving me an internal
+server error. I thought maybe it
+
+1200
+00:21:25,750 --> 00:21:25,760
+server error. I thought maybe it
+ 
+
+1201
+00:21:25,760 --> 00:21:26,950
+server error. I thought maybe it
+wouldn't do it because it was Godzilla.
+
+1202
+00:21:26,950 --> 00:21:26,960
+wouldn't do it because it was Godzilla.
+ 
+
+1203
+00:21:26,960 --> 00:21:29,029
+wouldn't do it because it was Godzilla.
+So, I just said make it nighttime and it
+
+1204
+00:21:29,029 --> 00:21:29,039
+So, I just said make it nighttime and it
+ 
+
+1205
+00:21:29,039 --> 00:21:30,630
+So, I just said make it nighttime and it
+still wouldn't generate. So, I don't
+
+1206
+00:21:30,630 --> 00:21:30,640
+still wouldn't generate. So, I don't
+ 
+
+1207
+00:21:30,640 --> 00:21:32,390
+still wouldn't generate. So, I don't
+know, maybe it's having some issues at
+
+1208
+00:21:32,390 --> 00:21:32,400
+know, maybe it's having some issues at
+ 
+
+1209
+00:21:32,400 --> 00:21:34,070
+know, maybe it's having some issues at
+the exact time of this recording.
+
+1210
+00:21:34,070 --> 00:21:34,080
+the exact time of this recording.
+ 
+
+1211
+00:21:34,080 --> 00:21:36,390
+the exact time of this recording.
+However, I do have access to Omni inside
+
+1212
+00:21:36,390 --> 00:21:36,400
+However, I do have access to Omni inside
+ 
+
+1213
+00:21:36,400 --> 00:21:38,630
+However, I do have access to Omni inside
+of Gemini. I don't know again if it's
+
+1214
+00:21:38,630 --> 00:21:38,640
+of Gemini. I don't know again if it's
+ 
+
+1215
+00:21:38,640 --> 00:21:40,149
+of Gemini. I don't know again if it's
+just because I'm on the Ultra plan or if
+
+1216
+00:21:40,149 --> 00:21:40,159
+just because I'm on the Ultra plan or if
+ 
+
+1217
+00:21:40,159 --> 00:21:42,230
+just because I'm on the Ultra plan or if
+it is rolled out in Gemini now, but
+
+1218
+00:21:42,230 --> 00:21:42,240
+it is rolled out in Gemini now, but
+ 
+
+1219
+00:21:42,240 --> 00:21:43,830
+it is rolled out in Gemini now, but
+let's see if it works here. And yeah, I
+
+1220
+00:21:43,830 --> 00:21:43,840
+let's see if it works here. And yeah, I
+ 
+
+1221
+00:21:43,840 --> 00:21:45,590
+let's see if it works here. And yeah, I
+got it to work in Gemini. So, let's take
+
+1222
+00:21:45,590 --> 00:21:45,600
+got it to work in Gemini. So, let's take
+ 
+
+1223
+00:21:45,600 --> 00:21:52,789
+got it to work in Gemini. So, let's take
+a peek at our new video.
+
+1224
+00:21:52,789 --> 00:21:52,799
+
+ 
+
+1225
+00:21:52,799 --> 00:21:54,950
+
+We got two Godzillaas. We got one in the
+
+1226
+00:21:54,950 --> 00:21:54,960
+We got two Godzillaas. We got one in the
+ 
+
+1227
+00:21:54,960 --> 00:21:58,149
+We got two Godzillaas. We got one in the
+background and one in the foreground.
+
+1228
+00:21:58,149 --> 00:21:58,159
+background and one in the foreground.
+ 
+
+1229
+00:21:58,159 --> 00:21:59,590
+background and one in the foreground.
+But you get an idea of what you can do
+
+1230
+00:21:59,590 --> 00:21:59,600
+But you get an idea of what you can do
+ 
+
+1231
+00:21:59,600 --> 00:22:01,350
+But you get an idea of what you can do
+with Omni. It's really good at taking
+
+1232
+00:22:01,350 --> 00:22:01,360
+with Omni. It's really good at taking
+ 
+
+1233
+00:22:01,360 --> 00:22:03,510
+with Omni. It's really good at taking
+existing videos and then sort of
+
+1234
+00:22:03,510 --> 00:22:03,520
+existing videos and then sort of
+ 
+
+1235
+00:22:03,520 --> 00:22:05,669
+existing videos and then sort of
+altering those videos. It can also
+
+1236
+00:22:05,669 --> 00:22:05,679
+altering those videos. It can also
+ 
+
+1237
+00:22:05,679 --> 00:22:07,270
+altering those videos. It can also
+generate videos, but if I'm being
+
+1238
+00:22:07,270 --> 00:22:07,280
+generate videos, but if I'm being
+ 
+
+1239
+00:22:07,280 --> 00:22:09,430
+generate videos, but if I'm being
+honest, I don't feel like it's quite as
+
+1240
+00:22:09,430 --> 00:22:09,440
+honest, I don't feel like it's quite as
+ 
+
+1241
+00:22:09,440 --> 00:22:11,270
+honest, I don't feel like it's quite as
+good at generating from scratch as
+
+1242
+00:22:11,270 --> 00:22:11,280
+good at generating from scratch as
+ 
+
+1243
+00:22:11,280 --> 00:22:14,149
+good at generating from scratch as
+something like Seed Dance or even the VO
+
+1244
+00:22:14,149 --> 00:22:14,159
+something like Seed Dance or even the VO
+ 
+
+1245
+00:22:14,159 --> 00:22:16,310
+something like Seed Dance or even the VO
+models, but it's okay at that as well.
+
+1246
+00:22:16,310 --> 00:22:16,320
+models, but it's okay at that as well.
+ 
+
+1247
+00:22:16,320 --> 00:22:18,149
+models, but it's okay at that as well.
+And one last cool feature that Google
+
+1248
+00:22:18,149 --> 00:22:18,159
+And one last cool feature that Google
+ 
+
+1249
+00:22:18,159 --> 00:22:20,149
+And one last cool feature that Google
+rolled out inside of Notebook LM, you
+
+1250
+00:22:20,149 --> 00:22:20,159
+rolled out inside of Notebook LM, you
+ 
+
+1251
+00:22:20,159 --> 00:22:22,390
+rolled out inside of Notebook LM, you
+can actually create short form videos in
+
+1252
+00:22:22,390 --> 00:22:22,400
+can actually create short form videos in
+ 
+
+1253
+00:22:22,400 --> 00:22:24,630
+can actually create short form videos in
+Notebook LM now that are like 60-second
+
+1254
+00:22:24,630 --> 00:22:24,640
+Notebook LM now that are like 60-second
+ 
+
+1255
+00:22:24,640 --> 00:22:26,390
+Notebook LM now that are like 60-second
+vertical videos. So, if I go to my
+
+1256
+00:22:26,390 --> 00:22:26,400
+vertical videos. So, if I go to my
+ 
+
+1257
+00:22:26,400 --> 00:22:28,789
+vertical videos. So, if I go to my
+Notebook LM account here and I go to my
+
+1258
+00:22:28,789 --> 00:22:28,799
+Notebook LM account here and I go to my
+ 
+
+1259
+00:22:28,799 --> 00:22:30,950
+Notebook LM account here and I go to my
+birds aren't real notebook, which I've
+
+1260
+00:22:30,950 --> 00:22:30,960
+birds aren't real notebook, which I've
+ 
+
+1261
+00:22:30,960 --> 00:22:32,549
+birds aren't real notebook, which I've
+played with quite a few times in past
+
+1262
+00:22:32,549 --> 00:22:32,559
+played with quite a few times in past
+ 
+
+1263
+00:22:32,559 --> 00:22:34,470
+played with quite a few times in past
+videos, you can see we've got try new
+
+1264
+00:22:34,470 --> 00:22:34,480
+videos, you can see we've got try new
+ 
+
+1265
+00:22:34,480 --> 00:22:36,390
+videos, you can see we've got try new
+short video overviews. So, you can
+
+1266
+00:22:36,390 --> 00:22:36,400
+short video overviews. So, you can
+ 
+
+1267
+00:22:36,400 --> 00:22:37,830
+short video overviews. So, you can
+either try it here or I can just click
+
+1268
+00:22:37,830 --> 00:22:37,840
+either try it here or I can just click
+ 
+
+1269
+00:22:37,840 --> 00:22:40,710
+either try it here or I can just click
+on video overview and select short as my
+
+1270
+00:22:40,710 --> 00:22:40,720
+on video overview and select short as my
+ 
+
+1271
+00:22:40,720 --> 00:22:42,230
+on video overview and select short as my
+option. We'll go ahead and generate
+
+1272
+00:22:42,230 --> 00:22:42,240
+option. We'll go ahead and generate
+ 
+
+1273
+00:22:42,240 --> 00:22:43,909
+option. We'll go ahead and generate
+this. This thing better be worth it.
+
+1274
+00:22:43,909 --> 00:22:43,919
+this. This thing better be worth it.
+ 
+
+1275
+00:22:43,919 --> 00:22:45,510
+this. This thing better be worth it.
+It's been generating for like a half
+
+1276
+00:22:45,510 --> 00:22:45,520
+It's been generating for like a half
+ 
+
+1277
+00:22:45,520 --> 00:22:47,590
+It's been generating for like a half
+hour. Okay, it's finally ready. So,
+
+1278
+00:22:47,590 --> 00:22:47,600
+hour. Okay, it's finally ready. So,
+ 
+
+1279
+00:22:47,600 --> 00:22:48,950
+hour. Okay, it's finally ready. So,
+let's see what we got here.
+
+1280
+00:22:48,950 --> 00:22:48,960
+let's see what we got here.
+ 
+
+1281
+00:22:48,960 --> 00:22:51,190
+let's see what we got here.
+>> Why do people increasingly mistake
+
+1282
+00:22:51,190 --> 00:22:51,200
+>> Why do people increasingly mistake
+ 
+
+1283
+00:22:51,200 --> 00:22:53,830
+>> Why do people increasingly mistake
+obvious satire for actual facts? It's
+
+1284
+00:22:53,830 --> 00:22:53,840
+obvious satire for actual facts? It's
+ 
+
+1285
+00:22:53,840 --> 00:22:55,669
+obvious satire for actual facts? It's
+due to a mental shortcut called the
+
+1286
+00:22:55,669 --> 00:22:55,679
+due to a mental shortcut called the
+ 
+
+1287
+00:22:55,679 --> 00:22:57,510
+due to a mental shortcut called the
+bandwagon heristic. Social media
+
+1288
+00:22:57,510 --> 00:22:57,520
+bandwagon heristic. Social media
+ 
+
+1289
+00:22:57,520 --> 00:22:59,270
+bandwagon heristic. Social media
+algorithms trigger this glitch to
+
+1290
+00:22:59,270 --> 00:22:59,280
+algorithms trigger this glitch to
+ 
+
+1291
+00:22:59,280 --> 00:23:01,190
+algorithms trigger this glitch to
+actively hack your ability to recognize
+
+1292
+00:23:01,190 --> 00:23:01,200
+actively hack your ability to recognize
+ 
+
+1293
+00:23:01,200 --> 00:23:03,270
+actively hack your ability to recognize
+a joke. Take a ridiculous spoof headline
+
+1294
+00:23:03,270 --> 00:23:03,280
+a joke. Take a ridiculous spoof headline
+ 
+
+1295
+00:23:03,280 --> 00:23:05,270
+a joke. Take a ridiculous spoof headline
+like a politician proposing mandatory
+
+1296
+00:23:05,270 --> 00:23:05,280
+like a politician proposing mandatory
+ 
+
+1297
+00:23:05,280 --> 00:23:07,750
+like a politician proposing mandatory
+vasctomies. Normally, extreme absurdity
+
+1298
+00:23:07,750 --> 00:23:07,760
+vasctomies. Normally, extreme absurdity
+ 
+
+1299
+00:23:07,760 --> 00:23:09,590
+vasctomies. Normally, extreme absurdity
+acts as a natural defense mechanism.
+
+1300
+00:23:09,590 --> 00:23:09,600
+acts as a natural defense mechanism.
+ 
+
+1301
+00:23:09,600 --> 00:23:11,510
+acts as a natural defense mechanism.
+That ridiculousness acts as a cue,
+
+1302
+00:23:11,510 --> 00:23:11,520
+That ridiculousness acts as a cue,
+ 
+
+1303
+00:23:11,520 --> 00:23:13,190
+That ridiculousness acts as a cue,
+signaling your brain to reject the claim
+
+1304
+00:23:13,190 --> 00:23:13,200
+signaling your brain to reject the claim
+ 
+
+1305
+00:23:13,200 --> 00:23:15,830
+signaling your brain to reject the claim
+as a joke. For how long that took, that
+
+1306
+00:23:15,830 --> 00:23:15,840
+as a joke. For how long that took, that
+ 
+
+1307
+00:23:15,840 --> 00:23:18,470
+as a joke. For how long that took, that
+was not worth it. I mean, the audio was
+
+1308
+00:23:18,470 --> 00:23:18,480
+was not worth it. I mean, the audio was
+ 
+
+1309
+00:23:18,480 --> 00:23:20,470
+was not worth it. I mean, the audio was
+kind of interesting, but the videos were
+
+1310
+00:23:20,470 --> 00:23:20,480
+kind of interesting, but the videos were
+ 
+
+1311
+00:23:20,480 --> 00:23:22,870
+kind of interesting, but the videos were
+very, very, very basic, especially since
+
+1312
+00:23:22,870 --> 00:23:22,880
+very, very, very basic, especially since
+ 
+
+1313
+00:23:22,880 --> 00:23:25,750
+very, very, very basic, especially since
+it took like at least 30, 35 minutes. I
+
+1314
+00:23:25,750 --> 00:23:25,760
+it took like at least 30, 35 minutes. I
+ 
+
+1315
+00:23:25,760 --> 00:23:27,190
+it took like at least 30, 35 minutes. I
+literally walked away and had to come
+
+1316
+00:23:27,190 --> 00:23:27,200
+literally walked away and had to come
+ 
+
+1317
+00:23:27,200 --> 00:23:29,029
+literally walked away and had to come
+back. It was taking so long. But anyway,
+
+1318
+00:23:29,029 --> 00:23:29,039
+back. It was taking so long. But anyway,
+ 
+
+1319
+00:23:29,039 --> 00:23:31,029
+back. It was taking so long. But anyway,
+you can make shorts now in Notebook LM.
+
+1320
+00:23:31,029 --> 00:23:31,039
+you can make shorts now in Notebook LM.
+ 
+
+1321
+00:23:31,039 --> 00:23:33,110
+you can make shorts now in Notebook LM.
+All right, I know I've covered a lot and
+
+1322
+00:23:33,110 --> 00:23:33,120
+All right, I know I've covered a lot and
+ 
+
+1323
+00:23:33,120 --> 00:23:34,950
+All right, I know I've covered a lot and
+sort of rambled and ranted quite a bit
+
+1324
+00:23:34,950 --> 00:23:34,960
+sort of rambled and ranted quite a bit
+ 
+
+1325
+00:23:34,960 --> 00:23:36,789
+sort of rambled and ranted quite a bit
+in this one. But I have a handful more
+
+1326
+00:23:36,789 --> 00:23:36,799
+in this one. But I have a handful more
+ 
+
+1327
+00:23:36,799 --> 00:23:37,990
+in this one. But I have a handful more
+things that I want to share that came
+
+1328
+00:23:37,990 --> 00:23:38,000
+things that I want to share that came
+ 
+
+1329
+00:23:38,000 --> 00:23:39,669
+things that I want to share that came
+out this week, but I'll just run through
+
+1330
+00:23:39,669 --> 00:23:39,679
+out this week, but I'll just run through
+ 
+
+1331
+00:23:39,679 --> 00:23:44,870
+out this week, but I'll just run through
+them quickly in a rapid fire.
+
+1332
+00:23:44,870 --> 00:23:44,880
+
+ 
+
+1333
+00:23:44,880 --> 00:23:46,310
+
+Starting with a new platform that came
+
+1334
+00:23:46,310 --> 00:23:46,320
+Starting with a new platform that came
+ 
+
+1335
+00:23:46,320 --> 00:23:48,470
+Starting with a new platform that came
+out of Enthropic called Claude Science,
+
+1336
+00:23:48,470 --> 00:23:48,480
+out of Enthropic called Claude Science,
+ 
+
+1337
+00:23:48,480 --> 00:23:50,630
+out of Enthropic called Claude Science,
+which is an AI workbench for scientists.
+
+1338
+00:23:50,630 --> 00:23:50,640
+which is an AI workbench for scientists.
+ 
+
+1339
+00:23:50,640 --> 00:23:53,590
+which is an AI workbench for scientists.
+So, this is like a new app sort of like
+
+1340
+00:23:53,590 --> 00:23:53,600
+So, this is like a new app sort of like
+ 
+
+1341
+00:23:53,600 --> 00:23:55,990
+So, this is like a new app sort of like
+Claude Code or Claude Co-work, but it's
+
+1342
+00:23:55,990 --> 00:23:56,000
+Claude Code or Claude Co-work, but it's
+ 
+
+1343
+00:23:56,000 --> 00:23:58,470
+Claude Code or Claude Co-work, but it's
+specifically designed for scientists
+
+1344
+00:23:58,470 --> 00:23:58,480
+specifically designed for scientists
+ 
+
+1345
+00:23:58,480 --> 00:24:00,950
+specifically designed for scientists
+and, you know, scientific use cases. And
+
+1346
+00:24:00,950 --> 00:24:00,960
+and, you know, scientific use cases. And
+ 
+
+1347
+00:24:00,960 --> 00:24:02,870
+and, you know, scientific use cases. And
+you can use this app if you're on one of
+
+1348
+00:24:02,870 --> 00:24:02,880
+you can use this app if you're on one of
+ 
+
+1349
+00:24:02,880 --> 00:24:04,470
+you can use this app if you're on one of
+the paid plans. Just go to
+
+1350
+00:24:04,470 --> 00:24:04,480
+the paid plans. Just go to
+ 
+
+1351
+00:24:04,480 --> 00:24:07,669
+the paid plans. Just go to
+claude.com/prouct/cloudscience
+
+1352
+00:24:07,669 --> 00:24:07,679
+
+ 
+
+1353
+00:24:07,679 --> 00:24:10,230
+
+and you can download it on Mac or Linux
+
+1354
+00:24:10,230 --> 00:24:10,240
+and you can download it on Mac or Linux
+ 
+
+1355
+00:24:10,240 --> 00:24:11,830
+and you can download it on Mac or Linux
+right now. I'm sure it'll be available
+
+1356
+00:24:11,830 --> 00:24:11,840
+right now. I'm sure it'll be available
+ 
+
+1357
+00:24:11,840 --> 00:24:14,230
+right now. I'm sure it'll be available
+for Windows eventually, but since I'm
+
+1358
+00:24:14,230 --> 00:24:14,240
+for Windows eventually, but since I'm
+ 
+
+1359
+00:24:14,240 --> 00:24:16,149
+for Windows eventually, but since I'm
+not really using Claude for scientific
+
+1360
+00:24:16,149 --> 00:24:16,159
+not really using Claude for scientific
+ 
+
+1361
+00:24:16,159 --> 00:24:18,070
+not really using Claude for scientific
+research, I, you know, haven't
+
+1362
+00:24:18,070 --> 00:24:18,080
+research, I, you know, haven't
+ 
+
+1363
+00:24:18,080 --> 00:24:19,430
+research, I, you know, haven't
+downloaded this or played with it
+
+1364
+00:24:19,430 --> 00:24:19,440
+downloaded this or played with it
+ 
+
+1365
+00:24:19,440 --> 00:24:21,510
+downloaded this or played with it
+myself. If you're into coding with AI,
+
+1366
+00:24:21,510 --> 00:24:21,520
+myself. If you're into coding with AI,
+ 
+
+1367
+00:24:21,520 --> 00:24:24,070
+myself. If you're into coding with AI,
+Cursor just got an iOS app. With the iOS
+
+1368
+00:24:24,070 --> 00:24:24,080
+Cursor just got an iOS app. With the iOS
+ 
+
+1369
+00:24:24,080 --> 00:24:25,909
+Cursor just got an iOS app. With the iOS
+app, you can launch always on agents in
+
+1370
+00:24:25,909 --> 00:24:25,919
+app, you can launch always on agents in
+ 
+
+1371
+00:24:25,919 --> 00:24:27,830
+app, you can launch always on agents in
+the cloud or control agents running on
+
+1372
+00:24:27,830 --> 00:24:27,840
+the cloud or control agents running on
+ 
+
+1373
+00:24:27,840 --> 00:24:29,430
+the cloud or control agents running on
+your computer from your phone. I've
+
+1374
+00:24:29,430 --> 00:24:29,440
+your computer from your phone. I've
+ 
+
+1375
+00:24:29,440 --> 00:24:31,269
+your computer from your phone. I've
+started to do this a lot with like the
+
+1376
+00:24:31,269 --> 00:24:31,279
+started to do this a lot with like the
+ 
+
+1377
+00:24:31,279 --> 00:24:33,190
+started to do this a lot with like the
+Codeex app because I use Codex quite a
+
+1378
+00:24:33,190 --> 00:24:33,200
+Codeex app because I use Codex quite a
+ 
+
+1379
+00:24:33,200 --> 00:24:35,510
+Codeex app because I use Codex quite a
+bit. and I will have codec projects
+
+1380
+00:24:35,510 --> 00:24:35,520
+bit. and I will have codec projects
+ 
+
+1381
+00:24:35,520 --> 00:24:37,269
+bit. and I will have codec projects
+running on my computer, but I'll be
+
+1382
+00:24:37,269 --> 00:24:37,279
+running on my computer, but I'll be
+ 
+
+1383
+00:24:37,279 --> 00:24:38,630
+running on my computer, but I'll be
+controlling them and checking in on them
+
+1384
+00:24:38,630 --> 00:24:38,640
+controlling them and checking in on them
+ 
+
+1385
+00:24:38,640 --> 00:24:40,310
+controlling them and checking in on them
+from my phone while I'm like in the
+
+1386
+00:24:40,310 --> 00:24:40,320
+from my phone while I'm like in the
+ 
+
+1387
+00:24:40,320 --> 00:24:41,830
+from my phone while I'm like in the
+other room or while I'm away from my
+
+1388
+00:24:41,830 --> 00:24:41,840
+other room or while I'm away from my
+ 
+
+1389
+00:24:41,840 --> 00:24:43,110
+other room or while I'm away from my
+house. Pretty cool. So, you can do that
+
+1390
+00:24:43,110 --> 00:24:43,120
+house. Pretty cool. So, you can do that
+ 
+
+1391
+00:24:43,120 --> 00:24:44,789
+house. Pretty cool. So, you can do that
+with cursor now as well. Also, news that
+
+1392
+00:24:44,789 --> 00:24:44,799
+with cursor now as well. Also, news that
+ 
+
+1393
+00:24:44,799 --> 00:24:46,390
+with cursor now as well. Also, news that
+some coders would appreciate. X now
+
+1394
+00:24:46,390 --> 00:24:46,400
+some coders would appreciate. X now
+ 
+
+1395
+00:24:46,400 --> 00:24:48,630
+some coders would appreciate. X now
+offers an MCP server to make it platform
+
+1396
+00:24:48,630 --> 00:24:48,640
+offers an MCP server to make it platform
+ 
+
+1397
+00:24:48,640 --> 00:24:51,029
+offers an MCP server to make it platform
+easier for AI tools to use. So X already
+
+1398
+00:24:51,029 --> 00:24:51,039
+easier for AI tools to use. So X already
+ 
+
+1399
+00:24:51,039 --> 00:24:53,350
+easier for AI tools to use. So X already
+had an API that developers could tap
+
+1400
+00:24:53,350 --> 00:24:53,360
+had an API that developers could tap
+ 
+
+1401
+00:24:53,360 --> 00:24:56,230
+had an API that developers could tap
+into to pull real-time data from X, but
+
+1402
+00:24:56,230 --> 00:24:56,240
+into to pull real-time data from X, but
+ 
+
+1403
+00:24:56,240 --> 00:24:58,710
+into to pull real-time data from X, but
+the MCP server just makes it a lot
+
+1404
+00:24:58,710 --> 00:24:58,720
+the MCP server just makes it a lot
+ 
+
+1405
+00:24:58,720 --> 00:25:00,789
+the MCP server just makes it a lot
+easier and a lot simpler for you to like
+
+1406
+00:25:00,789 --> 00:25:00,799
+easier and a lot simpler for you to like
+ 
+
+1407
+00:25:00,799 --> 00:25:02,549
+easier and a lot simpler for you to like
+get your agents and things like that
+
+1408
+00:25:02,549 --> 00:25:02,559
+get your agents and things like that
+ 
+
+1409
+00:25:02,559 --> 00:25:04,390
+get your agents and things like that
+talking to the X platform. If you're on
+
+1410
+00:25:04,390 --> 00:25:04,400
+talking to the X platform. If you're on
+ 
+
+1411
+00:25:04,400 --> 00:25:06,710
+talking to the X platform. If you're on
+one of Google's paid plans like the AI
+
+1412
+00:25:06,710 --> 00:25:06,720
+one of Google's paid plans like the AI
+ 
+
+1413
+00:25:06,720 --> 00:25:08,950
+one of Google's paid plans like the AI
+Pro or Ultra subscribers, you can now
+
+1414
+00:25:08,950 --> 00:25:08,960
+Pro or Ultra subscribers, you can now
+ 
+
+1415
+00:25:08,960 --> 00:25:10,950
+Pro or Ultra subscribers, you can now
+have Google take notes for you when
+
+1416
+00:25:10,950 --> 00:25:10,960
+have Google take notes for you when
+ 
+
+1417
+00:25:10,960 --> 00:25:12,470
+have Google take notes for you when
+you're on Google Meet. So Gemini
+
+1418
+00:25:12,470 --> 00:25:12,480
+you're on Google Meet. So Gemini
+ 
+
+1419
+00:25:12,480 --> 00:25:14,149
+you're on Google Meet. So Gemini
+transcribes the conversation and creates
+
+1420
+00:25:14,149 --> 00:25:14,159
+transcribes the conversation and creates
+ 
+
+1421
+00:25:14,159 --> 00:25:16,149
+transcribes the conversation and creates
+meeting summaries with key action items.
+
+1422
+00:25:16,149 --> 00:25:16,159
+meeting summaries with key action items.
+ 
+
+1423
+00:25:16,159 --> 00:25:17,590
+meeting summaries with key action items.
+The notes are automatically saved to
+
+1424
+00:25:17,590 --> 00:25:17,600
+The notes are automatically saved to
+ 
+
+1425
+00:25:17,600 --> 00:25:19,830
+The notes are automatically saved to
+your Google Docs in Google Drive. And
+
+1426
+00:25:19,830 --> 00:25:19,840
+your Google Docs in Google Drive. And
+ 
+
+1427
+00:25:19,840 --> 00:25:21,269
+your Google Docs in Google Drive. And
+after the meeting, you'll get an email
+
+1428
+00:25:21,269 --> 00:25:21,279
+after the meeting, you'll get an email
+ 
+
+1429
+00:25:21,279 --> 00:25:23,269
+after the meeting, you'll get an email
+with the summary and action items. I
+
+1430
+00:25:23,269 --> 00:25:23,279
+with the summary and action items. I
+ 
+
+1431
+00:25:23,279 --> 00:25:25,269
+with the summary and action items. I
+personally tend to use Granola for this
+
+1432
+00:25:25,269 --> 00:25:25,279
+personally tend to use Granola for this
+ 
+
+1433
+00:25:25,279 --> 00:25:27,510
+personally tend to use Granola for this
+right now. The exact same thing, but now
+
+1434
+00:25:27,510 --> 00:25:27,520
+right now. The exact same thing, but now
+ 
+
+1435
+00:25:27,520 --> 00:25:28,950
+right now. The exact same thing, but now
+it's going to be native directly inside
+
+1436
+00:25:28,950 --> 00:25:28,960
+it's going to be native directly inside
+ 
+
+1437
+00:25:28,960 --> 00:25:30,950
+it's going to be native directly inside
+of Google Meet. Gemini Spark, which is
+
+1438
+00:25:30,950 --> 00:25:30,960
+of Google Meet. Gemini Spark, which is
+ 
+
+1439
+00:25:30,960 --> 00:25:33,909
+of Google Meet. Gemini Spark, which is
+like Google's answer to OpenClaw, is now
+
+1440
+00:25:33,909 --> 00:25:33,919
+like Google's answer to OpenClaw, is now
+ 
+
+1441
+00:25:33,919 --> 00:25:36,870
+like Google's answer to OpenClaw, is now
+available on the Mac OS launch, but only
+
+1442
+00:25:36,870 --> 00:25:36,880
+available on the Mac OS launch, but only
+ 
+
+1443
+00:25:36,880 --> 00:25:39,110
+available on the Mac OS launch, but only
+for Ultra subscribers right now. So, I
+
+1444
+00:25:39,110 --> 00:25:39,120
+for Ultra subscribers right now. So, I
+ 
+
+1445
+00:25:39,120 --> 00:25:41,029
+for Ultra subscribers right now. So, I
+happen to have an Ultra plan and I have
+
+1446
+00:25:41,029 --> 00:25:41,039
+happen to have an Ultra plan and I have
+ 
+
+1447
+00:25:41,039 --> 00:25:42,630
+happen to have an Ultra plan and I have
+the Gemini app. So, if you're curious
+
+1448
+00:25:42,630 --> 00:25:42,640
+the Gemini app. So, if you're curious
+ 
+
+1449
+00:25:42,640 --> 00:25:43,909
+the Gemini app. So, if you're curious
+what that looks like, you can open the
+
+1450
+00:25:43,909 --> 00:25:43,919
+what that looks like, you can open the
+ 
+
+1451
+00:25:43,919 --> 00:25:45,909
+what that looks like, you can open the
+Gemini app, click on Spark here, click
+
+1452
+00:25:45,909 --> 00:25:45,919
+Gemini app, click on Spark here, click
+ 
+
+1453
+00:25:45,919 --> 00:25:47,669
+Gemini app, click on Spark here, click
+use Spark for Mac, and now you can have
+
+1454
+00:25:47,669 --> 00:25:47,679
+use Spark for Mac, and now you can have
+ 
+
+1455
+00:25:47,679 --> 00:25:49,750
+use Spark for Mac, and now you can have
+it control folders and do different
+
+1456
+00:25:49,750 --> 00:25:49,760
+it control folders and do different
+ 
+
+1457
+00:25:49,760 --> 00:25:51,830
+it control folders and do different
+things on your computer for you. So, if
+
+1458
+00:25:51,830 --> 00:25:51,840
+things on your computer for you. So, if
+ 
+
+1459
+00:25:51,840 --> 00:25:54,310
+things on your computer for you. So, if
+I was to add, for instance, my downloads
+
+1460
+00:25:54,310 --> 00:25:54,320
+I was to add, for instance, my downloads
+ 
+
+1461
+00:25:54,320 --> 00:25:56,710
+I was to add, for instance, my downloads
+folder. This is my example I always use,
+
+1462
+00:25:56,710 --> 00:25:56,720
+folder. This is my example I always use,
+ 
+
+1463
+00:25:56,720 --> 00:25:58,310
+folder. This is my example I always use,
+but let's go ahead and allow this. I
+
+1464
+00:25:58,310 --> 00:25:58,320
+but let's go ahead and allow this. I
+ 
+
+1465
+00:25:58,320 --> 00:26:00,390
+but let's go ahead and allow this. I
+could tell it to organize the files in
+
+1466
+00:26:00,390 --> 00:26:00,400
+could tell it to organize the files in
+ 
+
+1467
+00:26:00,400 --> 00:26:01,990
+could tell it to organize the files in
+my downloads folder into the already
+
+1468
+00:26:01,990 --> 00:26:02,000
+my downloads folder into the already
+ 
+
+1469
+00:26:02,000 --> 00:26:03,990
+my downloads folder into the already
+created folders. So, my downloads folder
+
+1470
+00:26:03,990 --> 00:26:04,000
+created folders. So, my downloads folder
+ 
+
+1471
+00:26:04,000 --> 00:26:05,350
+created folders. So, my downloads folder
+looks like this. It gets out of hand
+
+1472
+00:26:05,350 --> 00:26:05,360
+looks like this. It gets out of hand
+ 
+
+1473
+00:26:05,360 --> 00:26:07,510
+looks like this. It gets out of hand
+quickly, but I do have folders already
+
+1474
+00:26:07,510 --> 00:26:07,520
+quickly, but I do have folders already
+ 
+
+1475
+00:26:07,520 --> 00:26:09,590
+quickly, but I do have folders already
+created here. If I submit this, let's
+
+1476
+00:26:09,590 --> 00:26:09,600
+created here. If I submit this, let's
+ 
+
+1477
+00:26:09,600 --> 00:26:11,590
+created here. If I submit this, let's
+move my folders back over here. We
+
+1478
+00:26:11,590 --> 00:26:11,600
+move my folders back over here. We
+ 
+
+1479
+00:26:11,600 --> 00:26:13,269
+move my folders back over here. We
+should actually see it in real time
+
+1480
+00:26:13,269 --> 00:26:13,279
+should actually see it in real time
+ 
+
+1481
+00:26:13,279 --> 00:26:15,350
+should actually see it in real time
+start to organize my downloads folder
+
+1482
+00:26:15,350 --> 00:26:15,360
+start to organize my downloads folder
+ 
+
+1483
+00:26:15,360 --> 00:26:17,190
+start to organize my downloads folder
+for me. Let me just move this over here.
+
+1484
+00:26:17,190 --> 00:26:17,200
+for me. Let me just move this over here.
+ 
+
+1485
+00:26:17,200 --> 00:26:18,870
+for me. Let me just move this over here.
+And yeah, I mean it didn't really do it
+
+1486
+00:26:18,870 --> 00:26:18,880
+And yeah, I mean it didn't really do it
+ 
+
+1487
+00:26:18,880 --> 00:26:20,149
+And yeah, I mean it didn't really do it
+in real time or you saw it. It was just
+
+1488
+00:26:20,149 --> 00:26:20,159
+in real time or you saw it. It was just
+ 
+
+1489
+00:26:20,159 --> 00:26:21,669
+in real time or you saw it. It was just
+like one fell swoop. It went boop and
+
+1490
+00:26:21,669 --> 00:26:21,679
+like one fell swoop. It went boop and
+ 
+
+1491
+00:26:21,679 --> 00:26:22,789
+like one fell swoop. It went boop and
+everything just got put into the
+
+1492
+00:26:22,789 --> 00:26:22,799
+everything just got put into the
+ 
+
+1493
+00:26:22,799 --> 00:26:24,549
+everything just got put into the
+folders. But it organized my downloads
+
+1494
+00:26:24,549 --> 00:26:24,559
+folders. But it organized my downloads
+ 
+
+1495
+00:26:24,559 --> 00:26:26,549
+folders. But it organized my downloads
+folder for me. So now Spark can take
+
+1496
+00:26:26,549 --> 00:26:26,559
+folder for me. So now Spark can take
+ 
+
+1497
+00:26:26,559 --> 00:26:28,470
+folder for me. So now Spark can take
+actions on your behalf just like if you
+
+1498
+00:26:28,470 --> 00:26:28,480
+actions on your behalf just like if you
+ 
+
+1499
+00:26:28,480 --> 00:26:30,470
+actions on your behalf just like if you
+connected a folder in Codeex or Claude
+
+1500
+00:26:30,470 --> 00:26:30,480
+connected a folder in Codeex or Claude
+ 
+
+1501
+00:26:30,480 --> 00:26:32,549
+connected a folder in Codeex or Claude
+Code or Cloud Co or if you were to ask
+
+1502
+00:26:32,549 --> 00:26:32,559
+Code or Cloud Co or if you were to ask
+ 
+
+1503
+00:26:32,559 --> 00:26:34,549
+Code or Cloud Co or if you were to ask
+your OpenClaw or Hermes agent to do it
+
+1504
+00:26:34,549 --> 00:26:34,559
+your OpenClaw or Hermes agent to do it
+ 
+
+1505
+00:26:34,559 --> 00:26:36,870
+your OpenClaw or Hermes agent to do it
+for you. Well, now Gemini Spark can do
+
+1506
+00:26:36,870 --> 00:26:36,880
+for you. Well, now Gemini Spark can do
+ 
+
+1507
+00:26:36,880 --> 00:26:39,110
+for you. Well, now Gemini Spark can do
+it too in the Mac OS app. And finally,
+
+1508
+00:26:39,110 --> 00:26:39,120
+it too in the Mac OS app. And finally,
+ 
+
+1509
+00:26:39,120 --> 00:26:42,149
+it too in the Mac OS app. And finally,
+OpenAI is teasing some new hardware for
+
+1510
+00:26:42,149 --> 00:26:42,159
+OpenAI is teasing some new hardware for
+ 
+
+1511
+00:26:42,159 --> 00:26:44,230
+OpenAI is teasing some new hardware for
+codecs. We don't have much to go off of,
+
+1512
+00:26:44,230 --> 00:26:44,240
+codecs. We don't have much to go off of,
+ 
+
+1513
+00:26:44,240 --> 00:26:46,310
+codecs. We don't have much to go off of,
+but we do know they have some sort of
+
+1514
+00:26:46,310 --> 00:26:46,320
+but we do know they have some sort of
+ 
+
+1515
+00:26:46,320 --> 00:26:48,070
+but we do know they have some sort of
+hardware coming out. It looks like some
+
+1516
+00:26:48,070 --> 00:26:48,080
+hardware coming out. It looks like some
+ 
+
+1517
+00:26:48,080 --> 00:26:49,669
+hardware coming out. It looks like some
+sort of macro pad where you can have
+
+1518
+00:26:49,669 --> 00:26:49,679
+sort of macro pad where you can have
+ 
+
+1519
+00:26:49,679 --> 00:26:51,669
+sort of macro pad where you can have
+like pre-programmed keys. Like I
+
+1520
+00:26:51,669 --> 00:26:51,679
+like pre-programmed keys. Like I
+ 
+
+1521
+00:26:51,679 --> 00:26:54,310
+like pre-programmed keys. Like I
+personally use my Stream Deck thing to
+
+1522
+00:26:54,310 --> 00:26:54,320
+personally use my Stream Deck thing to
+ 
+
+1523
+00:26:54,320 --> 00:26:55,990
+personally use my Stream Deck thing to
+like switch stuff around. Like that's
+
+1524
+00:26:55,990 --> 00:26:56,000
+like switch stuff around. Like that's
+ 
+
+1525
+00:26:56,000 --> 00:26:57,909
+like switch stuff around. Like that's
+how you see me like changing screens
+
+1526
+00:26:57,909 --> 00:26:57,919
+how you see me like changing screens
+ 
+
+1527
+00:26:57,919 --> 00:26:59,669
+how you see me like changing screens
+while I'm on video and things like that.
+
+1528
+00:26:59,669 --> 00:26:59,679
+while I'm on video and things like that.
+ 
+
+1529
+00:26:59,679 --> 00:27:01,269
+while I'm on video and things like that.
+I think it's going to be a macro pad
+
+1530
+00:27:01,269 --> 00:27:01,279
+I think it's going to be a macro pad
+ 
+
+1531
+00:27:01,279 --> 00:27:03,909
+I think it's going to be a macro pad
+kind of like this, but specifically
+
+1532
+00:27:03,909 --> 00:27:03,919
+kind of like this, but specifically
+ 
+
+1533
+00:27:03,919 --> 00:27:06,230
+kind of like this, but specifically
+designed for codecs. There's really no
+
+1534
+00:27:06,230 --> 00:27:06,240
+designed for codecs. There's really no
+ 
+
+1535
+00:27:06,240 --> 00:27:08,149
+designed for codecs. There's really no
+other information about it other than
+
+1536
+00:27:08,149 --> 00:27:08,159
+other information about it other than
+ 
+
+1537
+00:27:08,159 --> 00:27:11,029
+other information about it other than
+it's coming on July 15th. It's for
+
+1538
+00:27:11,029 --> 00:27:11,039
+it's coming on July 15th. It's for
+ 
+
+1539
+00:27:11,039 --> 00:27:14,149
+it's coming on July 15th. It's for
+Codeex and we just got like a post on X
+
+1540
+00:27:14,149 --> 00:27:14,159
+Codeex and we just got like a post on X
+ 
+
+1541
+00:27:14,159 --> 00:27:15,909
+Codeex and we just got like a post on X
+that teases it but doesn't really give
+
+1542
+00:27:15,909 --> 00:27:15,919
+that teases it but doesn't really give
+ 
+
+1543
+00:27:15,919 --> 00:27:17,990
+that teases it but doesn't really give
+us any details about what it is. But I'm
+
+1544
+00:27:17,990 --> 00:27:18,000
+us any details about what it is. But I'm
+ 
+
+1545
+00:27:18,000 --> 00:27:19,830
+us any details about what it is. But I'm
+a sucker for gadgets. I mean I think if
+
+1546
+00:27:19,830 --> 00:27:19,840
+a sucker for gadgets. I mean I think if
+ 
+
+1547
+00:27:19,840 --> 00:27:21,990
+a sucker for gadgets. I mean I think if
+you look around my office that's like
+
+1548
+00:27:21,990 --> 00:27:22,000
+you look around my office that's like
+ 
+
+1549
+00:27:22,000 --> 00:27:24,549
+you look around my office that's like
+pretty obvious that I buy all of the
+
+1550
+00:27:24,549 --> 00:27:24,559
+pretty obvious that I buy all of the
+ 
+
+1551
+00:27:24,559 --> 00:27:26,549
+pretty obvious that I buy all of the
+gadgets. So, you know, I'm probably
+
+1552
+00:27:26,549 --> 00:27:26,559
+gadgets. So, you know, I'm probably
+ 
+
+1553
+00:27:26,559 --> 00:27:28,789
+gadgets. So, you know, I'm probably
+going to get that one too. And since I'm
+
+1554
+00:27:28,789 --> 00:27:28,799
+going to get that one too. And since I'm
+ 
+
+1555
+00:27:28,799 --> 00:27:31,029
+going to get that one too. And since I'm
+a fan of Codeex myself, it's my main
+
+1556
+00:27:31,029 --> 00:27:31,039
+a fan of Codeex myself, it's my main
+ 
+
+1557
+00:27:31,039 --> 00:27:33,430
+a fan of Codeex myself, it's my main
+sort of go-to coding platform right now.
+
+1558
+00:27:33,430 --> 00:27:33,440
+sort of go-to coding platform right now.
+ 
+
+1559
+00:27:33,440 --> 00:27:34,710
+sort of go-to coding platform right now.
+I'm sure it'll probably be pretty
+
+1560
+00:27:34,710 --> 00:27:34,720
+I'm sure it'll probably be pretty
+ 
+
+1561
+00:27:34,720 --> 00:27:36,390
+I'm sure it'll probably be pretty
+useful. We'll see. I have no idea.
+
+1562
+00:27:36,390 --> 00:27:36,400
+useful. We'll see. I have no idea.
+ 
+
+1563
+00:27:36,400 --> 00:27:38,310
+useful. We'll see. I have no idea.
+Anyway, that's what I got for you today.
+
+1564
+00:27:38,310 --> 00:27:38,320
+Anyway, that's what I got for you today.
+ 
+
+1565
+00:27:38,320 --> 00:27:40,070
+Anyway, that's what I got for you today.
+There is so much happening in the AI
+
+1566
+00:27:40,070 --> 00:27:40,080
+There is so much happening in the AI
+ 
+
+1567
+00:27:40,080 --> 00:27:42,390
+There is so much happening in the AI
+world every single week. It is literally
+
+1568
+00:27:42,390 --> 00:27:42,400
+world every single week. It is literally
+ 
+
+1569
+00:27:42,400 --> 00:27:44,630
+world every single week. It is literally
+a full-time job to try to keep up with
+
+1570
+00:27:44,630 --> 00:27:44,640
+a full-time job to try to keep up with
+ 
+
+1571
+00:27:44,640 --> 00:27:46,390
+a full-time job to try to keep up with
+the AI news. But that's what this
+
+1572
+00:27:46,390 --> 00:27:46,400
+the AI news. But that's what this
+ 
+
+1573
+00:27:46,400 --> 00:27:48,070
+the AI news. But that's what this
+channel's for. I drink from the fire
+
+1574
+00:27:48,070 --> 00:27:48,080
+channel's for. I drink from the fire
+ 
+
+1575
+00:27:48,080 --> 00:27:50,310
+channel's for. I drink from the fire
+hose all week. I consume it all. I get
+
+1576
+00:27:50,310 --> 00:27:50,320
+hose all week. I consume it all. I get
+ 
+
+1577
+00:27:50,320 --> 00:27:51,669
+hose all week. I consume it all. I get
+overwhelmed trying to keep up with
+
+1578
+00:27:51,669 --> 00:27:51,679
+overwhelmed trying to keep up with
+ 
+
+1579
+00:27:51,679 --> 00:27:53,190
+overwhelmed trying to keep up with
+everything that's going on so that I can
+
+1580
+00:27:53,190 --> 00:27:53,200
+everything that's going on so that I can
+ 
+
+1581
+00:27:53,200 --> 00:27:55,430
+everything that's going on so that I can
+make one video every Friday that breaks
+
+1582
+00:27:55,430 --> 00:27:55,440
+make one video every Friday that breaks
+ 
+
+1583
+00:27:55,440 --> 00:27:57,110
+make one video every Friday that breaks
+down everything you need to know about
+
+1584
+00:27:57,110 --> 00:27:57,120
+down everything you need to know about
+ 
+
+1585
+00:27:57,120 --> 00:27:58,789
+down everything you need to know about
+what's happening in the AI world. I've
+
+1586
+00:27:58,789 --> 00:27:58,799
+what's happening in the AI world. I've
+ 
+
+1587
+00:27:58,799 --> 00:28:00,789
+what's happening in the AI world. I've
+also been doing more tutorials and
+
+1588
+00:28:00,789 --> 00:28:00,799
+also been doing more tutorials and
+ 
+
+1589
+00:28:00,799 --> 00:28:03,669
+also been doing more tutorials and
+exploration of actual good use cases for
+
+1590
+00:28:03,669 --> 00:28:03,679
+exploration of actual good use cases for
+ 
+
+1591
+00:28:03,679 --> 00:28:05,510
+exploration of actual good use cases for
+some of these tools in between my Friday
+
+1592
+00:28:05,510 --> 00:28:05,520
+some of these tools in between my Friday
+ 
+
+1593
+00:28:05,520 --> 00:28:07,669
+some of these tools in between my Friday
+news videos. So, if those two types of
+
+1594
+00:28:07,669 --> 00:28:07,679
+news videos. So, if those two types of
+ 
+
+1595
+00:28:07,679 --> 00:28:09,510
+news videos. So, if those two types of
+videos interest you, maybe consider
+
+1596
+00:28:09,510 --> 00:28:09,520
+videos interest you, maybe consider
+ 
+
+1597
+00:28:09,520 --> 00:28:11,190
+videos interest you, maybe consider
+liking this one and subscribing to this
+
+1598
+00:28:11,190 --> 00:28:11,200
+liking this one and subscribing to this
+ 
+
+1599
+00:28:11,200 --> 00:28:12,470
+liking this one and subscribing to this
+channel and I'll make sure more stuff
+
+1600
+00:28:12,470 --> 00:28:12,480
+channel and I'll make sure more stuff
+ 
+
+1601
+00:28:12,480 --> 00:28:13,830
+channel and I'll make sure more stuff
+like that shows up in your feed. I'm
+
+1602
+00:28:13,830 --> 00:28:13,840
+like that shows up in your feed. I'm
+ 
+
+1603
+00:28:13,840 --> 00:28:16,470
+like that shows up in your feed. I'm
+like 25,000 people away from a million
+
+1604
+00:28:16,470 --> 00:28:16,480
+like 25,000 people away from a million
+ 
+
+1605
+00:28:16,480 --> 00:28:17,830
+like 25,000 people away from a million
+and I'm really hoping to get there
+
+1606
+00:28:17,830 --> 00:28:17,840
+and I'm really hoping to get there
+ 
+
+1607
+00:28:17,840 --> 00:28:19,510
+and I'm really hoping to get there
+within the next couple months. So, you
+
+1608
+00:28:19,510 --> 00:28:19,520
+within the next couple months. So, you
+ 
+
+1609
+00:28:19,520 --> 00:28:20,870
+within the next couple months. So, you
+could definitely help me get there by
+
+1610
+00:28:20,870 --> 00:28:20,880
+could definitely help me get there by
+ 
+
+1611
+00:28:20,880 --> 00:28:22,710
+could definitely help me get there by
+just pressing that one little button.
+
+1612
+00:28:22,710 --> 00:28:22,720
+just pressing that one little button.
+ 
+
+1613
+00:28:22,720 --> 00:28:24,389
+just pressing that one little button.
+That'd be really cool. Sorry, I'll stop
+
+1614
+00:28:24,389 --> 00:28:24,399
+That'd be really cool. Sorry, I'll stop
+ 
+
+1615
+00:28:24,399 --> 00:28:26,149
+That'd be really cool. Sorry, I'll stop
+begging now. But anyway, my real goal
+
+1616
+00:28:26,149 --> 00:28:26,159
+begging now. But anyway, my real goal
+ 
+
+1617
+00:28:26,159 --> 00:28:27,750
+begging now. But anyway, my real goal
+here is to try to save you from
+
+1618
+00:28:27,750 --> 00:28:27,760
+here is to try to save you from
+ 
+
+1619
+00:28:27,760 --> 00:28:29,590
+here is to try to save you from
+overwhelm and also show you some
+
+1620
+00:28:29,590 --> 00:28:29,600
+overwhelm and also show you some
+ 
+
+1621
+00:28:29,600 --> 00:28:31,990
+overwhelm and also show you some
+practical real world use cases of a lot
+
+1622
+00:28:31,990 --> 00:28:32,000
+practical real world use cases of a lot
+ 
+
+1623
+00:28:32,000 --> 00:28:33,830
+practical real world use cases of a lot
+of this stuff that's coming out. I do
+
+1624
+00:28:33,830 --> 00:28:33,840
+of this stuff that's coming out. I do
+ 
+
+1625
+00:28:33,840 --> 00:28:35,669
+of this stuff that's coming out. I do
+record these videos on Thursdays and
+
+1626
+00:28:35,669 --> 00:28:35,679
+record these videos on Thursdays and
+ 
+
+1627
+00:28:35,679 --> 00:28:38,149
+record these videos on Thursdays and
+then I go and publish them on Fridays.
+
+1628
+00:28:38,149 --> 00:28:38,159
+then I go and publish them on Fridays.
+ 
+
+1629
+00:28:38,159 --> 00:28:40,389
+then I go and publish them on Fridays.
+So, if any new news came out like late
+
+1630
+00:28:40,389 --> 00:28:40,399
+So, if any new news came out like late
+ 
+
+1631
+00:28:40,399 --> 00:28:43,510
+So, if any new news came out like late
+Thursday evening or on Friday, well,
+
+1632
+00:28:43,510 --> 00:28:43,520
+Thursday evening or on Friday, well,
+ 
+
+1633
+00:28:43,520 --> 00:28:45,110
+Thursday evening or on Friday, well,
+they'll typically make the following
+
+1634
+00:28:45,110 --> 00:28:45,120
+they'll typically make the following
+ 
+
+1635
+00:28:45,120 --> 00:28:47,350
+they'll typically make the following
+week's video. But again, that's what I
+
+1636
+00:28:47,350 --> 00:28:47,360
+week's video. But again, that's what I
+ 
+
+1637
+00:28:47,360 --> 00:28:48,630
+week's video. But again, that's what I
+got for you. Hopefully, you learned
+
+1638
+00:28:48,630 --> 00:28:48,640
+got for you. Hopefully, you learned
+ 
+
+1639
+00:28:48,640 --> 00:28:49,990
+got for you. Hopefully, you learned
+something. Hopefully, you found this
+
+1640
+00:28:49,990 --> 00:28:50,000
+something. Hopefully, you found this
+ 
+
+1641
+00:28:50,000 --> 00:28:51,590
+something. Hopefully, you found this
+helpful. I really appreciate you. Thanks
+
+1642
+00:28:51,590 --> 00:28:51,600
+helpful. I really appreciate you. Thanks
+ 
+
+1643
+00:28:51,600 --> 00:28:53,430
+helpful. I really appreciate you. Thanks
+for nerding out with me. And hopefully
+
+1644
+00:28:53,430 --> 00:28:53,440
+for nerding out with me. And hopefully
+ 
+
+1645
+00:28:53,440 --> 00:29:05,990
+for nerding out with me. And hopefully
+I'll see you in the next one. Bye-bye.
+
+1646
+00:29:05,990 --> 00:29:06,000
+
+ 
+
+1647
+00:29:06,000 --> 00:29:13,750
+
+Woohoo.
+
+1648
+00:29:13,750 --> 00:29:13,760
+
+ 
+
+1649
+00:29:13,760 --> 00:29:17,830
+
+What is up P everybody?
+
+1650
+00:29:17,830 --> 00:29:17,840
+
+ 
+
+1651
+00:29:17,840 --> 00:29:22,159
+
+And we're live. What a way to start the
+

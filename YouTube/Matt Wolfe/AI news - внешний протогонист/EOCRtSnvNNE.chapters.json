@@ -1,0 +1,101 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "platform": "youtube",
+    "video_id": "EOCRtSnvNNE",
+    "url": "https://www.youtube.com/watch?v=EOCRtSnvNNE",
+    "title": "AI News: GPT-5.6 and the new Super App are a Massive Leap!"
+  },
+  "chapters": [
+    {
+      "start_time": 0.0,
+      "title": "Intro",
+      "end_time": 12.0
+    },
+    {
+      "start_time": 12.0,
+      "title": "GPT-5.6",
+      "end_time": 216.0
+    },
+    {
+      "start_time": 216.0,
+      "title": "OpenAI SuperApp",
+      "end_time": 774.0
+    },
+    {
+      "start_time": 774.0,
+      "title": "Hyperagent",
+      "end_time": 972.0
+    },
+    {
+      "start_time": 972.0,
+      "title": "GPT-Live",
+      "end_time": 1124.0
+    },
+    {
+      "start_time": 1124.0,
+      "title": "Grok 4.5",
+      "end_time": 1407.0
+    },
+    {
+      "start_time": 1407.0,
+      "title": "Muse Spark 1.1",
+      "end_time": 1575.0
+    },
+    {
+      "start_time": 1575.0,
+      "title": "Fable Comparison",
+      "end_time": 1659.0
+    },
+    {
+      "start_time": 1659.0,
+      "title": "Muse Image",
+      "end_time": 1744.0
+    },
+    {
+      "start_time": 1744.0,
+      "title": "New Future Tools",
+      "end_time": 1767.0
+    },
+    {
+      "start_time": 1767.0,
+      "title": "More Fable Access",
+      "end_time": 1824.0
+    },
+    {
+      "start_time": 1824.0,
+      "title": "Claude Cowork Mobile",
+      "end_time": 1872.0
+    },
+    {
+      "start_time": 1872.0,
+      "title": "Claude Reflect",
+      "end_time": 1897.0
+    },
+    {
+      "start_time": 1897.0,
+      "title": "J-Space",
+      "end_time": 1964.0
+    },
+    {
+      "start_time": 1964.0,
+      "title": "Google Photos Video Update",
+      "end_time": 1983.0
+    },
+    {
+      "start_time": 1983.0,
+      "title": "Seedream 5.0 Pro",
+      "end_time": 2042.0
+    },
+    {
+      "start_time": 2042.0,
+      "title": "GPT-5.6 vs. Fable",
+      "end_time": 2296.0
+    },
+    {
+      "start_time": 2296.0,
+      "title": "WTF?",
+      "end_time": 2320
+    }
+  ]
+}

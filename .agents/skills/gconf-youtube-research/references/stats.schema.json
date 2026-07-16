@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GCONF YouTube stats",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "status",
+    "collected_at",
+    "workspace",
+    "source",
+    "statistics",
+    "subtitles",
+    "files",
+    "limitations"
+  ],
+  "properties": {
+    "schema_version": {"const": "2.0"},
+    "status": {"enum": ["complete", "partial"]},
+    "collected_at": {"type": "string"},
+    "workspace": {"type": "object"},
+    "source": {"type": "object"},
+    "statistics": {"type": "object"},
+    "subtitles": {"type": "object"},
+    "files": {"type": "object"},
+    "limitations": {"type": "array", "items": {"type": "string"}}
+  }
+}

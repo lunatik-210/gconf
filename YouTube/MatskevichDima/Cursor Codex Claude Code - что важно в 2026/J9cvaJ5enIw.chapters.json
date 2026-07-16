@@ -1,0 +1,116 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "platform": "youtube",
+    "video_id": "J9cvaJ5enIw",
+    "url": "https://www.youtube.com/watch?v=J9cvaJ5enIw",
+    "title": "Cursor, Codex, Claude Code — что реально важно в 2026? как ai меняет работу, бизнес и мышление?"
+  },
+  "chapters": [
+    {
+      "start_time": 0.0,
+      "title": "Two poles: classic vibe coding vs. coding agents",
+      "end_time": 71.0
+    },
+    {
+      "start_time": 71.0,
+      "title": "What are coding agents: Cursor, Claude Code, Codex",
+      "end_time": 202.0
+    },
+    {
+      "start_time": 202.0,
+      "title": "Lesha's cases: personal finances, an Apple Watch for a child, a collective farm, his own CRM",
+      "end_time": 370.0
+    },
+    {
+      "start_time": 370.0,
+      "title": "Hyperpersonalization — the main strength of coding agents",
+      "end_time": 440.0
+    },
+    {
+      "start_time": 440.0,
+      "title": "Tools: Supabase, Railway, Pencil",
+      "end_time": 664.0
+    },
+    {
+      "start_time": 664.0,
+      "title": "Dima: Coding agents for non-coding tasks",
+      "end_time": 846.0
+    },
+    {
+      "start_time": 846.0,
+      "title": "Case study: hiring a CEO using Codex and MCP",
+      "end_time": 995.0
+    },
+    {
+      "start_time": 995.0,
+      "title": "gconf as an agentic-first workflow",
+      "end_time": 1071.0
+    },
+    {
+      "start_time": 1071.0,
+      "title": "The principle: don't touch anything with your hands",
+      "end_time": 1140.0
+    },
+    {
+      "start_time": 1140.0,
+      "title": "Health OS — an operating system for your health",
+      "end_time": 1283.0
+    },
+    {
+      "start_time": 1283.0,
+      "title": "Empathy for agents and self-organization of data",
+      "end_time": 1501.0
+    },
+    {
+      "start_time": 1501.0,
+      "title": "Cursor vs. Codex vs. Claude Code — An Honest Comparison",
+      "end_time": 1711.0
+    },
+    {
+      "start_time": 1711.0,
+      "title": "Cost: Why $100-300/month Is Okay",
+      "end_time": 2016.0
+    },
+    {
+      "start_time": 2016.0,
+      "title": "Meta-Skills Are More Important Than Tools",
+      "end_time": 2214.0
+    },
+    {
+      "start_time": 2214.0,
+      "title": "Expanding the Possible",
+      "end_time": 2397.0
+    },
+    {
+      "start_time": 2397.0,
+      "title": "\"Was That Even Possible?\" — The Power of the Environment",
+      "end_time": 2526.0
+    },
+    {
+      "start_time": 2526.0,
+      "title": "Data Security and AI",
+      "end_time": 2706.0
+    },
+    {
+      "start_time": 2706.0,
+      "title": "Opus vs. Codex: Model Characteristics",
+      "end_time": 2928.0
+    },
+    {
+      "start_time": 2928.0,
+      "title": "Business Subscriptions and Where to Store Data",
+      "end_time": 3056.0
+    },
+    {
+      "start_time": 3056.0,
+      "title": "gconf: 3 Streams (Newbies → Curiosity → Builders)",
+      "end_time": 3227.0
+    },
+    {
+      "start_time": 3227.0,
+      "title": "Inspiration + Transformation: What's Really Important",
+      "end_time": 3355
+    }
+  ]
+}

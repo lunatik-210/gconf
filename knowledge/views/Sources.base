@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.inFolder("sources")
+views:
+  - type: table
+    name: Sources
+    order:
+      - file.name
+      - platform
+      - visibility
+      - document_count

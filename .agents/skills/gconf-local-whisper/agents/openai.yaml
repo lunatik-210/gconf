@@ -1,0 +1,6 @@
+interface:
+  display_name: "GCONF Local Whisper"
+  short_description: "Локальная транскрибация через whisper.cpp"
+  default_prompt: "Use $gconf-local-whisper to transcribe this local audio or video file."
+policy:
+  allow_implicit_invocation: true

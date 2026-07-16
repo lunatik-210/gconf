@@ -1,0 +1,111 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "platform": "youtube",
+    "video_id": "NVP_paJarG4",
+    "url": "https://www.youtube.com/watch?v=NVP_paJarG4",
+    "title": "AI News: Fable's Back But This New Model is Better?"
+  },
+  "chapters": [
+    {
+      "start_time": 0.0,
+      "title": "Intro",
+      "end_time": 6.0
+    },
+    {
+      "start_time": 6.0,
+      "title": "Fable 5 is Back",
+      "end_time": 146.0
+    },
+    {
+      "start_time": 146.0,
+      "title": "Fable 5 Examples",
+      "end_time": 358.0
+    },
+    {
+      "start_time": 358.0,
+      "title": "BuseyBench",
+      "end_time": 612.0
+    },
+    {
+      "start_time": 612.0,
+      "title": "Fable 5 is Going Away",
+      "end_time": 665.0
+    },
+    {
+      "start_time": 665.0,
+      "title": "Genspark Claw",
+      "end_time": 753.0
+    },
+    {
+      "start_time": 753.0,
+      "title": "GPT-5.6",
+      "end_time": 925.0
+    },
+    {
+      "start_time": 925.0,
+      "title": "Government AI Stake",
+      "end_time": 1037.0
+    },
+    {
+      "start_time": 1037.0,
+      "title": "Claude Sonnet 5",
+      "end_time": 1163.0
+    },
+    {
+      "start_time": 1163.0,
+      "title": "Nano Banana 2 Lite",
+      "end_time": 1232.0
+    },
+    {
+      "start_time": 1232.0,
+      "title": "Gemini Omni Flash",
+      "end_time": 1336.0
+    },
+    {
+      "start_time": 1336.0,
+      "title": "NotebookLM Shorts",
+      "end_time": 1424.0
+    },
+    {
+      "start_time": 1424.0,
+      "title": "Claude Science",
+      "end_time": 1460.0
+    },
+    {
+      "start_time": 1460.0,
+      "title": "Cursor on iOS",
+      "end_time": 1484.0
+    },
+    {
+      "start_time": 1484.0,
+      "title": "X MCP",
+      "end_time": 1504.0
+    },
+    {
+      "start_time": 1504.0,
+      "title": "AI in Google Meet",
+      "end_time": 1529.0
+    },
+    {
+      "start_time": 1529.0,
+      "title": "Gemini Spark on macOS",
+      "end_time": 1598.0
+    },
+    {
+      "start_time": 1598.0,
+      "title": "OpenAI New Hardware",
+      "end_time": 1656.0
+    },
+    {
+      "start_time": 1656.0,
+      "title": "Final Thoughts",
+      "end_time": 1734.0
+    },
+    {
+      "start_time": 1734.0,
+      "title": "Huh?",
+      "end_time": 1760
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "status": "complete",
+  "collected_at": "2026-07-16T14:42:25Z",
+  "workspace": {
+    "creator_folder": "YouTube/WesRoth",
+    "video_folder": "YouTube/WesRoth/cwf2vEAigKA"
+  },
+  "source": {
+    "platform": "youtube",
+    "video_id": "cwf2vEAigKA",
+    "url": "https://www.youtube.com/watch?v=cwf2vEAigKA",
+    "original_url": "https://www.youtube.com/watch?v=cwf2vEAigKA",
+    "requested_start_seconds": null,
+    "requested_start_context": null,
+    "title": "Claude Built the Ultimate Second Brain",
+    "channel": "Wes Roth",
+    "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+    "uploader": "Wes Roth",
+    "uploader_id": "@WesRoth",
+    "description": "The guide to building a \"second brain\" (give it to your chatbot)\nhttps://natural20.com/using-claude-code-to-setup-a-second-brain-aka-llm-wiki\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRoth\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\n______________________________________________\n\n00:00 LLM Wiki aka \"Second Brain\"\n05:38 tour of the \"Second Brain\"\n16:23 Obsidian\n19:06 Ingesting New Info\n21:20 Kanban Board\n26:26 the final \"output\"\n29:56 How to Build This\n\n\n\n#ai #openai #llm",
+    "duration_seconds": 2213,
+    "duration_display": "36:53",
+    "upload_date": "20260714",
+    "published_timestamp_utc": 1783996374,
+    "availability": "public",
+    "live_status": "not_live",
+    "license": null,
+    "categories": [
+      "Education"
+    ],
+    "tags": []
+  },
+  "statistics": {
+    "view_count": 56111,
+    "like_count": 1674,
+    "comment_count_reported": 269,
+    "comments_extracted": 269,
+    "root_comments": 150,
+    "replies": 119,
+    "comments_status": "complete",
+    "channel_follower_count": 322000,
+    "chapters_count": 7
+  },
+  "subtitles": {
+    "manual_available": false,
+    "manual_languages": [],
+    "automatic_available": true,
+    "automatic_language_count": 157,
+    "source_language": "en",
+    "primary_source": "automatic",
+    "primary_transcript": "./cwf2vEAigKA.en-orig.srt",
+    "whisper_used": false
+  },
+  "files": {
+    "raw_metadata": "./cwf2vEAigKA.info.json",
+    "stats": "./cwf2vEAigKA.stats.json",
+    "comments": "./cwf2vEAigKA.comments.json",
+    "chapters": "./cwf2vEAigKA.chapters.json",
+    "description": "./cwf2vEAigKA.description",
+    "thumbnail": "./cwf2vEAigKA.jpg",
+    "primary_transcript": "./cwf2vEAigKA.en-orig.srt"
+  },
+  "limitations": [
+    "Public statistics are a time-bound snapshot and may change.",
+    "The primary transcript is automatically generated and may contain errors."
+  ]
+}

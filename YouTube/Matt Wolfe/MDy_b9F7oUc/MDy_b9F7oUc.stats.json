@@ -1,0 +1,96 @@
+{
+  "schema_version": "2.0",
+  "status": "complete",
+  "collected_at": "2026-07-16T14:42:25Z",
+  "workspace": {
+    "creator_folder": "YouTube/Matt Wolfe",
+    "video_folder": "YouTube/Matt Wolfe/MDy_b9F7oUc"
+  },
+  "source": {
+    "platform": "youtube",
+    "video_id": "MDy_b9F7oUc",
+    "url": "https://www.youtube.com/watch?v=MDy_b9F7oUc",
+    "original_url": "https://www.youtube.com/watch?v=MDy_b9F7oUc",
+    "requested_start_seconds": null,
+    "requested_start_context": null,
+    "title": "Complete Guide to ChatGPT 5.6 + Prompting Guide",
+    "channel": "Matt Wolfe",
+    "channel_id": "UChpleBmo18P08aKCIgti38g",
+    "uploader": "Matt Wolfe",
+    "uploader_id": "@mreflow",
+    "description": "Here's your complete guide to the new ChatGPT app - Download it free here: https://chatgpt.com/download/?utm_source=creator&utm_campaign=youtube&utm_content=partnership-mattwolfe\n\nThe complete guide to ChatGPT 5.6 and the new ChatGPT app, from someone who used 6.8 billion tokens on it in the last two weeks.\n\nOpenAI just combined ChatGPT, Codex, their browser, and ChatGPT Work into one platform. The 5.6 models running underneath are the best I've used. In this video I walk through the full app, the prompts I actually use every day, and some of the wildest things the community has built with it.\n\nI cover the personal assistant setup that reads everything in my business, ChatGPT Work mode, Codex for development, the Sites feature, scheduled tasks, real builds from the community, and the Wolf Control Tower I built just for myself to run Future Tools.\nThis video is sponsored by OpenAI. Everything I say is my honest experience.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#ChatGPT56 #GPT56 #openai \n\nTIMESTAMPS: \n00:00 Intro\n00:52 New ChatGPT App Tour\n03:14 Scheduled Tasks & Side Chat\n04:26 Connecting Your Apps\n05:54 Prompt Demos Begin\n07:22 Building a Personal Assistant\n09:02 Teaching It Your Voice\n10:15 Book One-Pager\n11:25 AI-Made Slide Deck\n12:25 Researching With Logged-In Browser\n13:59 Panel Prep Doc\n15:40 Weekly Task Rundown\n17:20 Cold Leads & Email Drafts\n18:48 Assistant Prompt\n22:20 Switching to Codex & GPT-5.6\n23:00 Rebuilding Craigslist\n24:48 Building a Game\n27:05 Fully AI-Generated Videos\n28:55 Controlling Blender With AI\n29:55 3D City Builds\n32:00 Future Tools Overhaul\n32:40 BuseyBench\n33:48 The Wolf Control Tower\n36:00 One-Prompt Mini Apps\n37:20 Final Thoughts",
+    "duration_seconds": 2337,
+    "duration_display": "38:57",
+    "upload_date": "20260715",
+    "published_timestamp_utc": 1784153872,
+    "availability": "public",
+    "live_status": "not_live",
+    "license": null,
+    "categories": [
+      "Science & Technology"
+    ],
+    "tags": [
+      "AI",
+      "Artificial Intelligence",
+      "FutureTools",
+      "Futurism",
+      "Machine Learning",
+      "Deep Learning",
+      "Future Tools",
+      "Matt Wolfe",
+      "AI News",
+      "AI Tools",
+      "chatgpt 5.6",
+      "gpt 5.6",
+      "gpt 5.6 sol",
+      "chatgpt 5.6 tutorial",
+      "chatgpt 5.6 review",
+      "chatgpt work mode",
+      "openai codex tutorial",
+      "chatgpt personal assistant",
+      "gpt 5.6 prompts",
+      "chatgpt new app 2026",
+      "chatgpt sites feature",
+      "openai new app",
+      "chatgpt 5.6 sol ultra",
+      "best chatgpt prompts 2026",
+      "chatgpt for business",
+      "chatgpt 5.6 demo",
+      "matt wolfe"
+    ]
+  },
+  "statistics": {
+    "view_count": 18763,
+    "like_count": 1033,
+    "comment_count_reported": 100,
+    "comments_extracted": 100,
+    "root_comments": 83,
+    "replies": 17,
+    "comments_status": "complete",
+    "channel_follower_count": 979000,
+    "chapters_count": 25
+  },
+  "subtitles": {
+    "manual_available": false,
+    "manual_languages": [],
+    "automatic_available": true,
+    "automatic_language_count": 157,
+    "source_language": "en",
+    "primary_source": "automatic",
+    "primary_transcript": "./MDy_b9F7oUc.en-orig.srt",
+    "whisper_used": false
+  },
+  "files": {
+    "raw_metadata": "./MDy_b9F7oUc.info.json",
+    "stats": "./MDy_b9F7oUc.stats.json",
+    "comments": "./MDy_b9F7oUc.comments.json",
+    "chapters": "./MDy_b9F7oUc.chapters.json",
+    "description": "./MDy_b9F7oUc.description",
+    "thumbnail": "./MDy_b9F7oUc.webp",
+    "primary_transcript": "./MDy_b9F7oUc.en-orig.srt"
+  },
+  "limitations": [
+    "Public statistics are a time-bound snapshot and may change.",
+    "The primary transcript is automatically generated and may contain errors."
+  ]
+}

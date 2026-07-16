@@ -1,0 +1,1713 @@
+{
+  "schema_version": "1.0.0",
+  "name": "GCONF (@gconf.io)",
+  "type": "instagram_profile",
+  "id": "gconf.io",
+  "profile_url": "https://www.instagram.com/gconf.io/",
+  "collected_at": "2026-07-14T15:03:43.026Z",
+  "collection": {
+    "requested_posts": 7,
+    "collected_posts": 7,
+    "selection_strategy": "latest_by_published_at_desc",
+    "date_from": "2026-05-15T11:49:44.000Z",
+    "date_to": "2026-07-13T10:18:11.000Z",
+    "date_from_date": "2026-05-15",
+    "date_to_date": "2026-07-13",
+    "pinned_posts_ignored_for_order": [
+      {
+        "id": "DafUhD0F5Yh",
+        "date": "2026-07-07",
+        "url": "https://www.instagram.com/gconf.io/p/DafUhD0F5Yh/"
+      }
+    ],
+    "access": "public_logged_out_instagram_web",
+    "comments_policy": "all comments exposed in embedded public page data; may be fewer than comments_total",
+    "carousel_policy": "all carousel_media items exposed in embedded structured data",
+    "display_urls_ephemeral": true
+  },
+  "profile": {
+    "biography": "проводим за ручку в мир агентов и ии за 3 недели | 27 июля 👇",
+    "external_url": null,
+    "external_urls": [
+      {
+        "title": "детали и подробности потока | 27 июля",
+        "url": "https://t.me/gptconf_bot?start=s_main_jul27_gconf_profile"
+      },
+      {
+        "title": "Поддержка",
+        "url": "https://t.me/gconfsupport"
+      },
+      {
+        "title": "Наш канал про ИИ",
+        "url": "https://t.me/gptlovers"
+      }
+    ],
+    "follower_count": 9677,
+    "following_count": 3,
+    "full_name": "интенсивы по ai каждые 2 месяца 🫶",
+    "id": "17841460723726368",
+    "is_verified": false,
+    "pk": "60770944124",
+    "username": "gconf.io"
+  },
+  "messages": [
+    {
+      "id": "DaurvLKDQIu",
+      "type": "instagram_post",
+      "date": "2026-07-13T10:18:11.000Z",
+      "date_unixtime": "1783937891",
+      "from": "gconf.io",
+      "from_id": "instagram17841460723726368",
+      "profile_context": "gconf.io",
+      "url": "https://www.instagram.com/gconf.io/p/DaurvLKDQIu/",
+      "media_type": "carousel",
+      "coauthors": [],
+      "location": null,
+      "caption": "27 июля · vibe coding · 3 недели · авторский интенсив\n\nна новом потоке vibe coding за 3 недели поможем сделать переход от диалогов с chatgpt к личной системе агентов: codex, claude code и cowork\n\nза 3 недели мы с вами: \n\n-  поставим весь актуальный ии-сетап с codex / claude code / cowork (даже если вы в РФ) \n-  настроим свои первый связки и автоматизации\n-  соберем первые лендинги, приложения и автоматизации\n- поймёте, где именно агенты могут помогать конкретно вам, и увидишь, насколько это поле шире, чем просто chat gpt \n\n3 недели практики · материалы остаются · живые созвоны каждую неделю ·  практика каждый день \n\nстоимость: $650 / 52,000 рублей \n27 июля - 3 недели \n\nесли давно хотелось подружиться с ai, но непонятно с чего начать — это тот самый поток 😉\n\n«vibe» в комменты - отправим детали и подробности, как записаться на поток 👇",
+      "caption_entities": [],
+      "metrics": {
+        "likes": 9,
+        "comments_total": 1,
+        "comments_collected": 1
+      },
+      "media": {
+        "carousel": true,
+        "slides_count_detected": 7,
+        "slides": [
+          {
+            "index": 1,
+            "id": "POLARIS_3940278069162692533",
+            "pk": "3940278069162692533",
+            "media_type": "image",
+            "date": "2026-07-13T10:18:11.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 13, 2026. May be a Twitter screenshot of poster, crossword puzzle and text that says 'Г gconf] ] 01 01/07 07 поставили задачу придумать сайт пару дней- офигела, когда это заняло день vibe coding 4-й поТОк программа потокα OT настройки -ст и базы мета- навыков до первых агентик-процессов за 3 недели хочу собрать самый Сок, экономя время на своих тестах, A опылиться кейсами других хочу разобраться, как автоматизировать workflow и сократить расходы на найм зависла в в проекте, overwhelmed идей двигаться аться вперёд ДвИГ старт 27 июля хочу 3 недели $650'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746171436_17982232971024125_6163173007527071179_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UuEUqrmioAoQ7kNvwH7i3Pa&_nc_oc=AdqLD1m7OZkST807j6wQ2MOA504abJvdYzwmmeTJC0UAlJXveraJx2p-xByj1QP5kh2Zbkn_lmLdpEyBpnVHiNye&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Q780KfpBRMizqWG8aBr-0w&_nc_ss=7b689&oh=00_AQAhDPPEXhEdUaHKlhzBuC2-AO_RPKtn5GsTnjYf_qWQyw&oe=6A5C30FD",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 2,
+            "id": "POLARIS_3940278070127398925",
+            "pk": "3940278070127398925",
+            "media_type": "image",
+            "date": "2026-07-13T10:18:11.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 13, 2026. May be a cartoon of text that says '[ 02 ] старт 02 02/07 07 шаг первый настройка BCEX доступов 01 стек codex claude code засетапим самый актуальный стек openclaw hermes 02 доступ поможем настроить даже из россии проведём за руку, чтобы работал весь стек без ганцев с бубном 03 персонализация настроим ai под вас метапромт tone of voice кастомные инструкции ты точно справишься отвечу на все вопросы и разберёмся co всеми сложностями'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/747761165_17982232980024125_3655472235672951619_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bEArOwgWH3EQ7kNvwFecLMu&_nc_oc=Ado-NiTO1mlOiAoH8qXKXPUi3GG1CB0kBkbvoIiVzyO5kjo5qH_3Wp8NfabMylHDanXSqCKVCkIle40n1xXXenDA&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Q780KfpBRMizqWG8aBr-0w&_nc_ss=7b689&oh=00_AQBuakUetrWXwrnCpPnrMPp-yP3kaA-ckX5Hvv1_qY5MpA&oe=6A5C34DD",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 3,
+            "id": "POLARIS_3940278070823833560",
+            "pk": "3940278070823833560",
+            "media_type": "image",
+            "date": "2026-07-13T10:18:11.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 13, 2026. May be a graphic of poster, magazine, crossword puzzle and text that says '03 ] фундамент шаг второй база мета-навыков 03/07 07 03 01 как думает модель - V почему модели галлюцинируют это фича, не баг как использовать её себе на пользу 02 достоверность когда нужны точные данные как выстроить диалог, чтобы модель не выдумывала 03 глубина режим глубокого мышления думать над задачей вместе с очень умным собеседником автор блока база мета-навыков от димы мацкевича'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746261217_17982232989024125_5450034336113426455_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5gXrPQBY1yQQ7kNvwGIX_gA&_nc_oc=AdqULwsGQw965KjPK1lt0d26lFjSh5SyzA0et0AyfR5hnBqtFlOfubfXrUtmnYIEwm2LnjLx88IBIpGyeG97cgnf&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Q780KfpBRMizqWG8aBr-0w&_nc_ss=7b689&oh=00_AQAj6ICQNWo3iJb_x3A3DhisQUC0-YTld5bY9qiQZjYzYw&oe=6A5C2EE4",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 4,
+            "id": "POLARIS_3940278070949537552",
+            "pk": "3940278070949537552",
+            "media_type": "image",
+            "date": "2026-07-13T10:18:11.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 13, 2026. May be a graphic of poster and text that says '04 в потоке в основном потоке 04 04/07 07 микроквест кахдый день 01 красивый, не \"<иишный>> дизайн с агентами 02 сайты, презентации и упаковка контента 03 свои первые агентик-процессы 04 агент с доступом из своего телеграма 05 скиллы: как их создавать и под какие кейсы // истории участников telegram-6oT, который генерирует тренировку для спортзала веб-сервис для изучения китайских слов ai news агрегатор а.-новостей с комментариями экспертов тг'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/747062749_17982233016024125_6266589321564188521_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UrJtM77eTEoQ7kNvwFABN84&_nc_oc=AdpS33Sm-HoPQYDVyGxIXhhfJdbCr8IXh_koSh5hYFf4oKi6pdpk6seKdGfsA4ao2MA_R5FUBlwAQm_ol2KMV0sg&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Q780KfpBRMizqWG8aBr-0w&_nc_ss=7b689&oh=00_AQDHNr0NWBiqbtyo3v2oHY_VrV7IyZ9JSYPlexY253dtpQ&oe=6A5C38F5",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 5,
+            "id": "POLARIS_3940278071209735104",
+            "pk": "3940278071209735104",
+            "media_type": "image",
+            "date": "2026-07-13T10:18:11.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 13, 2026. May be a Twitter screenshot of poster, crossword puzzle, magazine and text that says '[ 05 запросы с чем приходят 05 /07 05/07 07 «МНого тыкаюсь ручками в автоматизацию и прототипирование- хочу собрать самый сок, экономя время на своих тестах, и опылиться кейсами других\" друг ИХ» предприниматель <сделать vibe coding такой же естественной и полезной частью жизни, как chatgpt» продакт «разобраться, как автоматизировать workflow, сократить время задач и расходы на найм сотрудников» основатель агенства фаундер <<зависла проекте, overwhelmed от объёма информации идей, которые хочу реализовать. хочу научиться двигаться вперёд» дизайнер <поставили задачу придумать сайт за пару дней. офигела, это заняло день. решила изучить побольше\"'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746927494_17982233007024125_4309403397208616587_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bnqJebhvXkwQ7kNvwH9IRsQ&_nc_oc=Adpada4VtWnG4sspwpbt3ZZ_WPhBZGmMlUbggFHsNpbR5DhwTLt2UiFDjbp1QDP5YXMqaMLN4GlhME3wEhiOfezW&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Q780KfpBRMizqWG8aBr-0w&_nc_ss=7b689&oh=00_AQBICEq7bGftR_e5d8a1TsScSp8PTL0tTYqFBJXAESTeeA&oe=6A5C29F8",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 6,
+            "id": "POLARIS_3940278073634007104",
+            "pk": "3940278073634007104",
+            "media_type": "image",
+            "date": "2026-07-13T10:18:11.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 13, 2026. May be a Twitter screenshot of crossword puzzle and text that says '[ 06 ] кейсы чем уходят 06 /07 07 codex корпоративный мессенджер без опыта <<начал пятницу, во вторник закончил> бот <домашний доктор» для мамы: анализы, история здоровья, роли врачей, понятное письмо система задачи из чата claude улетают в trello, сортируются и 1 утром анализируются анализ разбор 2+ лет переписок a структуру: темы, триггеры, паттерны в web шпаргалка по испанской документы, порядок действий, роли участников бот -бот в telegram: кидаешь ссылки идеи агент разбирает и сортирует в работу бот коуч-бот B telegram на димином промпте с памятью контекста ар miniapp для клиентов нутрициолога: сбор данных неделю отчёт дашборды'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/746350931_17982233025024125_3007901253084639693_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ckaNfgmX2kMQ7kNvwETKCrU&_nc_oc=AdocQmpiKOTQzHv70XGfTZCk3P_uGHzSvZOGpCZCWDBehH_OythLGj9NFhxoDpZOFf_L-30_NwH-AQuDIA9dx-Cg&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Q780KfpBRMizqWG8aBr-0w&_nc_ss=7b689&oh=00_AQDGHBwbgLAjVvnMcBqmadNOTCZnCv6dWg453UwZDmr2-g&oe=6A5C3BEC",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 7,
+            "id": "POLARIS_3940278073071770525",
+            "pk": "3940278073071770525",
+            "media_type": "image",
+            "date": "2026-07-13T10:18:11.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 13, 2026. May be an image of poster and text that says '[37]capT [ 07 ] старт 07 07/07 07 «vibe» в комменты - скинем детали если давно хотелось подружиться с ai по- настоящему это тот самый поТок старт 27 июля длительность 3 недели стоимость $650• •52 $650.52000 000'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/747889757_17982232998024125_2585421539194496430_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hPqocnjxzzwQ7kNvwF3CxEc&_nc_oc=AdrcHE17GcgBMWZCe1wsQBqoZ1EF-JKPBb5MehFZMurtKS9OU_kMFzs6AEYSl7i3cUrE5oqBdJ9T9ZTfhJ5ONQ5f&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Q780KfpBRMizqWG8aBr-0w&_nc_ss=7b689&oh=00_AQDhV57NBnyRZgQKPqLInqhGdJ_t1ELMdxyYaVbg_lACsw&oe=6A5C0FAF",
+            "display_url_ephemeral": true
+          }
+        ],
+        "parse_method": "instagram_embedded_structured_data",
+        "complete": true
+      },
+      "comments": [
+        {
+          "id": "18099904580622477",
+          "type": "comment",
+          "date": "2026-07-13T10:45:13.000Z",
+          "date_unixtime": "1783939513",
+          "from": "bryzhevska",
+          "from_id": "instagram597724986",
+          "url": "https://www.instagram.com/p/DaurvLKDQIu/c/18099904580622477/",
+          "parent_comment_id": null,
+          "text": "Vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        }
+      ],
+      "collection": {
+        "caption_complete": true,
+        "comments_complete": true,
+        "comments_page_info": {
+          "end_cursor": null,
+          "has_next_page": false
+        },
+        "public_access": true
+      }
+    },
+    {
+      "id": "DafUhD0F5Yh",
+      "type": "instagram_post",
+      "date": "2026-07-07T11:06:40.000Z",
+      "date_unixtime": "1783422400",
+      "from": "gconf.io",
+      "from_id": "instagram17841460723726368",
+      "profile_context": "gconf.io",
+      "url": "https://www.instagram.com/gconf.io/p/DafUhD0F5Yh/",
+      "media_type": "carousel",
+      "coauthors": [],
+      "location": null,
+      "caption": "27 июля · vibe coding · 3 недели · авторский интенсив\n\nна новом потоке vibe coding за 3 недели поможем сделать переход от диалогов с chatgpt к личной системе агентов: codex, claude code и cowork\n\nза 3 недели мы с вами: \n\n-  поставим весь актуальный ии-сетап с codex / claude code / cowork (даже если вы в РФ) \n-  настроим свои первый связки и автоматизации\n-  соберем первые лендинги, приложения и автоматизации\n- поймёте, где именно агенты могут помогать конкретно вам, и увидишь, насколько это поле шире, чем просто chat gpt \n\n3 недели практики · материалы остаются · живые созвоны каждую неделю ·  практика каждый день \n\nстоимость: $650 / 52,000 рублей \n\nесли давно хотелось подружиться с ai, но непонятно с чего начать — это тот самый поток 😉\n\nзакидывай «vibe» в комменты и отправим детали и как записаться на поток 👇",
+      "caption_entities": [],
+      "metrics": {
+        "likes": 21,
+        "comments_total": 12,
+        "comments_collected": 11
+      },
+      "media": {
+        "carousel": true,
+        "slides_count_detected": 6,
+        "slides": [
+          {
+            "index": 1,
+            "id": "POLARIS_3935954027698362275",
+            "pk": "3935954027698362275",
+            "media_type": "image",
+            "date": "2026-07-07T11:06:40.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 07, 2026. May be a graphic of poster and text.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/732986310_17981371446024125_2264389686634684284_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2Aj4QwEkSq0Q7kNvwHsl-z1&_nc_oc=AdoQDzQMDjwCFD0cX5NyW1zAKHuHcylSPaYQJdfMbk32t5Hz9UTx5mkArcQwoqaBisMluisXnx361zDhlL6OqGJe&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Ph_ba7lekqXD7GTHSFindQ&_nc_ss=7b689&oh=00_AQDdVRI47Gga-dlkSZ6TFtmf0XJOK9QojYCvNMGoS7X8Hg&oe=6A5C0A57",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 2,
+            "id": "POLARIS_3935954027555790888",
+            "pk": "3935954027555790888",
+            "media_type": "image",
+            "date": "2026-07-07T11:06:40.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 07, 2026. May be a Twitter screenshot of poster and text that says '[ 02 ] за 3 недели за 3 недели вы 02/06 06 02 01 расширите свой -стк кроме chatgpt есть целый мир: codex, claude code, cowork, openclaw, hermes 02 схватите универсальный паттерн работы с любым ai- агентом мета-навык, который не устареет со следующим релизом модели 03 соберёте свои ai-native процессы, которые помогут вам в личной Жизни работе: связка телеграм, бот для здоровья, ваш собранный второй мозг, лендинги и приложения 04 персонализируете свой -сетап: tone of voice, кастомные настройки и память 05 автоматизируете часть рутин в работе и жизни n мы гуманитари-'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/732168352_17981371464024125_7620576818400611165_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=k3Qb1j1ky5AQ7kNvwH16u0u&_nc_oc=AdqzcbrZoymBrEG0W0ZtxkOwkYcG_yb8P-4M0Mf5X4QpIRIVssrImezNNH7Q2VjucDZeCB88mPb5_nWhBgOhhNdQ&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Ph_ba7lekqXD7GTHSFindQ&_nc_ss=7b689&oh=00_AQAECJXjkoXhNvxvg2rMoqTbW5DDEbob-HXasERm-UnZ6w&oe=6A5C3B29",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 3,
+            "id": "POLARIS_3935954028050704775",
+            "pk": "3935954028050704775",
+            "media_type": "image",
+            "date": "2026-07-07T11:06:40.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 07, 2026. May be an image of poster, crossword puzzle and text.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/732130713_17981371425024125_8166879731241957761_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BZcFgvO8cNEQ7kNvwEOhl6b&_nc_oc=AdotqGeVkEN8rczHITOyyvbc9Gr00-9-6ok3T3u9pECYAf6pzUNV27YTmVN-hC1WQ-q7GhtO8rJCC6aAwOJfAhE8&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Ph_ba7lekqXD7GTHSFindQ&_nc_ss=7b689&oh=00_AQC4-1wFPrIHYGELrERPkjX8uppMQS3mxebxxUQBCNxYxw&oe=6A5C127D",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 4,
+            "id": "POLARIS_3935954028193243369",
+            "pk": "3935954028193243369",
+            "media_type": "image",
+            "date": "2026-07-07T11:06:40.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 07, 2026. May be a Twitter screenshot of crossword puzzle, poster and text that says '[ 04 ] запросы чем приходят 04 06 \"<понять принципы вайбкодинга и создания агентов получить готовое решение> анастасия fintech- стратег, сша и \"научиться запускать работающих агентов для бизнес- целей>> олег международный трейдинг, сингапур <<внедрить ai гости>> владелица отеля хорватия управление отелем: планирование, встречи, pr \"интегрировать claude code, cursor и codex в работу и аналитику инвестиций>> инвестиции • Бали психоЛог <сделать ии партнёром по жизни: доводить идеи до реализации»> <перестать тонуть в идеях нише» бизнес-консалтинг и выйти с прототипом в своей великобритания'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/735688304_17981371437024125_8489040755067320405_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=grxliiQ50q8Q7kNvwEDKuvb&_nc_oc=Adpv4hhJLX0kP1_Dor8_ptCRY6DHrSqQy6IVbcM9SqI5KVFxSJ_yo-n5KsyLC2j-rHxhyFo1--MUsmvC7DM8wPwK&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Ph_ba7lekqXD7GTHSFindQ&_nc_ss=7b689&oh=00_AQARDXyEeE4kahuf8MAPvN4d6pfLiWKGyDZbMg4sW6pmHg&oe=6A5C074A",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 5,
+            "id": "POLARIS_3935954028738402132",
+            "pk": "3935954028738402132",
+            "media_type": "image",
+            "date": "2026-07-07T11:06:40.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 07, 2026. May be an image of poster and text.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/742347104_17981371428024125_6423271703118267645_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wVyc4NuZrq4Q7kNvwGrs7bO&_nc_oc=Adq6QnKBEDLkOZQEdlB09j5iCcdtMLMmEbsWNrJXSYlLkllTO5Yv46bxfZp6mpysqu3lhVjqqJIfFq3na3gjIwC6&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Ph_ba7lekqXD7GTHSFindQ&_nc_ss=7b689&oh=00_AQAnur7bxC57RN33Dbb6MTktIIwix5PX_91bM4z87b750Q&oe=6A5C3514",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 6,
+            "id": "POLARIS_3935954028965133171",
+            "pk": "3935954028965133171",
+            "media_type": "image",
+            "date": "2026-07-07T11:06:40.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 07, 2026. May be an image of poster and text that says '[ 06 [06]cTaT•gconf ] старт gconf 06/06 06 06 «vibe» в комменты - скинем детали 3 недели живой практики доступы записи и материалы а-сетап навсегда первые внедрения разборы ваших задач в первую же неделю старт 27 июля длительность 3 недели стоимость $650• •52 $650.52000P 000 52'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/741758003_17981371455024125_6023078345371808646_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6aOlaaEFHgcQ7kNvwE23kF5&_nc_oc=Adqd9j0y9bZns3SqcpSE8ML0u8k1GuNSDm-5mlN0MFeQasysWsutAXd0DR-UnBRh97KEbMr0yfxfGIG7WmD6TeNz&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Ph_ba7lekqXD7GTHSFindQ&_nc_ss=7b689&oh=00_AQBpYv6mrDM3LK2s4EDz85u83joBVVLhAmh_cBuq5a9POw&oe=6A5C32CF",
+            "display_url_ephemeral": true
+          }
+        ],
+        "parse_method": "instagram_embedded_structured_data",
+        "complete": true
+      },
+      "comments": [
+        {
+          "id": "18093055907042415",
+          "type": "comment",
+          "date": "2026-07-13T08:55:37.000Z",
+          "date_unixtime": "1783932937",
+          "from": "andrey.rogatin",
+          "from_id": "instagram270342498",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18093055907042415/",
+          "parent_comment_id": null,
+          "text": "vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18167127031452092",
+          "type": "comment",
+          "date": "2026-07-09T06:25:44.000Z",
+          "date_unixtime": "1783578344",
+          "from": "ksusha_chertkova",
+          "from_id": "instagram728066705",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18167127031452092/",
+          "parent_comment_id": null,
+          "text": "Vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18331411948251226",
+          "type": "comment",
+          "date": "2026-07-08T15:41:02.000Z",
+          "date_unixtime": "1783525262",
+          "from": "andrei.tchernik",
+          "from_id": "instagram3173104056",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18331411948251226/",
+          "parent_comment_id": null,
+          "text": "Vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18135225334603895",
+          "type": "comment",
+          "date": "2026-07-08T10:30:50.000Z",
+          "date_unixtime": "1783506650",
+          "from": "kate_postila",
+          "from_id": "instagram37074501",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18135225334603895/",
+          "parent_comment_id": null,
+          "text": "Vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18122046955805834",
+          "type": "comment",
+          "date": "2026-07-08T08:37:01.000Z",
+          "date_unixtime": "1783499821",
+          "from": "ngorbova",
+          "from_id": "instagram303932905",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18122046955805834/",
+          "parent_comment_id": null,
+          "text": "vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17898476757532361",
+          "type": "comment",
+          "date": "2026-07-07T17:11:47.000Z",
+          "date_unixtime": "1783444307",
+          "from": "malikanurlan_design",
+          "from_id": "instagram790720341",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/17898476757532361/",
+          "parent_comment_id": null,
+          "text": "Vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17958873720075184",
+          "type": "comment",
+          "date": "2026-07-07T15:16:03.000Z",
+          "date_unixtime": "1783437363",
+          "from": "__maksym___",
+          "from_id": "instagram16417230",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/17958873720075184/",
+          "parent_comment_id": null,
+          "text": "Vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18096617648206069",
+          "type": "comment",
+          "date": "2026-07-07T12:22:38.000Z",
+          "date_unixtime": "1783426958",
+          "from": "aleksdmitrijev",
+          "from_id": "instagram1415517958",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18096617648206069/",
+          "parent_comment_id": null,
+          "text": "vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18135139891584832",
+          "type": "comment",
+          "date": "2026-07-07T12:19:35.000Z",
+          "date_unixtime": "1783426775",
+          "from": "anastasiyasav",
+          "from_id": "instagram345506122",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18135139891584832/",
+          "parent_comment_id": null,
+          "text": "Vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18089050763384373",
+          "type": "comment",
+          "date": "2026-07-07T12:02:03.000Z",
+          "date_unixtime": "1783425723",
+          "from": "leo_gavrilov2517",
+          "from_id": "instagram50077965516",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18089050763384373/",
+          "parent_comment_id": null,
+          "text": "Домашний доктор ....",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18071471525371868",
+          "type": "comment",
+          "date": "2026-07-07T11:13:35.000Z",
+          "date_unixtime": "1783422815",
+          "from": "emotional.tantra",
+          "from_id": "instagram58951855424",
+          "url": "https://www.instagram.com/p/DafUhD0F5Yh/c/18071471525371868/",
+          "parent_comment_id": null,
+          "text": "vibe",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        }
+      ],
+      "collection": {
+        "caption_complete": true,
+        "comments_complete": false,
+        "comments_page_info": {
+          "end_cursor": null,
+          "has_next_page": false
+        },
+        "public_access": true
+      }
+    },
+    {
+      "id": "DaVbF97F2W3",
+      "type": "instagram_post",
+      "date": "2026-07-03T14:51:44.000Z",
+      "date_unixtime": "1783090304",
+      "from": "gconf.io",
+      "from_id": "instagram17841460723726368",
+      "profile_context": "gconf.io",
+      "url": "https://www.instagram.com/gconf.io/p/DaVbF97F2W3/",
+      "media_type": "carousel",
+      "coauthors": [
+        {
+          "full_name": "Ольга Маркес l любовь и анархия",
+          "id": "17841401016430079",
+          "is_verified": true,
+          "pk": "5089881",
+          "username": "olymarkes"
+        }
+      ],
+      "location": null,
+      "caption": "закидывайте слово «викенд» в комменты и отправим детали викенда в директ \n\nвся база ai и workflows за два дня | 4-5 июля | $200 \n\nчто внутри: \nгайды по установке · короткие видео · общий чат · live-стримы · записи всех звонков · примеры workflow\n\n{суббота 11 мск} подготовка сетапа \nставим и настраиваем весь ии-сетап: codex, claude code, cowork, chat gpt \n\n{суббота 18 мск} live workflow demo \nпоказываем, какие задачи агенты решают для нас в жизни и работе и как мы сами выстраиваем процесс \n\n{воскресенье 11 мск} coworking\nсовместный формат для тех, кому нужна компания: делаете сами, задаёте вопросы, показываете, что получается\n\n{воскресенье 18 мск} продвинутый live workflow demo \nв лайве собираем с агентом сложные процессы: свою health-систему в телеграме на hermes\n\nза выходные ты точно:\n- настроишь весь базовый ии-сетап\n- разберёшься с базой \n- соберёшь свой первый ии-workflow\n\nэтот уикенд для тебя, если:\n\n→ уже пробовал chatgpt / codex / «нейросети», но застрял на установке, хаосе или «а что дальше?» \n→ много задач в голове, но нет системы, куда ai может нормально подключиться \n→ переживаешь, что ты гуманитарий \n→ нужен быстрый вход без длинного коммита\n\nмы гуманитарий-friendly 🫶\n\n📅 4-5 июля \n💳 $200 / 15 000 рублей\n\nотправим все подробности по директ по слову «викенд» в комментах или по ссылке в шапке профиля @gconf.io",
+      "caption_entities": [
+        {
+          "type": "mention",
+          "offset": 1334,
+          "length": 9,
+          "text": "@gconf.io"
+        }
+      ],
+      "metrics": {
+        "likes": 38,
+        "comments_total": 7,
+        "comments_collected": 6
+      },
+      "media": {
+        "carousel": true,
+        "slides_count_detected": 10,
+        "slides": [
+          {
+            "index": 1,
+            "id": "POLARIS_3933168488951815349",
+            "pk": "3933168488951815349",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be an image of bread and text that says 'gconf 4-5 4-5июля июля ии викенд вся база ии и агентов за 2 дня: настроишь сетап и соберёшь свой первый workflow переживаю, что не справлюсь ты справишься, даже если гуманитарий ድማላ 4 живых звонка сетап с нуля доступы навсегда'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731624290_17980805274024125_2776898070157308227_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=l29XkjHRVmIQ7kNvwH7BPO-&_nc_oc=Adp3AgzvtA9GtqWVfBUjTFdMeR09kFM_XrtB4BiLSTxLXmH1q6R8sb5RJpVks9KeAENRUdsm3YM6GXvLN3ILO_Vj&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQBJ5v2EH0q5RlTxYRu79j7kThB3XAfFKQxpW1FgMvnwww&oe=6A5C2C68",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 2,
+            "id": "POLARIS_3933168489371092387",
+            "pk": "3933168489371092387",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be an image of bread, poster and text that says 'иαи устроен викенд сразу после оплаты получаешь гайды по установке (даже из рф) и первые рекомендации по дополнительной настройке сетапа на выходнЫх 4 живых звонка: от установки всего сетапа до сложных агентных процессов сб 11:00 подготовка сетапа сб 18:00 live workflow demo в 11:00 coworking вс 18:00 продвинутый live demo время МСк записи остаются y всех участников'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731022973_17980805265024125_7532936696690798641_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=K70Os4jsBggQ7kNvwHYAi-w&_nc_oc=AdpascmiXMxA41dmRKx2RzJ9Ofk0IH3XaC_zMEqTjGuEa9sNReDKi9CTjry4x4McaxuLoGMyHrIPVhqB1_AG5Dm3&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQB39dyaCzwhU8bP44xOY2pC6xky5sldgEEVP6eWfhYdJQ&oe=6A5C29E4",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 3,
+            "id": "POLARIS_3933168489136242627",
+            "pk": "3933168489136242627",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be an image of poster and text that says '01 суббота-11:00мск суббота 11:00 МСК подготовка сетапа ставим и настраиваем весь ии-сетап: codex, claude code, cowork, chatgpt. звонок для тех, y кого самому настроить не получилось- доводим до рабочего состояния вместе, даже в рф'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731341179_17980805256024125_5903560701720772661_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hnbLun9itnQQ7kNvwEL9J4_&_nc_oc=Ado4VXMXtPoCREh71_5ESdg5FqfliTDuqMYCd9ssmfut6kqAWd_qhshz-1N5wGy0vD3IjBe1mlNZwOI3nloG4069&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQDCfJebYcoySUFCNkqC26vn0-umrQ-qO8cYAyfdwkpBjA&oe=6A5C2FD9",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 4,
+            "id": "POLARIS_3933168489589219779",
+            "pk": "3933168489589219779",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be an image of poster and text that says 'суббота·18:00мск суббота 18:00 МСк 02 live workflow demo как работать с созвонами: автоматический follow- ир, некст степс и база знаний из зВоНкОв созвон закончился α резюме, задачи и база знаний собрались сами, без ручной рутины настроим → автотранскриб при запуске звонка агент забирает транскрипт и делает короткое резюме вытаскивает решения и и задачи отправляет задачи в trello телеграм сохраняет транскрипт в базу знаний'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731022947_17980805247024125_3466623589414190611_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ZeJJUa0dAswQ7kNvwEr0uJj&_nc_oc=Adr1sWio63gsOUVa-HMceE-pUDWtVTw3bqLGjs-J2ZozT5yOB9SLG0kMydRCQQiyKeu5XAswUG_t9x7P7ZJqGEjP&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQCR8vPo-zHUHZ_ZXHjeoa-9hF3LA03f91-CJ2SpwkqS6g&oe=6A5C22BD",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 5,
+            "id": "POLARIS_3933168490260426048",
+            "pk": "3933168490260426048",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be an image of magazine, poster, office and text that says 'воскресенье воскресенье·11:00ск 11:00 МСк 03 coworking совместный формат для тех, кому нужна помощь 2 часа собираем свои первые агентские воркфлоу перерывах - блок q&a: сразу задаёшь вопросы и в моменте разбираешься со сложностями на практике конце звонка промежуточное демо того, что y каждого получилось сео gconf ведёт ведётзвонок звонок'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730812339_17980805283024125_8432911352123874759_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WjtdUSdy504Q7kNvwHF6mJE&_nc_oc=Adq8UUFMD1VkV6uDbZ7PDadUv6xm9fyGiDjTZvL3tTJNSgrqn9k2cD8tfkLeTtcCDNw_z8SxTQqGuZjCcQS1C_ss&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQAH_3uGiwcP0saLEj73R8HCcBR8azFlgE3Ee5haeLrpsw&oe=6A5C1843",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 6,
+            "id": "POLARIS_3933168490243492239",
+            "pk": "3933168490243492239",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be an image of poster and text that says 'воскресенье 18:00 мСк 04 продвинутый live workflow demo 2 часа лёша в реальном времени показывает, как собираются скиллы для повторяющихся задач на codex/ claude code -разбираемся, что такое скиллы, зачем они нужны и для каких задач их использовать какие скиллы самые частотные в прямом эфире собираем свои первые скИллы на codex / claude code лёша ведётзвонок ведёт звонок'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/732130717_17980805238024125_4932109490172372159_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RIDq9VPCIcAQ7kNvwFO2mj9&_nc_oc=AdoVyAc_iYV7UyfWlVUiyjat3OmVScXp5H-G3hBXfPB24waJ-IkYp4ngAlAH7fiHxR4PuXdkD0ce60O8dHgKSYIi&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQB1oTlGsDYocgCcOAl3xop3ahbbEWZbqaJ-xul5m2v7xQ&oe=6A5C351F",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 7,
+            "id": "POLARIS_3933168490503520479",
+            "pk": "3933168490503520479",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be a graphic of crossword puzzle, bread, poster, pie and text that says 'за выходные ты точНо настроишь весь базовый ии-сетап: codex, claude code, cowork, chatgpt- даже в рф разберёшься с базой ии и агентов без хаоса в голове -перейдёшь от <<разговоров с chatgpt»> κ своему первому агенскому процессу и всё остаётся с тобой гайды по установке, короткие видео, общий чат, записи всех звонков и примеры workflow'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731235456_17980805292024125_8131348137783093748_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hRbyzmK3K6UQ7kNvwH0009W&_nc_oc=AdpzfeftHGQMyWMk-JUD5jx-sWFcXGcuRsy5kTxpAIZ1HhJ4y3csY0wAQRig0XR7ii0JyUF36Ez_GeN-yvUsiqlW&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQDCZfy1UkX9Osp37f8i3dWYb_n4wkbNeY4_4nPm_E6cEw&oe=6A5C17F5",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 8,
+            "id": "POLARIS_3933168491174774424",
+            "pk": "3933168491174774424",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be a Twitter screenshot of poster, crossword puzzle and text that says 'что собрали участники прошлых потОКов катя совладелец ъ2ь-закупок <С нулевым опытом программирования сделала себе очень удобный -файл для закупок марта не могла допроситься айтишников» alice далека OT техники \"собрала себе бот тг: считает калории по фото, напоминает про воду. a kypc ещё не начался!\" антон глобализация игр, riot <за пару часов на выходных сделал коллектор вакансий co смарт-фильтром. уже опробовал работает вполне годно!\" аня первый сайт жизни <3 дня делала сайт фигмы, сама нуля наконец-то его сделала. делала без чувствую себя капец взрослой> следующий кейс - твой'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730904852_17980805310024125_4767762874077389405_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6HGfYXMvpPYQ7kNvwHIP13E&_nc_oc=AdpVG6tw5kDmjl8aNMDnhMwTKo4yvPTjnft7ZuxIQoXCONusDQyJXjCLRSxAkkkjMk28GVY1wXuRlHKMdnF6S4qB&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQDIu9tPZjp409IAuhR_3D-D8EySCRpeOUWnrQ1unyzn2A&oe=6A5C20F5",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 9,
+            "id": "POLARIS_3933168491484946309",
+            "pk": "3933168491484946309",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be an image of crossword puzzle, bread, pie and text that says 'этот викенд для тебя, если уже пробовал chatgpt/ codex <нейросети\", но застрял на установке, xaoce или <<а что дальше?>> много задач в голове, но нет системы, куда ai может нормально подключиться переживаешь, что ты гуманитарий нужен быстрый вход без длинного коммита мыгуманитарий- friendly мы гуманитарий'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/732849531_17980805319024125_6739727480971058745_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=nOQarVxZ5LQQ7kNvwETxGj7&_nc_oc=AdrdGE06YFJRAsDCHTFRtDsSY4YFrnRZQ3HWKFT6Hw3F9z1ZvlJO1lFAVLpci2HKIvu4NYIk1ntgM6icjeD3bRx1&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQD3GCEo2b-Yz4aLm4tjDT_djvoCzhL-TVrFiPor5ImHPQ&oe=6A5C2C8C",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 10,
+            "id": "POLARIS_3933168491871012280",
+            "pk": "3933168491871012280",
+            "media_type": "image",
+            "date": "2026-07-03T14:51:43.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on July 03, 2026. May be a meme of text that says 'gconf 4-5 4-5июля июля стартуем ужке завтра $200 15 ooo 5000 P пиши <викенд\" B комменты пришлём все детали и ссылку на запись'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730893321_17980805301024125_2977389805049533251_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PSM8Obz-lVEQ7kNvwG41lWV&_nc_oc=Adq0p2Ww5THuQPvcK-ERV6bBYcznBFO4bk4AKK9JsfjLqeh1QtnEksqv8YSbn4OEiku9lGhKsdg5du4cEAwTfO9e&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=qLWyHbH-sKzg_4J-Fcgcag&_nc_ss=7b289&oh=00_AQBQiMMUBY8A7a8pCnoaZv0_g281LmbGItULc-IFCnOp3Q&oe=6A5C223D",
+            "display_url_ephemeral": true
+          }
+        ],
+        "parse_method": "instagram_embedded_structured_data",
+        "complete": true
+      },
+      "comments": [
+        {
+          "id": "18111012244834464",
+          "type": "comment",
+          "date": "2026-07-03T23:10:20.000Z",
+          "date_unixtime": "1783120220",
+          "from": "naumova_galina",
+          "from_id": "instagram449529964",
+          "url": "https://www.instagram.com/p/DaVbF97F2W3/c/18111012244834464/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18107300032792438",
+          "type": "comment",
+          "date": "2026-07-03T22:23:55.000Z",
+          "date_unixtime": "1783117435",
+          "from": "alena_bam",
+          "from_id": "instagram1414730474",
+          "url": "https://www.instagram.com/p/DaVbF97F2W3/c/18107300032792438/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18325048144261406",
+          "type": "comment",
+          "date": "2026-07-03T19:39:17.000Z",
+          "date_unixtime": "1783107557",
+          "from": "masha_kuleshova_",
+          "from_id": "instagram13074563800",
+          "url": "https://www.instagram.com/p/DaVbF97F2W3/c/18325048144261406/",
+          "parent_comment_id": null,
+          "text": "Привет! А будет еще такой? Эти выходные не могу, а как бы кайф вживую побыть",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18067074752460881",
+          "type": "comment",
+          "date": "2026-07-03T19:38:32.000Z",
+          "date_unixtime": "1783107512",
+          "from": "masha_kuleshova_",
+          "from_id": "instagram13074563800",
+          "url": "https://www.instagram.com/p/DaVbF97F2W3/c/18067074752460881/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18077778530662463",
+          "type": "comment",
+          "date": "2026-07-03T16:54:18.000Z",
+          "date_unixtime": "1783097658",
+          "from": "_yana__789",
+          "from_id": "instagram37084919466",
+          "url": "https://www.instagram.com/p/DaVbF97F2W3/c/18077778530662463/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18092827220229733",
+          "type": "comment",
+          "date": "2026-07-03T14:55:02.000Z",
+          "date_unixtime": "1783090502",
+          "from": "emotional.tantra",
+          "from_id": "instagram58951855424",
+          "url": "https://www.instagram.com/p/DaVbF97F2W3/c/18092827220229733/",
+          "parent_comment_id": null,
+          "text": "викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        }
+      ],
+      "collection": {
+        "caption_complete": true,
+        "comments_complete": false,
+        "comments_page_info": {
+          "end_cursor": null,
+          "has_next_page": false
+        },
+        "public_access": true
+      }
+    },
+    {
+      "id": "DaLW88bFzyC",
+      "type": "instagram_post",
+      "date": "2026-06-29T17:03:09.000Z",
+      "date_unixtime": "1782752589",
+      "from": "gconf.io",
+      "from_id": "instagram17841460723726368",
+      "profile_context": "gconf.io",
+      "url": "https://www.instagram.com/gconf.io/p/DaLW88bFzyC/",
+      "media_type": "carousel",
+      "coauthors": [],
+      "location": null,
+      "caption": "вся база ии-агентов | 4-5 июля | $200 \n\nвнутри: гайды по установке, короткие видео, общий чат, live-стримы, записи всех звонков и примеры workflow\n\nза эти выходные вы точно: \n- настроите весь базовый ии-сетап (даже в рф)\n- разберётесь с базой \n- соберёте свой первый ии-workflow\n\nэтот уикенд для вас, если:\n\n→ вы уже пробовали chatgpt / codex / «нейросети», но застрял на установке, хаосе или «а что дальше?» \n→ много задач в голове, но нет системы, куда ai может нормально подключиться \n→ переживаете, что вы гуманитарий \n→ нужен быстрый вход без длинного коммита\n\nмы гуманитарий-friendly 🫶\n\n📅 4-5 июля (в следующие выходные)\n💳 $200 / 15 000 рублей\n\nотправим все подробности в директ по слову «викенд» в комментах 👇",
+      "caption_entities": [],
+      "metrics": {
+        "likes": 25,
+        "comments_total": 14,
+        "comments_collected": 14
+      },
+      "media": {
+        "carousel": true,
+        "slides_count_detected": 12,
+        "slides": [
+          {
+            "index": 1,
+            "id": "POLARIS_3930335072367472662",
+            "pk": "3930335072367472662",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be a Twitter screenshot of phone, magazine, poster and text that says 'ЗАПРОСЫ УЧАСТНИКОВ AI ВИКЕНД 01/12 вот с чем людИ приходят. ии ВИКЕНД 4-5 ИЮЛя 01 ai дОГНАТЬ AI «отстаю по ии капитально 02 Вк хочу быстро заложить базу» ЛИдеР БЕЗ НАВЫКА <запускаю вайб-кодинг команду, ап 03 caMa не вайб-кожу\" АВТОМАТИЗАЦИЯ «хочу упростить процессы сП 04 работе и ускорить ИХ» свой ПРОДУКТ \"софт для учёта клиентов 05 пс личные кабинеты> ПЕРЕСБОРКА <<кризис смыслов пора меняться, перестраиваться>>'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730893340_17980263201024125_4199540313042240476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=XMyJoJAm9GEQ7kNvwEl93dF&_nc_oc=AdqsaP0r2OdDnJIsgcAb2iXESoY4U-qG7yvSB3XWscNLLjZdoKkor1MH3THeMJ2uHXngVbdQDFI22eDvi84U87tW&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQBr45bdiAO-umUYbPxR8Fcuphi5d2biiOeGKK3wzPceIQ&oe=6A5C3615",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 2,
+            "id": "POLARIS_3930335073692840230",
+            "pk": "3930335073692840230",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be an image of text that says 'ЗАПРОС 01 ДОГНАТЬ AI 02/12 <<отстаю по ии- инструментам капитально - хочу быстро заложить базу> 01 участник ai викенда ДОГНАТЬ ДОГНАТЬАТ•3АПРОС81/10 AI ЗАПРОС 01/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730545947_17980263192024125_8626746908539588386_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z7dvbKOuIhcQ7kNvwETNV6z&_nc_oc=Ado0HWXi3oUTSlr8mFlnkN92SdXbw1TWgGsD3XeAo8S2lBNVIM0J-_1BK2vwIwBo3TURsP8tMpjHt9w1FQ04lHUa&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQAmxUz4Wf-fyy3c_k3a0JU2jtpnIanLc8FYoYjnmm3IqA&oe=6A5C1526",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 3,
+            "id": "POLARIS_3930335073038635665",
+            "pk": "3930335073038635665",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be a Twitter screenshot of text that says '03/12 ЗАПРоС 02 02 ЛИДЕР бЕЗ НАВЫКА «буду запускать вайб- кодинг команду a сама не вайб-кожу» 02 участник ai викенда ЛИДЕР БЕЗ НАВЫКА ЗАПРОС 02/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730558855_17980263174024125_43975469900601945_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=OwWXMn0Ile4Q7kNvwFptz9k&_nc_oc=AdqpsDvVDa6TkHNRa321IIp7Te-t7qgwcDmdrr8XLMmt2KhqHcJYl8nBNdTT7Lm2az8FS2VBbEJwPpLAkJMhyfqJ&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQAf1xdNIfSIseqnotMDTM6wvdSyeuCm4o82Xc-34Gcq1g&oe=6A5C3BE4",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 4,
+            "id": "POLARIS_3930335073885804903",
+            "pk": "3930335073885804903",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be an image of poster and text that says '04/12 ЗАПРОС ЗАПРОСО•АВТОНАТИЗАЦИЯ 03 АВТОМАТИЗАЦИЯ <<хочу упростить процессы в работе и ускорить иХ> 03 участник ai викенда АВТОМАТИЗАЦИЯ ЗАПРОС 03/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730703767_17980263183024125_8702986320153222749_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rEvnfNy4vusQ7kNvwGC_ywI&_nc_oc=AdpomRcQJP7JPzcKUx0tXDtuAwjqXCdSndhV23G-1tflK6x8-mjC5QDhjtPd8t4sFf0LZUccePzMbqfYL6vd4Mcg&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQCY4jb72TmNAymjvE9iNilS9z7wP3PRWPoSaVDa6jxaaA&oe=6A5C3C9F",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 5,
+            "id": "POLARIS_3930335074523436408",
+            "pk": "3930335074523436408",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be a Twitter screenshot of poster and text that says 'ЗАПРОС 04 сВой ВОй ПРОДУКТ 05/12 <<сделать софт для учёта всей инфы клиенте - личные кабинеты> 04 участник ai викенда свой ПРОДУКТ ЗАПРОС 04/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730893321_17980263255024125_4555888891661297779_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pTA5vXeJQcwQ7kNvwGQC9L1&_nc_oc=AdrdOwTR1Q-MfpYiwtfu3XW8-XGjXj5agXtNgQwn8lSJYgq2VA-vr5ZFUN6pR_9waBwtIEU07vBWDf6SmTOiniM-&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQAcJlgrb6tAYZb2aPFz5dfvBaUZ2XHFIFkF0u9_sgSgZA&oe=6A5C2A57",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 6,
+            "id": "POLARIS_3930335074657692374",
+            "pk": "3930335074657692374",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be an image of text that says 'ЗАПРОС 05 ПЕРЕСБОРКА 06/12 <<кризис смыслов, наверное, это про меня пора меняться, перестраиваться\" 05 участник ai викенда ПЕРЕСБОРКА ЗАПРОС 85/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731385000_17980263210024125_6159585275341156206_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=WQtXVaoMs_wQ7kNvwENp2BU&_nc_oc=AdqqBSaQ0IqfX-rAPzTf3zCe2jk4c3xc1isOpxFL_ja2wtL4GHNi7BcfTgqrWIYSICI2xBS4uzg94ZddUvciwqS_&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQC_20z-6gyj0H4YEb6J5rcRrwozyAFnNY8UncCZ6tnljg&oe=6A5C3141",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 7,
+            "id": "POLARIS_3930335074640793552",
+            "pk": "3930335074640793552",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be an image of text that says 'ЗАПРОС 06 ВЕРНУТЬСЯ в СТРОй 07/12 \"<чувствую что отстала от профессии хочу вернуться в строй со знанием ai» 86 участник ai викенда ВЕРНУТЬСЯ в в СТРОЙ ЗАПРОС 06/18'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731052134_17980263228024125_2904232554514274848_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wyIJ8Wj3P7YQ7kNvwFi7wHq&_nc_oc=AdqII1oxDuYwrOSza0eHMwM-71KyntLhfogFOpC5tPaCax7skDJnRKtJTRLVQt2CMgVcxjX5_c5sVgyYCpjDa05I&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQCNbN0oMGPKdJhrukFFiNlb_UbbXPS0Pd7Lh29BgjKF3g&oe=6A5C2F07",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 8,
+            "id": "POLARIS_3930335074733195710",
+            "pk": "3930335074733195710",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be an image of poster, magazine and text that says 'ЗАПРОС 07 своя СИСТЕМА 08/12 <<хочу построить собственную систему тренировок под разные задачи и разных клиентов» 07 участник ai викенда своя СИСТЕМА· ЗАПРОС 07/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/731440271_17980263222024125_6213047484790527809_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BREMHdTp4IEQ7kNvwGYnb0R&_nc_oc=AdoPD6CMZLOQOdlOGDb5ZEf7jAgtwvrTNHmx5h3vPj7JYTzGXdIicuzhFphbhcLOMdDXDRNS4FMDwNrlKrvrIDdL&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQDq52iFcLJOY0q2j6gOnaQ_gw4b2vxQSGh_bQpRrDfwfA&oe=6A5C0F68",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 9,
+            "id": "POLARIS_3930335074967966567",
+            "pk": "3930335074967966567",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be a Twitter screenshot of crossword puzzle, poster, magazine and text that says 'ЗАПРОС 08 зАмЕНИТЬ СЕБя 09/12 <вышел из операционки заменил себя человеком, claude и codex» 08 участник ai викенда ЗАМЕНИтЬ СЕБЯ ЗАПРОС 08/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/732586477_17980263237024125_8998830520578090930_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Cm71xpaYj0oQ7kNvwEZqZOY&_nc_oc=AdotGBZ7itzu4bZlZ0zksesSBoZYVK8CJKoN_6tl57wx1X-A7v_3x-EkOebK4M99ABEHX22ZW-Sq85GJopGgZVB7&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQCD52FWSAfm0kxGfgt5QMnTljKGmFA9-Qx3awDLlZZfBw&oe=6A5C2E96",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 10,
+            "id": "POLARIS_3930335075697803939",
+            "pk": "3930335075697803939",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be a Twitter screenshot of text that says 'ЗАПРОС 09 ·в В КРИЗИСЕ 10/12 <B жесточайшем кризисе распустила штат, меняю офис, думаю, что делать\" 09 участник ai викенда в КРИЗИСЕ ЗАПРОС 09/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730919191_17980263246024125_8325268415597505597_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RwnLttX3HCsQ7kNvwGrhW2Z&_nc_oc=Adpdi4zlJbLJbJVxxCmLWD_M5d_seBakB9aXYSZ0KFib4gH6EJoP5IlvurABWxeZNSgO-kjKFo2MjfYK9VWA6DTN&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQBJtLFX1W6SWJCUzMZ8X89WmHye4siSiXWv_JGSnPgYew&oe=6A5C0FA8",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 11,
+            "id": "POLARIS_3930335088649707728",
+            "pk": "3930335088649707728",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be a Twitter screenshot of text that says 'ЗАПРОС 10 АТ-АГЕНТЫ 11/12 <<хочу отстроить агентов в теме здоровья, работы, обучения и ведения соцсетей\"> 10 участник ai викенда ΑΙ-АГЕНТЫ• ЗАПРОС 10/10'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730771496_17980263273024125_7179056859105990239_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RuOdPTN2HqkQ7kNvwFdEL8q&_nc_oc=AdpNqdzdXNv0AKg-i93QLJk_NBu0mnrw_D2GNC1PJdG5wRS2iYkASc2YuW6YrS81s0gOwD3OEF6Cogq79ir3G2mB&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQBYgqFZwbrEJJ1fJ2tidkN4l3aHmPQQhxjXu_8720JsGw&oe=6A5C2F79",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 12,
+            "id": "POLARIS_3930335088507167697",
+            "pk": "3930335088507167697",
+            "media_type": "image",
+            "date": "2026-06-29T17:03:08.000Z",
+            "width": 1080,
+            "height": 1350,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 29, 2026. May be an image of bread and text that says 'AI ВИКЕНД 4-5 ИЮЛя 12/12 ии викенд. за два дня до своего первого рабочего ии-процесса. без команды и без технических знаний. ДЛИТЕЛЬНОСТЬ ·ДАТЫ 2 ДНЯ ПРАКТИКИ ФОРМАТ 4-5 июЛя ОНЛАЙн ЗАПИСИ ОСТАются стоимость $200 I 15 000 $200/15000 ₽ НАПИШИ «ВИКЕНД> в КОММЕНТЫ и мы отправим тебе все детали в ответ'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730562333_17980263264024125_4971039329786232128_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bSEfcnK4f9gQ7kNvwHet3cx&_nc_oc=Adq32DRlJpCzMxWqfw7Cxdhs368DLqQ-3nr97y5PZyHhMg5VU4gRxEMp5t2VJPVREeOixOX9x_X5Ztar6_mg2vbE&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=MIBYN79zmzrKBPxdOmBEhw&_nc_ss=7b289&oh=00_AQD8TJogLStmBG_3FILLfrzypa4J43PwY8lhL5aX3Ui4Kg&oe=6A5C2CBC",
+            "display_url_ephemeral": true
+          }
+        ],
+        "parse_method": "instagram_embedded_structured_data",
+        "complete": true
+      },
+      "comments": [
+        {
+          "id": "18430358032130045",
+          "type": "comment",
+          "date": "2026-07-06T07:57:06.000Z",
+          "date_unixtime": "1783324626",
+          "from": "daria.flows",
+          "from_id": "instagram5438737716",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/18430358032130045/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18015977675909701",
+          "type": "comment",
+          "date": "2026-07-04T07:18:54.000Z",
+          "date_unixtime": "1783149534",
+          "from": "romankumalagov",
+          "from_id": "instagram5380801717",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/18015977675909701/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18198407572364787",
+          "type": "comment",
+          "date": "2026-07-01T12:51:40.000Z",
+          "date_unixtime": "1782910300",
+          "from": "dasha.matysheva",
+          "from_id": "instagram353055589",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/18198407572364787/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17924370987144525",
+          "type": "comment",
+          "date": "2026-07-01T09:19:12.000Z",
+          "date_unixtime": "1782897552",
+          "from": "iralight__light",
+          "from_id": "instagram6953793240",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/17924370987144525/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18170032429427763",
+          "type": "comment",
+          "date": "2026-07-01T07:16:30.000Z",
+          "date_unixtime": "1782890190",
+          "from": "uletelalera",
+          "from_id": "instagram4526890773",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/18170032429427763/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18087747854634753",
+          "type": "comment",
+          "date": "2026-06-30T22:36:18.000Z",
+          "date_unixtime": "1782858978",
+          "from": "trend.sender",
+          "from_id": "instagram1925715351",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/18087747854634753/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17946749400221087",
+          "type": "comment",
+          "date": "2026-06-30T20:33:23.000Z",
+          "date_unixtime": "1782851603",
+          "from": "azevich",
+          "from_id": "instagram13571882",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/17946749400221087/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17866023426584198",
+          "type": "comment",
+          "date": "2026-06-30T20:03:37.000Z",
+          "date_unixtime": "1782849817",
+          "from": "zamzamzamyatina",
+          "from_id": "instagram518833342",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/17866023426584198/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18112991326921986",
+          "type": "comment",
+          "date": "2026-06-30T18:56:43.000Z",
+          "date_unixtime": "1782845803",
+          "from": "aaalexinsta_",
+          "from_id": "instagram11778906449",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/18112991326921986/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18132145042590630",
+          "type": "comment",
+          "date": "2026-06-30T11:25:12.000Z",
+          "date_unixtime": "1782818712",
+          "from": "lunatictick",
+          "from_id": "instagram53038552",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/18132145042590630/",
+          "parent_comment_id": null,
+          "text": "викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17879663025609979",
+          "type": "comment",
+          "date": "2026-06-30T09:33:10.000Z",
+          "date_unixtime": "1782811990",
+          "from": "tan_tata_taaanya",
+          "from_id": "instagram819924828",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/17879663025609979/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18097577024353566",
+          "type": "comment",
+          "date": "2026-06-29T20:39:30.000Z",
+          "date_unixtime": "1782765570",
+          "from": "never.follow.suit",
+          "from_id": "instagram2105082178",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/18097577024353566/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17882124561667699",
+          "type": "comment",
+          "date": "2026-06-29T17:27:50.000Z",
+          "date_unixtime": "1782754070",
+          "from": "archibaldo_baron",
+          "from_id": "instagram3663554460",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/17882124561667699/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17895275358520806",
+          "type": "comment",
+          "date": "2026-06-29T17:07:53.000Z",
+          "date_unixtime": "1782752873",
+          "from": "emotional.tantra",
+          "from_id": "instagram58951855424",
+          "url": "https://www.instagram.com/p/DaLW88bFzyC/c/17895275358520806/",
+          "parent_comment_id": null,
+          "text": "викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        }
+      ],
+      "collection": {
+        "caption_complete": true,
+        "comments_complete": true,
+        "comments_page_info": {
+          "end_cursor": null,
+          "has_next_page": false
+        },
+        "public_access": true
+      }
+    },
+    {
+      "id": "DaGouGQl59W",
+      "type": "instagram_post",
+      "date": "2026-06-27T21:02:12.000Z",
+      "date_unixtime": "1782594132",
+      "from": "gconf.io",
+      "from_id": "instagram17841460723726368",
+      "profile_context": "gconf.io",
+      "url": "https://www.instagram.com/gconf.io/p/DaGouGQl59W/",
+      "media_type": "carousel",
+      "coauthors": [
+        {
+          "full_name": "Ольга Маркес l любовь и анархия",
+          "id": "17841401016430079",
+          "is_verified": true,
+          "pk": "5089881",
+          "username": "olymarkes"
+        }
+      ],
+      "location": null,
+      "caption": "закидывайте слово «викенд» в комменты и отправим детали викенда в директ \n\nвся база ai и workflows за два дня | 4-5 июля | $200 \n\nчто внутри: \nгайды по установке · короткие видео · общий чат · live-стримы · записи всех звонков · примеры workflow\n\n{суббота 11 мск} подготовка сетапа \nставим и настраиваем весь ии-сетап: codex, claude code, cowork, chat gpt \n\n{суббота 18 мск} live workflow demo \nпоказываем, какие задачи агенты решают для нас в жизни и работе и как мы сами выстраиваем процесс \n\n{воскресенье 11 мск} coworking\nсовместный формат для тех, кому нужна компания: делаете сами, задаёте вопросы, показываете, что получается\n\n{воскресенье 18 мск} продвинутый live workflow demo \nв лайве собираем с агентом сложные процессы: свою health-систему в телеграме на hermes\n\nза выходные ты точно:\n- настроишь весь базовый ии-сетап\n- разберёшься с базой \n- соберёшь свой первый ии-workflow\n\nэтот уикенд для тебя, если:\n\n→ уже пробовал chatgpt / codex / «нейросети», но застрял на установке, хаосе или «а что дальше?» \n→ много задач в голове, но нет системы, куда ai может нормально подключиться \n→ переживаешь, что ты гуманитарий \n→ нужен быстрый вход без длинного коммита\n\nмы гуманитарий-friendly 🫶\n\n📅 4-5 июля \n💳 $200 / 15 000 рублей\n\nотправим все подробности по директ по слову «викенд» в комментах или по ссылке в шапке профиля @gconf.io",
+      "caption_entities": [
+        {
+          "type": "mention",
+          "offset": 1334,
+          "length": 9,
+          "text": "@gconf.io"
+        }
+      ],
+      "metrics": {
+        "likes": 34,
+        "comments_total": 9,
+        "comments_collected": 9
+      },
+      "media": {
+        "carousel": true,
+        "slides_count_detected": 8,
+        "slides": [
+          {
+            "index": 1,
+            "id": "POLARIS_3929006317774813654",
+            "pk": "3929006317774813654",
+            "media_type": "image",
+            "date": "2026-06-27T21:02:11.000Z",
+            "width": 3240,
+            "height": 3240,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 27, 2026. May be a graphic of ‎poster and ‎text that says '‎GCONF $208 ΑΙ WEEKEND- вся база за 2 дня. практический онлайн-интенсив по chatgpt, claude code, codex и ай-инструментам. дЕНЬ በና ТИЦА Доброе утро, Алексей. Сигордою: +:\"\" ксугн 4-5 июля онлайн дня актудльый ии-сетьП งางเงุณ иста มืองอ гуманитарий- всё объясним готевый ии-парнфл вы грашпи модуль 24 מה.גיוווגע Чех-лист A- ннатриниа-тсв листай‎'‎‎.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730358140_17979957147024125_3398186119234208791_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=lKDC42g3MuIQ7kNvwFk9RrR&_nc_oc=Adq9oYXRRI-ZzlJGvaeHA3PV7sTUy25ZFUGdcTBlXnDaocQUR5mI2LiG4yOq4sgH-mAQjtG9beM40VInYNsIY2Ty&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7dcC1L1ylPBjJ-dkpCPr_Q&_nc_ss=7b289&oh=00_AQBhLJXCCenB09xPVN-M9QjnkfV8a-rUCwHWxD4Yhh34bg&oe=6A5C1BBA",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 2,
+            "id": "POLARIS_3929006318856915467",
+            "pk": "3929006318856915467",
+            "media_type": "image",
+            "date": "2026-06-27T21:02:11.000Z",
+            "width": 3240,
+            "height": 3240,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 27, 2026. May be a graphic of phone, portable cassette player and text.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730543299_17979957144024125_5138725413044148884_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=F4xpy4x5WIgQ7kNvwEQiFGo&_nc_oc=AdqIDANalbmnNfTWyhz3ghYddEOpC5nDOi0W2HVRIfvRpTiomfq1Ym1cAsWHkPPz3-VcOEfSFtWFhvh97-4SlKdF&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7dcC1L1ylPBjJ-dkpCPr_Q&_nc_ss=7b289&oh=00_AQBsRs8JSOtjgbE8KfRvun3YeQOOwQU2gpwujwKFd1JPHw&oe=6A5C3B6A",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 3,
+            "id": "POLARIS_3929006320786108669",
+            "pk": "3929006320786108669",
+            "media_type": "image",
+            "date": "2026-06-27T21:02:11.000Z",
+            "width": 3240,
+            "height": 3240,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 27, 2026. May be a graphic of crossword puzzle, calendar, poster and text that says 'ПРΩГРАНИΑ ВИКЕНДА 2 дня 4 звонка· 1рабочий workflow GCONF WECKENO устаноасчный 13:00 live workflowe 11:00 coworking 18:00 Опродвинутый ноля кидаем расписание сразу твай календарь ничего не проспишь 3A ВыХСДНЕ ㅜ3 вреня ивскавское СОБЕРЁць CBOj ПЕРВЫЙ 01 еб 그 подготовка сетапа ставим настраиваем весь Ии- ии-сетап: codex, claude code, cowork, chat gpt 02 ег 18 Рак live workflow demo показываем, какие задачи агенты решают для HạC B мы сами выстраиваем процесс 03 CR coworking совместный формат нужна компания: делаете сами, задаёте вопросы, показываете, 84 CK продвинутый live workflow demo собираем агентом сложные процессы: свою health- систему телеграме на'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730173714_17979957156024125_7892647114773591530_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pPOZ03fDQgcQ7kNvwHw5yzI&_nc_oc=AdpiOqLumnI28NF8ff3PGBintJ_LUctls4nspB3ZLBX659StcI7mKtt_TjHWEhFQ6msc-2OafUryy1ASQs5tlEFa&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7dcC1L1ylPBjJ-dkpCPr_Q&_nc_ss=7b289&oh=00_AQAbjsf2vuxv1zPZnuWUJqKCbwnN7nOfPd9Pssa7udnJmw&oe=6A5C0863",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 4,
+            "id": "POLARIS_3929006323596409344",
+            "pk": "3929006323596409344",
+            "media_type": "image",
+            "date": "2026-06-27T21:02:11.000Z",
+            "width": 3240,
+            "height": 3240,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 27, 2026. May be a Twitter screenshot of magazine and text that says 'GCONF NECKENO сАМастоятельНый ТРак за 2 дня собираешь свой первый ии-воркфлоу сетап, собираешь сВой контекст руками рабочий кейсов рядом доводишь день 1 ниля сетап первый контекст всё сетапим ПРИМЕРЫ КЕйсОв УЧАСТНИКОВ YつHI.場 ставим подключаем cowork, chatgpt шагам видео за 2,5 дня вместо полугода cLaude KECI1 собираешь свой контекст раскладываешь дела выбирвешь, куда направишь завтра свой ПРСДУКТ свой сервис собрал за вечер РАБО день свой первый ии-воркфлоу реализуешь собираешь КВЕСТ провращаешь ыбранну задач) рабочий -воркфлоу руками, шаг war OM nutiun 5CK ЗВОнки сами стали апдейтами забираешь артефакт выходе твой первый рабочий воркфлоу, который стаётся тобой ЭЛОРОЕ RhF свой health-60T телеграме'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730598536_17979957174024125_5443078771917704469_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=rrpCebsqQfkQ7kNvwE0VdBj&_nc_oc=AdpOJweUxN81-_BZODz9YzoDjYfI1vb8sNQmmLQlLfnTtNYzMoVdimYlWFXX4Owt4JBDzcg8h3aexVZIxN--zwpO&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7dcC1L1ylPBjJ-dkpCPr_Q&_nc_ss=7b289&oh=00_AQBOnUMejtQ1e7dzdZbn-aqKQsh09MUZsNuRvDSLTz22Mg&oe=6A5C11D3",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 5,
+            "id": "POLARIS_3929006325408353478",
+            "pk": "3929006325408353478",
+            "media_type": "image",
+            "date": "2026-06-27T21:02:11.000Z",
+            "width": 3240,
+            "height": 3240,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 27, 2026. May be a Twitter screenshot of magazine, poster and text that says 'ЕЦЁ самостоятельНам ТРЕКС мета-навыки: база не только сетап сетап-учим,к учим, как вообще думать работать с агентами. отдельный блак материалов внутри трека GCONF ΉЕСΚΕΝΟ อ1 фреймворк разгона как подходить любой задаче процессу вместе агентом 02 ГАя.л коуч-промпт как ним работать, чтобы агент тащил TEOA вперёд 03 не просто отвечал ДЕНа креативное мышление с ии принципы, как думать вместе агентам OT Димы อ4 ДЕНа tone of voice настраиваешь стиль общения chatgpt пОд сеоя OT Димы 05 ДЕНС инструменты, модели, безопасность что нужно знать старте, чтобы He накосячить доступами ГЯЙД န'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/733873669_17979957165024125_95724603604475468_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8t9DqYZN33wQ7kNvwGhaMb8&_nc_oc=Adpr4TjUVWAK29XxME5oXAJlOcM406EPiP4DWP6Idv9-1YxsxF8k9PMV1hbKrMgc1bPh8zUE_9lvRsqfzPX15pwi&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7dcC1L1ylPBjJ-dkpCPr_Q&_nc_ss=7b289&oh=00_AQDChwXV-h5ih5wZ5xuN85otPiLXnMByNaHMPZ_8tQrYlQ&oe=6A5C1926",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 6,
+            "id": "POLARIS_3929006326104685275",
+            "pk": "3929006326104685275",
+            "media_type": "image",
+            "date": "2026-06-27T21:02:11.000Z",
+            "width": 3240,
+            "height": 3240,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 27, 2026. May be an illustration of calendar, crossword puzzle, poster and text.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730358133_17979957183024125_7141996497619840980_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=kAnOQ1awvWoQ7kNvwGP6hxD&_nc_oc=Ado89JDZVtxKrEwTGSQIhFWpPvf2F1s-1YLoNJCZbj5EMVJd8qg3O5mm8I18l5DR-YxPnrV5mujp_mypGOqVR3Qk&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7dcC1L1ylPBjJ-dkpCPr_Q&_nc_ss=7b289&oh=00_AQA-yfXDoOMBgvjY4jvsjcIbugc84kKMgkQVtHsWua_njQ&oe=6A5C161A",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 7,
+            "id": "POLARIS_3929006326700133004",
+            "pk": "3929006326700133004",
+            "media_type": "image",
+            "date": "2026-06-27T21:02:11.000Z",
+            "width": 3240,
+            "height": 3240,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 27, 2026. May be a Twitter screenshot of magazine, crossword puzzle and text that says 'GCONF WECKEND TO, что обычно спрашивают. СлАйд -АД FAQ россии мне это поможет? поможет. всё, что собираем, работает из россии. с доступами COBCEM ತಿ2 ручку- ? оплатой проводим отдельно- доступы потом останутся co мной? да. собираешь своЮ базу мы ничего не забирем. workspace, файлы y теба. я вообще понимаю, workflow остаются применять агентов. точно викенд POBHO для того, чтобы попробовать одну теорию. получить первый рабочий опыт, если не получится (одить на звонки не проблема. все звОНки B записи, гайды ценность под себя. H ещё шаблоны -в удобном формате, чтобы каждый забрал 4-5 июля $200 забранировать MOCTD'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/729929426_17979957192024125_6906315592458609883_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=KIGxmwiUP3oQ7kNvwHRvrGF&_nc_oc=Adovnbl9vgjRohXuodL9ccs-jLzo0mod1Sz_20ejj2kDQusOazq8ZnYrDcFASuGCJjOVCbi6UUI1E5ONbpFWsNOE&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7dcC1L1ylPBjJ-dkpCPr_Q&_nc_ss=7b289&oh=00_AQDv6YXXeqFePSfsHp2kGMz0rMfvN3wyLIlsjBPcM6biwA&oe=6A5C2E0B",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 8,
+            "id": "POLARIS_3929006327807517192",
+            "pk": "3929006327807517192",
+            "media_type": "image",
+            "date": "2026-06-27T21:02:11.000Z",
+            "width": 3240,
+            "height": 3240,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 27, 2026. May be a graphic of poster, magazine, crossword puzzle and text that says 'GCONF GCONFNEEKEND NEEKEND 2 дня. ЖИВАя ПОПЛЕРЖка. теОй ПЕРПЫЙ WORKFI DW. места уже открыты. ПАть 4-5 июля GOP4AT ЧТС СДеЛАть online викенд сЕЧДС 1 $200 напиши нам \"<викенд» в комменты 02 03 отправим все детали и подробности в директ 4 июля собираемся и собираем твой workflow мы гуманитарий- ね забронировать место'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730004949_17979957201024125_1982713706624120820_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DXEXsCo0xNIQ7kNvwHgBK7Z&_nc_oc=AdpMJQyGIPy1wg9mWwg69oi1IFevaQe98JqEkUAzX3zG00aPGrvPP_SIWNVQcGl0Qd2JGTwHWlpKQds_AFqGXkB2&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=7dcC1L1ylPBjJ-dkpCPr_Q&_nc_ss=7b289&oh=00_AQArh6zt9Wf776qcPbN7PPHS84eW3JLoOlEnWt2fWuoUuw&oe=6A5C3764",
+            "display_url_ephemeral": true
+          }
+        ],
+        "parse_method": "instagram_embedded_structured_data",
+        "complete": true
+      },
+      "comments": [
+        {
+          "id": "17944421538219249",
+          "type": "comment",
+          "date": "2026-07-03T21:56:09.000Z",
+          "date_unixtime": "1783115769",
+          "from": "tchudeska",
+          "from_id": "instagram1524407718",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/17944421538219249/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17889634548394586",
+          "type": "comment",
+          "date": "2026-07-02T19:02:30.000Z",
+          "date_unixtime": "1783018950",
+          "from": "art_novikov_",
+          "from_id": "instagram4318010472",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/17889634548394586/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18105617456098350",
+          "type": "comment",
+          "date": "2026-07-01T19:22:53.000Z",
+          "date_unixtime": "1782933773",
+          "from": "shhhtrigel",
+          "from_id": "instagram2300840613",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/18105617456098350/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18598617547017222",
+          "type": "comment",
+          "date": "2026-07-01T12:30:39.000Z",
+          "date_unixtime": "1782909039",
+          "from": "lzhedima1489",
+          "from_id": "instagram43638661536",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/18598617547017222/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17876218407503473",
+          "type": "comment",
+          "date": "2026-06-30T12:14:33.000Z",
+          "date_unixtime": "1782821673",
+          "from": "katepipkins",
+          "from_id": "instagram289727115",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/17876218407503473/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18029323412821368",
+          "type": "comment",
+          "date": "2026-06-30T12:04:44.000Z",
+          "date_unixtime": "1782821084",
+          "from": "astrobobkina",
+          "from_id": "instagram35262529",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/18029323412821368/",
+          "parent_comment_id": null,
+          "text": "викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18429548848121451",
+          "type": "comment",
+          "date": "2026-06-29T18:36:35.000Z",
+          "date_unixtime": "1782758195",
+          "from": "ayaamalive",
+          "from_id": "instagram480512201",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/18429548848121451/",
+          "parent_comment_id": null,
+          "text": "викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17966203425108329",
+          "type": "comment",
+          "date": "2026-06-28T10:20:58.000Z",
+          "date_unixtime": "1782642058",
+          "from": "snagovskaializa",
+          "from_id": "instagram470056745",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/17966203425108329/",
+          "parent_comment_id": null,
+          "text": "викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18120362399504032",
+          "type": "comment",
+          "date": "2026-06-27T21:13:48.000Z",
+          "date_unixtime": "1782594828",
+          "from": "nn2722nn",
+          "from_id": "instagram9991434650",
+          "url": "https://www.instagram.com/p/DaGouGQl59W/c/18120362399504032/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        }
+      ],
+      "collection": {
+        "caption_complete": true,
+        "comments_complete": true,
+        "comments_page_info": {
+          "end_cursor": null,
+          "has_next_page": false
+        },
+        "public_access": true
+      }
+    },
+    {
+      "id": "DZ7yEZHF1uR",
+      "type": "instagram_post",
+      "date": "2026-06-23T15:52:15.000Z",
+      "date_unixtime": "1782229935",
+      "from": "gconf.io",
+      "from_id": "instagram17841460723726368",
+      "profile_context": "gconf.io",
+      "url": "https://www.instagram.com/gconf.io/p/DZ7yEZHF1uR/",
+      "media_type": "carousel",
+      "coauthors": [],
+      "location": null,
+      "caption": "отправляй слово «викенд» в комменты и мы отправим все детали и подробности в директ \n\n27-28 июня - 2 дня - вся база ии-агентов и свой первый агентский процесс \n\n📅 27–28 июня (в эти выходные)\n💳 $200 / 15 000 рублей\n\nвсе детали и подробности по слову «викенд» в комментах или по ссылке в шапке профиля @gconf.io",
+      "caption_entities": [
+        {
+          "type": "mention",
+          "offset": 302,
+          "length": 9,
+          "text": "@gconf.io"
+        }
+      ],
+      "metrics": {
+        "likes": 26,
+        "comments_total": 6,
+        "comments_collected": 6
+      },
+      "media": {
+        "carousel": true,
+        "slides_count_detected": 8,
+        "slides": [
+          {
+            "index": 1,
+            "id": "POLARIS_3925948034318871978",
+            "pk": "3925948034318871978",
+            "media_type": "image",
+            "date": "2026-06-23T15:52:14.000Z",
+            "width": 2160,
+            "height": 2702,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 23, 2026. May be a graphic of magazine, poster and text that says 'QUOTE/08 08 QUOTE 27-28 27-28_ИЮня ИЮНя САМЫЙ ТоЧНый СМЫСЛ Ии высвобождает много времени для того чтобы просто жить ai-weekend два дня, чтобы выбрать один процесс и собрать под него первую рабочую версию вся БАЗА ии и и АГЕНТОВ старт через 4 дня $200 GCONF AI AI-WEEKEND'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730496408_17979341895024125_534474879404673061_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VJCwECVOYhMQ7kNvwEcpJod&_nc_oc=AdqxCDUt2jLuafhtpXCWvPnLVUkzEZFD0AvXNaQWOclwqoWdBjWsLUf2mPitt0SHGghrUNeTCeTFr1nZIkMKgyqx&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y-YJ5kVS6BoyDjSJ8-1Lyg&_nc_ss=7b689&oh=00_AQD0-DoBPsFPRQriIrMBhECfsjGa9ZLNo_CRigLW91q_DA&oe=6A5C1388",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 2,
+            "id": "POLARIS_3925948034688111125",
+            "pk": "3925948034688111125",
+            "media_type": "image",
+            "date": "2026-06-23T15:52:14.000Z",
+            "width": 2160,
+            "height": 2702,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 23, 2026. May be an illustration of crossword puzzle, poster and text that says 'QUOTE/07 07 QUOTE PRODUCTION AI-NEWS СЕРВИС я не разработчик. всю работу вёл через VS code + claude code сервис собирает новости из 40+ источников, фильтрует шум, пишет summary и работает 24/7 GCONF GCONF НЕРАЗРАБОТЧик,НО НЕ РАЗРАБОТЧИК, HO SHIP' ит'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/729455615_17979341919024125_2305249674182416189_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gULLBdghHb8Q7kNvwFx26d4&_nc_oc=Adr0ZakzqoRhziS3TV8dQq_xBux-imPliHdJUFH2OeiURsL0ihEdr86gi9kNMbrUT7PBoaTmlS-a9BKM3JqjDJW9&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y-YJ5kVS6BoyDjSJ8-1Lyg&_nc_ss=7b689&oh=00_AQDHeOJx8vgU2bPRsFNJLt0q6N8WBPOfh-la8CXuJ8r01w&oe=6A5C07F8",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 3,
+            "id": "POLARIS_3925948037833760834",
+            "pk": "3925948037833760834",
+            "media_type": "image",
+            "date": "2026-06-23T15:52:14.000Z",
+            "width": 2160,
+            "height": 2702,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 23, 2026. May be a graphic of poster, crossword puzzle, magazine and text that says 'QUOTE 86 ПЕРВОЕ ПРИЛоЖЕНИЕ ДАННЫЕ и ПРИВАТНоСТЬ моё первое приложение, яв я восторге. на всё потратила 1 час, наверное приложение обезличивает mpwmo/a -эспорт, excel и переда-анализом GCONF GCONF ПЕРВЫЙАРТЕфАКТ ПЕРВЫЙ АРТЕФАКТ'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/729561481_17979341916024125_2646594524254608799_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SjPVPVLsWIAQ7kNvwHhaeWb&_nc_oc=AdoiPnY0dFP1yH9f6H0cbTzzgu1wxFukRf2szmtzGPWUiciLTB6TbDzD-mN0os8f_NFihJ44WY4_ce7teWbOWaJ7&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y-YJ5kVS6BoyDjSJ8-1Lyg&_nc_ss=7b689&oh=00_AQBhkZgHe4KfHKvMtLx6VNAe6yOpTnwWMRBSqPxCq-Bd2w&oe=6A5C1F7B",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 4,
+            "id": "POLARIS_3925948037473031935",
+            "pk": "3925948037473031935",
+            "media_type": "image",
+            "date": "2026-06-23T15:52:14.000Z",
+            "width": 2160,
+            "height": 2702,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 23, 2026. May be a meme of poster, crossword puzzle and text that says 'QUOTE/85 85 QUOTE E-COM МАЛЕНЬКАя мАЛЕНЬКаяКОМАНДА КОМАнДА cursor за месяц заменил контент- менеджера, которого искали с августа 4 человека, 5 маркетплейсов и сайт. справочники по артикулам, сборка заказов, меньше операционки GCONF ОПЕРАцИОНКА'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/729822859_17979341928024125_2665743141364815107_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=4jCzbCBplUoQ7kNvwERY1Ku&_nc_oc=Adqg44MimQBzQQR-HaIrPcZ5HtzA2dOvrKeLUauBqZxjjrXL-P9KfmRIzQqC2OxdM6-rgeGDK2QVSRjB5fJNVENP&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y-YJ5kVS6BoyDjSJ8-1Lyg&_nc_ss=7b689&oh=00_AQB2WJquhl5eyUtfzTbRPx2d9Qi8OrIG3d45bTQ9v9ZFyQ&oe=6A5C35D8",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 5,
+            "id": "POLARIS_3925948043454084375",
+            "pk": "3925948043454084375",
+            "media_type": "image",
+            "date": "2026-06-23T15:52:14.000Z",
+            "width": 2160,
+            "height": 2702,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 23, 2026. May be an illustration of magazine, poster, crossword puzzle and text that says 'QUOTE/04 84 QUOTE РУТИНА КУРСЫ и ВАКаНСИИ экономит ли время? да. раньше приходилось всё вручную отсматривать и делать посты коллектор сам собирает вакансии, фильтрует неподходящие и готовит пост GCONF МИНУС РУЧНАЯ РУЧНАЯРАБОТА РАБОТА'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730052506_17979341964024125_3380688876774273820_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=EJY73Aqbp8IQ7kNvwGHOkgk&_nc_oc=AdrJgcAJ6grpvTzjOa_kLrBx2lVTqxrrpBAhbDz_bns6AuYppizIMtD6ogLQvWlrik3SnipRF3KZds7EZk_xu7BL&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y-YJ5kVS6BoyDjSJ8-1Lyg&_nc_ss=7b689&oh=00_AQCdbJJCdX3qOY3rnStlnTDMPdsjQcjrqbUmlyEKND5LNA&oe=6A5C0D5F",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 6,
+            "id": "POLARIS_3925948043185649597",
+            "pk": "3925948043185649597",
+            "media_type": "image",
+            "date": "2026-06-23T15:52:14.000Z",
+            "width": 2160,
+            "height": 2702,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 23, 2026. May be an image of poster, crossword puzzle, magazine and text that says 'QUOTE/03 QUOTE 03 6 ЧАСОВ ЧАСОВ КОРПОРАТИВНЫй СЕРВИС в сумме часов 6 ушло на доведение до всё это время работоспособности. сидел д с открытым pTOM сервис для рабочих встреч: бот, api, интеграции, уведомления GCONF тАК окАзЫвается ТАКОКАЗЫВАЕТСЯОЖНО мОжно'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/729893129_17979341937024125_2916388162328839895_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6RnZOKMcUQcQ7kNvwE2JARY&_nc_oc=AdrlERYut81P-xFl0Y9fd_c_TQe4L3GZZGptUb0AOuT9c-HiurwjXEmKbVQK2IWLkkgs2tRWAfdGLO1dX_H584Tu&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y-YJ5kVS6BoyDjSJ8-1Lyg&_nc_ss=7b689&oh=00_AQCZH1CvA8y0_lyKmWbk-clBimb2Fw_1I3r4L1dWZdjesw&oe=6A5C1C79",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 7,
+            "id": "POLARIS_3925948043999373028",
+            "pk": "3925948043999373028",
+            "media_type": "image",
+            "date": "2026-06-23T15:52:14.000Z",
+            "width": 2160,
+            "height": 2702,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 23, 2026. May be an image of crossword puzzle, poster and text that says 'QUOTE/B2 02 QUOTE ЗАкУ ЗАКУПки В2В-КОМПАНИЯ АНИЯ с нулевым опытоМ программирования сделала себе очень удобный html файл для закупок до этого с марта не могла допроситься удобного отчётав 1с GCONF РЕАЛЬНЫЙ РеАЛьНЫЙПРОЦЕСС ПРОЦЕСС'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730544851_17979341946024125_3893779847030238922_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C7a0nfo7V3YQ7kNvwHApycw&_nc_oc=AdpTDbTinzpojHowhTtZb3IPtXQQEKGQkcBLTLstqDw2uspvUsXyFpJrgFNMAuyBhPcgBI_lnTPt58DDvC3tWO-i&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y-YJ5kVS6BoyDjSJ8-1Lyg&_nc_ss=7b689&oh=00_AQDKRL5bukGZczcHgbGX3-3pcGb9UHdUGlq4BuUFT2ALPw&oe=6A5C1FE4",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 8,
+            "id": "POLARIS_3925948044024573027",
+            "pk": "3925948044024573027",
+            "media_type": "image",
+            "date": "2026-06-23T15:52:14.000Z",
+            "width": 2160,
+            "height": 2702,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on June 23, 2026. May be a cartoon of crossword puzzle, poster and text that says 'QUOTE/81 01 QUOTE GCONF GCONF#12 #12 УЧАСТНИЦА ПОТОКА я думала, что это будет намного сложнее a оказалось, при правильных инструментах можно быстро начать что-то реально создавать сТРАХ: Это только для техничЕСкИХ GCONF AI I-WEEKEND'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/729767700_17979341955024125_930251796682751859_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=h_5BlLnUP10Q7kNvwHC4azE&_nc_oc=AdqKOQMHGM6ye-nmUP9asci0rCuZcJPDZA9Gz09M5ogttZw3ULALLMrQshJEFWTyx8kmc6LnJqo8GJ3xNNZWw1NW&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=Y-YJ5kVS6BoyDjSJ8-1Lyg&_nc_ss=7b689&oh=00_AQAUR_63xEVcES0D1U894j0Ov6rlqDXMHxL54ebelz1IeQ&oe=6A5C3469",
+            "display_url_ephemeral": true
+          }
+        ],
+        "parse_method": "instagram_embedded_structured_data",
+        "complete": true
+      },
+      "comments": [
+        {
+          "id": "18037800833632033",
+          "type": "comment",
+          "date": "2026-07-07T10:28:08.000Z",
+          "date_unixtime": "1783420088",
+          "from": "alinaburya",
+          "from_id": "instagram48252436690",
+          "url": "https://www.instagram.com/p/DZ7yEZHF1uR/c/18037800833632033/",
+          "parent_comment_id": null,
+          "text": "викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18055298990518778",
+          "type": "comment",
+          "date": "2026-07-01T21:25:12.000Z",
+          "date_unixtime": "1782941112",
+          "from": "archibaldo_baron",
+          "from_id": "instagram3663554460",
+          "url": "https://www.instagram.com/p/DZ7yEZHF1uR/c/18055298990518778/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17958049272171147",
+          "type": "comment",
+          "date": "2026-06-26T01:07:22.000Z",
+          "date_unixtime": "1782436042",
+          "from": "lily_akhmadeeva",
+          "from_id": "instagram1090066270",
+          "url": "https://www.instagram.com/p/DZ7yEZHF1uR/c/17958049272171147/",
+          "parent_comment_id": null,
+          "text": "викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "18074812271673523",
+          "type": "comment",
+          "date": "2026-06-23T20:14:40.000Z",
+          "date_unixtime": "1782245680",
+          "from": "fizzzgen",
+          "from_id": "instagram5613150343",
+          "url": "https://www.instagram.com/p/DZ7yEZHF1uR/c/18074812271673523/",
+          "parent_comment_id": null,
+          "text": "Любая штука, которая увеличивает продуктивность, по итогу повышает и когнитивную нагрузку в процессе работы. Темп разработки фич повышается, как и уровень стресса.",
+          "text_entities": [],
+          "likes": 2,
+          "reply_count": 0
+        },
+        {
+          "id": "18117562771830378",
+          "type": "comment",
+          "date": "2026-06-23T19:39:46.000Z",
+          "date_unixtime": "1782243586",
+          "from": "nataly_nosova",
+          "from_id": "instagram50244895",
+          "url": "https://www.instagram.com/p/DZ7yEZHF1uR/c/18117562771830378/",
+          "parent_comment_id": null,
+          "text": "Викенд",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        },
+        {
+          "id": "17860497312644201",
+          "type": "comment",
+          "date": "2026-06-23T17:50:26.000Z",
+          "date_unixtime": "1782237026",
+          "from": "tepa______",
+          "from_id": "instagram52573737520",
+          "url": "https://www.instagram.com/p/DZ7yEZHF1uR/c/17860497312644201/",
+          "parent_comment_id": null,
+          "text": "😢😢😢",
+          "text_entities": [],
+          "likes": 0,
+          "reply_count": 0
+        }
+      ],
+      "collection": {
+        "caption_complete": true,
+        "comments_complete": true,
+        "comments_page_info": {
+          "end_cursor": null,
+          "has_next_page": false
+        },
+        "public_access": true
+      }
+    },
+    {
+      "id": "DYW7UCUCTGT",
+      "type": "instagram_post",
+      "date": "2026-05-15T11:49:44.000Z",
+      "date_unixtime": "1778845784",
+      "from": "gconf.io",
+      "from_id": "instagram17841460723726368",
+      "profile_context": "gconf.io",
+      "url": "https://www.instagram.com/gconf.io/p/DYW7UCUCTGT/",
+      "media_type": "carousel",
+      "coauthors": [],
+      "location": null,
+      "caption": "10 дней до старта потока и доступы уже открыты ❤️‍🔥\n\nте, кто уже оплатил - проверяйте личные сообщения от нас. до старта 25 мая ещё 10 дней, но материалы уже внутри. можно заранее настроить себе все сервисы и прийти на интенсив подготовленным.\n\nвот что вас ждёт сразу после оплаты - 3раздела, 17 кейсов:\n\n🤓 доступы к сервисам \nвсё что нужно поставить и оплатить до старта - chat gpt, cursor, codex, claude. отдельный блок про оплату из рф без зарубежной карты.\n\n👋 ai сетап\n- база по кодинг-агентам, безопасности, контексту и тарифам\n- мини-практика: готовим комп к вайбкодингу. - пользуемся всеми нейросетями голосом. \n- реальный процесс работы с агентами.\n\n🫀 мета-навыки: база \n- как подходить к заданиям и организовать обучающую среду. \n- коуч-промпт - качаем рефлексию\n- от Димы: принципы креативного мышления с ИИ \n- настройка tone of voice для chatgpt. \n- фреймворк для любой задачи.\n\nстарт 25 мая, 3 недели, $600 / 50 000 ₽, материалы остаются навсегда. для тех, кто давно хотел подружиться с ai, но непонятно с чего начать.\n\nзаписаться и подробности - по ссылке в шапке профиля @gconf.io",
+      "caption_entities": [
+        {
+          "type": "mention",
+          "offset": 1089,
+          "length": 9,
+          "text": "@gconf.io"
+        }
+      ],
+      "metrics": {
+        "likes": 39,
+        "comments_total": 0,
+        "comments_collected": 0
+      },
+      "media": {
+        "carousel": true,
+        "slides_count_detected": 6,
+        "slides": [
+          {
+            "index": 1,
+            "id": "POLARIS_3897562499853374706",
+            "pk": "3897562499853374706",
+            "media_type": "image",
+            "date": "2026-05-15T11:49:43.000Z",
+            "width": 3277,
+            "height": 4096,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on May 15, 2026. May be a graphic of poster, magazine and text that says 'СТАРТ25МАЯ 25 МАЯ СТАРТ 01 01/日6 / 06 vibe coding gconf#13- открыли доступы. материалы уже внутри. можно зайти и подготовиться к старту. 3 3 РАЗдеЛА 17 УРОКОВ GCONF GCO F'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/690140016_17974119039024125_5807196231691299866_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=gHMC7rSG9iwQ7kNvwHEnbqX&_nc_oc=Adqa60YU617TBe4SniEOaUzCx-EFqHt69fJ0hHl_WJiF6AcXEY61tOI0vso29gYTNFUbFPZSA-8CTQl3KJmEQHbj&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=f1mmYfLbgNsUoQLzONtj0Q&_nc_ss=7b689&oh=00_AQATXHerNapw4BLpXkKZdmaV2C_UDo9vPz8pNbYhYiXG-Q&oe=6A5C2E41",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 2,
+            "id": "POLARIS_3897562511647922080",
+            "pk": "3897562511647922080",
+            "media_type": "image",
+            "date": "2026-05-15T11:49:43.000Z",
+            "width": 3277,
+            "height": 4096,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on May 15, 2026. May be an illustration of ‎poster, crossword puzzle and ‎text that says '‎BHyTPИ nЛATФOPMbl 02/06 02 06 -PA3AEЛ 0 ΘΘ O63OP 4To жAeT cpa3y nocлe onлaTbl. an gconf#13 vibe- coding は.E KoHTeHT rRBcc Cre 0% AocTynbl KccpaHcam xжep [타농 トチニン aioetan 1: ሳን mKcTa-HaHblKи: הגבם AT AT @GPTLOVERS•3/17 17 @GPTLOVERS. 3/17 GCONF‎'‎‎.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/699699748_17974119048024125_8364965076526282965_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RXEOxepgGfMQ7kNvwG8sblc&_nc_oc=AdqBYXpzvqyf3g9T_-75lhhZ5xEKliWMiOz_rB-QkWMIXNZKlNC_yLxunxCeYzPycdlNde-YXlDGyxzKtJZpEkOw&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=f1mmYfLbgNsUoQLzONtj0Q&_nc_ss=7b689&oh=00_AQAWVbPKEWIqhP5HYW4GU6bBXv_KdItmDu1oF6dZ2Ld3Lw&oe=6A5C36B1",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 3,
+            "id": "POLARIS_3897562521353456865",
+            "pk": "3897562521353456865",
+            "media_type": "image",
+            "date": "2026-05-15T11:49:43.000Z",
+            "width": 3277,
+            "height": 4096,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on May 15, 2026. May be a graphic of poster and text.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/700354484_17974119060024125_3140998504249451029_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=OHNdZ6pwbm0Q7kNvwFZ3VHz&_nc_oc=AdqwHZlYqBy2av_byn99On4prFhhUSXIKxA2U-pwP3knfRZlaRPbKSXcQAFtMzQTo-pvwHb6oYfdOnVjF5QOohOh&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=f1mmYfLbgNsUoQLzONtj0Q&_nc_ss=7b689&oh=00_AQAAkzHM1reEZ50HGQnwIrlXKgjRH99ks5kz93FcFvPJsw&oe=6A5C3891",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 4,
+            "id": "POLARIS_3897562531151383639",
+            "pk": "3897562531151383639",
+            "media_type": "image",
+            "date": "2026-05-15T11:49:43.000Z",
+            "width": 3277,
+            "height": 4096,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on May 15, 2026. May be a graphic of poster, crossword puzzle and text that says 'AI СЕТАП 02 04/06 / 04 06 РАЗДЕЛ 5 УРОКОВ база работы с агентами. aice ίста HiCx21 បិង3ន: кодинг агенты, безопасность, контекст, тарифы 0/5 мини-практика: готовим СВОЙ СОМПΙ вайбкодингу ROMO alooter 주한에그 пользуемся всеми нейросетями олосоМ colvork для работы conerk.pmpnboiea Cd фаилами без вайбкодинга 김은성. setar реальный працесс рзпнмьйгороцесрабалыеагентие рабаты агентами ЦеНО aicetan Впроцессе БЕЗОПаСНОСТЬ КОНТЕКсТ голос COWORK GCONF'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/670879778_17974119069024125_4333134594588859561_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hV1XqejUau4Q7kNvwFVV5Mg&_nc_oc=AdrmnfotMGcw6-Wrpov6uoRLqCOiOSzV05gQiMaE3obme_gTMw24nbpCHeBhV_7m9fXvRYOUBYLhl_gfB8wNRVCJ&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=f1mmYfLbgNsUoQLzONtj0Q&_nc_ss=7b689&oh=00_AQAZcLrm1_rVlqV77eul2mZ1PTB0Pv4HATt_322c8v5haw&oe=6A5C2699",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 5,
+            "id": "POLARIS_3897562541561599716",
+            "pk": "3897562541561599716",
+            "media_type": "image",
+            "date": "2026-05-15T11:49:43.000Z",
+            "width": 3277,
+            "height": 4096,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on May 15, 2026. May be a Twitter screenshot of ‎poster, magazine and ‎text that says '‎МЕТА-НАВЫКИ -РАзДЕЛ 03 5 УРОКОВ 05 05/06 / 06 подход и фреимворки. мета-навыки: база как подходить заданиям اوث_- мнта-ни-ыс:б как рганизовать себе обучающую среду? 015 коуч-промпт ИКаКс DeMO HETJ-HDINSH: :33 аботать качаем рефликсию Димы: принципы ДенО мышпения ии ТДимы: настрайка Тиля рубщцения 키ㄷ ChatGPT Tana ባም Dice) ино вреймворк ДЛя работы мня-ннчыси: любой задачей КОУЧ-ПРОМПТ τοΥ от ДИМЫ GCONF‎'‎‎.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/670445947_17974119078024125_3048283482167873935_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TNsXGUlm0KQQ7kNvwHSzHRJ&_nc_oc=Adrf3Guna24c8PekLTEgl-WKhYlUxzo8ZegQ-cFVp557I7kwoYJP7HdsdGlzNnV-r_IBpAfXYBV1RqTtfKjihzFj&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=f1mmYfLbgNsUoQLzONtj0Q&_nc_ss=7b689&oh=00_AQAmF8qVs6A2ap44Iu64KYW8jaMVvr_9y6TWmgnsi8iviA&oe=6A5C0B76",
+            "display_url_ephemeral": true
+          },
+          {
+            "index": 6,
+            "id": "POLARIS_3897562551451779698",
+            "pk": "3897562551451779698",
+            "media_type": "image",
+            "date": "2026-05-15T11:49:43.000Z",
+            "width": 3277,
+            "height": 4096,
+            "alt_text": "Photo by интенсивы по ai каждые 2 месяца 🫶 on May 15, 2026. May be an illustration of poster, crossword puzzle, magazine and text that says 'СЛЕДУЮЩИЙ СЛЕДУюЦИЙСТАРТ СТАРТ 06/06 / 06 / 06 3 илог недели, чтобы подружиться al. для тех, кто давно хотел, но не знал с чего начать. материалы остаются навсегда. СТАРТ 25 мая ФОРНАТ 3 недели ЗАПиСАться- ЗАПиСАТЬСЯ ЦЕНА $600 VIBE CODING @GPTLOVERS GCONF'.",
+            "display_url": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/671176196_17974119087024125_5648289760280033584_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qPtmh1GoHjIQ7kNvwFncr2A&_nc_oc=AdoFSdYAc-BEDFUPcnuVqybzMJ-_KTjJaGvkT88XPonQFCnb1o5FcOJwN2uk0Ghc4ZykAVgxrNtS33gBErB_5URM&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_gid=f1mmYfLbgNsUoQLzONtj0Q&_nc_ss=7b689&oh=00_AQCihgaL_CUxi2J0qu0Gu2J6YldDDg6Orfxe4xdbRN3f4Q&oe=6A5C1CB0",
+            "display_url_ephemeral": true
+          }
+        ],
+        "parse_method": "instagram_embedded_structured_data",
+        "complete": true
+      },
+      "comments": [],
+      "collection": {
+        "caption_complete": true,
+        "comments_complete": true,
+        "comments_page_info": {
+          "end_cursor": null,
+          "has_next_page": false
+        },
+        "public_access": true
+      }
+    }
+  ]
+}

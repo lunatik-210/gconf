@@ -1,0 +1,136 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "platform": "youtube",
+    "video_id": "MDy_b9F7oUc",
+    "url": "https://www.youtube.com/watch?v=MDy_b9F7oUc",
+    "title": "Complete Guide to ChatGPT 5.6 + Prompting Guide"
+  },
+  "chapters": [
+    {
+      "start_time": 0.0,
+      "title": "Intro",
+      "end_time": 52.0
+    },
+    {
+      "start_time": 52.0,
+      "title": "New ChatGPT App Tour",
+      "end_time": 194.0
+    },
+    {
+      "start_time": 194.0,
+      "title": "Scheduled Tasks & Side Chat",
+      "end_time": 266.0
+    },
+    {
+      "start_time": 266.0,
+      "title": "Connecting Your Apps",
+      "end_time": 354.0
+    },
+    {
+      "start_time": 354.0,
+      "title": "Prompt Demos Begin",
+      "end_time": 442.0
+    },
+    {
+      "start_time": 442.0,
+      "title": "Building a Personal Assistant",
+      "end_time": 542.0
+    },
+    {
+      "start_time": 542.0,
+      "title": "Teaching It Your Voice",
+      "end_time": 615.0
+    },
+    {
+      "start_time": 615.0,
+      "title": "Book One-Pager",
+      "end_time": 685.0
+    },
+    {
+      "start_time": 685.0,
+      "title": "AI-Made Slide Deck",
+      "end_time": 745.0
+    },
+    {
+      "start_time": 745.0,
+      "title": "Researching With Logged-In Browser",
+      "end_time": 839.0
+    },
+    {
+      "start_time": 839.0,
+      "title": "Panel Prep Doc",
+      "end_time": 940.0
+    },
+    {
+      "start_time": 940.0,
+      "title": "Weekly Task Rundown",
+      "end_time": 1040.0
+    },
+    {
+      "start_time": 1040.0,
+      "title": "Cold Leads & Email Drafts",
+      "end_time": 1128.0
+    },
+    {
+      "start_time": 1128.0,
+      "title": "Assistant Prompt",
+      "end_time": 1340.0
+    },
+    {
+      "start_time": 1340.0,
+      "title": "Switching to Codex & GPT-5.6",
+      "end_time": 1380.0
+    },
+    {
+      "start_time": 1380.0,
+      "title": "Rebuilding Craigslist",
+      "end_time": 1488.0
+    },
+    {
+      "start_time": 1488.0,
+      "title": "Building a Game",
+      "end_time": 1625.0
+    },
+    {
+      "start_time": 1625.0,
+      "title": "Fully AI-Generated Videos",
+      "end_time": 1735.0
+    },
+    {
+      "start_time": 1735.0,
+      "title": "Controlling Blender With AI",
+      "end_time": 1795.0
+    },
+    {
+      "start_time": 1795.0,
+      "title": "3D City Builds",
+      "end_time": 1920.0
+    },
+    {
+      "start_time": 1920.0,
+      "title": "Future Tools Overhaul",
+      "end_time": 1960.0
+    },
+    {
+      "start_time": 1960.0,
+      "title": "BuseyBench",
+      "end_time": 2028.0
+    },
+    {
+      "start_time": 2028.0,
+      "title": "The Wolf Control Tower",
+      "end_time": 2160.0
+    },
+    {
+      "start_time": 2160.0,
+      "title": "One-Prompt Mini Apps",
+      "end_time": 2240.0
+    },
+    {
+      "start_time": 2240.0,
+      "title": "Final Thoughts",
+      "end_time": 2337
+    }
+  ]
+}

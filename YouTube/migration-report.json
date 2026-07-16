@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-16T14:42:25Z",
+  "normalized_video_count": 10,
+  "normalized_video_folders": [
+    "YouTube/MatskevichDima/AI 2026 для не технарей - Мацкевич и его подруга",
+    "YouTube/MatskevichDima/AI-first workflow - найм, контекст и темная сторона вайбкодинга",
+    "YouTube/MatskevichDima/Cursor Codex Claude Code - что важно в 2026",
+    "YouTube/MatskevichDima/ИИ твой друг, а не враг - Мацкевич у Ильи Рыбалко",
+    "YouTube/MatskevichDima/Что сейчас происходит с AI 2026 - мацкевич с гостем",
+    "YouTube/Matt Wolfe/AI news - внешний протогонист",
+    "YouTube/Matt Wolfe/Huge Ai news - внешний протоганист",
+    "YouTube/Matt Wolfe/MDy_b9F7oUc",
+    "YouTube/Matt Wolfe/yke4fLQUsh4",
+    "YouTube/WesRoth/cwf2vEAigKA"
+  ],
+  "legacy_media_preserved": [
+    "YouTube/MatskevichDima/Что сейчас происходит с AI 2026 - мацкевич с гостем/XScJOCjDx1M.video.mp4",
+    "YouTube/MatskevichDima/Что сейчас происходит с AI 2026 - мацкевич с гостем/XScJOCjDx1M.audio_16k.wav"
+  ],
+  "warnings": [],
+  "catalog_video_count": 10
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "status": "complete",
+  "collected_at": "2026-07-16T14:42:25Z",
+  "workspace": {
+    "creator_folder": "YouTube/MatskevichDima",
+    "video_folder": "YouTube/MatskevichDima/AI 2026 для не технарей - Мацкевич и его подруга"
+  },
+  "source": {
+    "platform": "youtube",
+    "video_id": "6WEsPzHyD9k",
+    "url": "https://www.youtube.com/watch?v=6WEsPzHyD9k",
+    "original_url": "https://www.youtube.com/watch?v=6WEsPzHyD9k",
+    "requested_start_seconds": null,
+    "requested_start_context": null,
+    "title": "Как пользоваться AI в 2026, если вы не технарь? Оля Маркес и Дима Мацкевич",
+    "channel": "Dima Matskevich",
+    "channel_id": "UCP1JXsJUF08ogMY5FF9b2Dg",
+    "uploader": "Dima Matskevich",
+    "uploader_id": "@MatskevichDima",
+    "description": "► этот подкаст мы записали первый мини-гайденс. к подкасту мы подготовили вам пакет материалов: «как установить кодекс» из трека «от 0 до 1 gconf» и  первый артефакт, который вы можете сразу закинуть в ваш codex \n\n► забрать пакет артефактов: https://t.me/gptconf_bot?start=ai_d4f7a9c2b8e1\n\nДима Мацкевич: \n▫️ Instagram* — instagram.com/matskevich\n▫️ Telegram канал - t.me/whyaimatskevich\n\nОля Маркес: \n▫️ Instagram* — instagram.com/olymarkes\n▫️ Telegram канал - t.me/markesdaily\n\nчто в ai-стеке мая 2026 реально работает, а что productivity porn? \nпочему codex стоит поставить даже если вы никогда в жизни не программировали, и что значит «правило трёх раз делай сам»? \nчем claude отличается от gpt не по бенчмаркам, а по вкусу и почему у антропика «глубже расстроена» человеческая душа? \nзачем говорить с моделью голосом через super whisper, и что такое «принести себя» в работу с ai?\n\nотдельно разбираем стадии, через которые проходят все: от фрустрации «не могу начать» до маниакального вайб-кодинга с красными глазами, до отрезвления и вопроса «а что я реально хочу делать?». \n\nпочему в мире, где ты можешь сделать всё, главным дефицитом становится дистрибьюция и контакт с клиентом. почему ai-фома ворует настоящее, а суббота без гаджетов это не отказ от прогресса, а условие для него.\n\n00:00 Интро: что обсудим и зачем\n02:03 Цель подкаста — прикладная польза для зрителя\n04:39 Главный совет: установите Codex\n05:44 Что такое Codex и чем отличается от ChatGPT\n08:27 Codex для непрограммистов: маркетологам, йога-тренерам, продуктологам\n09:05 Как установить Codex с нуля\n11:16 Примеры первых запросов: разобрать рабочий стол, систематизировать файлы\n12:34 Следующий шаг — GitHub и CLI\n14:13 Vibe-coding сетап: с чего начать новичку\n15:40 Правило трёх раз «делай сам»\n17:00 Голосовой ввод и почему это важно\n36:00 Claude Code и Cowork: «душа» антропика\n40:52 Установка Cowork и подписки на Anthropic\n43:14 Super Whisper — голос как универсальный портал\n47:27 Как «приносить себя» в работу с Claude\n49:32 Системный промпт и персонализация\n51:47 Вредные привычки в работе с AI\n55:52 Слон в комнате: AI is over-hyped и under-hyped одновременно\n59:53 Две группы людей: те, кто освоил тулы, и те, у кого есть vision\n01:02:17 Почему этим группам нужно объединяться\n01:04:39 Боль предпринимателя: как обучить большую команду\n01:06:47 Если AI-прорыв ещё не случился — это нормально\n01:09:05 Кейс: написать систему обучения голосом за месяц\n01:12:09 Стадии освоения AI: от фрустрации до отрезвления\n01:13:40 Маниакальный вайб-кодинг и стадия охлаждения\n01:16:03 Главная проблема: дистрибьюция и контакт с клиентом\n01:18:34 Как стратегически думать о будущем и детях\n01:21:23 Личная стратегия: цифровая гигиена и присутствие\n01:23:03 Суббота без гаджетов и вечера в 8 без экранов\n01:28:11 AI для дома и семьи: парсинг почты про детей\n01:30:41 Психологический портрет ребёнка через AI\n01:33:47 Воспитываем создателей, а не потребителей\n01:34:56 Grand Problems: как говорить с детьми про AI\n01:37:35 Финал: каким классным может быть будущее\n01:42:40 Работа с тревогой и закрытие\n\n*Компания Meta, которой принадлежат Instagram и Facebook, признана экстремистской организацией и запрещена на территории РФ",
+    "duration_seconds": 6205,
+    "duration_display": "1:43:25",
+    "upload_date": "20260508",
+    "published_timestamp_utc": 1778251737,
+    "availability": "public",
+    "live_status": "not_live",
+    "license": null,
+    "categories": [
+      "People & Blogs"
+    ],
+    "tags": []
+  },
+  "statistics": {
+    "view_count": 33833,
+    "like_count": 707,
+    "comment_count_reported": 101,
+    "comments_extracted": 101,
+    "root_comments": 86,
+    "replies": 15,
+    "comments_status": "complete",
+    "channel_follower_count": 16800,
+    "chapters_count": 35
+  },
+  "subtitles": {
+    "manual_available": false,
+    "manual_languages": [],
+    "automatic_available": true,
+    "automatic_language_count": 157,
+    "source_language": "ru",
+    "primary_source": "automatic",
+    "primary_transcript": "./6WEsPzHyD9k.ru-orig.srt",
+    "whisper_used": false
+  },
+  "files": {
+    "raw_metadata": "./6WEsPzHyD9k.info.json",
+    "stats": "./6WEsPzHyD9k.stats.json",
+    "comments": "./6WEsPzHyD9k.comments.json",
+    "chapters": "./6WEsPzHyD9k.chapters.json",
+    "description": "./6WEsPzHyD9k.description",
+    "thumbnail": "./6WEsPzHyD9k.webp",
+    "primary_transcript": "./6WEsPzHyD9k.ru-orig.srt"
+  },
+  "limitations": [
+    "Public statistics are a time-bound snapshot and may change.",
+    "The primary transcript is automatically generated and may contain errors."
+  ]
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "GCONF yt-dlp"
+  short_description: "Диагностика и извлечение данных через yt-dlp"
+  default_prompt: "Use $gconf-yt-dlp to diagnose or probe this video URL without downloading media."
+policy:
+  allow_implicit_invocation: true

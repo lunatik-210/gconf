@@ -1,0 +1,81 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "platform": "youtube",
+    "video_id": "yke4fLQUsh4",
+    "url": "https://www.youtube.com/watch?v=yke4fLQUsh4",
+    "title": "Build An AI Second Brain Knowledge Base (Step-By-Step)"
+  },
+  "chapters": [
+    {
+      "start_time": 0.0,
+      "title": "Intro",
+      "end_time": 67.0
+    },
+    {
+      "start_time": 67.0,
+      "title": "The System Overview",
+      "end_time": 374.0
+    },
+    {
+      "start_time": 374.0,
+      "title": "OpenClaw on Hostinger",
+      "end_time": 483.0
+    },
+    {
+      "start_time": 483.0,
+      "title": "Karpathy LLM Wiki Concept",
+      "end_time": 507.0
+    },
+    {
+      "start_time": 507.0,
+      "title": "Tools Needed",
+      "end_time": 581.0
+    },
+    {
+      "start_time": 581.0,
+      "title": "The Buildout",
+      "end_time": 1099.0
+    },
+    {
+      "start_time": 1099.0,
+      "title": "Querying the Wiki",
+      "end_time": 1168.0
+    },
+    {
+      "start_time": 1168.0,
+      "title": "Manually Updating the Agent",
+      "end_time": 1285.0
+    },
+    {
+      "start_time": 1285.0,
+      "title": "Letting AI Update the Agent & Building Journal / CRM",
+      "end_time": 1486.0
+    },
+    {
+      "start_time": 1486.0,
+      "title": "Testing the CRM",
+      "end_time": 1561.0
+    },
+    {
+      "start_time": 1561.0,
+      "title": "Testing the Journal",
+      "end_time": 1751.0
+    },
+    {
+      "start_time": 1751.0,
+      "title": "Automating The Wiki Linking",
+      "end_time": 1830.0
+    },
+    {
+      "start_time": 1830.0,
+      "title": "Backing it all up to GitHub",
+      "end_time": 1901.0
+    },
+    {
+      "start_time": 1901.0,
+      "title": "Recap and Final Thoughts",
+      "end_time": 2036
+    }
+  ]
+}

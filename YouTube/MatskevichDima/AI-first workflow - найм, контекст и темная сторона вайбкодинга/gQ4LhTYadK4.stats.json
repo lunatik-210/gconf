@@ -1,0 +1,72 @@
+{
+  "schema_version": "2.0",
+  "status": "complete",
+  "collected_at": "2026-07-16T14:42:25Z",
+  "workspace": {
+    "creator_folder": "YouTube/MatskevichDima",
+    "video_folder": "YouTube/MatskevichDima/AI-first workflow - найм, контекст и темная сторона вайбкодинга"
+  },
+  "source": {
+    "platform": "youtube",
+    "video_id": "gQ4LhTYadK4",
+    "url": "https://www.youtube.com/watch?v=gQ4LhTYadK4",
+    "original_url": "https://www.youtube.com/watch?v=gQ4LhTYadK4",
+    "requested_start_seconds": 673,
+    "requested_start_context": {
+      "start_time": 648.0,
+      "title": "Zhenya: Agents as a discipline tool",
+      "end_time": 787.0
+    },
+    "title": "ai-first workflow: найм, контекст и тёмная сторона вайбкодинга. Ваня Замесин, Женя Курышев, Мацкевич",
+    "channel": "matskevich ai",
+    "channel_id": "UCZnxSd-W5YYLDyaQzV8NE7g",
+    "uploader": "matskevich ai",
+    "uploader_id": "@matskevichai",
+    "description": "🧠 комьюнити brain love & robots →  https://t.me/brainloveandrobots\n🪪 подать заявку в комьюнити: https://t.me/matskevichaibot?start=start\n🤖 gconf - интенсивы по вайбкодингу каждые 63 дня: https://t.me/gptlovers/910\n🤘 Дима telegram: https://t.me/whyaimatskevich\n\nразгон с Ваней Замесиным (product-методолог, автор advanced jtbd, создатель boost) и Женей Курышевым про то, как ai-агенты и вайбкодинг меняют работу, команды и саму природу профессий.\n\nобсудили:\n— как агенты разблокируют задачи, которые раньше прокрастинировались годами (найм, вычитка документов, аналитика звонков)\n— почему через месяц работы с агентами ты делаешь совсем не то, что планировал\n— командный репозиторий и автосбор контекста как суперхак для команд\n— эмпатию к ai-агентам: как перестать строить системы только для людей\n— кого сейчас нанимать \n— почему все постепенно становятся продуктологами\n— сопротивление новому как защита идентичности и почему эксперту сложнее начать\n— вайбкодинг как духовная практика и метафора «письма из хогвартса, попавшего в спам»\n— тёмную сторону: дофаминовые петли, тревога, выгорание и «анонимные вайбкодеры»\n— почему быть decision-maker тяжелее, чем кажется, и как не сжечь себя\n— роль живых сообществ и игры как способа обучения\n— манифест: агенты помогут каждому найти то, что он по-настоящему любит делать\nразговор получился одновременно про инструменты и про состояние — из какого места ты вообще входишь в эту новую реальность: из тревоги или из любопытства.\n\nтелеграм-канал Вани: https://clck.ru/3SyFeB\nтелеграм-канал Жени: https://t.me/tasteofrain\n\nтаймкоды: \n\n00:00 знакомство с гостями: ваня замесин и женя курышев\n02:41 что изменилось за последние полгода с агентами\n03:24 ваня: adhd-паралич уходит, разблокируется найм\n05:42 через месяц ты делаешь не то, что планировал\n06:53 кейс: найм ceo через codex и mcp\n08:44 sop и плейбуки, которые впервые кто-то читает\n10:48 женя: агенты как инструмент дисциплины\n13:07 свалка идей превращается в свалку прототипов\n15:48 суперхак: командный репозиторий и автосбор контекста\n18:41 эмпатия к ai-агентам и рефакторинг структуры\n22:02 кого сейчас нанимать в команду\n22:51 кейс ильи измайлова: «никто не сказал, что так нельзя»\n24:51 экспертиза как следующий рычаг роста\n26:20 все становятся продуктологами\n27:13 мешает ли старая экспертиза\n28:11 женя: экскаватор вместо лопаты — копай другую яму\n29:18 история про радионяню за одну ночь\n32:08 ваня: сопротивление идентичности и отказ от старого «я»\n34:34 вайбкодинг как духовная практика\n35:54 метафора письма из хогвартса\n38:38 тёмная сторона вайбкодинга\n40:29 теория ценности: дофамин, лутбокс и тревога\n43:48 как менеджерить зависимость\n44:41 «анонимные вайбкодеры»\n45:44 сигнал перегрузки: «могу ещё больше»\n46:44 почему быть decision-maker тяжело\n48:48 когда вы в последний раз выходили на улицу без агентов\n49:16 страх технической неподготовленности\n50:17 единственный нужный мета-навык — насмотренность\n52:51 важность живого примера и сообщества\n53:35 игра как способ обучения\n53:54 манифест: агенты помогут найти то, что любишь\n55:31 финал: из тревоги — в любопытство",
+    "duration_seconds": 3423,
+    "duration_display": "57:03",
+    "upload_date": "20260408",
+    "published_timestamp_utc": 1775651559,
+    "availability": "public",
+    "live_status": "not_live",
+    "license": null,
+    "categories": [
+      "People & Blogs"
+    ],
+    "tags": []
+  },
+  "statistics": {
+    "view_count": 924,
+    "like_count": 26,
+    "comment_count_reported": 2,
+    "comments_extracted": 2,
+    "root_comments": 1,
+    "replies": 1,
+    "comments_status": "complete",
+    "channel_follower_count": 603,
+    "chapters_count": 33
+  },
+  "subtitles": {
+    "manual_available": false,
+    "manual_languages": [],
+    "automatic_available": true,
+    "automatic_language_count": 157,
+    "source_language": "ru",
+    "primary_source": "automatic",
+    "primary_transcript": "./gQ4LhTYadK4.ru-orig.srt",
+    "whisper_used": false
+  },
+  "files": {
+    "raw_metadata": "./gQ4LhTYadK4.info.json",
+    "stats": "./gQ4LhTYadK4.stats.json",
+    "comments": "./gQ4LhTYadK4.comments.json",
+    "chapters": "./gQ4LhTYadK4.chapters.json",
+    "description": "./gQ4LhTYadK4.description",
+    "thumbnail": "./gQ4LhTYadK4.webp",
+    "primary_transcript": "./gQ4LhTYadK4.ru-orig.srt"
+  },
+  "limitations": [
+    "Public statistics are a time-bound snapshot and may change.",
+    "The primary transcript is automatically generated and may contain errors."
+  ]
+}

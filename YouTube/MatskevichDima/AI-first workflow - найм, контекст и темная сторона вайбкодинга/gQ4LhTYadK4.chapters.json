@@ -1,0 +1,176 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "platform": "youtube",
+    "video_id": "gQ4LhTYadK4",
+    "url": "https://www.youtube.com/watch?v=gQ4LhTYadK4",
+    "title": "ai-first workflow: найм, контекст и тёмная сторона вайбкодинга. Ваня Замесин, Женя Курышев, Мацкевич"
+  },
+  "chapters": [
+    {
+      "start_time": 0.0,
+      "title": "Meet the guests: Vanya Zamesin and Zhenya Kuryshev",
+      "end_time": 161.0
+    },
+    {
+      "start_time": 161.0,
+      "title": "What has changed with agents in the last six months?",
+      "end_time": 204.0
+    },
+    {
+      "start_time": 204.0,
+      "title": "Vanya: ADHD paralysis is going away, hiring is unlocked",
+      "end_time": 342.0
+    },
+    {
+      "start_time": 342.0,
+      "title": "A month later, you're not doing what you planned",
+      "end_time": 413.0
+    },
+    {
+      "start_time": 413.0,
+      "title": "Case study: Hiring a CEO through Codex and MCP",
+      "end_time": 524.0
+    },
+    {
+      "start_time": 524.0,
+      "title": "SOP and playbooks, which someone is reading for the first time",
+      "end_time": 648.0
+    },
+    {
+      "start_time": 648.0,
+      "title": "Zhenya: Agents as a discipline tool",
+      "end_time": 787.0
+    },
+    {
+      "start_time": 787.0,
+      "title": "An idea dump turns into a prototype dump",
+      "end_time": 948.0
+    },
+    {
+      "start_time": 948.0,
+      "title": "Superhack: A team repository and automatic context collection",
+      "end_time": 1121.0
+    },
+    {
+      "start_time": 1121.0,
+      "title": "Empathy for AI agents and refactoring Structures",
+      "end_time": 1322.0
+    },
+    {
+      "start_time": 1322.0,
+      "title": "Who to hire for the team now",
+      "end_time": 1371.0
+    },
+    {
+      "start_time": 1371.0,
+      "title": "Ilya Izmailov's case: \"Nobody said it couldn't be done this way\"",
+      "end_time": 1491.0
+    },
+    {
+      "start_time": 1491.0,
+      "title": "Expertise as the next growth lever",
+      "end_time": 1580.0
+    },
+    {
+      "start_time": 1580.0,
+      "title": "Everyone is becoming a product manager",
+      "end_time": 1633.0
+    },
+    {
+      "start_time": 1633.0,
+      "title": "Is old expertise a hindrance?",
+      "end_time": 1691.0
+    },
+    {
+      "start_time": 1691.0,
+      "title": "Zhenya: An excavator instead of a shovel — dig another hole",
+      "end_time": 1758.0
+    },
+    {
+      "start_time": 1758.0,
+      "title": "A story about a baby monitor overnight",
+      "end_time": 1928.0
+    },
+    {
+      "start_time": 1928.0,
+      "title": "Vanya: Resisting identity and renouncing the old self",
+      "end_time": 2074.0
+    },
+    {
+      "start_time": 2074.0,
+      "title": "Vibecoding as a spiritual practice",
+      "end_time": 2154.0
+    },
+    {
+      "start_time": 2154.0,
+      "title": "The metaphor of a letter from Hogwarts",
+      "end_time": 2318.0
+    },
+    {
+      "start_time": 2318.0,
+      "title": "The dark side of Vibecoding",
+      "end_time": 2429.0
+    },
+    {
+      "start_time": 2429.0,
+      "title": "Value theory: Dopamine, loot boxes, and anxiety",
+      "end_time": 2628.0
+    },
+    {
+      "start_time": 2628.0,
+      "title": "How to manage addiction",
+      "end_time": 2681.0
+    },
+    {
+      "start_time": 2681.0,
+      "title": "Anonymous Vibecoders",
+      "end_time": 2744.0
+    },
+    {
+      "start_time": 2744.0,
+      "title": "Overload signal: \"I can do even more\"",
+      "end_time": 2804.0
+    },
+    {
+      "start_time": 2804.0,
+      "title": "Why be Decision-making is hard",
+      "end_time": 2928.0
+    },
+    {
+      "start_time": 2928.0,
+      "title": "When was the last time you went outside without agents?",
+      "end_time": 2956.0
+    },
+    {
+      "start_time": 2956.0,
+      "title": "Fear of technical unpreparedness",
+      "end_time": 3017.0
+    },
+    {
+      "start_time": 3017.0,
+      "title": "The only necessary meta-skill is observation",
+      "end_time": 3171.0
+    },
+    {
+      "start_time": 3171.0,
+      "title": "The importance of living examples and community",
+      "end_time": 3215.0
+    },
+    {
+      "start_time": 3215.0,
+      "title": "Play as a learning tool",
+      "end_time": 3234.0
+    },
+    {
+      "start_time": 3234.0,
+      "title": "Manifesto: Agents will help you find what you love",
+      "end_time": 3331.0
+    },
+    {
+      "start_time": 3331.0,
+      "title": "Finale: From anxiety to curiosity",
+      "end_time": 3423
+    }
+  ]
+}

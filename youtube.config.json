@@ -1,0 +1,8 @@
+{
+  "root": "YouTube",
+  "default_language": "auto",
+  "folder_template": "{title} [{id}]",
+  "media_policy": "transcript-fallback-only",
+  "whisper_cli_env": "WHISPER_CLI",
+  "whisper_model_env": "WHISPER_MODEL"
+}

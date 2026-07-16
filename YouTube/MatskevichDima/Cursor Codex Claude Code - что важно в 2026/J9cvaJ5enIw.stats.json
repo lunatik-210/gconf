@@ -1,0 +1,72 @@
+{
+  "schema_version": "2.0",
+  "status": "complete",
+  "collected_at": "2026-07-16T14:42:25Z",
+  "workspace": {
+    "creator_folder": "YouTube/MatskevichDima",
+    "video_folder": "YouTube/MatskevichDima/Cursor Codex Claude Code - что важно в 2026"
+  },
+  "source": {
+    "platform": "youtube",
+    "video_id": "J9cvaJ5enIw",
+    "url": "https://www.youtube.com/watch?v=J9cvaJ5enIw",
+    "original_url": "https://www.youtube.com/watch?v=J9cvaJ5enIw",
+    "requested_start_seconds": 999,
+    "requested_start_context": {
+      "start_time": 995.0,
+      "title": "gconf as an agentic-first workflow",
+      "end_time": 1071.0
+    },
+    "title": "Cursor, Codex, Claude Code — что реально важно в 2026? как ai меняет работу, бизнес и мышление?",
+    "channel": "matskevich ai",
+    "channel_id": "UCZnxSd-W5YYLDyaQzV8NE7g",
+    "uploader": "matskevich ai",
+    "uploader_id": "@matskevichai",
+    "description": "🧠 комьюнити brain love & robots →  https://t.me/brainloveandrobots\n🪪 подать заявку в комьюнити: https://t.me/matskevichaibot?start=start\n🤖 gconf - интенсивы по вайбкодингу каждые 63 дня: https://t.me/gptlovers/910\n🤘 Дима telegram: https://t.me/whyaimatskevich\n\nЛёша — сооснователь Dbrain, строит CRM, приложение для Apple Watch, цифровизует колхоз — всё с помощью кодинг-агентов. Дима — сооснователь gconf, использует агентов для найма, ретро, health OS и управления проектами.\n\nчерез нас прошло 3000+ людей без технического бэкграунда. мы видим, как люди перестраивают свою работу и начинают думать по-другому. в этом разговоре — наши наблюдения, кейсы и то, что мы считаем по-настоящему важным.\n\nТаймкоды:\n\n00:00 — два полюса: классический вайбкодинг vs кодинг-агенты\n01:11 — что такое кодинг-агенты: Cursor, Claude Code, Codex\n03:22 — кейсы Лёши: персональные финансы, Apple Watch для ребёнка, колхоз, своя CRM\n06:10 — гиперперсонализация — главная сила кодинг-агентов\n07:20 — инструменты: Supabase, Railway, Pencil\n11:04 — Дима: кодинг-агенты для НЕ-кодинг задач\n14:06 — кейс: найм CEO с помощью Codex и MCP\n16:35 — gconf как agentic-first workflow\n17:51 — принцип: руками ничего не трогать\n19:00 — Health OS — операционная система своего здоровья\n21:23 — эмпатия к агентам и самоорганизация данных\n25:01 — Cursor vs Codex vs Claude Code — честное сравнение\n28:31 — cтоимость: почему $100-300/мес — это нормально\n33:36 — мета-навыки важнее инструментов\n36:54 — расширение круга возможного\n39:57 — «а что так можно было?» — сила среды\n42:06 — безопасность данных и AI\n45:06 — Opus vs Codex: характеры моделей\n48:48 — бизнес-подписки и где хранить данные\n50:56 — программа gconf: 3 стрима (новички → любопытство → билдеры)\n53:47 — вдохновение + трансформация: что по-настоящему важно",
+    "duration_seconds": 3355,
+    "duration_display": "55:55",
+    "upload_date": "20260321",
+    "published_timestamp_utc": 1774085664,
+    "availability": "public",
+    "live_status": "not_live",
+    "license": null,
+    "categories": [
+      "People & Blogs"
+    ],
+    "tags": []
+  },
+  "statistics": {
+    "view_count": 3157,
+    "like_count": 79,
+    "comment_count_reported": 6,
+    "comments_extracted": 6,
+    "root_comments": 5,
+    "replies": 1,
+    "comments_status": "complete",
+    "channel_follower_count": 603,
+    "chapters_count": 21
+  },
+  "subtitles": {
+    "manual_available": false,
+    "manual_languages": [],
+    "automatic_available": true,
+    "automatic_language_count": 157,
+    "source_language": "ru",
+    "primary_source": "automatic",
+    "primary_transcript": "./J9cvaJ5enIw.ru-orig.srt",
+    "whisper_used": false
+  },
+  "files": {
+    "raw_metadata": "./J9cvaJ5enIw.info.json",
+    "stats": "./J9cvaJ5enIw.stats.json",
+    "comments": "./J9cvaJ5enIw.comments.json",
+    "chapters": "./J9cvaJ5enIw.chapters.json",
+    "description": "./J9cvaJ5enIw.description",
+    "thumbnail": "./J9cvaJ5enIw.webp",
+    "primary_transcript": "./J9cvaJ5enIw.ru-orig.srt"
+  },
+  "limitations": [
+    "Public statistics are a time-bound snapshot and may change.",
+    "The primary transcript is automatically generated and may contain errors."
+  ]
+}

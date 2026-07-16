@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "source": {
+    "platform": "youtube",
+    "video_id": "gQ4LhTYadK4",
+    "url": "https://www.youtube.com/watch?v=gQ4LhTYadK4",
+    "title": "ai-first workflow: найм, контекст и тёмная сторона вайбкодинга. Ваня Замесин, Женя Курышев, Мацкевич",
+    "channel": "matskevich ai"
+  },
+  "collection": {
+    "tool": "yt-dlp",
+    "tool_version": "2026.03.17",
+    "collected_at": "2026-07-16T14:42:25Z",
+    "status": "complete",
+    "reported_comment_count": 2,
+    "extracted_comment_count": 2,
+    "scope": "public comments and replies accessible without authentication"
+  },
+  "comments": [
+    {
+      "id": "Ugw_rTydFv-Fhf8c4k54AaABAg",
+      "parent": "root",
+      "text": "При всём уважении, но тяжело вкатываться в просмотр, когда начинают так (\"уууууууу ааааааааааа уууууууу аааааааа\") о чем-то рассказывать..  хотя тема очень интересная.",
+      "like_count": 1,
+      "author_id": "UCcJxqMDnTJvyvqUHGoY-zlA",
+      "author": "@rext0nDani",
+      "author_thumbnail": "https://yt3.ggpht.com/jmd2ewRWwjd6zRcLiw75afreyfKLAtmO-HQJues9FKpH8HSC2dxEpatzOr29hqXON3AQRAkwGA=s88-c-k-c0x00ffffff-no-rj",
+      "author_is_uploader": false,
+      "author_is_verified": false,
+      "author_url": "https://www.youtube.com/@rext0nDani",
+      "is_favorited": false,
+      "_time_text": "3 months ago (edited)",
+      "timestamp": 1776384000,
+      "is_pinned": false
+    },
+    {
+      "id": "Ugw_rTydFv-Fhf8c4k54AaABAg.AVQHLCI06G5AWXqJhlGuKq",
+      "parent": "Ugw_rTydFv-Fhf8c4k54AaABAg",
+      "text": "Это просто беседа «на кухне» трех интересных чуваков, а не юрий дудь с кучей редакторов)",
+      "like_count": 0,
+      "author_id": "UCXkKj9IUgQ6ERJWjNT5xqXQ",
+      "author": "@aesly",
+      "author_thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kx7_jY7-IEmXWoJvfgOo4AXAVdmpniod3W89KEfRW2G2c=s88-c-k-c0x00ffffff-no-rj",
+      "author_is_uploader": false,
+      "author_is_verified": false,
+      "author_url": "https://www.youtube.com/@aesly",
+      "is_favorited": false,
+      "_time_text": "2 months ago",
+      "timestamp": 1778976000,
+      "is_pinned": false
+    }
+  ]
+}
