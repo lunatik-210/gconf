@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import importlib.util
+import json
 import sys
 import tempfile
 import unittest
@@ -33,6 +34,52 @@ class KnowledgeIngestTests(unittest.TestCase):
                 knowledge_ingest.PROJECT_ROOT / "telegram/example.json"
             ),
             "telegram",
+        )
+        self.assertEqual(
+            knowledge_ingest.detect_source(
+                knowledge_ingest.PROJECT_ROOT / "Web Articles/OpenAI/x/metadata.json"
+            ),
+            "web_articles",
+        )
+
+    def test_web_article_package_validates_domain_and_checksum(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            body = "# Official release\n\nExact primary text.\n"
+            (root / "article.md").write_text(body, encoding="utf-8")
+            metadata = {
+                "schema_version": "1.0",
+                "article_id": "release",
+                "title": "Official release",
+                "canonical_url": "https://openai.com/index/release/",
+                "published_at": "2026-07-09",
+                "collected_at": "2026-07-17T00:00:00Z",
+                "language": "en",
+                "content_sha256": knowledge_ingest.checksum_text(body),
+                "extraction_status": "complete",
+                "lab": {
+                    "id": "openai",
+                    "name": "OpenAI",
+                    "directory": "OpenAI",
+                    "official_domains": ["openai.com"],
+                },
+            }
+            metadata_path = root / "metadata.json"
+            metadata_path.write_text(json.dumps(metadata), encoding="utf-8")
+            package = knowledge_ingest.load_web_article_package(metadata_path)
+            self.assertEqual(package["content_sha256"], metadata["content_sha256"])
+
+            metadata["canonical_url"] = "https://example.com/copied-release"
+            metadata_path.write_text(json.dumps(metadata), encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "official domain"):
+                knowledge_ingest.load_web_article_package(metadata_path)
+
+    def test_web_article_locator_changes_with_content(self) -> None:
+        first = knowledge_ingest.checksum_text("first")[:12]
+        second = knowledge_ingest.checksum_text("second")[:12]
+        self.assertNotEqual(
+            f"web:openai:release:{first}",
+            f"web:openai:release:{second}",
         )
 
     def test_srt_chunks_preserve_time(self) -> None:

@@ -1,6 +1,6 @@
 interface:
   display_name: "GCONF Knowledge Ingest"
   short_description: "Импорт источников в SQLite и Obsidian"
-  default_prompt: "Use $gconf-knowledge-ingest to add collected GCONF research artifacts to the local knowledge base."
+  default_prompt: "Use $gconf-knowledge-ingest to add collected GCONF research artifacts, including official AI-lab Web Articles, to the local knowledge base."
 policy:
   allow_implicit_invocation: true

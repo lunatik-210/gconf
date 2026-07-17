@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "article_id": "claude-code-expertise",
+  "title": "Agentic coding and persistent returns to expertise",
+  "author": "Anthropic",
+  "canonical_url": "https://www.anthropic.com/research/claude-code-expertise",
+  "published_at": "2026-06-16",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "agents",
+    "expertise",
+    "knowledge-work",
+    "human-judgment"
+  ],
+  "content_sha256": "9af6a8456e87c5d50e2e2dd266c184ba2f10fde94a373343eadd94e2988bc71d",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "directory": "Anthropic",
+    "homepage": "https://www.anthropic.com/",
+    "official_domains": [
+      "www.anthropic.com",
+      "anthropic.com"
+    ]
+  }
+}

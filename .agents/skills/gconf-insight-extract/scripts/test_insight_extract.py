@@ -72,6 +72,13 @@ class InsightExtractTests(unittest.TestCase):
     def tearDown(self) -> None:
         self.temporary.cleanup()
 
+    def test_scope_allows_empty_event_list(self) -> None:
+        payload = json.loads(self.scope_path.read_text(encoding="utf-8"))
+        payload["event_ids"] = []
+        self.scope_path.write_text(json.dumps(payload), encoding="utf-8")
+        _, loaded = insight_extract.load_scope(str(self.scope_path))
+        self.assertEqual(loaded["event_ids"], [])
+
     def _write_database(self, checksum: str, with_chunk: bool = False) -> None:
         insight_extract.DB_PATH.parent.mkdir(parents=True, exist_ok=True)
         insight_extract.DB_PATH.unlink(missing_ok=True)
@@ -497,6 +504,42 @@ event_context: []
         finally:
             connection.close()
         self.assertTrue(any("quote not found" in error for error in errors))
+
+    def test_lab_card_requires_lab_identity_fields(self) -> None:
+        card = self.knowledge / "labs" / "lab-test.md"
+        card.write_text(
+            """---
+type: "lab"
+id: "lab-test"
+label: "Test Lab"
+status: "fact"
+review_status: "candidate"
+first_seen: "2026-05-25"
+last_seen: "2026-05-25"
+source_wave: "external"
+evidence: ["telegram:one:1"]
+evidence_quotes: [{"locator":"telegram:one:1","role":"primary","quote":"Есть живая боль","supports":"Тестовое evidence"}]
+related: []
+event_context: []
+organization_type: "ai_lab"
+official_domains: ["example.ai"]
+source_ids: ["web:lab:test"]
+---
+""",
+            encoding="utf-8",
+        )
+        connection = insight_extract.connect()
+        try:
+            records = insight_extract.evidence_record_map(connection)
+        finally:
+            connection.close()
+        data = insight_extract.parse_frontmatter(card)
+        self.assertEqual(
+            insight_extract.validate_semantic_card(
+                card, data, records, require_rendered=False
+            ),
+            [],
+        )
 
     def test_rendered_evidence_is_idempotent_and_preserves_human_text(self) -> None:
         card = self.knowledge / "pains" / "pain-test.md"

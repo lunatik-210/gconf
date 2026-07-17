@@ -45,4 +45,22 @@ Locators:
 Import Markdown and CSV files under `research/` as secondary editorial
 analysis. Use `research:<project-relative-path>` locators. Never treat a
 research statement as a primary fact unless its semantic card links back to a
-primary Telegram, Instagram, or YouTube locator.
+primary Telegram, Instagram, YouTube, or official-lab web locator.
+
+## Official lab web articles
+
+Treat every `Web Articles/<Lab>/<article-id>/<snapshot>/` directory as an
+immutable primary-source package containing `metadata.json`, `article.md`, and
+an optional `research-note.md`. Import only `article.md`; the research note is
+editorial navigation and must never become duplicate primary evidence.
+
+Require HTTPS, an exact hostname from `lab.official_domains`, and a
+`content_sha256` matching the UTF-8 contents of `article.md`. Reject incomplete
+or mismatched packages rather than silently indexing them.
+
+Locator: `web:<lab-id>:<article-id>:<content-hash-prefix>`.
+
+The publisher is authoritative for the existence, wording, availability, and
+stated terms of its release. Treat benchmark leadership, comparative quality,
+cost-performance, and future availability as publisher claims requiring
+corroboration.

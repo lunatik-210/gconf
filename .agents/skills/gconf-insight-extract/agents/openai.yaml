@@ -1,6 +1,6 @@
 interface:
   display_name: "GCONF Insight Extract"
-  short_description: "Извлечение инсайтов из базы GCONF"
-  default_prompt: "Use $gconf-insight-extract to turn newly ingested GCONF evidence into human-reviewable semantic cards with exact source quotes and case provenance."
+  short_description: "Инсайты, labs и технологии из базы GCONF"
+  default_prompt: "Use $gconf-insight-extract to turn newly ingested GCONF evidence, including official lab articles, into human-reviewable semantic cards with exact source quotes and provenance."
 policy:
   allow_implicit_invocation: true

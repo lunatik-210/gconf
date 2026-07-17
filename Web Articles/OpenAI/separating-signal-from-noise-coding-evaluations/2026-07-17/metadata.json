@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "article_id": "separating-signal-from-noise-coding-evaluations",
+  "title": "Separating signal from noise in coding evaluations",
+  "author": "OpenAI",
+  "canonical_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+  "published_at": "2026-07-08",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "evaluations",
+    "benchmarks",
+    "coding-agents",
+    "evidence-quality"
+  ],
+  "content_sha256": "41408bfb082452f45ae54cedc25d2ea995b11b425482343cbf648a07f6a3f122",
+  "extraction_status": "complete",
+  "extraction_method": "official_search_index",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "openai",
+    "name": "OpenAI",
+    "directory": "OpenAI",
+    "homepage": "https://openai.com/",
+    "official_domains": [
+      "openai.com"
+    ]
+  }
+}

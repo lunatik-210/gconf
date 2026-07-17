@@ -1,11 +1,12 @@
 # GCONF Knowledge
 
-Локальная база источников, доказательств и проверяемых смысловых карточек.
+Локальная база источников, доказательств и проверяемых смысловых карточек, включая официальные публикации AI-лабораторий.
 
 - [[views/Sources.base|Sources]]
 - [[views/Review Inbox.base|Review Candidates]]
 - [[views/Semantic Knowledge.base|Semantic Knowledge]]
 - [[views/Cases Review.base|Cases Review]]
 - [[processing/next-gconf|Insight Processing]]
+- [[processing/lab-signals|Official Lab Signals]]
 
-Сырые Telegram, Instagram и YouTube-файлы остаются вне vault и не изменяются importer-ом.
+Сырые Telegram, Instagram, YouTube и Web Articles остаются вне vault и не изменяются importer-ом.

@@ -18,7 +18,7 @@
   ],
   "properties": {
     "type": {
-      "enum": ["actor", "cohort", "pain", "case", "trend", "technology", "claim"]
+      "enum": ["actor", "lab", "cohort", "pain", "case", "trend", "technology", "claim"]
     },
     "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]+$"},
     "label": {"type": "string", "minLength": 1},
@@ -60,6 +60,20 @@
     },
     "artifact_status": {
       "enum": ["prototype", "working", "deployed", "unknown"]
+    },
+    "organization_type": {
+      "enum": ["ai_lab"]
+    },
+    "lifecycle_status": {
+      "enum": ["announced", "available", "mature", "deprecated", "retired", "unknown"]
+    },
+    "official_domains": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 3}
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 3}
     },
     "related": {
       "type": "array",

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "article_id": "gpt-5-6",
+  "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+  "author": "OpenAI",
+  "canonical_url": "https://openai.com/index/gpt-5-6/",
+  "published_at": "2026-07-09",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "gpt-5-6",
+    "frontier-models",
+    "agents",
+    "pricing",
+    "multi-agent"
+  ],
+  "content_sha256": "f71613a9b6e1b667322d41e52fd05d8072d639ca82915c4139aed1c049b6b11b",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "openai",
+    "name": "OpenAI",
+    "directory": "OpenAI",
+    "homepage": "https://openai.com/",
+    "official_domains": [
+      "openai.com"
+    ]
+  }
+}

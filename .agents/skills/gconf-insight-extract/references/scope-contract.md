@@ -5,7 +5,8 @@ Store project scope configuration at
 
 Required top-level fields are `schema_version`, `id`, `profile_version`,
 `event_ids`, and `batches`. `event_ids` is the closed list of events that may
-appear in semantic `event_context` for this scope. Each batch requires `id`,
+appear in semantic `event_context` for this scope; it may be empty for external
+research not attributed to a GCONF event. Each batch requires `id`,
 `label`, `window_start`, `window_end`, and one or more selectors.
 
 A selector supports:

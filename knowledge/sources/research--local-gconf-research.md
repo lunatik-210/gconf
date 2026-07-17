@@ -4,7 +4,7 @@ id: "research:local"
 platform: "research"
 source_type: "editorial_research"
 visibility: "editorial"
-document_count: 9
+document_count: 10
 collected_at: null
 source_path: "research"
 url: null
@@ -15,5 +15,5 @@ generated: true
 
 - Platform: `research`
 - Visibility: `editorial`
-- Documents indexed: **9**
+- Documents indexed: **10**
 - Local source: `research`

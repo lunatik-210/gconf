@@ -1,0 +1,41 @@
+---
+type: "lab"
+id: "lab-openai"
+label: "OpenAI"
+status: "fact"
+review_status: "candidate"
+first_seen: "2026-07-09"
+last_seen: "2026-07-09"
+source_wave: "external"
+evidence: ["web:openai:gpt-5-6:f71613a9b6e1"]
+evidence_quotes: [{"locator":"web:openai:gpt-5-6:f71613a9b6e1","role":"primary","quote":"We’re launching the GPT‑5.6 family of models for general availability following our limited preview⁠: our new flagship, Sol, alongside Terra, a balanced model for everyday work, and Luna, our most cost-efficient model.","supports":"Подтверждает OpenAI как издателя семейства GPT-5.6."}]
+related: ["technology-gpt-5-6", "technology-chatgpt-work"]
+event_context: []
+organization_type: "ai_lab"
+official_domains: ["openai.com"]
+source_ids: ["web:lab:openai"]
+aliases: ["OpenAI"]
+focus_areas: ["frontier models", "agents", "developer tools", "AI safety"]
+---
+
+# OpenAI
+
+AI-лаборатория и официальный первичный источник для релизов GPT, ChatGPT и Codex. Сравнительные benchmark-заявления лаборатории требуют независимой проверки.
+
+<!-- evidence:start -->
+## Evidence
+
+### 1. OpenAI · Web · 2026-07-09
+
+- **Автор:** OpenAI
+- **Роль:** `primary`
+- **Подтверждает:** Подтверждает OpenAI как издателя семейства GPT-5.6.
+- **Visibility:** `public`
+
+> We’re launching the GPT‑5.6 family of models for general availability following our limited preview⁠: our new flagship, Sol, alongside Terra, a balanced model for everyday work, and Luna, our most cost-efficient model.
+
+- Locator: `web:openai:gpt-5-6:f71613a9b6e1`
+- [Открыть источник](https://openai.com/index/gpt-5-6/)
+- Local source: `Web Articles/OpenAI/gpt-5-6/2026-07-17/article.md`
+
+<!-- evidence:end -->

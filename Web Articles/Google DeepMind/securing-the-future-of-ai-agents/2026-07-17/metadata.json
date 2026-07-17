@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "article_id": "securing-the-future-of-ai-agents",
+  "title": "Securing the future of AI agents",
+  "author": "Google DeepMind",
+  "canonical_url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+  "published_at": "2026-06-18",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "agents",
+    "security",
+    "control",
+    "deployment"
+  ],
+  "content_sha256": "4c377b134a274a2340e685e912d30fe782926de51847707c3a66b704681fff98",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "google-deepmind",
+    "name": "Google DeepMind",
+    "directory": "Google DeepMind",
+    "homepage": "https://deepmind.google/",
+    "official_domains": [
+      "deepmind.google"
+    ]
+  }
+}

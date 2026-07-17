@@ -5,7 +5,7 @@ generated: true
 
 # Legacy inbox
 
-Новые AI-кандидаты сразу появляются в typed folders с
+Новые AI-кандидаты, включая лаборатории и технологии, сразу появляются в typed folders с
 `review_status: candidate`. Открывайте [[../views/Review Inbox.base|Review
 Candidates]], чтобы проверить их. Эта папка сохранена только для совместимости
 со старыми заметками.

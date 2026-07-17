@@ -42,10 +42,16 @@ earliest and latest quoted evidence dates.
 - `trend`: describe the changed capability, newly available behavior,
   maturity, freshness, and hype risk. Commentary is a signal, not product fact.
 - `technology`: record a tool or capability without promoting it to a trend.
+  Treat it as a living entity: append new evidence, track `lifecycle_status`
+  (`announced`, `available`, `mature`, `deprecated`, `retired`, or `unknown`),
+  and preserve obsolete cards as history. Create a new card for a major model
+  version and connect it with `supersedes`; do not silently rewrite the old one.
 - `claim`: connect at least one pain with another supported semantic type. Do
   not create a claim from one comment.
 - `actor`: use `internal_protagonist`, `external_protagonist`,
   `community_member`, or `source_author`.
+- `lab`: use for an AI research organization publishing primary material.
+  Record official domains and SQLite source IDs. Do not use `actor` for labs.
 - `cohort`: include dates, `event_kind`, positioning, and verified properties
   only. Use `experiment` for AI weekend.
 
@@ -74,3 +80,6 @@ the participant's exact quoted language.
   unless the author is explicitly identified as a participant.
 - Matt Wolfe, Wes Roth, other public AI/business channels, and their audiences
   belong to the external wave.
+- Official lab publications belong to the external wave. Product availability
+  is primary evidence; publisher-authored benchmark superiority remains a
+  claim until independently corroborated.

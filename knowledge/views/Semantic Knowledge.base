@@ -1,6 +1,6 @@
 filters:
   and:
-    - list("actor", "cohort", "pain", "case", "trend", "technology", "claim").contains(type)
+    - list("actor", "lab", "cohort", "pain", "case", "trend", "technology", "claim").contains(type)
 views:
   - type: table
     name: Semantic Knowledge

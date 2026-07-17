@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "article_id": "glm-5-2",
+  "title": "GLM-5.2: Built for Long-Horizon Tasks",
+  "author": "Z.ai / Zhipu AI",
+  "canonical_url": "https://z.ai/blog/glm-5.2",
+  "published_at": "2026-06-16",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "glm-5-2",
+    "china",
+    "open-models",
+    "long-context",
+    "coding-agents",
+    "pricing"
+  ],
+  "content_sha256": "fc41e5a43c9c7b84d5411812b981ecff0f7ca47feec8f25c6d4a17dbd97418b9",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "z-ai",
+    "name": "Z.ai / Zhipu AI",
+    "directory": "Z.ai",
+    "homepage": "https://z.ai/",
+    "official_domains": [
+      "z.ai"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: gconf-insight-extract
-description: Convert already-ingested GCONF SQLite evidence into traceable Obsidian semantic cards and track processed source batches. Use when identifying pains, cases, trends, technologies, actors, cohorts, or evidence-backed claims from newly added or changed Telegram, Instagram, YouTube, or local research data; checking which insight batches are pending or stale; preparing work units; finalizing processing markers; or validating the semantic knowledge layer. Do not use to collect sources, download media, transcribe, draft announcements or news, approve candidates, or publish content.
+description: Convert already-ingested GCONF SQLite evidence into traceable Obsidian semantic cards and track processed source batches. Use when identifying pains, cases, trends, technologies, labs, actors, cohorts, or evidence-backed claims from newly added or changed Telegram, Instagram, YouTube, official lab Web Articles, or local research data; checking which insight batches are pending or stale; preparing work units; finalizing processing markers; or validating the semantic knowledge layer. Do not use to collect sources, download media, transcribe, draft announcements or news, approve candidates, or publish content.
 ---
 
 # GCONF Insight Extract
@@ -61,7 +61,7 @@ python3 -B .agents/skills/gconf-insight-extract/scripts/insight_extract.py rende
   querying SQLite manually. Treat local research as navigation rather than
   primary proof.
 - Write new cards with `review_status: candidate` directly to `actors/`,
-  `cohorts/`, `pains/`, `cases/`, `trends/`, `technologies/`, or `claims/`.
+  `labs/`, `cohorts/`, `pains/`, `cases/`, `trends/`, `technologies/`, or `claims/`.
 - Merge new evidence into an existing candidate. Never overwrite an approved
   card; create a dated candidate with `updates: EXISTING_ID`.
 - Do not infer event membership from publication date. Record `explicit`,

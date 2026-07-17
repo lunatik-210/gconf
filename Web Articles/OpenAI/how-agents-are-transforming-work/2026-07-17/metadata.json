@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "article_id": "how-agents-are-transforming-work",
+  "title": "How agents are transforming work",
+  "author": "OpenAI",
+  "canonical_url": "https://openai.com/index/how-agents-are-transforming-work/",
+  "published_at": "2026-06-25",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "agents",
+    "knowledge-work",
+    "adoption",
+    "codex"
+  ],
+  "content_sha256": "7319a72d00f6a6438feed02c9bdd07c1426e7d0d0ff1ecefa9d9107717fbd0cb",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "openai",
+    "name": "OpenAI",
+    "directory": "OpenAI",
+    "homepage": "https://openai.com/",
+    "official_domains": [
+      "openai.com"
+    ]
+  }
+}

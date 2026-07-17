@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "article_id": "chatgpt-for-your-most-ambitious-work",
+  "title": "ChatGPT is now a partner for your most ambitious work",
+  "author": "OpenAI",
+  "canonical_url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+  "published_at": "2026-07-09",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "chatgpt-work",
+    "interface",
+    "agents",
+    "knowledge-work",
+    "artifacts"
+  ],
+  "content_sha256": "9e02ec9d218b658db2893ea9cd390d651862dcc1b2510111669c3dfd40bab31d",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "openai",
+    "name": "OpenAI",
+    "directory": "OpenAI",
+    "homepage": "https://openai.com/",
+    "official_domains": [
+      "openai.com"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "article_id": "claude-sonnet-5",
+  "title": "Introducing Claude Sonnet 5",
+  "author": "Anthropic",
+  "canonical_url": "https://www.anthropic.com/news/claude-sonnet-5",
+  "published_at": "2026-06-30",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "claude-sonnet-5",
+    "frontier-models",
+    "agents",
+    "pricing"
+  ],
+  "content_sha256": "f1bf2ba2e7ca6a857d9d00540c32a4122d61644ee07406891975d1e3173734ea",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "anthropic",
+    "name": "Anthropic",
+    "directory": "Anthropic",
+    "homepage": "https://www.anthropic.com/",
+    "official_domains": [
+      "www.anthropic.com",
+      "anthropic.com"
+    ]
+  }
+}

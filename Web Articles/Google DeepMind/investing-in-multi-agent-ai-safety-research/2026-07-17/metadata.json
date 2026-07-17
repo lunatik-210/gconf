@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "article_id": "investing-in-multi-agent-ai-safety-research",
+  "title": "Investing in multi-agent AI safety research",
+  "author": "Google DeepMind",
+  "canonical_url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+  "published_at": "2026-06-11",
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "multi-agent",
+    "safety",
+    "infrastructure",
+    "agent-ecosystems"
+  ],
+  "content_sha256": "7d6f09aebfdd788d6e4208929c1cd5a621d8537558a7c78cafc2160b76df929a",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "google-deepmind",
+    "name": "Google DeepMind",
+    "directory": "Google DeepMind",
+    "homepage": "https://deepmind.google/",
+    "official_domains": [
+      "deepmind.google"
+    ]
+  }
+}

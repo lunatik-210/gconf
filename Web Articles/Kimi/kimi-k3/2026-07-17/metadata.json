@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "article_id": "kimi-k3",
+  "title": "Kimi K3: Open Frontier Intelligence",
+  "author": "Kimi / Moonshot AI",
+  "canonical_url": "https://www.kimi.com/blog/kimi-k3",
+  "published_at": null,
+  "collected_at": "2026-07-17T00:00:00Z",
+  "language": "en",
+  "topics": [
+    "kimi-k3",
+    "china",
+    "open-models",
+    "frontier-models",
+    "pricing"
+  ],
+  "content_sha256": "31c5ed13a3846d6f4e4f375e5ec0df01e210d3f2d488f2e196e806a566e040c0",
+  "extraction_status": "complete",
+  "extraction_method": "browser_dom",
+  "publisher_claims_require_corroboration": true,
+  "lab": {
+    "id": "kimi",
+    "name": "Kimi / Moonshot AI",
+    "directory": "Kimi",
+    "homepage": "https://www.kimi.com/",
+    "official_domains": [
+      "www.kimi.com",
+      "kimi.com"
+    ]
+  },
+  "first_seen_at": "2026-07-17"
+}

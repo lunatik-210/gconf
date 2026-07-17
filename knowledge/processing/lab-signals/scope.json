@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "lab-signals",
+  "label": "Official AI lab signals",
+  "profile_version": "semantic-v2-human-evidence",
+  "event_ids": [],
+  "batches": [
+    {
+      "id": "agentic-work",
+      "label": "Agentic work and trustworthy evaluation",
+      "window_start": "2026-06-11",
+      "window_end": "2026-07-08",
+      "selectors": [
+        {
+          "source_ids": ["web:lab:openai", "web:lab:anthropic", "web:lab:google-deepmind"],
+          "kinds": ["official_lab_article"]
+        }
+      ]
+    },
+    {
+      "id": "chinese-frontier",
+      "label": "Chinese open frontier models",
+      "window_start": "2026-06-16",
+      "window_end": "2026-07-17",
+      "selectors": [
+        {
+          "source_ids": ["web:lab:kimi", "web:lab:z-ai"],
+          "kinds": ["official_lab_article"]
+        }
+      ]
+    },
+    {
+      "id": "gpt-claude-product-convergence",
+      "label": "GPT and Claude product convergence",
+      "window_start": "2026-06-30",
+      "window_end": "2026-07-09",
+      "selectors": [
+        {
+          "source_ids": ["web:lab:openai", "web:lab:anthropic"],
+          "kinds": ["official_lab_article"]
+        }
+      ]
+    }
+  ]
+}

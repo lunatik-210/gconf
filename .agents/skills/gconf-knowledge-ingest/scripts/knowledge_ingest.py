@@ -14,6 +14,7 @@ import sqlite3
 import sys
 import tempfile
 import unicodedata
+import urllib.parse
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
@@ -32,6 +33,7 @@ SOURCE_ROOTS = {
     "telegram": PROJECT_ROOT / "telegram",
     "instagram": PROJECT_ROOT / "Instagram",
     "research": PROJECT_ROOT / "research",
+    "web_articles": PROJECT_ROOT / "Web Articles",
 }
 
 
@@ -159,6 +161,7 @@ def ensure_knowledge_layout() -> None:
         "_inbox",
         "_index",
         "actors",
+        "labs",
         "cohorts",
         "pains",
         "cases",
@@ -180,7 +183,7 @@ def ensure_knowledge_layout() -> None:
             "- [[views/Sources.base|Sources]]\n"
             "- [[views/Review Inbox.base|Review Inbox]]\n"
             "- [[views/Semantic Knowledge.base|Semantic Knowledge]]\n\n"
-            "Сырые Telegram, Instagram и YouTube-файлы остаются вне vault и не "
+            "Сырые Telegram, Instagram, YouTube и Web Articles остаются вне vault и не "
             "изменяются importer-ом.\n",
         )
     inbox = KNOWLEDGE_ROOT / "_inbox" / "Inbox Guide.md"
@@ -192,7 +195,7 @@ def ensure_knowledge_layout() -> None:
             "generated: true\n"
             "---\n\n"
             "# Review inbox\n\n"
-            "AI-кандидаты на боли, кейсы, тренды и claims появляются здесь. "
+            "AI-кандидаты на лаборатории, технологии, боли, кейсы, тренды и claims появляются здесь. "
             "Переносить их в typed folders можно только после человеческой проверки.\n",
         )
     bases = {
@@ -210,7 +213,7 @@ def ensure_knowledge_layout() -> None:
         ),
         "Semantic Knowledge.base": (
             "filters:\n  and:\n"
-            '    - \'list("actor", "cohort", "pain", "case", "trend", "technology", "claim").contains(type)\'\n'
+            '    - \'list("actor", "lab", "cohort", "pain", "case", "trend", "technology", "claim").contains(type)\'\n'
             "views:\n  - type: table\n    name: Semantic Knowledge\n"
             "    order:\n      - file.name\n      - type\n      - status\n"
             "      - review_status\n      - first_seen\n      - last_seen\n"
@@ -1091,6 +1094,138 @@ def ingest_research(
         counters.files_processed += 1
 
 
+WEB_REQUIRED_FIELDS = {
+    "schema_version",
+    "article_id",
+    "title",
+    "canonical_url",
+    "collected_at",
+    "language",
+    "content_sha256",
+    "extraction_status",
+    "lab",
+}
+
+
+def load_web_article_package(metadata_path: Path) -> dict[str, Any]:
+    metadata = load_json(metadata_path, {})
+    if not isinstance(metadata, dict):
+        raise ValueError(f"invalid web article metadata: {metadata_path}")
+    missing = sorted(WEB_REQUIRED_FIELDS - set(metadata))
+    if missing:
+        raise ValueError(
+            f"{project_relative(metadata_path)} missing fields: {', '.join(missing)}"
+        )
+    lab = metadata.get("lab")
+    if not isinstance(lab, dict):
+        raise ValueError(f"{project_relative(metadata_path)} lab must be an object")
+    missing_lab = sorted({"id", "name", "official_domains"} - set(lab))
+    if missing_lab:
+        raise ValueError(
+            f"{project_relative(metadata_path)} missing lab fields: {', '.join(missing_lab)}"
+        )
+    domains = lab.get("official_domains")
+    if not isinstance(domains, list) or not domains:
+        raise ValueError(
+            f"{project_relative(metadata_path)} official_domains must be non-empty"
+        )
+    canonical_url = str(metadata.get("canonical_url") or "")
+    parsed = urllib.parse.urlparse(canonical_url)
+    allowed_domains = {str(item).lower() for item in domains}
+    if parsed.scheme != "https" or (parsed.hostname or "").lower() not in allowed_domains:
+        raise ValueError(
+            f"{project_relative(metadata_path)} canonical URL is not on an official domain"
+        )
+    article_path = metadata_path.with_name("article.md")
+    if not article_path.is_file():
+        raise ValueError(f"missing web article body: {project_relative(article_path)}")
+    body = article_path.read_text(encoding="utf-8", errors="replace")
+    if not body.strip():
+        raise ValueError(f"empty web article body: {project_relative(article_path)}")
+    content_sha256 = checksum_text(body)
+    if content_sha256 != str(metadata.get("content_sha256")):
+        raise ValueError(
+            f"{project_relative(metadata_path)} content_sha256 does not match article.md"
+        )
+    return {
+        "metadata": metadata,
+        "lab": lab,
+        "body": body,
+        "article_path": article_path,
+        "content_sha256": content_sha256,
+    }
+
+
+def ingest_web_articles(
+    connection: sqlite3.Connection,
+    counters: Counters,
+    path: Path,
+) -> None:
+    metadata_paths = (
+        [path]
+        if path.is_file() and path.name == "metadata.json"
+        else sorted(path.glob("**/metadata.json"))
+    )
+    for metadata_path in metadata_paths:
+        package = load_web_article_package(metadata_path)
+        metadata = package["metadata"]
+        lab = package["lab"]
+        lab_id = str(lab["id"])
+        source_id = f"web:lab:{lab_id}"
+        upsert_source(
+            connection,
+            counters,
+            source_id=source_id,
+            platform="web",
+            name=str(lab["name"]),
+            source_type="official_ai_lab",
+            visibility="public",
+            path=project_relative(SOURCE_ROOTS["web_articles"] / str(lab["directory"])),
+            url=str(lab.get("homepage") or metadata["canonical_url"]),
+            collected_at=str(metadata["collected_at"]),
+            metadata={
+                "organization_type": "ai_lab",
+                "official_domains": lab["official_domains"],
+                "official_source": True,
+            },
+        )
+        article_id = str(metadata["article_id"])
+        digest = str(package["content_sha256"])
+        locator = f"web:{lab_id}:{article_id}:{digest[:12]}"
+        document_metadata = {
+            key: value
+            for key, value in metadata.items()
+            if key not in {"lab", "content_sha256"}
+        }
+        document_metadata.update(
+            {
+                "lab_id": lab_id,
+                "snapshot_checksum": digest,
+                "official_domain_verified": True,
+                "publisher_claims_require_corroboration": True,
+            }
+        )
+        upsert_document(
+            connection,
+            counters,
+            document_id=f"web:document:{lab_id}:{article_id}:{digest[:24]}",
+            source_id=source_id,
+            platform="web",
+            external_id=f"{lab_id}:{article_id}",
+            kind="official_lab_article",
+            title=str(metadata["title"]),
+            author=str(metadata.get("author") or lab["name"]),
+            published_at=metadata.get("published_at") or metadata.get("first_seen_at"),
+            url=str(metadata["canonical_url"]),
+            locator=locator,
+            body=str(package["body"]),
+            source_path=project_relative(package["article_path"]),
+            visibility="public",
+            metadata=document_metadata,
+        )
+        counters.files_processed += 1
+
+
 def detect_source(path: Path) -> str | None:
     try:
         relative = path.resolve().relative_to(PROJECT_ROOT.resolve())
@@ -1103,6 +1238,8 @@ def detect_source(path: Path) -> str | None:
             return "instagram"
         if first == "research":
             return "research"
+        if first == "web articles":
+            return "web_articles"
     except ValueError:
         pass
     if path.is_file() and path.suffix.lower() == ".json":
@@ -1114,6 +1251,8 @@ def detect_source(path: Path) -> str | None:
                 return "instagram"
             if {"id", "name", "messages"}.issubset(payload):
                 return "telegram"
+    if path.is_file() and path.name == "metadata.json":
+        return "web_articles"
     if path.suffix.lower() in {".md", ".csv"}:
         return "research"
     return None
@@ -1130,6 +1269,7 @@ def ingest_source(
         "telegram": ingest_telegram,
         "instagram": ingest_instagram,
         "research": ingest_research,
+        "web_articles": ingest_web_articles,
     }
     handlers[source](connection, counters, path)
 
@@ -1294,6 +1434,7 @@ def scan_report() -> dict[str, Any]:
         for path in SOURCE_ROOTS["research"].glob("**/*")
         if path.is_file() and path.suffix.lower() in {".md", ".csv"}
     ]
+    web_articles = list(SOURCE_ROOTS["web_articles"].glob("**/metadata.json"))
     return {
         "ok": True,
         "sources": {
@@ -1301,6 +1442,7 @@ def scan_report() -> dict[str, Any]:
             "telegram_exports": len(telegram),
             "instagram_exports": len(instagram),
             "research_files": len(research),
+            "web_articles": len(web_articles),
         },
         "paths": {key: project_relative(value) for key, value in SOURCE_ROOTS.items()},
     }
@@ -1335,6 +1477,11 @@ def doctor_report() -> dict[str, Any]:
 def validate_report() -> dict[str, Any]:
     errors: list[str] = []
     warnings: list[str] = []
+    for metadata_path in sorted(SOURCE_ROOTS["web_articles"].glob("**/metadata.json")):
+        try:
+            load_web_article_package(metadata_path)
+        except (OSError, ValueError) as exc:
+            errors.append(str(exc))
     if not DB_PATH.is_file():
         return {"ok": False, "errors": [f"missing database: {DB_PATH}"], "warnings": []}
     connection = sqlite3.connect(DB_PATH)

@@ -26,6 +26,7 @@ REVIEW_VIEW = KNOWLEDGE_ROOT / "views" / "Review Inbox.base"
 
 SEMANTIC_FOLDERS = {
     "actor": "actors",
+    "lab": "labs",
     "cohort": "cohorts",
     "pain": "pains",
     "case": "cases",
@@ -59,6 +60,14 @@ ALLOWED_PROOF_LEVELS = {
     "independently_verified",
 }
 ALLOWED_ARTIFACT_STATUSES = {"idea", "prototype", "working", "deployed", "unknown"}
+ALLOWED_TECHNOLOGY_LIFECYCLES = {
+    "announced",
+    "available",
+    "mature",
+    "deprecated",
+    "retired",
+    "unknown",
+}
 EVIDENCE_START = "<!-- evidence:start -->"
 EVIDENCE_END = "<!-- evidence:end -->"
 MAX_UNIT_RECORDS = 100
@@ -242,7 +251,7 @@ def load_scope(scope: str) -> tuple[Path, dict[str, Any]]:
     if len(batch_ids) != len(set(batch_ids)) or any(not value for value in batch_ids):
         raise RuntimeError(f"scope has missing or duplicate batch IDs: {project_relative(path)}")
     event_ids = payload.get("event_ids")
-    if not isinstance(event_ids, list) or not event_ids or len(event_ids) != len(set(event_ids)):
+    if not isinstance(event_ids, list) or len(event_ids) != len(set(event_ids)):
         raise RuntimeError(f"scope has missing or duplicate event IDs: {project_relative(path)}")
     return path, payload
 
@@ -777,6 +786,18 @@ def validate_semantic_card(
             errors.append(f"{project_relative(path)} invalid proof_level")
         if data.get("artifact_status") not in ALLOWED_ARTIFACT_STATUSES:
             errors.append(f"{project_relative(path)} invalid artifact_status")
+    if card_type == "lab":
+        if data.get("organization_type") != "ai_lab":
+            errors.append(f"{project_relative(path)} lab organization_type must be ai_lab")
+        domains = data.get("official_domains")
+        if not isinstance(domains, list) or not domains:
+            errors.append(f"{project_relative(path)} lab official_domains must be non-empty")
+        source_ids = data.get("source_ids")
+        if not isinstance(source_ids, list) or not source_ids:
+            errors.append(f"{project_relative(path)} lab source_ids must be non-empty")
+    if card_type == "technology" and data.get("lifecycle_status") is not None:
+        if data.get("lifecycle_status") not in ALLOWED_TECHNOLOGY_LIFECYCLES:
+            errors.append(f"{project_relative(path)} invalid technology lifecycle_status")
     if require_rendered:
         body = path.read_text(encoding="utf-8")
         if EVIDENCE_START not in body or EVIDENCE_END not in body:

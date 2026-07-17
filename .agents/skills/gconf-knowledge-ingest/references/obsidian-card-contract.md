@@ -40,6 +40,7 @@ event_context:
 Allowed `type` values:
 
 - `actor`
+- `lab`
 - `cohort`
 - `pain`
 - `case`
@@ -64,3 +65,9 @@ The insight extractor validates these excerpts against SQLite and renders a
 human-readable `## Evidence` section with source links. Case cards additionally
 record `case_origin`, `reporting_mode`, `proof_level`, `artifact_status`, the
 initial task, process, tools, result, behavior shift, and limitations.
+
+Lab cards represent AI research organizations, not people and not generated
+source cards. They require `organization_type: ai_lab`, non-empty
+`official_domains`, and the corresponding SQLite `source_ids`. Generated source
+cards answer where documents came from; lab cards connect the organization to
+technologies, trends, and claims.

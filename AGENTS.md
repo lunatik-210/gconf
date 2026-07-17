@@ -171,7 +171,7 @@ The project uses a local pipeline:
 - `$gconf-local-whisper` transcribes local media or provides the transcript
   fallback when YouTube captions are unavailable.
 - `$gconf-knowledge-ingest` imports already-collected YouTube, Telegram,
-  Instagram, and local research artifacts into the knowledge system. It must
+  Instagram, official-lab Web Articles, and local research artifacts into the knowledge system. It must
   never scrape, download, transcribe, call a network API, or publish content.
 - `$gconf-insight-extract` reads the SQLite index, prepares bounded evidence
   batches, creates traceable candidate cards, and tracks completed batches by
@@ -181,12 +181,17 @@ The project uses a local pipeline:
 Do not duplicate collection logic in downstream skills. A request such as
 “collect this video and add it to the knowledge base” should invoke
 `$gconf-youtube-research` first and `$gconf-knowledge-ingest` second.
-When the request also asks to identify new pains, cases, trends, or claims,
+When the request also asks to identify new pains, cases, labs, technologies, trends, or claims,
 invoke `$gconf-insight-extract` third.
+
+Official AI-lab articles live under `Web Articles/<Lab>/<article>/<snapshot>/`.
+They must contain checksum-verified `metadata.json` and a full normalized
+`article.md`; `research-note.md` is secondary editorial navigation. Only exact
+official domains are accepted. The importer never fetches these pages itself.
 
 ### Storage responsibilities
 
-- `telegram/`, `Instagram/`, `YouTube/`, and `research/` contain source
+- `telegram/`, `Instagram/`, `YouTube/`, `Web Articles/`, and `research/` contain source
   artifacts. Treat them as immutable evidence during ingestion.
 - `knowledge/_index/gconf.sqlite` is the derived machine index. It contains
   normalized sources, documents, comments, transcript chunks, reply edges,
@@ -196,7 +201,8 @@ invoke `$gconf-insight-extract` third.
 - `knowledge/sources/` contains generated source cards. They may be refreshed
   or recreated by the importer.
 - Typed folders such as `knowledge/pains/`, `knowledge/cases/`,
-  `knowledge/trends/`, `knowledge/actors/`, and `knowledge/cohorts/` contain
+  `knowledge/trends/`, `knowledge/technologies/`, `knowledge/labs/`,
+  `knowledge/actors/`, and `knowledge/cohorts/` contain
   both candidate and reviewed semantic knowledge. Use `review_status`, not
   folder location, to distinguish them.
 - `knowledge/processing/` contains committed scope definitions and processing
@@ -293,8 +299,8 @@ manual SQLite lookup.
 
 The first completed import contains:
 
-- 15 source records;
-- 7,931 normalized documents;
+- 20 source records;
+- 7,942 normalized documents;
 - 2,405 timestamped YouTube transcript chunks;
 - 6,359 reply or parent relations;
 - public, internal, and editorial visibility labels;

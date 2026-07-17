@@ -1,6 +1,6 @@
 ---
 name: gconf-knowledge-ingest
-description: Import already-collected GCONF research artifacts into the local SQLite and Obsidian knowledge base. Use when adding or refreshing YouTube research packages, Telegram exports, Instagram exports, or local research files; rebuilding or validating knowledge/, checking ingestion status, or preparing source-backed material for later pain, case, trend, and editorial analysis. Do not use to download, scrape, transcribe, or publish content.
+description: Import already-collected GCONF research artifacts into the local SQLite and Obsidian knowledge base. Use when adding or refreshing YouTube research packages, Telegram exports, Instagram exports, official AI-lab Web Articles, or local research files; rebuilding or validating knowledge/, checking ingestion status, or preparing source-backed material for later pain, case, trend, and editorial analysis. Do not use to download, scrape, transcribe, or publish content.
 ---
 
 # GCONF Knowledge Ingest
@@ -24,6 +24,8 @@ The importer:
 2. Normalize sources, documents, comments, transcript chunks, and reply edges.
    For Telegram, preserve topic-creation documents, nested reply chains, and
    direct public/private message links for later human evidence review.
+   For official lab articles, verify the domain and snapshot checksum, import
+   only `article.md`, and retain publisher-claim caveats in document metadata.
 3. Upsert by stable platform locator and checksum.
 4. Rebuild SQLite FTS indexes.
 5. Create or refresh generated source cards in `knowledge/sources/`.
