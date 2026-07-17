@@ -22,6 +22,8 @@ The importer:
 
 1. Preserve every source artifact unchanged.
 2. Normalize sources, documents, comments, transcript chunks, and reply edges.
+   For Telegram, preserve topic-creation documents, nested reply chains, and
+   direct public/private message links for later human evidence review.
 3. Upsert by stable platform locator and checksum.
 4. Rebuild SQLite FTS indexes.
 5. Create or refresh generated source cards in `knowledge/sources/`.
@@ -31,22 +33,14 @@ Read [source-contracts.md](references/source-contracts.md) before changing an
 adapter. Read [obsidian-card-contract.md](references/obsidian-card-contract.md)
 before creating semantic cards.
 
-## Curate after import
+## Hand off after import
 
-After deterministic import, inspect relevant source documents and create
-candidate cards only in `knowledge/_inbox/`. Use the types `actor`, `cohort`,
-`pain`, `case`, `trend`, `technology`, or `claim`.
+Use `$gconf-insight-extract` after deterministic import when the user asks to
+identify or refresh actors, cohorts, pains, cases, trends, technologies, or
+claims. Do not perform semantic extraction inside this skill.
 
-Every candidate must include:
-
-- `status: fact`, `inference`, or `proposal`;
-- `review_status: candidate`;
-- one or more exact evidence locators;
-- `first_seen` and `last_seen` when time is material;
-- links to related actors, cohorts, pains, cases, or trends when supported.
-
-Do not promote candidates automatically. Do not overwrite approved semantic
-cards; create an update proposal in `_inbox/`.
+The downstream skill writes candidates directly to typed Obsidian folders,
+tracks logical processing batches, and must preserve exact evidence locators.
 
 ## Validate and rebuild
 

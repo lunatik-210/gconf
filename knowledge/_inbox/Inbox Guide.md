@@ -3,6 +3,14 @@ type: guide
 generated: true
 ---
 
-# Review inbox
+# Legacy inbox
 
-AI-кандидаты на боли, кейсы, тренды и claims появляются здесь. Переносить их в typed folders можно только после человеческой проверки.
+Новые AI-кандидаты сразу появляются в typed folders с
+`review_status: candidate`. Открывайте [[../views/Review Inbox.base|Review
+Candidates]], чтобы проверить их. Эта папка сохранена только для совместимости
+со старыми заметками.
+
+В каждой карточке semantic profile v2 есть блок `Evidence`: точная цитата,
+автор, дата, locator и ссылка на исходник. Кейсы удобнее проверять через
+[[../views/Cases Review.base|Cases Review]], где видны происхождение, способ
+репортинга, proof level и состояние артефакта.

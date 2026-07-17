@@ -1,0 +1,167 @@
+{
+  "schema_version": "1.0",
+  "id": "next-gconf",
+  "label": "Next GCONF insight preparation",
+  "profile_version": "semantic-v2-human-evidence",
+  "event_ids": [
+    "cohort-gconf-9-vibe-coding-sep-2025",
+    "cohort-gconf-12-vibe-coding-mar-2026",
+    "cohort-ai-vibe-coding-may-2026",
+    "cohort-ai-weekend-july-2026"
+  ],
+  "batches": [
+    {
+      "id": "gconf9-case-topic",
+      "label": "GCONF #9 case topic — А что, так можно было?",
+      "window_start": "2025-08-13",
+      "window_end": "2026-04-29",
+      "group_by_thread": true,
+      "selectors": [
+        {
+          "source_ids": ["telegram:chat:2573352710"],
+          "kinds": ["telegram_message", "telegram_topic"],
+          "topic_root_ids": ["5"]
+        }
+      ]
+    },
+    {
+      "id": "gconf9-event-conversations",
+      "label": "GCONF #9 prework and cohort conversations",
+      "window_start": "2025-08-13",
+      "window_end": "2025-10-06",
+      "group_by_thread": true,
+      "selectors": [
+        {
+          "source_ids": ["telegram:chat:2573352710"],
+          "kinds": ["telegram_message", "telegram_topic"],
+          "exclude_topic_root_ids": ["5"]
+        }
+      ]
+    },
+    {
+      "id": "gconf9-post-event-community",
+      "label": "GCONF #9 community after the cohort",
+      "window_start": "2025-10-07",
+      "window_end": "2026-04-29",
+      "group_by_thread": true,
+      "selectors": [
+        {
+          "source_ids": ["telegram:chat:2573352710"],
+          "kinds": ["telegram_message", "telegram_topic"],
+          "exclude_topic_root_ids": ["5"]
+        }
+      ]
+    },
+    {
+      "id": "gconf12-closeout",
+      "label": "GCONF #12 cohort and closeout",
+      "window_start": "2026-03-23",
+      "window_end": "2026-04-19",
+      "selectors": [
+        {
+          "source_ids": ["telegram:chat:1633415027", "telegram:chat:1962191274"],
+          "kinds": ["telegram_message"]
+        }
+      ]
+    },
+    {
+      "id": "internal-official-and-dima",
+      "label": "GCONF and Dima internal narrative",
+      "window_start": "2026-04-20",
+      "window_end": "2026-07-17",
+      "selectors": [
+        {
+          "source_ids": ["telegram:chat:1633415027", "telegram:chat:1962191274"],
+          "kinds": ["telegram_message"]
+        },
+        {
+          "source_ids": ["instagram:profile:matskevich", "instagram:profile:gconf-io"],
+          "kinds": ["instagram_post"]
+        },
+        {
+          "source_ids": [
+            "youtube:channel:ucp1jxsjuf08ogmy5ff9b2dg",
+            "youtube:channel:ucznxsd-w5yyldyaqzv8ne7g",
+            "youtube:channel:ucphtmj5hsoqjiw8-oanis0w"
+          ],
+          "kinds": ["youtube_video"],
+          "include_chunks": true
+        }
+      ]
+    },
+    {
+      "id": "internal-community-after-may",
+      "label": "Closed GCONF community after the May cohort",
+      "window_start": "2026-05-25",
+      "window_end": "2026-07-17",
+      "selectors": [
+        {
+          "source_ids": ["telegram:chat:2427462969"],
+          "kinds": ["telegram_message"]
+        }
+      ]
+    },
+    {
+      "id": "external-comments-on-internal",
+      "label": "Public audience responses to GCONF and Dima",
+      "window_start": "2026-05-25",
+      "window_end": "2026-07-17",
+      "selectors": [
+        {
+          "source_ids": ["instagram:profile:matskevich", "instagram:profile:gconf-io"],
+          "kinds": ["instagram_comment"]
+        },
+        {
+          "source_ids": [
+            "youtube:channel:ucp1jxsjuf08ogmy5ff9b2dg",
+            "youtube:channel:ucznxsd-w5yyldyaqzv8ne7g",
+            "youtube:channel:ucphtmj5hsoqjiw8-oanis0w"
+          ],
+          "kinds": ["youtube_comment"]
+        }
+      ]
+    },
+    {
+      "id": "external-matt-wolfe",
+      "label": "Matt Wolfe external AI signals and audience",
+      "window_start": "2026-04-18",
+      "window_end": "2026-07-17",
+      "selectors": [
+        {
+          "source_ids": ["youtube:channel:uchplebmo18p08akcigti38g"],
+          "kinds": ["youtube_video", "youtube_comment"],
+          "include_chunks": true
+        }
+      ]
+    },
+    {
+      "id": "external-wes-roth",
+      "label": "Wes Roth external AI signals and audience",
+      "window_start": "2026-04-18",
+      "window_end": "2026-07-17",
+      "selectors": [
+        {
+          "source_ids": ["youtube:channel:ucqcbqf6yw5kzroddcz-wbsw"],
+          "kinds": ["youtube_video", "youtube_comment"],
+          "include_chunks": true
+        }
+      ]
+    },
+    {
+      "id": "external-public-telegram",
+      "label": "Public AI and business Telegram signals",
+      "window_start": "2026-04-18",
+      "window_end": "2026-07-17",
+      "selectors": [
+        {
+          "source_ids": [
+            "telegram:chat:3614090025",
+            "telegram:chat:2674190701",
+            "telegram:chat:1417132546"
+          ],
+          "kinds": ["telegram_message"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+filters:
+  and:
+    - type == "case"
+views:
+  - type: table
+    name: Audience and external cases
+    order:
+      - file.name
+      - label
+      - review_status
+      - case_origin
+      - reporting_mode
+      - proof_level
+      - artifact_status
+      - first_seen
+      - last_seen
+      - source_wave

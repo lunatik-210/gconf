@@ -7,7 +7,7 @@ visibility: "public"
 document_count: 26
 collected_at: null
 source_path: "telegram/ии и новый мир @matskevich.json"
-url: null
+url: "https://t.me/matskevich"
 generated: true
 ---
 

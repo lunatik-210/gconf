@@ -7,7 +7,7 @@ visibility: "public"
 document_count: 1
 collected_at: null
 source_path: "telegram/AI Happens.json"
-url: null
+url: "https://t.me/aihappens"
 generated: true
 ---
 

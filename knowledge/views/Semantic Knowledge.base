@@ -1,13 +1,17 @@
 filters:
   and:
-    - 'list("actor", "cohort", "pain", "case", "trend", "technology", "claim").contains(type)'
+    - list("actor", "cohort", "pain", "case", "trend", "technology", "claim").contains(type)
 views:
   - type: table
     name: Semantic Knowledge
     order:
       - file.name
+      - label
       - type
       - status
       - review_status
       - first_seen
       - last_seen
+      - source_wave
+      - case_origin
+      - proof_level

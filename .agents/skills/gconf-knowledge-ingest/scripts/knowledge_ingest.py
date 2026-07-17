@@ -64,6 +64,23 @@ def now_utc() -> str:
     )
 
 
+def normalize_published_date(value: Any) -> str | None:
+    if value in (None, ""):
+        return None
+    text = str(value).strip()
+    if re.fullmatch(r"\d{8}", text):
+        try:
+            return dt.datetime.strptime(text, "%Y%m%d").date().isoformat()
+        except ValueError:
+            return None
+    if re.match(r"^\d{4}-\d{2}-\d{2}", text):
+        try:
+            return dt.date.fromisoformat(text[:10]).isoformat()
+        except ValueError:
+            return None
+    return text
+
+
 def project_relative(path: Path) -> str:
     try:
         return path.resolve().relative_to(PROJECT_ROOT.resolve()).as_posix()
@@ -669,7 +686,7 @@ def ingest_youtube_video(
         kind="youtube_video",
         title=source.get("title"),
         author=channel_name,
-        published_at=source.get("upload_date"),
+        published_at=normalize_published_date(source.get("upload_date")),
         url=source.get("url"),
         locator=video_locator,
         body=body,
@@ -747,6 +764,35 @@ def telegram_visibility(payload: dict[str, Any], path: Path) -> str:
     return "internal"
 
 
+TELEGRAM_PUBLIC_URLS = {
+    "1633415027": "https://t.me/gptlovers",
+    "1962191274": "https://t.me/matskevich",
+    "1417132546": "https://t.me/aihappens",
+}
+
+
+def telegram_source_url(chat_id: str, visibility: str) -> str | None:
+    if visibility == "internal":
+        return f"https://t.me/c/{chat_id}"
+    return TELEGRAM_PUBLIC_URLS.get(chat_id)
+
+
+def telegram_message_url(chat_id: str, message_id: str, visibility: str) -> str | None:
+    base = telegram_source_url(chat_id, visibility)
+    return f"{base}/{message_id}" if base else None
+
+
+def telegram_document_payload(message: dict[str, Any]) -> tuple[str, str] | None:
+    if message.get("type") == "message":
+        body = flatten_text(message.get("text"))
+        if body.strip() or message.get("reply_to_message_id") is not None:
+            return "telegram_message", body
+        return None
+    if message.get("action") == "topic_created" and str(message.get("title") or "").strip():
+        return "telegram_topic", str(message["title"]).strip()
+    return None
+
+
 def ingest_telegram_file(
     connection: sqlite3.Connection,
     counters: Counters,
@@ -759,6 +805,7 @@ def ingest_telegram_file(
     chat_id = str(payload.get("id") or checksum_text(path.name)[:12])
     source_id = f"telegram:chat:{chat_id}"
     visibility = telegram_visibility(payload, path)
+    source_url = telegram_source_url(chat_id, visibility)
     upsert_source(
         connection,
         counters,
@@ -768,20 +815,18 @@ def ingest_telegram_file(
         source_type=str(payload.get("type") or "telegram_chat"),
         visibility=visibility,
         path=project_relative(path),
-        url=None,
+        url=source_url,
         collected_at=None,
         metadata={"export_file": project_relative(path)},
     )
     for message in payload["messages"]:
-        if message.get("type") != "message":
-            continue
         message_id = str(message.get("id") or "")
         if not message_id:
             continue
-        body = flatten_text(message.get("text"))
-        has_relation = message.get("reply_to_message_id") is not None
-        if not body.strip() and not has_relation:
+        normalized = telegram_document_payload(message)
+        if normalized is None:
             continue
+        kind, body = normalized
         locator = f"telegram:{chat_id}:{message_id}"
         upsert_document(
             connection,
@@ -790,11 +835,11 @@ def ingest_telegram_file(
             source_id=source_id,
             platform="telegram",
             external_id=message_id,
-            kind="telegram_message",
-            title=None,
-            author=message.get("from"),
+            kind=kind,
+            title=message.get("title") if kind == "telegram_topic" else None,
+            author=message.get("from") or message.get("actor"),
             published_at=message.get("date"),
-            url=None,
+            url=telegram_message_url(chat_id, message_id, visibility),
             locator=locator,
             body=body,
             source_path=project_relative(path),

@@ -1,11 +1,20 @@
 filters:
   and:
-    - file.inFolder("_inbox")
+    - list("actor", "cohort", "pain", "case", "trend", "technology", "claim").contains(type)
+    - review_status == "candidate"
 views:
   - type: table
     name: Review Inbox
     order:
       - file.name
+      - label
       - type
       - status
       - review_status
+      - source_wave
+      - first_seen
+      - last_seen
+      - case_origin
+      - reporting_mode
+      - proof_level
+      - artifact_status

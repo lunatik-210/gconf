@@ -7,7 +7,7 @@ visibility: "public"
 document_count: 321
 collected_at: null
 source_path: "telegram/GCONF : AI LOVERS - All Time.json"
-url: null
+url: "https://t.me/gptlovers"
 generated: true
 ---
 

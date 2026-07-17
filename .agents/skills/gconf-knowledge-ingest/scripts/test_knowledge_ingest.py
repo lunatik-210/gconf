@@ -52,6 +52,37 @@ class KnowledgeIngestTests(unittest.TestCase):
     def test_slug_falls_back_for_cyrillic(self) -> None:
         self.assertTrue(knowledge_ingest.slugify("ИИ сообщество"))
 
+    def test_youtube_upload_date_is_normalized(self) -> None:
+        self.assertEqual(
+            knowledge_ingest.normalize_published_date("20260714"), "2026-07-14"
+        )
+        self.assertEqual(
+            knowledge_ingest.normalize_published_date("2026-07-14T12:00:00Z"),
+            "2026-07-14",
+        )
+
+    def test_telegram_topic_is_preserved(self) -> None:
+        self.assertEqual(
+            knowledge_ingest.telegram_document_payload(
+                {
+                    "type": "service",
+                    "action": "topic_created",
+                    "title": "А что, так можно было?",
+                }
+            ),
+            ("telegram_topic", "А что, так можно было?"),
+        )
+
+    def test_telegram_private_and_public_links(self) -> None:
+        self.assertEqual(
+            knowledge_ingest.telegram_message_url("2573352710", "717", "internal"),
+            "https://t.me/c/2573352710/717",
+        )
+        self.assertEqual(
+            knowledge_ingest.telegram_message_url("1633415027", "1046", "public"),
+            "https://t.me/gptlovers/1046",
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

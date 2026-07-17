@@ -2,7 +2,20 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "GCONF semantic knowledge card",
   "type": "object",
-  "required": ["type", "id", "label", "status", "review_status", "evidence"],
+  "required": [
+    "type",
+    "id",
+    "label",
+    "status",
+    "review_status",
+    "first_seen",
+    "last_seen",
+    "source_wave",
+    "evidence",
+    "evidence_quotes",
+    "related",
+    "event_context"
+  ],
   "properties": {
     "type": {
       "enum": ["actor", "cohort", "pain", "case", "trend", "technology", "claim"]
@@ -15,14 +28,57 @@
     },
     "first_seen": {"type": ["string", "null"]},
     "last_seen": {"type": ["string", "null"]},
+    "source_wave": {"enum": ["internal", "external", "mixed"]},
     "evidence": {
       "type": "array",
       "minItems": 1,
       "items": {"type": "string", "minLength": 3}
     },
+    "evidence_quotes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["locator", "role", "quote", "supports"],
+        "properties": {
+          "locator": {"type": "string", "minLength": 3},
+          "role": {"enum": ["primary", "corroborating", "counterevidence", "context"]},
+          "quote": {"type": "string", "minLength": 1, "maxLength": 1200},
+          "supports": {"type": "string", "minLength": 1}
+        },
+        "additionalProperties": false
+      }
+    },
+    "case_origin": {
+      "enum": ["gconf_participant", "gconf_community", "internal_protagonist", "external"]
+    },
+    "reporting_mode": {
+      "enum": ["direct_self_report", "organizer_report", "third_party_report"]
+    },
+    "proof_level": {
+      "enum": ["linked_artifact", "described_result", "claim_only"]
+    },
+    "artifact_status": {
+      "enum": ["prototype", "working", "deployed", "unknown"]
+    },
     "related": {
       "type": "array",
       "items": {"type": "string"}
+    },
+    "event_context": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["event_id", "phase", "attribution"],
+        "properties": {
+          "event_id": {"type": "string", "minLength": 3},
+          "phase": {"enum": ["before", "during", "after", "unknown"]},
+          "attribution": {
+            "enum": ["explicit", "inferred_by_time", "unattributed"]
+          }
+        },
+        "additionalProperties": false
+      }
     }
   },
   "additionalProperties": true

@@ -3,6 +3,7 @@
 **/.DS_Store
 .obsidian/workspace*.json
 .obsidian/cache/
+knowledge/.obsidian/
 .trash/
 
 # Python

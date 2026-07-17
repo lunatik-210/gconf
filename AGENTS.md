@@ -159,7 +159,7 @@ feelings, or unverified personal positions.
 
 The project uses a local pipeline:
 
-> collected artifacts → deterministic ingestion → SQLite retrieval → Obsidian review → approved semantic knowledge
+> collected artifacts → deterministic ingestion → insight extraction → Obsidian review → editorial synthesis
 
 ### Project skills and boundaries
 
@@ -173,10 +173,16 @@ The project uses a local pipeline:
 - `$gconf-knowledge-ingest` imports already-collected YouTube, Telegram,
   Instagram, and local research artifacts into the knowledge system. It must
   never scrape, download, transcribe, call a network API, or publish content.
+- `$gconf-insight-extract` reads the SQLite index, prepares bounded evidence
+  batches, creates traceable candidate cards, and tracks completed batches by
+  Obsidian fingerprint cards. It must never collect sources, approve cards,
+  draft public content, or publish.
 
 Do not duplicate collection logic in downstream skills. A request such as
 “collect this video and add it to the knowledge base” should invoke
 `$gconf-youtube-research` first and `$gconf-knowledge-ingest` second.
+When the request also asks to identify new pains, cases, trends, or claims,
+invoke `$gconf-insight-extract` third.
 
 ### Storage responsibilities
 
@@ -189,11 +195,14 @@ Do not duplicate collection logic in downstream skills. A request such as
   Obsidian.
 - `knowledge/sources/` contains generated source cards. They may be refreshed
   or recreated by the importer.
-- `knowledge/_inbox/` contains AI-proposed semantic cards awaiting human
-  review.
 - Typed folders such as `knowledge/pains/`, `knowledge/cases/`,
   `knowledge/trends/`, `knowledge/actors/`, and `knowledge/cohorts/` contain
-  reviewed semantic knowledge.
+  both candidate and reviewed semantic knowledge. Use `review_status`, not
+  folder location, to distinguish them.
+- `knowledge/processing/` contains committed scope definitions and processing
+  cards. A matching input fingerprint means a logical evidence batch has been
+  fully reviewed by the extractor; it does not mean its semantic candidates
+  have been human-approved.
 - `knowledge/runs/` contains JSON ingestion reports for auditability.
 
 SQLite is not the editorial source of truth. Raw artifacts remain the evidence,
@@ -234,10 +243,18 @@ python3 -B .agents/skills/gconf-knowledge-ingest/scripts/knowledge_ingest.py reb
 It may remove and recreate `knowledge/_index/gconf.sqlite` and generated source
 cards, but it must never remove source exports or approved semantic cards.
 
-### Semantic-card rules
+### Insight extraction and semantic-card rules
 
-After deterministic ingestion, create AI candidates only in
-`knowledge/_inbox/`. Allowed semantic types are:
+After deterministic ingestion, run:
+
+```bash
+python3 -B .agents/skills/gconf-insight-extract/scripts/insight_extract.py status --scope next-gconf
+python3 -B .agents/skills/gconf-insight-extract/scripts/insight_extract.py prepare --scope next-gconf --batch BATCH_ID
+python3 -B .agents/skills/gconf-insight-extract/scripts/insight_extract.py finalize --scope next-gconf --batch BATCH_ID --outputs CARD_ID
+python3 -B .agents/skills/gconf-insight-extract/scripts/insight_extract.py validate
+```
+
+Write candidates directly to their typed folders. Allowed semantic types are:
 
 - `actor`;
 - `cohort`;
@@ -252,8 +269,12 @@ Every candidate must include:
 - a stable ID;
 - `status: fact | inference | proposal`;
 - `review_status: candidate`;
+- `source_wave: internal | external | mixed`;
 - exact evidence locators;
+- an exact short quote and human-readable support statement for every locator;
 - relevant first/last-seen dates;
+- explicit event context with `explicit`, `inferred_by_time`, or `unattributed`
+  attribution;
 - supported relationships to other cards.
 
 Do not automatically promote candidates, silently rewrite approved cards, or
@@ -262,20 +283,27 @@ audience language and pain, but not automatically proof of a factual claim.
 Reported participant cases remain reported cases unless independently
 verified.
 
+Case cards distinguish `gconf_participant`, `gconf_community`,
+`internal_protagonist`, and `external` origins. A message published in a cohort
+chat after the event is not automatically a participant outcome. Run
+`render-evidence` so every candidate remains reviewable in Obsidian without a
+manual SQLite lookup.
+
 ### Current knowledge snapshot
 
 The first completed import contains:
 
-- 14 source records;
-- 5,437 normalized documents;
+- 15 source records;
+- 7,931 normalized documents;
 - 2,405 timestamped YouTube transcript chunks;
-- 4,130 reply or parent relations;
+- 6,359 reply or parent relations;
 - public, internal, and editorial visibility labels;
 - generated Obsidian source cards and Bases views.
 
 These counts are a snapshot, not a permanent invariant. Run `scan`, `ingest`,
-and `validate` after adding new exports. The semantic folders are intentionally
-not considered complete until their candidate cards have been reviewed.
+and `validate` after adding new exports, then inspect Insight Extract status.
+Semantic candidates are not approved merely because their processing batch is
+complete.
 
 ## Definition of done
 
