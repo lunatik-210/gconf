@@ -18,9 +18,6 @@ venv/
 *.pem
 *.key
 
-# Private community exports: keep local unless explicitly approved
-telegram/ИИ-сообщество GCONF*.json
-
 # Large local media. Research metadata, comments, captions, and thumbnails stay tracked.
 YouTube/**/*.mp4
 YouTube/**/*.mkv
