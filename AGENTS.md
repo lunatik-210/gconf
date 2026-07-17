@@ -96,6 +96,38 @@ Treat these files as research inputs, not automatically authoritative facts. Pre
 9. Tie recommendations to the rubric and to measurable audience actions.
 10. Before finalizing, audit factual support, tone, freshness, duplication, generic AI language, and unsupported promises.
 
+## GCONF voice standard
+
+The canonical public-content voice standard is
+`editorial/gconf-tone-of-voice.md`. Its evidence and editorial rationale are in
+`research/tone_of_voice/gconf_voice_analysis.md`.
+
+Before drafting or revising any public-facing announcement, post, landing page,
+email, carousel, case story, or script, agents must:
+
+1. Read `editorial/gconf-tone-of-voice.md` in full.
+2. Declare one voice mode in the working brief: `GCONF` or `Dima`.
+   Use `GCONF` by default. Use `Dima` only for content genuinely published as
+   or explicitly attributed to Dzmitry Matskevich.
+3. Choose one form of address, `ты` or `вы`, and keep it consistent throughout
+   the artifact except inside sourced quotations.
+4. Identify one behavioral transition, one audience tension, one evidence item
+   with an exact locator, and one primary CTA before drafting.
+5. Keep unverified cohort details as explicit placeholders or proposals. Never
+   infer dates, prices, speakers, capacity, curriculum, results, testimonials,
+   product availability, or safety from the voice corpus.
+6. Complete the mandatory voice audit in the canonical standard before
+   finalizing the content.
+
+Do not apply the GCONF public voice to research notes, evidence maps,
+fact-checks, ingestion reports, databases, technical documentation, or agent
+instructions. Those artifacts should remain neutral and traceable.
+
+Do not copy the full voice standard into project skills or other agent files.
+Link to the canonical document so there is one source of truth. The `Dima`
+mode transfers publicly evidenced reasoning patterns, not verbal tics, invented
+feelings, or unverified personal positions.
+
 ## YouTube research workflow
 
 - Route requests such as “разбери YouTube-видео”, “собери статистику”,
