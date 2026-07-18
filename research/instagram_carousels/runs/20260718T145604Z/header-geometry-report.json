@@ -1,0 +1,270 @@
+{
+  "ok": true,
+  "master": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png",
+  "results": [
+    {
+      "path": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-01.png",
+      "ok": true,
+      "errors": [],
+      "master_geometry": {
+        "left_bbox": [
+          71,
+          75,
+          211,
+          102
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1019,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 88.5,
+        "right_anchor_x": 1019,
+        "right_center_y": 87.0
+      },
+      "candidate_geometry": {
+        "left_bbox": [
+          72,
+          76,
+          212,
+          102
+        ],
+        "right_bbox": [
+          910,
+          76,
+          1021,
+          98
+        ],
+        "left_anchor_x": 72,
+        "left_center_y": 89.0,
+        "right_anchor_x": 1021,
+        "right_center_y": 87.0
+      },
+      "background_mae": 1.76,
+      "master_coral_pixels": 1000,
+      "candidate_coral_pixels": 1063
+    },
+    {
+      "path": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-02.png",
+      "ok": true,
+      "errors": [],
+      "master_geometry": {
+        "left_bbox": [
+          71,
+          75,
+          211,
+          102
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1019,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 88.5,
+        "right_anchor_x": 1019,
+        "right_center_y": 87.0
+      },
+      "candidate_geometry": {
+        "left_bbox": [
+          71,
+          76,
+          353,
+          103
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1020,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 89.5,
+        "right_anchor_x": 1020,
+        "right_center_y": 87.0
+      },
+      "background_mae": 1.112,
+      "master_coral_pixels": 1000,
+      "candidate_coral_pixels": 1788
+    },
+    {
+      "path": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-03.png",
+      "ok": true,
+      "errors": [],
+      "master_geometry": {
+        "left_bbox": [
+          71,
+          75,
+          211,
+          102
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1019,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 88.5,
+        "right_anchor_x": 1019,
+        "right_center_y": 87.0
+      },
+      "candidate_geometry": {
+        "left_bbox": [
+          74,
+          75,
+          347,
+          104
+        ],
+        "right_bbox": [
+          905,
+          76,
+          1017,
+          99
+        ],
+        "left_anchor_x": 74,
+        "left_center_y": 89.5,
+        "right_anchor_x": 1017,
+        "right_center_y": 87.5
+      },
+      "background_mae": 2.531,
+      "master_coral_pixels": 1000,
+      "candidate_coral_pixels": 2065
+    },
+    {
+      "path": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-04.png",
+      "ok": true,
+      "errors": [],
+      "master_geometry": {
+        "left_bbox": [
+          71,
+          75,
+          211,
+          102
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1019,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 88.5,
+        "right_anchor_x": 1019,
+        "right_center_y": 87.0
+      },
+      "candidate_geometry": {
+        "left_bbox": [
+          72,
+          76,
+          308,
+          103
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1020,
+          98
+        ],
+        "left_anchor_x": 72,
+        "left_center_y": 89.5,
+        "right_anchor_x": 1020,
+        "right_center_y": 87.0
+      },
+      "background_mae": 1.263,
+      "master_coral_pixels": 1000,
+      "candidate_coral_pixels": 1704
+    },
+    {
+      "path": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-05.png",
+      "ok": true,
+      "errors": [],
+      "master_geometry": {
+        "left_bbox": [
+          71,
+          75,
+          211,
+          102
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1019,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 88.5,
+        "right_anchor_x": 1019,
+        "right_center_y": 87.0
+      },
+      "candidate_geometry": {
+        "left_bbox": [
+          71,
+          76,
+          345,
+          105
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1020,
+          97
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 90.5,
+        "right_anchor_x": 1020,
+        "right_center_y": 86.5
+      },
+      "background_mae": 1.317,
+      "master_coral_pixels": 1000,
+      "candidate_coral_pixels": 1817
+    },
+    {
+      "path": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-06.png",
+      "ok": true,
+      "errors": [],
+      "master_geometry": {
+        "left_bbox": [
+          71,
+          75,
+          211,
+          102
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1019,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 88.5,
+        "right_anchor_x": 1019,
+        "right_center_y": 87.0
+      },
+      "candidate_geometry": {
+        "left_bbox": [
+          72,
+          80,
+          395,
+          107
+        ],
+        "right_bbox": [
+          906,
+          78,
+          1016,
+          101
+        ],
+        "left_anchor_x": 72,
+        "left_center_y": 93.5,
+        "right_anchor_x": 1016,
+        "right_center_y": 89.5
+      },
+      "background_mae": 1.062,
+      "master_coral_pixels": 1000,
+      "candidate_coral_pixels": 1906
+    }
+  ]
+}

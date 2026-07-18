@@ -1,0 +1,491 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20260717T200356Z",
+  "generated_at": "2026-07-17T20:03:56Z",
+  "review_status": "draft",
+  "selected_direction": null,
+  "source_snapshot": {
+    "local_preflight": {
+      "ready": true,
+      "sources": 20,
+      "documents": 7942,
+      "transcript_chunks": 2405,
+      "semantic_cards": 68,
+      "approved_cards": 38,
+      "candidate_cards": 30,
+      "next_gconf": {"pending": 0, "stale": 0, "complete": 10},
+      "lab_signals": {"pending": 0, "stale": 0, "complete": 3}
+    },
+    "site": {
+      "url": "https://www.gconf.io/",
+      "title": "gconf.io — vibe coding с AI-агентами | поток №14",
+      "accessed_at": "2026-07-17T20:03:56Z",
+      "status": "live"
+    },
+    "instagram": {
+      "path": "Instagram/gconf.io.json",
+      "collected_at": "2026-07-14T15:03:43.026Z",
+      "role": "adaptation_and_audience_response_not_offer_source_of_truth"
+    }
+  },
+  "current_offer_baseline": {
+    "evidence_status": "unindexed_observation",
+    "source_url": "https://www.gconf.io/",
+    "accessed_at": "2026-07-17T20:03:56Z",
+    "latest_known_cohort": 14,
+    "positioning": "Vibe coding с AI-агентами как пространство живой практики",
+    "audience": "Люди с собственной задачей, включая неинженеров и новичков",
+    "behavioral_transition": {
+      "from": "разовые диалоги, технический барьер и хаос инструментов",
+      "to": "личная система агентов, рабочий артефакт, правила и регулярная практика"
+    },
+    "mechanism": [
+      "подготовка и setup",
+      "21 ежедневный микроквест",
+      "кейсы и протагонисты",
+      "теория по делу",
+      "живые практики и Q&A",
+      "бот, чат и поддержка",
+      "demo day"
+    ],
+    "promised_outputs": [
+      "личная AI-память",
+      "рабочий артефакт",
+      "навык разгона",
+      "повторяемые правила для агента",
+      "ритм и люди",
+      "спокойствие вместо FOMO"
+    ],
+    "objections_addressed": ["нет технического опыта", "не хватает времени", "можно отстать", "безопасность доступов"],
+    "cta": "запись через Telegram-бота",
+    "page_structure": ["promise", "format", "team", "inside", "outputs", "cases", "faq", "cta"],
+    "current_cohort_only_facts": {
+      "start_date": "2026-07-27",
+      "duration_days": 21,
+      "price_usd": 650,
+      "published_participant_claim": "3000+"
+    }
+  },
+  "historical_trajectory": [
+    {
+      "period": "2023-2024",
+      "movement": "знакомство с GPT → ежедневное использование → отраслевые практики → бизнес-процессы",
+      "evidence_status": "fact",
+      "source_path": "research/gconf_history/announcement_corpus.md"
+    },
+    {
+      "period": "2025-H1",
+      "movement": "инструмент → напарник → мета-навыки и запуск собственных проектов",
+      "evidence_status": "inference",
+      "source_path": "research/gconf_history/GCONF_history_report.md"
+    },
+    {
+      "period": "2025-H2",
+      "movement": "vibe coding как новая грамотность и разделение способности думать и делать",
+      "evidence_status": "inference",
+      "locators": ["telegram:1633415027:737", "telegram:1633415027:791"]
+    },
+    {
+      "period": "2026",
+      "movement": "кодинг-агенты → универсальный паттерн → личная система и первый workflow",
+      "evidence_status": "fact",
+      "locators": ["telegram:1633415027:910", "telegram:1633415027:977", "telegram:1633415027:1009", "telegram:1633415027:1040"]
+    }
+  ],
+  "audience_signals": [
+    {
+      "id": "audience-security-control",
+      "card_id": "pain-agent-data-access-security",
+      "audience": "external",
+      "evidence_status": "inference",
+      "exact_quote": "So I see you’ve given it a good amount of control over your personal data. Isn’t that personal data leaving your computer and going somewhere else where you don’t have control over it?",
+      "author": "@samuraiintellectual",
+      "source_date": "2026-07-16",
+      "visibility": "public",
+      "locator": "youtube:MDy_b9F7oUc:comment:UgwdZbF0D8ns4-hVyk94AaABAg",
+      "source_url": "https://www.youtube.com/watch?v=MDy_b9F7oUc&lc=UgwdZbF0D8ns4-hVyk94AaABAg",
+      "quote_verified": true
+    },
+    {
+      "id": "audience-demo-gap",
+      "card_id": "pain-expert-demo-beginner-gap",
+      "audience": "external",
+      "evidence_status": "inference",
+      "exact_quote": "Bro, you make it sound so easy. That's like me showing you tap on guitar solos and telling you 'it's simple, anyone can do it'",
+      "author": "@kirkwoodpaterson9510",
+      "source_date": "2026-07-15",
+      "visibility": "public",
+      "locator": "youtube:cwf2vEAigKA:comment:UgwANiCWq9lmHTlDZRR4AaABAg",
+      "source_url": "https://www.youtube.com/watch?v=cwf2vEAigKA&lc=UgwANiCWq9lmHTlDZRR4AaABAg",
+      "quote_verified": true
+    },
+    {
+      "id": "audience-process-ownership",
+      "card_id": "case-longitudinal-medical-agent-system",
+      "audience": "gconf_community",
+      "evidence_status": "fact",
+      "exact_quote": "крч, я сделала маме доктора.\nне чатик из серии «спросите у ИИ, можно ли банан при луне в козероге».\nнастоящую замороченную систему.",
+      "author": "ElisonCha",
+      "source_date": "2026-05-31",
+      "visibility": "internal",
+      "locator": "telegram:2427462969:4434",
+      "source_url": "https://t.me/c/2427462969/4434",
+      "local_source": "telegram/ИИ-сообщество GCONF - All Time.json",
+      "quote_verified": true
+    }
+  ],
+  "protagonist_movements": [
+    {
+      "id": "dima-process-environment",
+      "card_id": "actor-dima-matskevich",
+      "role": "internal_protagonist",
+      "evidence_status": "fact",
+      "movement": "от отдельных сборок к постоянно улучшаемой агентной среде",
+      "exact_quote": "мы полностью перевезли свои процессы на свои вайбкодинг штуки и постоянно их улучшаем.",
+      "author": "GCONF / AI LOVERS",
+      "source_date": "2026-07-13",
+      "visibility": "public",
+      "locator": "telegram:1633415027:1058",
+      "source_url": "https://t.me/gptlovers/1058",
+      "quote_verified": true
+    },
+    {
+      "id": "matt-integrated-workspace",
+      "card_id": "actor-matt-wolfe",
+      "role": "external_protagonist",
+      "evidence_status": "fact",
+      "movement": "к объединённому assistant/coding/browser/work workspace",
+      "exact_quote": "OpenAI just combined ChatGPT, Codex, their browser, and ChatGPT Work into one platform.",
+      "author": "Matt Wolfe",
+      "source_date": "2026-07-15",
+      "visibility": "public",
+      "locator": "youtube:MDy_b9F7oUc",
+      "source_url": "https://www.youtube.com/watch?v=MDy_b9F7oUc",
+      "quote_verified": true
+    },
+    {
+      "id": "wes-agent-readable-memory",
+      "card_id": "actor-wes-roth",
+      "role": "external_protagonist",
+      "evidence_status": "fact",
+      "movement": "к second brain, который читается и обновляется агентом",
+      "exact_quote": "The guide to building a \"second brain\" (give it to your chatbot)",
+      "author": "Wes Roth",
+      "source_date": "2026-07-14",
+      "visibility": "public",
+      "locator": "youtube:cwf2vEAigKA",
+      "source_url": "https://www.youtube.com/watch?v=cwf2vEAigKA",
+      "quote_verified": true
+    }
+  ],
+  "external_ai_signals": [
+    {
+      "id": "long-horizon-work",
+      "card_id": "trend-agents-as-process-interface-2026-07-lab-update",
+      "evidence_status": "inference",
+      "review_status": "candidate",
+      "exact_quote": "Agentic AI changes the unit of knowledge work from single interactions to delegated, long-horizon tasks.",
+      "author": "OpenAI",
+      "source_date": "2026-06-25",
+      "visibility": "public",
+      "locator": "web:openai:how-agents-are-transforming-work:7319a72d00f6",
+      "source_url": "https://openai.com/index/how-agents-are-transforming-work/",
+      "quote_verified": true
+    },
+    {
+      "id": "domain-planning-agent-execution",
+      "card_id": "trend-agents-as-process-interface-2026-07-lab-update",
+      "evidence_status": "inference",
+      "review_status": "candidate",
+      "exact_quote": "people make most of the planning decisions (what to do) and Claude makes most of the execution decisions (how to do it)",
+      "author": "Anthropic",
+      "source_date": "2026-06-16",
+      "visibility": "public",
+      "locator": "web:anthropic:claude-code-expertise:9af6a8456e87",
+      "source_url": "https://www.anthropic.com/research/claude-code-expertise",
+      "quote_verified": true
+    },
+    {
+      "id": "governance-with-access",
+      "card_id": "trend-governance-grows-with-agent-access",
+      "evidence_status": "inference",
+      "review_status": "approved",
+      "summary": "Рост доступа к файлам, браузеру и действиям усиливает необходимость контроля и проверки."
+    }
+  ],
+  "case_shortlist": [
+    {
+      "card_id": "case-first-procurement-html-tool",
+      "evidence_status": "fact",
+      "review_status": "approved",
+      "case_origin": "gconf_participant",
+      "proof_level": "described_result",
+      "exact_quote": "«с нулевым опытом программирования сделала удобный html-файл. месяцы не могла допроситься айтишников»",
+      "author": "GCONF / AI LOVERS",
+      "source_date": "2026-06-30",
+      "visibility": "public",
+      "locator": "telegram:1633415027:1028",
+      "source_url": "https://t.me/gptlovers/1028",
+      "quote_verified": true,
+      "limitation": "Организаторский отчёт; артефакт и метрики не проверены."
+    },
+    {
+      "card_id": "case-psychologist-crm-seven-days",
+      "evidence_status": "fact",
+      "review_status": "approved",
+      "case_origin": "external",
+      "proof_level": "described_result",
+      "exact_quote": "После вашего видео, скачала кодекс и с помощью промтов gpt  создала crm систему для психологов за 7 дней! Я ничего не понимаю в этом, только знала архитектуру, понимала путь клиента и все.",
+      "author": "@olga_emir",
+      "source_date": "2026-06-15",
+      "visibility": "public",
+      "locator": "youtube:6WEsPzHyD9k:comment:UgyRj7j7WWrniJexbJ54AaABAg",
+      "source_url": "https://www.youtube.com/watch?v=6WEsPzHyD9k&lc=UgyRj7j7WWrniJexbJ54AaABAg",
+      "quote_verified": true,
+      "limitation": "Self-report; функциональность и срок независимо не проверены."
+    },
+    {
+      "card_id": "case-tech-radar-for-analysts",
+      "evidence_status": "fact",
+      "review_status": "candidate",
+      "case_origin": "gconf_community",
+      "proof_level": "linked_artifact",
+      "exact_quote": "Сделала техрадар для SA и BA в своей компании: https://techradar-sa.netlify.app/. Обычно техрадары ведут разработчики и архитекторы, а техрадар для аналитиков -  вообще прецедентов в мире не нашла, я первая :)",
+      "author": "Olga Li",
+      "source_date": "2026-07-02",
+      "visibility": "internal",
+      "locator": "telegram:2427462969:4439",
+      "source_url": "https://t.me/c/2427462969/4439",
+      "local_source": "telegram/ИИ-сообщество GCONF - All Time.json",
+      "quote_verified": true,
+      "limitation": "Полнота и эффект радара не подтверждены."
+    },
+    {
+      "card_id": "case-longitudinal-medical-agent-system",
+      "evidence_status": "fact",
+      "review_status": "approved",
+      "case_origin": "gconf_community",
+      "proof_level": "linked_artifact",
+      "exact_quote": "крч, я сделала маме доктора.\nне чатик из серии «спросите у ИИ, можно ли банан при луне в козероге».\nнастоящую замороченную систему.",
+      "author": "ElisonCha",
+      "source_date": "2026-05-31",
+      "visibility": "internal",
+      "locator": "telegram:2427462969:4434",
+      "source_url": "https://t.me/c/2427462969/4434",
+      "local_source": "telegram/ИИ-сообщество GCONF - All Time.json",
+      "quote_verified": true,
+      "limitation": "Медицинская корректность независимо не проверена."
+    },
+    {
+      "card_id": "case-corporate-knowledge-base-thirty-years",
+      "evidence_status": "fact",
+      "review_status": "candidate",
+      "case_origin": "external",
+      "proof_level": "described_result",
+      "exact_quote": "I’m building a brain at my work. We have tons of pdf’s from jobs and information collected over 30 years. Every night Claude chews through it all and created corresponding markdown files in a corporate knowledge base. In obsidian too.",
+      "author": "@ChrisWill",
+      "source_date": "2026-07-15",
+      "visibility": "public",
+      "locator": "youtube:cwf2vEAigKA:comment:UgxqYY31bA1ogwDWrBB4AaABAg",
+      "source_url": "https://www.youtube.com/watch?v=cwf2vEAigKA&lc=UgxqYY31bA1ogwDWrBB4AaABAg",
+      "quote_verified": true,
+      "limitation": "Self-report; качество поиска и права доступа не проверены."
+    }
+  ],
+  "source_priority": {
+    "weights": {
+      "freshness": 35,
+      "next_offer_relevance": 25,
+      "evidence_strength": 20,
+      "audience_specificity": 10,
+      "novelty_vs_current_offer": 10
+    },
+    "mandatory_constraints_not_scored": [
+      "live gconf.io current-offer baseline",
+      "canonical GCONF tone of voice",
+      "brand spine: environment, agency, process, meta-skills, behavior change"
+    ],
+    "ranked_evidence": [
+      {
+        "ref": "pain-agent-data-access-security",
+        "published_at": "2026-07-16",
+        "accessed_at": "2026-07-17T20:03:56Z",
+        "freshness_days": 1,
+        "freshness_band": "live",
+        "scores": {"freshness": 35, "next_offer_relevance": 25, "evidence_strength": 20, "audience_specificity": 10, "novelty_vs_current_offer": 10},
+        "priority_score": 100,
+        "selection_rationale": "Самая свежая повторяемая внешняя боль; текущий сайт касается её только в FAQ."
+      },
+      {
+        "ref": "actor-dima-matskevich",
+        "published_at": "2026-07-13",
+        "accessed_at": "2026-07-17T20:03:56Z",
+        "freshness_days": 4,
+        "freshness_band": "live",
+        "scores": {"freshness": 35, "next_offer_relevance": 25, "evidence_strength": 20, "audience_specificity": 10, "novelty_vs_current_offer": 9},
+        "priority_score": 99,
+        "selection_rationale": "Самая свежая внутренняя протагонистская формулировка следующего процессного сдвига."
+      },
+      {
+        "ref": "pain-agent-output-validation",
+        "published_at": "2026-07-16",
+        "accessed_at": "2026-07-17T20:03:56Z",
+        "freshness_days": 1,
+        "freshness_band": "live",
+        "scores": {"freshness": 35, "next_offer_relevance": 24, "evidence_strength": 20, "audience_specificity": 9, "novelty_vs_current_offer": 10},
+        "priority_score": 98,
+        "selection_rationale": "Связывает автономность, память и высокую цену ошибки во внутренних и внешних источниках."
+      },
+      {
+        "ref": "pain-expert-demo-beginner-gap",
+        "published_at": "2026-07-15",
+        "accessed_at": "2026-07-17T20:03:56Z",
+        "freshness_days": 2,
+        "freshness_band": "live",
+        "scores": {"freshness": 35, "next_offer_relevance": 25, "evidence_strength": 20, "audience_specificity": 10, "novelty_vs_current_offer": 8},
+        "priority_score": 98,
+        "selection_rationale": "Проверяет ключевое обещание доступности текущего сайта живой внешней реакцией."
+      },
+      {
+        "ref": "claim-domain-expertise-unlocks-first-time-builders",
+        "published_at": "2026-07-15",
+        "accessed_at": "2026-07-17T20:03:56Z",
+        "freshness_days": 2,
+        "freshness_band": "live",
+        "scores": {"freshness": 35, "next_offer_relevance": 24, "evidence_strength": 20, "audience_specificity": 10, "novelty_vs_current_offer": 7},
+        "priority_score": 96,
+        "selection_rationale": "Соединяет свежие внутренние и внешние кейсы с предметным знанием человека."
+      },
+      {
+        "ref": "case-tech-radar-for-analysts",
+        "published_at": "2026-07-02",
+        "accessed_at": "2026-07-17T20:03:56Z",
+        "freshness_days": 15,
+        "freshness_band": "fresh",
+        "scores": {"freshness": 28, "next_offer_relevance": 23, "evidence_strength": 14, "audience_specificity": 10, "novelty_vs_current_offer": 10},
+        "priority_score": 85,
+        "selection_rationale": "Свежий linked artifact и сильный процессный delta, но карточка ещё candidate."
+      },
+      {
+        "ref": "case-longitudinal-medical-agent-system",
+        "published_at": "2026-05-31",
+        "accessed_at": "2026-07-17T20:03:56Z",
+        "freshness_days": 47,
+        "freshness_band": "recent",
+        "scores": {"freshness": 18, "next_offer_relevance": 25, "evidence_strength": 20, "audience_specificity": 10, "novelty_vs_current_offer": 10},
+        "priority_score": 83,
+        "selection_rationale": "Оставлен как уникальный proof длительного процесса и одновременно необходимости guardrails."
+      }
+    ]
+  },
+  "strategic_classification": {
+    "carry_forward": ["environment", "agency", "practice_on_own_task", "meta_skills", "context", "honest_cases"],
+    "evolve": ["first_artifact_to_maintained_process", "personal_memory_to_living_environment", "delegation_to_governed_delegation", "ability_to_build_to_system_ownership"],
+    "retire": ["tool_list_as_main_news", "no_code_without_bridge", "speed_as_only_proof", "cases_without_origin_or_limitations", "repeat_chatgpt_to_agents"],
+    "new_signal": ["agents_as_process_interface", "agent_readable_knowledge", "governance_with_access", "domain_expertise_as_software_entry", "cost_quality_routing"]
+  },
+  "directions": [
+    {
+      "id": "direction-living-ai-ops",
+      "rank": 1,
+      "working_title": "От первого артефакта к живой AI-операционке",
+      "evidence_status": "proposal",
+      "thesis": "Следующий дефицит — способность превратить разовые сборки в поддерживаемую среду работы и жизни.",
+      "behavioral_transition": {"from": "первый workflow", "to": "владение системой, которая помнит, выполняет, проверяется и улучшается"},
+      "primary_audience": "Люди с первым агентным опытом и несвязанными чатами, файлами и автоматизациями",
+      "tension": "Получилось один раз, но процесс не живёт и не накапливает контекст",
+      "why_now": "Внутренний протагонист, внешние видео и lab-сигналы сходятся к длительной агентной работе и памяти.",
+      "inherits": ["context", "memory", "rules", "practice", "working_artifact", "community"],
+      "genuinely_new": ["process lifecycle", "observability", "maintenance", "routing", "system ownership"],
+      "evidence_refs": ["dima-process-environment", "matt-integrated-workspace", "wes-agent-readable-memory", "long-horizon-work", "case-tech-radar-for-analysts"],
+      "risks": ["может прозвучать как ещё больше setup", "недостаточно internal_protagonist case proof"],
+      "growth_hypothesis": {"behavior": "заявки с описанным повторяемым процессом", "signals": ["qualified applications", "bot clicks", "replies with workflow"]},
+      "channel_jobs": {
+        "telegram": "Показать застревание после первой сборки через живой эпизод и процессный кейс.",
+        "website": "Объяснить lifecycle системы и результаты владения без повторения списка инструментов.",
+        "instagram": "Разложить before/after процесса и использовать проверенные короткие цитаты."
+      },
+      "confidence": "high"
+    },
+    {
+      "id": "direction-agency-with-guardrails",
+      "rank": 2,
+      "working_title": "Агентность с границами",
+      "evidence_status": "proposal",
+      "thesis": "Настоящая агентность начинается с осознанного делегирования, проверки и права остановить действие.",
+      "behavioral_transition": {"from": "боюсь дать доступ или даю всё", "to": "наращиваю полномочия вместе с контролем"},
+      "primary_audience": "Люди и малые команды, подключающие агентов к чувствительным данным и действиям",
+      "tension": "Чем полезнее агент, тем выше цена ошибки",
+      "why_now": "Самые свежие внешние комментарии говорят о приватности и потере контроля.",
+      "inherits": ["adult_honesty", "context", "theory_in_practice", "qa"],
+      "genuinely_new": ["human_in_the_loop", "access_boundaries", "validation", "logging", "risk_levels"],
+      "evidence_refs": ["audience-security-control", "governance-with-access", "case-longitudinal-medical-agent-system"],
+      "risks": ["страх может подавить любопытство", "продукт должен реально обеспечивать заявленные практики"],
+      "growth_hypothesis": {"behavior": "конкретные вопросы и квалифицированные заявки о доступах", "signals": ["substantive replies", "faq engagement", "applications with risk context"]},
+      "channel_jobs": {
+        "telegram": "Открыть противоречие возможности и цены ошибки, затем показать практику контроля.",
+        "website": "Сделать trust-механику видимой рядом с возможностями, а не только в FAQ.",
+        "instagram": "Объяснить последовательность доступ → риск → контроль → действие без запугивания."
+      },
+      "confidence": "medium"
+    },
+    {
+      "id": "direction-domain-expert-builder",
+      "rank": 3,
+      "working_title": "Предметный эксперт как создатель систем",
+      "evidence_status": "proposal",
+      "thesis": "Предметная модель задачи становится архитектурой собственного инструмента или процесса.",
+      "behavioral_transition": {"from": "жду разработчиков или массовый сервис", "to": "собираю решение вокруг своего знания и workflow"},
+      "primary_audience": "Психологи, аналитики, операционные специалисты, родители и владельцы малых команд",
+      "tension": "Человек знает задачу лучше всех, но раньше не мог превратить знание в софт",
+      "why_now": "Свежие кейсы и Anthropic связывают domain expertise с агентным исполнением.",
+      "inherits": ["humanities_friendly", "working_artifact", "protagonists", "practice_on_own_task"],
+      "genuinely_new": ["domain_model_as_architecture", "profession_specific_process_ownership"],
+      "evidence_refs": ["case-first-procurement-html-tool", "case-psychologist-crm-seven-days", "case-tech-radar-for-analysts", "domain-planning-agent-execution"],
+      "risks": ["может повторить no-code promise", "предметная экспертиза не гарантирует production reliability"],
+      "growth_hypothesis": {"behavior": "заявки с конкретной профессиональной задачей", "signals": ["vertical replies", "applications with workflow", "case-specific saves"]},
+      "channel_jobs": {
+        "telegram": "Соединить профессиональную фрустрацию с одним доказанным переходом.",
+        "website": "Организовать proof по процессам и уровням доказательства, не по инструментам.",
+        "instagram": "Показать вертикальные кейсы с живыми цитатами и limitations."
+      },
+      "confidence": "medium"
+    }
+  ],
+  "recommendation_order": ["direction-living-ai-ops", "direction-agency-with-guardrails", "direction-domain-expert-builder"],
+  "unknown_future_cohort_details": [
+    "date",
+    "price",
+    "duration",
+    "format",
+    "curriculum",
+    "speakers_and_protagonists",
+    "capacity",
+    "commercial_terms",
+    "claimed_results",
+    "cta_destination"
+  ],
+  "ingestion_queue": [
+    {
+      "url": "https://www.gconf.io/",
+      "accessed_at": "2026-07-17T20:03:56Z",
+      "reason": "Canonical live current-offer baseline is not versioned in the local knowledge pipeline.",
+      "status": "not_ingested"
+    }
+  ],
+  "evidence_index": [
+    {"id": "site-current-offer", "type": "live_site", "url": "https://www.gconf.io/", "accessed_at": "2026-07-17T20:03:56Z"},
+    {"id": "dima-process-environment", "card_id": "actor-dima-matskevich", "locator": "telegram:1633415027:1058"},
+    {"id": "matt-integrated-workspace", "card_id": "actor-matt-wolfe", "locator": "youtube:MDy_b9F7oUc"},
+    {"id": "wes-agent-readable-memory", "card_id": "actor-wes-roth", "locator": "youtube:cwf2vEAigKA"},
+    {"id": "long-horizon-work", "card_id": "trend-agents-as-process-interface-2026-07-lab-update", "locator": "web:openai:how-agents-are-transforming-work:7319a72d00f6"},
+    {"id": "domain-planning-agent-execution", "card_id": "trend-agents-as-process-interface-2026-07-lab-update", "locator": "web:anthropic:claude-code-expertise:9af6a8456e87"},
+    {"id": "governance-with-access", "card_id": "trend-governance-grows-with-agent-access"},
+    {"id": "audience-security-control", "card_id": "pain-agent-data-access-security", "locator": "youtube:MDy_b9F7oUc:comment:UgwdZbF0D8ns4-hVyk94AaABAg"},
+    {"id": "audience-demo-gap", "card_id": "pain-expert-demo-beginner-gap", "locator": "youtube:cwf2vEAigKA:comment:UgwANiCWq9lmHTlDZRR4AaABAg"},
+    {"id": "case-first-procurement-html-tool", "card_id": "case-first-procurement-html-tool", "locator": "telegram:1633415027:1028"},
+    {"id": "case-psychologist-crm-seven-days", "card_id": "case-psychologist-crm-seven-days", "locator": "youtube:6WEsPzHyD9k:comment:UgyRj7j7WWrniJexbJ54AaABAg"},
+    {"id": "case-tech-radar-for-analysts", "card_id": "case-tech-radar-for-analysts", "locator": "telegram:2427462969:4439"},
+    {"id": "case-longitudinal-medical-agent-system", "card_id": "case-longitudinal-medical-agent-system", "locator": "telegram:2427462969:4434"}
+  ]
+}

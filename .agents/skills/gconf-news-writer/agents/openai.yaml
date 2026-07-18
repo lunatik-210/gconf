@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCONF News Writer"
+  short_description: "Писать выбранные Telegram-новости GCONF"
+  default_prompt: "Используй $gconf-news-writer с radar-run и явно выбранными topic ID, чтобы подготовить доказательные Telegram-посты GCONF."

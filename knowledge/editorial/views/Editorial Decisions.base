@@ -1,0 +1,14 @@
+filters:
+  and:
+    - type == "editorial_decision"
+views:
+  - type: table
+    name: Editorial Decisions
+    order:
+      - file.name
+      - workflow
+      - gate_type
+      - status
+      - decision_source
+      - upstream_ref
+      - decided_at

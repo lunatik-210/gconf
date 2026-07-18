@@ -1,0 +1,42 @@
+{
+  "run_id": "20260718T145604Z",
+  "workflow_mode": "master-frame-generation",
+  "source_announcement_run": "research/announcement_drafts/runs/20260718T100953Z",
+  "carousel_file": "instagram-carousel-v6.md",
+  "carousel_sha256": "8b597892fedc36622ded6ea4b38200d9a639c861f8458011796d7f1358b4632e",
+  "format": "9:16",
+  "canvas": [1080, 1920],
+  "voice_mode": "GCONF",
+  "address": "вы",
+  "date": {"value": "2026-10-27", "display": "27 октября 2026", "status": "proposal_user_authorized"},
+  "cta": {"included": false},
+  "palette": {
+    "muted_coral": "#D96C50",
+    "soft_peach": "#F0D8CF",
+    "warm_paper": "#F7F4EE",
+    "graphite": "#171513",
+    "utility_grey": "#77716C",
+    "grid": "#E1DCD4"
+  },
+  "copy_inventory": {
+    "slide_count": 6,
+    "outcomes": 5,
+    "program_blocks": 6,
+    "audience_requests": 6,
+    "case_cards": 6,
+    "condition_tags": 4
+  },
+  "header_tolerance": {"vertical_px": 8, "horizontal_px": 12, "background_mae": 18},
+  "title_detection_tolerance_px": 12,
+  "title_zones": {
+    "slide-01": [300, 420],
+    "slide-02": [185, 270],
+    "slide-03": [185, 270],
+    "slide-04": [185, 270],
+    "slide-05": [185, 270],
+    "slide-06": [280, 400]
+  },
+  "master_rule": "Every slide is edited independently from the same approved slide-00-master.png; generated slides never reference one another.",
+  "header_overlay_applied": false,
+  "publication_ready": false
+}

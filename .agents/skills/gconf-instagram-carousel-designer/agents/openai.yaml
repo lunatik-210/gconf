@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCONF Carousel Designer"
+  short_description: "Generate fixed 4:5 GCONF carousels from one master-frame"
+  default_prompt: "Use $gconf-instagram-carousel-designer to create one 1080×1350 master-frame, then independently edit it into six palette-safe GCONF Instagram slides from grayscale structural references while forbidding all legacy text visible in those references."

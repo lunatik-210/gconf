@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCONF Announcement Analysis"
+  short_description: "Анализ направлений следующего анонса GCONF"
+  default_prompt: "Use $gconf-announcement-analysis to prepare an evidence-backed analysis and 2–3 directions for the next GCONF announcement."

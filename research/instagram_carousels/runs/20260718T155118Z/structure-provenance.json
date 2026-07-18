@@ -1,0 +1,83 @@
+{
+  "ok": true,
+  "reference_mode": "grayscale_structure_only",
+  "records": [
+    {
+      "source": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG",
+      "source_sha256": "44ca155b397a5f5c72911bd01ad8f6e60912323764e24bab8321fc3c52862d38",
+      "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/feed.png",
+      "derived_sha256": "f6ff947c3ba8e45badf717553e70337a9679f6d7c4138833a2f28a9510607bef",
+      "dimensions": [
+        1179,
+        2556
+      ],
+      "transform": "grayscale_rgb_no_resize"
+    },
+    {
+      "source": "Instagram/Прошлый Анонс/IMG_5125.jpg",
+      "source_sha256": "706cde26a15780e77589cf5dee06f2ae0f6f38738e7666db55f8fbcff6371a7e",
+      "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-01.png",
+      "derived_sha256": "9036daf1973a6492410bf574391e39de90634a647f215fdd9e0b4b0b90758fb6",
+      "dimensions": [
+        1179,
+        1468
+      ],
+      "transform": "grayscale_rgb_no_resize"
+    },
+    {
+      "source": "Instagram/Прошлый Анонс/IMG_5126.jpg",
+      "source_sha256": "98b634d044f58d6ed7f97ac098207e4a14d75761cd6df7d2dac835567ba2de65",
+      "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-02.png",
+      "derived_sha256": "53462c7bff3b3dbfc38d63b2a0b8a28191f02b32be30c14bb9ecedd344f5b06c",
+      "dimensions": [
+        1179,
+        1460
+      ],
+      "transform": "grayscale_rgb_no_resize"
+    },
+    {
+      "source": "Instagram/Прошлый Анонс/IMG_5127.jpg",
+      "source_sha256": "0055cd00444e6d6e396d898f29bed66194fcb07eea9290959c5372c9bcc8fddb",
+      "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-03.png",
+      "derived_sha256": "7304d5595f21a7fc941048370105173a17c8b1b6748af93c3599d810c2eb5a6e",
+      "dimensions": [
+        1179,
+        1468
+      ],
+      "transform": "grayscale_rgb_no_resize"
+    },
+    {
+      "source": "Instagram/Прошлый Анонс/IMG_5128.jpg",
+      "source_sha256": "c93c3141f1cb58e16ed4c0c8d11157ca61788113237b0a01a141af6a7dd02687",
+      "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-04.png",
+      "derived_sha256": "03c97688baeab7d2831bd12061bcb9709b42bb59997fb83e25f0fc2402c57688",
+      "dimensions": [
+        1179,
+        1462
+      ],
+      "transform": "grayscale_rgb_no_resize"
+    },
+    {
+      "source": "Instagram/Прошлый Анонс/IMG_5129.jpg",
+      "source_sha256": "a02cd4726be8214ba7c9919dfee1fc4078924bcece24766e8d224a414fef7bdb",
+      "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-05.png",
+      "derived_sha256": "615bbbe746084cb6293752bfd47cb7d452558feb00ec91003d2b6c97deede8b0",
+      "dimensions": [
+        1179,
+        1466
+      ],
+      "transform": "grayscale_rgb_no_resize"
+    },
+    {
+      "source": "Instagram/Прошлый Анонс/IMG_5130.jpg",
+      "source_sha256": "fa33e5b1b3af7d74a79d70eca8b86732fa9c74120e7bc78e44526b232b357487",
+      "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-06.png",
+      "derived_sha256": "9015f06fd136f46e73f86b336235144dca4a618de3ae51d65379df5a718fd10a",
+      "dimensions": [
+        1179,
+        1466
+      ],
+      "transform": "grayscale_rgb_no_resize"
+    }
+  ]
+}

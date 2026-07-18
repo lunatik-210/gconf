@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20260718T093504Z",
+  "source_announcement_run": "research/announcement_drafts/runs/20260718T091009Z",
+  "product_name": "Vibe Coding · AI Ops",
+  "format": {"width": 1080, "height": 1350, "aspect_ratio": "4:5"},
+  "palette": {
+    "primary": "#FF5A2A",
+    "secondary": "#FFD7C7",
+    "paper": "#F5F2EB",
+    "graphite": "#111111",
+    "utility_grey": "#77736C",
+    "grid": "#DDD8CF"
+  },
+  "palette_rationale": "Signal orange is a new dominant launch color relative to the recent blue, lime, yellow, pink and mint cohorts; it preserves GCONF's highlighter logic while expressing a running, observable system.",
+  "brand_grammar": [
+    "warm paper and fine technical grid",
+    "heavy black grotesk headings",
+    "monospaced metadata and counters",
+    "one highlighter color",
+    "flat editorial layout",
+    "dense and airy slides alternate"
+  ],
+  "typography": {
+    "headline": "heavy geometric grotesk, tight line-height",
+    "body": "neutral grotesk, high Cyrillic legibility",
+    "metadata": "monospaced utilitarian small caps"
+  },
+  "placeholder_handling": {
+    "date": "СТАРТ — СКОРО",
+    "cta": "ДЕТАЛИ И ЗАПИСЬ — СКОРО",
+    "status": "editorial teaser wording, not a verified future cohort fact"
+  },
+  "visual_copy_policy": "Shorten only for legibility; preserve meaning and use contiguous exact excerpts for participant language.",
+  "slides": [
+    {"index": 1, "job": "cover", "density": "airy"},
+    {"index": 2, "job": "five outcomes", "density": "medium"},
+    {"index": 3, "job": "six program blocks", "density": "dense"},
+    {"index": 4, "job": "six sourced requests", "density": "dense"},
+    {"index": 5, "job": "six proof cards", "density": "dense"},
+    {"index": 6, "job": "teaser CTA and terms", "density": "airy"}
+  ],
+  "publication_ready": false,
+  "publication_blockers": ["start date is not confirmed", "CTA destination is not confirmed", "generated typography requires human visual approval"]
+}

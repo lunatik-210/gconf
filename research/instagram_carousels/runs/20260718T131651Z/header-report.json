@@ -1,0 +1,30 @@
+{
+  "header_applied": true,
+  "layout": {
+    "band_height": 170,
+    "left_x": 88,
+    "baseline_y": 78,
+    "right_x": 992,
+    "divider_y": 168,
+    "font_size": 25,
+    "tracking": 0
+  },
+  "font_path": "/System/Library/Fonts/Supplemental/PTMono.ttc",
+  "font_sha256": "449fd64aa2425eeba37237c73853a89daa94c6e43c1faafba0b53c2c13c3e2c7",
+  "page_labels": [
+    "01 / 06",
+    "02 / 06",
+    "03 / 06",
+    "04 / 06",
+    "05 / 06",
+    "06 / 06"
+  ],
+  "outputs": [
+    "research/instagram_carousels/runs/20260718T131651Z/generated/slide-01.png",
+    "research/instagram_carousels/runs/20260718T131651Z/generated/slide-02.png",
+    "research/instagram_carousels/runs/20260718T131651Z/generated/slide-03.png",
+    "research/instagram_carousels/runs/20260718T131651Z/generated/slide-04.png",
+    "research/instagram_carousels/runs/20260718T131651Z/generated/slide-05.png",
+    "research/instagram_carousels/runs/20260718T131651Z/generated/slide-06.png"
+  ]
+}

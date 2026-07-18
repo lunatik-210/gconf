@@ -1,0 +1,46 @@
+{
+  "header_applied": true,
+  "layout": {
+    "band_height": 150,
+    "left_x": 88,
+    "baseline_y": 96,
+    "right_x": 992,
+    "divider_y": 148,
+    "font_size": 25,
+    "tracking": 0
+  },
+  "font_path": "/System/Library/Fonts/Supplemental/PTMono.ttc",
+  "font_sha256": "449fd64aa2425eeba37237c73853a89daa94c6e43c1faafba0b53c2c13c3e2c7",
+  "page_labels": [
+    "01 / 06",
+    "02 / 06",
+    "03 / 06",
+    "04 / 06",
+    "05 / 06",
+    "06 / 06"
+  ],
+  "left_labels": [
+    "[ gconf ]",
+    "[ 02 ] за 3 недели",
+    "[ 03 ] программа",
+    "[ 04 ] запросы",
+    "[ 05 ] результат",
+    "[ 06 ] старт · gconf"
+  ],
+  "header_pixel_sha256": [
+    "e53af6f79c720cd8a1aec447be45cd8f78919f9e6f9caa7a758297ffe9c363b4",
+    "94ac2a90efb34a8890bf123eaa1cea9aeab9e809866d76f6fafec133bb87a373",
+    "7f36e476f169973157fab5dd5a3019cc144abdf03292a4dd641a95d204615c7f",
+    "48e62af842a4c6c3e0758664456307ab05cec6b0915913dc4cf45846e9337b5a",
+    "e2aa04c2c119432cbaffbfe20433b8a9285ebf667a2e28718e5e097fc63e3272",
+    "08f3cbe748d66b166e601f89d047168f5480b5cf1b2a00f7369d0a553b126de2"
+  ],
+  "outputs": [
+    "research/instagram_carousels/runs/20260718T135141Z/generated/slide-01.png",
+    "research/instagram_carousels/runs/20260718T135141Z/generated/slide-02.png",
+    "research/instagram_carousels/runs/20260718T135141Z/generated/slide-03.png",
+    "research/instagram_carousels/runs/20260718T135141Z/generated/slide-04.png",
+    "research/instagram_carousels/runs/20260718T135141Z/generated/slide-05.png",
+    "research/instagram_carousels/runs/20260718T135141Z/generated/slide-06.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "run_id": "20260718T135141Z",
+  "source_announcement_run": "research/announcement_drafts/runs/20260718T100953Z",
+  "copy_source": {"path": "research/announcement_drafts/runs/20260718T100953Z/instagram-carousel-v4.md", "filename": "instagram-carousel-v4.md", "sha256": "577f8eddd1b25992a6ca60507f37d11aa5795b07f6db178bbde757a90465e840"},
+  "copy_inventory": {"slide_count": 6, "outcomes": 5, "program_blocks": 6, "audience_requests": 6, "case_cards": 6, "condition_tags": 4},
+  "generation_mode": "built-in image_gen",
+  "palette": {"muted_coral": "#D96C50", "soft_peach": "#F0D8CF", "warm_paper": "#F7F4EE", "graphite": "#171513", "utility_grey": "#77716C", "grid": "#E1DCD4"},
+  "case_provenance_internal": "research/announcement_drafts/runs/20260718T100953Z/evidence-ledger.json",
+  "slides": [
+    {"id":"slide-01-cover-v4","source":"source/slide-01.png","normalized":"normalized/slide-01.png","final":"generated/slide-01.png"},
+    {"id":"slide-02-outcomes-v4","source":"source/slide-02.png","normalized":"normalized/slide-02.png","final":"generated/slide-02.png"},
+    {"id":"slide-03-program-v4","source":"source/slide-03.png","normalized":"normalized/slide-03.png","final":"generated/slide-03.png"},
+    {"id":"slide-04-requests-v4","source":"source/slide-04.png","normalized":"normalized/slide-04.png","final":"generated/slide-04.png"},
+    {"id":"slide-05-cases-v4","source":"source/slide-05.png","normalized":"normalized/slide-05.png","final":"generated/slide-05.png"},
+    {"id":"slide-06-cta-v4","source":"source/slide-06.png","normalized":"normalized/slide-06.png","final":"generated/slide-06.png"}
+  ],
+  "placeholder_handling": ["[ДАТА — НУЖНО ПОДТВЕРДИТЬ]", "[CTA — НУЖНО ПОДТВЕРДИТЬ]"],
+  "shared_header": {"header_applied": false, "layout": {"band_height":150,"left_x":88,"baseline_y":96,"right_x":992,"divider_y":148}},
+  "qa_status": "pending_generation",
+  "publication_ready": false
+}

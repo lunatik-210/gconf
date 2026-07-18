@@ -1,0 +1,104 @@
+[
+  {
+    "id": "slide-01-cover",
+    "prompt": "Use case: ads-marketing. Asset type: GCONF Instagram Story/Reels cover. Edit Image 1, the approved blank master-frame. Image 2 is only the composition, density and hierarchy contract from the previous blue announcement. Preserve Image 1 canvas, warm-paper grid, palette, margins and header position. Header text must remain exactly “[ gconf ]” at top left and “01 / 06” at top right. Do not redraw, move, resize or duplicate the header. Add the main title beginning inside y=300–420 on the intended 1080×1920 canvas. Render one large title “Vibe Coding” exactly once and a separate smaller subtitle “AI Ops”. Then render exactly: “за 3 недели перейдёте от первого агента, который однажды сработал, к живой AI-операционке:” followed by “- контекст и память - проверки и границы - рабочий ритм улучшений” and the conditions “старт: 27 октября 2026 · 3 недели · $650”. Use graphite text, muted coral highlights, bold grotesk hierarchy and compact neutral body copy. Preserve all text; change only line breaks and typography. No photos, phone mockups, gradients, extra labels, additional dates, invented claims, watermarks or Instagram UI.",
+    "required_text": [
+      "Vibe Coding",
+      "AI Ops",
+      "за 3 недели перейдёте от первого агента, который однажды сработал, к живой AI-операционке:",
+      "- контекст и память - проверки и границы - рабочий ритм улучшений",
+      "старт: 27 октября 2026 · 3 недели · $650"
+    ],
+    "references": [
+      {"role": "master_edit_target", "path": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png"},
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5125.jpg"}
+    ]
+  },
+  {
+    "id": "slide-02-outcomes",
+    "prompt": "Use case: ads-marketing. Asset type: GCONF Instagram Story/Reels outcomes slide. Edit Image 1, the approved blank master-frame. Image 2 is only the composition, density and hierarchy contract from the previous blue announcement. Preserve Image 1 canvas, warm-paper grid, palette and header coordinates. Change only the header strings: top left must read exactly “[ 02 ] за 3 недели”; top right must read exactly “02 / 06”. Keep their baseline and anchors identical to Image 1. Add the large title “За 3 недели вы” inside y=185–270. Under it render five complete numbered rows exactly: “01 выберете один повторяемый процесс, который действительно нужен в работе или жизни”; “02 соберёте для него контекст, память и правила — без вечного копирования между чатами”; “03 свяжете агента с нужными файлами и привычными каналами работы”; “04 настроите границы и проверки: где система действует, а где ждёт вашего решения”; “05 доведёте первую версию до рабочего ритма и поймёте, как её поддерживать”. Use compact rows and small coral number markers. Reduce font and spacing before removing text. No photos, portraits, extra copy, watermarks or Instagram UI.",
+    "required_text": [
+      "За 3 недели вы",
+      "01 выберете один повторяемый процесс, который действительно нужен в работе или жизни",
+      "02 соберёте для него контекст, память и правила — без вечного копирования между чатами",
+      "03 свяжете агента с нужными файлами и привычными каналами работы",
+      "04 настроите границы и проверки: где система действует, а где ждёт вашего решения",
+      "05 доведёте первую версию до рабочего ритма и поймёте, как её поддерживать"
+    ],
+    "references": [
+      {"role": "master_edit_target", "path": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png"},
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5126.jpg"}
+    ]
+  },
+  {
+    "id": "slide-03-program",
+    "generation_correction": "Keep the left header in the master-frame muted-coral, the pagination grey, and the top of the large title at y=185–220 with no second blank gap.",
+    "prompt": "Use case: ads-marketing. Asset type: dense GCONF Instagram Story/Reels program slide. Edit Image 1, the approved blank master-frame. Image 2 is only the 2×3 composition, density and hierarchy contract from the previous blue announcement. Preserve Image 1 canvas, warm-paper grid, palette and header coordinates. Change only the header strings: top left must read exactly “[ 03 ] программа”; top right must read exactly “03 / 06”. Keep their baseline and anchors identical to Image 1. Add the large title “Программа потока” inside y=185–270. Below it build a legible 2×3 grid and render all six blocks exactly: “доступы и рабочий setup разберём, какие нейронки вам нужны, что установить и как оплатить — и поможем всё настроить, чтобы вы не застряли в самом начале”; “контекст и память соберём только нужные файлы, историю и инструкции — чтобы агент не начинал с нуля, а вы понимали, какие данные ему действительно доступны”; “живой workflow возьмём одну вашу повторяемую задачу и проведём до проверенного результата — чтобы второй запуск не пришлось снова собирать руками”; “мета-навыки: lifecycle научимся замечать, где агент забыл инструкцию, вернул ошибку или сделал тесты для галочки — и чинить процесс, а не бесконечно переписывать промпт”; “Q&A и разборы определим минимальные права и ручные проверки — чтобы не отдавать агенту весь компьютер и не доверять критичные действия вслепую”; “живая практика созвоны, чат и работа на своих задачах — чтобы не остаться один на один с неработающим setup; записи и материалы остаются навсегда”. Reduce font and gaps, never content. No decorative icons, photos, extra copy, watermarks or Instagram UI.",
+    "required_text": [
+      "Программа потока",
+      "доступы и рабочий setup разберём, какие нейронки вам нужны, что установить и как оплатить — и поможем всё настроить, чтобы вы не застряли в самом начале",
+      "контекст и память соберём только нужные файлы, историю и инструкции — чтобы агент не начинал с нуля, а вы понимали, какие данные ему действительно доступны",
+      "живой workflow возьмём одну вашу повторяемую задачу и проведём до проверенного результата — чтобы второй запуск не пришлось снова собирать руками",
+      "мета-навыки: lifecycle научимся замечать, где агент забыл инструкцию, вернул ошибку или сделал тесты для галочки — и чинить процесс, а не бесконечно переписывать промпт",
+      "Q&A и разборы определим минимальные права и ручные проверки — чтобы не отдавать агенту весь компьютер и не доверять критичные действия вслепую",
+      "живая практика созвоны, чат и работа на своих задачах — чтобы не остаться один на один с неработающим setup; записи и материалы остаются навсегда"
+    ],
+    "references": [
+      {"role": "master_edit_target", "path": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png"},
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5127.jpg"}
+    ]
+  },
+  {
+    "id": "slide-04-requests",
+    "prompt": "Use case: ads-marketing. Asset type: GCONF Instagram Story/Reels audience-requests slide. Edit Image 1, the approved blank master-frame. Image 2 is only the composition, density and hierarchy contract from the previous blue announcement. Preserve Image 1 canvas, warm-paper grid, palette and header coordinates. Change only the header strings: top left must read exactly “[ 04 ] запросы”; top right must read exactly “04 / 06”. Keep their baseline and anchors identical to Image 1. Add the required large title “С чем приходят” inside y=185–270. Under it render six separated rows exactly: “пользуюсь ChatGPT, но не понимаю, с какой своей задачи начать работу с агентами”; “в России всё упирается в доступы, аккаунты и оплату — что с этим делать?”; “страшно отдавать агенту компьютер и личные данные: где поставить границу?”; “контекст снова расползается — агент не помнит прошлые решения и вводные”; “Claude Code затягивает задачу, оставляет баги и делает тесты для галочки”; “даже записанные инструкции агент иногда пропускает — и снова делает не то”. Use selective coral highlights. Do not add names, professions, countries, attribution, quote marks, extra copy, photos, watermarks or Instagram UI.",
+    "required_text": [
+      "С чем приходят",
+      "пользуюсь ChatGPT, но не понимаю, с какой своей задачи начать работу с агентами",
+      "в России всё упирается в доступы, аккаунты и оплату — что с этим делать?",
+      "страшно отдавать агенту компьютер и личные данные: где поставить границу?",
+      "контекст снова расползается — агент не помнит прошлые решения и вводные",
+      "Claude Code затягивает задачу, оставляет баги и делает тесты для галочки",
+      "даже записанные инструкции агент иногда пропускает — и снова делает не то"
+    ],
+    "references": [
+      {"role": "master_edit_target", "path": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png"},
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5128.jpg"}
+    ]
+  },
+  {
+    "id": "slide-05-cases",
+    "prompt": "Use case: ads-marketing. Asset type: dense GCONF Instagram Story/Reels evidence slide. Edit Image 1, the approved blank master-frame. Image 2 is only the 2×3 composition, density and hierarchy contract from the previous blue announcement. Preserve Image 1 canvas, warm-paper grid, palette and header coordinates. Change only the header strings: top left must read exactly “[ 05 ] результат”; top right must read exactly “05 / 06”. Keep their baseline and anchors identical to Image 1. Add the large title “С чем уходят участники GCONF” inside y=185–270. Below it build six compact cards and render exactly: “память коуч в Telegram + автоматические Markdown-summary «он точно так же помнит контекст, если не лучше»”; “свой инструмент HTML-файл для закупочной задачи «с нулевым опытом программирования сделала удобный html-файл. месяцы не могла допроситься айтишников»”; “первый релиз сайт, собранный с нуля «это мой первый в жизни сайт, и я чувствую себя капец взрослой»”; “рабочий фильтр коллектор вакансий со smart-фильтром «за пару часов на выходных сделал коллектор вакансий со смарт-фильтром, работает вполне годно»”; “оркестрация ролей домашняя система для разбора истории здоровья «собрала для мамы домашнего доктора. скорее мини-оркестр из ролей»”; “структура из истории два года переписок собраны для дальнейшего разбора «загрузила всё в codex и получила глубокий психологический анамнез»”. Do not show individual origins, names, professions, countries, permission notes, caveats, photos, extra copy, watermarks or Instagram UI.",
+    "required_text": [
+      "С чем уходят участники GCONF",
+      "память коуч в Telegram + автоматические Markdown-summary «он точно так же помнит контекст, если не лучше»",
+      "свой инструмент HTML-файл для закупочной задачи «с нулевым опытом программирования сделала удобный html-файл. месяцы не могла допроситься айтишников»",
+      "первый релиз сайт, собранный с нуля «это мой первый в жизни сайт, и я чувствую себя капец взрослой»",
+      "рабочий фильтр коллектор вакансий со smart-фильтром «за пару часов на выходных сделал коллектор вакансий со смарт-фильтром, работает вполне годно»",
+      "оркестрация ролей домашняя система для разбора истории здоровья «собрала для мамы домашнего доктора. скорее мини-оркестр из ролей»",
+      "структура из истории два года переписок собраны для дальнейшего разбора «загрузила всё в codex и получила глубокий психологический анамнез»"
+    ],
+    "references": [
+      {"role": "master_edit_target", "path": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png"},
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5129.jpg"}
+    ]
+  },
+  {
+    "id": "slide-06-conditions",
+    "generation_correction": "Do not vertically center the slide. Put the title at about y=280 after normalization, directly below the header; keep the left header muted-coral and pagination grey; do not transfer blue from the structure reference.",
+    "prompt": "Use case: ads-marketing. Asset type: GCONF Instagram Story/Reels start-and-conditions slide. Edit Image 1, the approved blank master-frame. Image 2 is only the composition, density and hierarchy contract from the previous blue announcement. Preserve Image 1 canvas, warm-paper grid, palette and header coordinates. Change only the header strings: top left must read exactly “[ 06 ] старт · gconf”; top right must read exactly “06 / 06”. Keep their baseline and anchors identical to Image 1. Add the large title “Vibe Coding · AI Ops” inside y=280–400. Below it render four visible condition tags: “3 недели живой практики”; “чат и Q&A”; “разборы ваших задач”; “записи и материалы — навсегда”. Then render a compact conditions table exactly: “старт: 27 октября 2026”; “длительность: 3 недели”; “стоимость: $650 · 52 000 ₽”. Do not add an action destination, code word, button, invitation phrase, unknown placeholder, extra date, photos, watermarks or Instagram UI. Keep the background warm paper; coral must not be full-bleed.",
+    "required_text": [
+      "Vibe Coding · AI Ops",
+      "3 недели живой практики",
+      "чат и Q&A",
+      "разборы ваших задач",
+      "записи и материалы — навсегда",
+      "старт: 27 октября 2026",
+      "длительность: 3 недели",
+      "стоимость: $650 · 52 000 ₽"
+    ],
+    "references": [
+      {"role": "master_edit_target", "path": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png"},
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5130.jpg"}
+    ]
+  }
+]

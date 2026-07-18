@@ -70,6 +70,11 @@ python3 -B .agents/skills/gconf-insight-extract/scripts/insight_extract.py rende
   work (`gconf_community`), protagonist examples (`internal_protagonist`), and
   outside examples (`external`).
 - Do not draft an announcement, news post, CTA, or positioning thesis.
+- After candidates are ready, expose them in the shared Editorial Control Plane.
+  When the human explicitly approves or rejects candidates in conversation,
+  use `$gconf-editorial-gates` to record `semantic_evidence_review` before
+  applying the existing `review_status` change. Never infer approval from a
+  completed processing fingerprint.
 
 Read [processing-contract.md](references/processing-contract.md) when changing
 scope selection, fingerprints, or processing cards. Read

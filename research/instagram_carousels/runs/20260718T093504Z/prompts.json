@@ -1,0 +1,32 @@
+[
+  {
+    "id": "slide-01-cover",
+    "reference_slide": "Instagram/Прошлый Анонс/IMG_5125.jpg",
+    "prompt": "Use case: ads-marketing. Asset: slide 1 of a six-slide GCONF Instagram carousel, 4:5 portrait. Use the supplied feed screenshot only for brand grammar and the old slide only for composition; create a new design, do not copy pixels. Warm paper #F5F2EB, fine #DDD8CF technical grid, graphite #111111, signal orange #FF5A2A, soft apricot #FFD7C7. Heavy black geometric grotesk, monospaced metadata. Exact visible text: '[ gconf ]'; '01 / 06'; 'VIBE CODING'; 'AI OPS'; 'от первого агента — к живой AI-операционке'; chips: 'СТАРТ — СКОРО', '3 НЕДЕЛИ', '$650'. Airy left-aligned editorial cover, large title, orange block cursor motif, no phone, no portrait, no gradients, no watermark, no invented text. Keep all text inside a generous central 4:5 safe area and render Russian and Latin text verbatim."
+  },
+  {
+    "id": "slide-02-outcomes",
+    "reference_slide": "Instagram/Прошлый Анонс/IMG_5126.jpg",
+    "prompt": "Use case: ads-marketing. Asset: slide 2 of a six-slide GCONF Instagram carousel, 4:5 portrait. Same new GCONF system: warm paper #F5F2EB, fine grid, black grotesk, signal orange #FF5A2A only as highlighter, monospaced counters. Exact visible text: '[ 02 ] за 3 недели'; 'за 3 недели вы'; '01 выберете один живой процесс'; '02 соберёте контекст, память и правила'; '03 свяжете агента с файлами и каналами'; '04 настроите границы и проверки'; '05 доведёте систему до рабочего ритма'; '02 / 06'. Five horizontal numbered rows with thin grey dividers, large readable Cyrillic, no photos, no icons, no extra copy, no watermark. Keep text verbatim and inside a central 4:5 safe area."
+  },
+  {
+    "id": "slide-03-program",
+    "reference_slide": "Instagram/Прошлый Анонс/IMG_5127.jpg",
+    "prompt": "Use case: ads-marketing. Asset: slide 3 of a six-slide GCONF Instagram carousel, 4:5 portrait. Match the prior two-column program rhythm but use new palette: #F5F2EB paper, #111111 text, #FF5A2A accents, #FFD7C7 quote/chip fields, #DDD8CF grid. Exact text: '[ 03 ] программа'; 'программа потока'; six blocks: 'ДОСТУПЫ И SETUP — минимальные доступы под вашу задачу'; 'КОНТЕКСТ И ПАМЯТЬ — источники, файлы, инструкции'; 'ЖИВОЙ WORKFLOW — вход → действие → результат'; 'LIFECYCLE — заметить сбой, проверить, улучшить'; 'Q&A И РАЗБОРЫ — места, где агент теряет контекст'; 'ЖИВАЯ ПРАКТИКА — созвоны, чат, записи навсегда'; '03 / 06'. Dense but highly legible two-column editorial grid, heavy headings, short body, no testimonials, no extra claims, no watermark. Render text verbatim."
+  },
+  {
+    "id": "slide-04-requests",
+    "reference_slide": "Instagram/Прошлый Анонс/IMG_5128.jpg",
+    "prompt": "Use case: ads-marketing. Asset: slide 4 of a six-slide GCONF Instagram carousel, 4:5 portrait. GCONF editorial list on warm paper with fine grid, black grotesk, signal orange #FF5A2A highlighting one word in the heading, grey monospaced attributions. Exact text: '[ 04 ] запросы'; 'с чем приходят'; six quote rows: 'понять принципы вайбкодинга — и получить готовое решение'; 'запускать работающих агентов для бизнес-целей'; 'внедрить AI в управление отелем'; 'интегрировать агентов в аналитику инвестиций'; 'сделать ИИ партнёром: доводить идеи до реализации'; 'перестать тонуть в идеях — выйти с прототипом'; small attributions respectively: 'fintech · сша'; 'трейдинг · сингапур'; 'отель · хорватия'; 'инвестиции · бали'; 'психолог'; 'консалтинг · великобритания'; '04 / 06'. Six separated rows, readable Russian, no decorative imagery, no extra text, no watermark."
+  },
+  {
+    "id": "slide-05-cases",
+    "reference_slide": "Instagram/Прошлый Анонс/IMG_5129.jpg",
+    "prompt": "Use case: ads-marketing. Asset: slide 5 of a six-slide GCONF Instagram carousel, 4:5 portrait. Six compact proof cards in a 2x3 grid on #F5F2EB, white cards with subtle borders, #FF5A2A category tags, black grotesk, grey monospaced origin. Exact heading: '[ 05 ] результат'; 'с чем уходят'; subhead 'реальные шэринги — не гарантия одинакового результата'; cards: 'ПАМЯТЬ — «помнит контекст, если не лучше» — участница GCONF'; 'СВОЙ ИНСТРУМЕНТ — «с нулевым опытом сделала html-файл» — участница GCONF'; 'ПЕРВЫЙ РЕЛИЗ — «это мой первый в жизни сайт» — участница GCONF'; 'РАБОЧИЙ ФИЛЬТР — «коллектор вакансий со смарт-фильтром» — участник GCONF'; 'ОРКЕСТРАЦИЯ — «мини-оркестр из ролей» — community GCONF'; 'СТРУКТУРА — «получила глубокий психологический анамнез» — community GCONF'; '05 / 06'. High legibility, no icons, no extra claims, no watermark, render all text verbatim."
+  },
+  {
+    "id": "slide-06-cta",
+    "reference_slide": "Instagram/Прошлый Анонс/IMG_5130.jpg",
+    "prompt": "Use case: ads-marketing. Asset: final slide 6 of a six-slide GCONF Instagram carousel, 4:5 portrait. Bold airy CTA slide using signal orange #FF5A2A as a large color field plus warm paper #F5F2EB, graphite #111111, fine technical grid, heavy black grotesk and monospaced labels. Exact text: '[ 06 ] старт · gconf'; 'VIBE CODING · AI OPS'; 'ДЕТАЛИ И ЗАПИСЬ — СКОРО'; chips: '3 НЕДЕЛИ ЖИВОЙ ПРАКТИКИ'; 'ЧАТ И Q&A'; 'ЗАПИСИ И МАТЕРИАЛЫ — НАВСЕГДА'; conditions: 'СТАРТ — СКОРО'; 'ДЛИТЕЛЬНОСТЬ — 3 НЕДЕЛИ'; 'СТОИМОСТЬ — $650 · 52 000 ₽'; '06 / 06'. One strong CTA hierarchy, no link, no QR, no code word, no invented date, no watermark. Render text verbatim and keep inside central 4:5 safe area."
+  }
+]

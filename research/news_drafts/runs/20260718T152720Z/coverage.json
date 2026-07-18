@@ -1,0 +1,9 @@
+[
+  {
+    "topic_id": "news-20260630-science-validation-bottleneck",
+    "closest_coverage_refs": ["cov-telegram-971", "cov-telegram-1058"],
+    "coverage_delta": "GCONF уже объяснял переход от чата к длинной агентной работе и agent-first архитектуру, но не разбирал provenance, reproducibility и reviewer-role как самостоятельный validation layer вокруг агента.",
+    "central_claim_overlap": "partial",
+    "new_editorial_unit": true
+  }
+]

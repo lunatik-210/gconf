@@ -1,0 +1,447 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GCONF AI-first Work Sample — Andrei Lapin</title>
+  <meta name="description" content="От живого AI-сигнала к проверяемому контенту: финальные публикации, evidence base и агентная редакционная система.">
+  <meta name="theme-color" content="#FBFAF7">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="GCONF AI-first Work Sample — Andrei Lapin">
+  <meta property="og:description" content="Сначала результат. Затем — проверяемая AI-first система, которая его произвела.">
+  <meta property="og:image" content="assets/social-preview.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="assets/fonts/unbounded-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="assets/fonts/golos-text-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#content">перейти к содержанию</a>
+  <div class="page-shell">
+    <div class="ticker" aria-hidden="true">
+      <div class="ticker__track">
+        <span>// research · evidence · agents · growth</span>
+        <span>// research · evidence · agents · growth</span>
+        <span>// research · evidence · agents · growth</span>
+      </div>
+    </div>
+
+    <header class="site-header" data-header>
+      <a class="brand" href="#top" aria-label="В начало страницы">
+        <span class="brand__prompt">gconf</span><span>~/work-sample</span>
+      </a>
+      <nav class="site-nav" aria-label="Разделы презентации">
+        <a href="#announcement">результаты</a>
+        <a href="#logic">логика</a>
+        <a href="#system">система</a>
+      </nav>
+      <a class="github-link" href="https://github.com/lunatik-210/gconf" target="_blank" rel="noopener noreferrer" aria-label="Открыть репозиторий проекта на GitHub">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .7a11.5 11.5 0 0 0-3.64 22.4c.58.1.79-.25.79-.56v-2.23c-3.22.7-3.9-1.37-3.9-1.37-.53-1.34-1.29-1.7-1.29-1.7-1.05-.72.08-.7.08-.7 1.17.08 1.78 1.2 1.78 1.2 1.04 1.78 2.72 1.27 3.38.97.1-.75.4-1.27.74-1.56-2.57-.29-5.27-1.28-5.27-5.69 0-1.26.45-2.28 1.2-3.09-.12-.29-.52-1.46.11-3.05 0 0 .98-.31 3.16 1.18a10.95 10.95 0 0 1 5.76 0c2.18-1.49 3.16-1.18 3.16-1.18.63 1.59.23 2.76.11 3.05.75.81 1.2 1.83 1.2 3.09 0 4.42-2.71 5.39-5.29 5.68.42.36.79 1.06.79 2.14v3.18c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .7Z"/></svg>
+        <span>GitHub / source</span>
+      </a>
+      <a class="button button--small button--lime header-cta" href="https://telegram.me/anlapin" target="_blank" rel="noopener noreferrer">позвать на собеседование →</a>
+      <div class="chapter-progress" aria-hidden="true"><span data-progress></span></div>
+    </header>
+
+    <main id="content">
+      <section class="hero snap-section" id="top" data-section="top">
+        <div class="hero__copy reveal">
+          <div class="eyebrow"><span class="status-dot"></span> work sample · 2026</div>
+          <h1>от живого<br>сигнала к<br><span class="ink-blue">проверяемому<br>контенту</span></h1>
+          <p class="hero__lead">Собрал не контент-пакет, а воспроизводимую AI-first редакционную систему: она исследует, проверяет, пишет — и знает, где остановиться перед человеческим решением.</p>
+          <div class="hero__actions">
+            <a class="button button--lime" href="https://telegram.me/anlapin" target="_blank" rel="noopener noreferrer">позвать на собеседование →</a>
+          </div>
+          <p class="signature">Andrei Lapin <span>/ AI-first content &amp; growth</span></p>
+        </div>
+
+        <div class="hero__visual reveal" aria-label="Краткая карта: 20 источников, 10 агентных шагов, human gates и Tone of Voice создают анонс и две новости">
+          <div class="terminal-bar"><span></span><span></span><span></span><b>signal-to-content.map</b></div>
+          <div class="terminal-body hero-map">
+            <p><span class="term-muted">$</span> gconf trace <span class="term-lime">--signal-to-content</span></p>
+
+            <div class="hero-map__pipeline" aria-label="Основной поток данных">
+              <div class="hero-map__node hero-map__node--source"><strong>20</strong><span>источников</span><small>живые сигналы · TG · IG · YouTube · labs</small></div>
+              <i class="hero-map__arrow" aria-hidden="true">→</i>
+              <div class="hero-map__node hero-map__node--agent"><strong>10</strong><span>agent steps</span><small>9 skills · traceable handoffs</small></div>
+            </div>
+
+            <div class="hero-map__down" aria-hidden="true">↓</div>
+            <div class="hero-map__rails" aria-label="Редакционные ограничения">
+              <div class="hero-map__rail hero-map__rail--human"><i aria-hidden="true"></i><span>human in the loop</span><small>direction · facts · topics · copy</small></div>
+              <div class="hero-map__rail hero-map__rail--voice"><span>Tone of Voice GCONF</span><small>оба Writer + voice audit</small></div>
+            </div>
+            <div class="hero-map__down" aria-hidden="true">↓</div>
+
+            <div class="hero-map__outputs" aria-label="Результаты системы">
+              <div><small>result 01</small><strong>анонс</strong><span>Telegram + Instagram</span></div>
+              <div><small>result 02</small><strong>2 новости</strong><span>Telegram posts</span></div>
+            </div>
+            <div class="terminal-ok">✓ живой сигнал → проверяемый контент</div>
+          </div>
+        </div>
+
+        <div class="metric-strip reveal" aria-label="Масштаб исследовательской базы">
+          <div><strong>20</strong><span>источников</span></div>
+          <div><strong>7 942</strong><span>документа</span></div>
+          <div><strong>2 405</strong><span>transcript chunks</span></div>
+          <div><strong>68</strong><span>semantic cards</span></div>
+        </div>
+        <details class="claim-note reveal">
+          <summary>статус метрик / snapshot</summary>
+          <p><span class="badge badge--fact">fact</span> Проверил локальный индекс 17 июля 2026: 38 карточек approved и 30 candidate. Числа — снимок системы, а не постоянная величина; после нового ingestion они изменятся.</p>
+        </details>
+      </section>
+
+      <section class="section section--announcement snap-section" id="announcement" data-section="announcement">
+        <div class="section-heading reveal">
+          <span class="section-number">01 / результат</span>
+          <h2>два поста для Instagram и Telegram</h2>
+          <p>Собрал одну редакционную стратегию под механику двух площадок.</p>
+        </div>
+        <div class="artifact-status reveal">
+          <span><b>WORK SAMPLE</b> неопубликованный запуск</span>
+          <span><i class="badge badge--proposal">editorial proposal</i> старт 27.10.2026</span>
+        </div>
+
+        <div class="announcement-grid reveal">
+          <article class="telegram-post">
+            <div class="post-header"><div class="post-avatar">G</div><div><b>GCONF · Telegram announcement</b><span>draft</span></div><span class="post-menu">•••</span></div>
+            <div class="post-body">
+              <p><strong>27 октября 2026 · Vibe Coding · AI Ops · 3 недели</strong></p>
+              <p>собрать первого агента, бота или внутренний инструмент стало заметно проще. сложнее другое: сделать так, чтобы он не остался красивым демо и продолжил жить после первого запуска.</p>
+              <p>контекст расползается между чатами и файлами. автоматизация ломается при первом изменении процесса. память приходится переносить руками. а чем больше доступов получает агент, тем важнее понимать, что именно он делает и где решение должно остаться за человеком.</p>
+              <p>поэтому следующий Vibe Coding · AI Ops — про переход от первого workflow к живой AI-операционке: системе, которая знает ваш контекст, выполняет повторяемую часть работы, оставляет понятный след для проверки и улучшается вместе с вами.</p>
+              <div class="post-more">
+                  <p>за 3 недели вы:</p>
+                  <ul>
+                    <li>выберете один реальный процесс и разложите его от входа до результата;</li>
+                    <li>соберёте контекст, память, правила и границы доступа;</li>
+                    <li>свяжете агента с нужными файлами и каналами работы;</li>
+                    <li>настроите проверки: что можно выполнить автоматически, а где нужен ваш ответ;</li>
+                    <li>доведёте первую версию до рабочего ритма.</li>
+                  </ul>
+                  <p>это не поток про ещё один список инструментов. модели и интерфейсы будут меняться. важнее схватить паттерн: задача → контекст → действие → проверка → улучшение.</p>
+                  <p>внутри сохраняем работающую основу GCONF: живая практика, разборы ваших задач, чат и Q&amp;A. записи и материалы остаются навсегда.</p>
+                  <p>AI-операционка не означает полной автономности. доступы, качество результата и критичные решения остаются зоной человеческой ответственности.</p>
+                  <p>стоимость: $650 / 52 000 ₽<br>длительность: 3 недели<br>старт: 27 октября 2026</p>
+                  <p><strong>«vibe» в комменты — скинем детали</strong></p>
+              </div>
+            </div>
+            <div class="post-foot"><span>strategy: living-ai-ops</span><span>voice: GCONF</span></div>
+          </article>
+
+          <div class="carousel-wrap">
+            <div class="carousel" data-carousel aria-label="Instagram-карусель, 6 слайдов">
+              <div class="carousel__viewport">
+                <div class="carousel__track" data-carousel-track>
+                  <figure><img src="assets/carousel/01-cover.webp" width="1080" height="1350" alt="Обложка карусели: Vibe Coding, AI Ops, собрать AI-операционку вокруг реальной задачи"></figure>
+                  <figure><img src="assets/carousel/02-outcomes.webp" width="1080" height="1350" loading="lazy" alt="Слайд 2: результаты потока — процесс, контекст, память, права и проверки"></figure>
+                  <figure><img src="assets/carousel/03-program.webp" width="1080" height="1350" loading="lazy" alt="Слайд 3: программа из шести блоков"></figure>
+                  <figure><img src="assets/carousel/04-requests.webp" width="1080" height="1350" loading="lazy" alt="Слайд 4: запросы аудитории к AI Ops"></figure>
+                  <figure><img src="assets/carousel/05-results.webp" width="1080" height="1350" loading="lazy" alt="Слайд 5: примеры результатов прошлых потоков"></figure>
+                  <figure><img src="assets/carousel/06-start.webp" width="1080" height="1350" loading="lazy" alt="Слайд 6: дата, длительность, стоимость и CTA"></figure>
+                </div>
+              </div>
+              <div class="carousel__controls">
+                <button type="button" data-carousel-prev aria-label="Предыдущий слайд">←</button>
+                <div class="carousel__dots" data-carousel-dots aria-label="Выбор слайда"></div>
+                <button type="button" data-carousel-next aria-label="Следующий слайд">→</button>
+              </div>
+              <div class="carousel__status" aria-live="polite"><span data-carousel-current>1</span> / 6</div>
+            </div>
+            <p class="carousel-note">← → доступны кнопками и стрелками клавиатуры, когда фокус внутри галереи.</p>
+
+            <article class="instagram-caption">
+              <div class="instagram-caption__head"><span>Instagram</span><b>caption · draft</b></div>
+              <p><strong>[ДАТА — НУЖНО ПОДТВЕРДИТЬ] · Vibe Coding · AI Ops · 3 недели</strong></p>
+              <p>первого агента уже можно собрать за вечер. но между первым удачным запуском и регулярным использованием лежит отдельный навык.</p>
+              <div class="instagram-caption__body">
+                  <p>на новом потоке берём один ваш реальный процесс и собираем вокруг него живую AI-операционку: контекст, память, правила, нужные связи и проверки. чтобы при следующем изменении задачи не начинать всё с пустого окна.</p>
+                  <p>это не обещание полной автономности. вы остаетесь владельцем системы: определяете доступы, проверяете критичные шаги и решаете, что улучшать дальше.</p>
+                  <p>3 недели живой практики · чат и Q&amp;A · записи и материалы навсегда<br>стоимость: $650 / 52 000 ₽</p>
+                  <p>«vibe» в комменты — скинем детали</p>
+              </div>
+            </article>
+          </div>
+        </div>
+
+        <div class="artifact-caveat reveal">
+          <span class="badge badge--proposal">proposal</span>
+          <p>В work sample использовал дату, цену, программу и CTA как редакционное предложение. Перед реальным запуском команда GCONF должна подтвердить allowlist коммерческих фактов. Прямые кейсы на слайде 5 требуют отдельной проверки разрешений.</p>
+        </div>
+        <div class="hire-strip hire-strip--blue reveal">
+          <p><span>deliverables ready</span> Сохранил в анонсе GCONF-философию и не спрятал человеческую ответственность.</p>
+          <a href="https://telegram.me/anlapin" target="_blank" rel="noopener noreferrer">позвать на собеседование →</a>
+        </div>
+      </section>
+
+      <section class="section snap-section" id="news" data-section="announcement">
+        <div class="section-heading reveal">
+          <span class="section-number">02 / результат</span>
+          <h2>две новости для Telegram</h2>
+          <p>Сначала показываю готовый текст. Затем — источники и границы вывода.</p>
+        </div>
+        <div class="news-cases news-cases--result-first reveal">
+          <article class="news-case">
+            <div class="news-case__head"><span>01</span><div><small>Telegram · draft</small><h3>Validation становится узким местом</h3></div></div>
+            <div class="news-post">
+              <p><strong>у AI-агентов появляется странная проблема: они научились производить гипотезы быстрее, чем люди успевают их проверять.</strong></p>
+              <p>особенно хорошо это видно в науке. в июльском материале Google DeepMind называет валидацию новым узким местом: агент может быстро изучить литературу, предложить идеи и найти кандидатов, но проверить, выдержат ли они встречу с реальностью, всё ещё долго и дорого.</p>
+              <p>30 июня Anthropic показала один из вариантов ответа — Claude Science. это beta-среда для исследователей, где вместе с результатом сохраняются код, история его создания и данные для воспроизведения. отдельный reviewer-agent проверяет цитаты, вычисления и соответствие фигур исходному коду.</p>
+              <p><strong>важный сдвиг здесь не в том, что AI «стал учёным». меняется сама единица хорошей работы.</strong></p>
+              <p>раньше можно было оценить агента по тому, как быстро он собрал убедительный отчёт. теперь этого мало. хороший результат должен оставлять после себя понятный след: откуда взялся факт, как повторить расчёт, кто проверил вывод и где решение осталось за человеком.</p>
+              <p>и это касается не только науки. тот же вопрос возникает, когда мы отдаём агенту исследование рынка, аналитику или подготовку решения: скорость растёт, но одна незаметная ошибка внутри длинного документа может обнулить весь выигрыш.</p>
+              <p>при этом второй AI-агент не является гарантией истины. оба источника принадлежат компаниям, которые сами создают эти системы, а физические эксперименты, независимая проверка и экспертное суждение никуда не исчезают.</p>
+              <p>похоже, следующий мета-навык — не просто ставить агенту более длинные задачи, а заранее проектировать способ проверки.</p>
+              <p>попробуйте сегодня взять один свой agent workflow и ответить на четыре вопроса:</p>
+              <ul>
+                <li>где сохраняется источник;</li>
+                <li>можно ли воспроизвести результат;</li>
+                <li>кто выступает reviewer;</li>
+                <li>какое решение вы точно оставляете за собой?</li>
+              </ul>
+              <p class="news-post__sources">источники: <a href="https://deepmind.google/public-policy/conjecture-machines-ai-agents-and-the-new-validation-bottleneck-in-science/" target="_blank" rel="noopener noreferrer">Google DeepMind</a> · <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank" rel="noopener noreferrer">Anthropic</a></p>
+            </div>
+            <div class="source-cards">
+              <p class="source-cards__title">источники</p>
+              <a href="https://deepmind.google/public-policy/conjecture-machines-ai-agents-and-the-new-validation-bottleneck-in-science/" target="_blank" rel="noopener noreferrer"><b>Google DeepMind</b><small>July 2026 · publisher claim</small></a>
+              <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank" rel="noopener noreferrer"><b>Anthropic</b><small>30.06.2026 · beta</small></a>
+            </div>
+            <dl class="news-ledger"><dt>fact</dt><dd>Агенты ускоряют производство гипотез; Claude Science сохраняет код, историю и данные для воспроизведения.</dd><dt>inference</dt><dd>Единица хорошей agent work смещается от убедительного ответа к проверяемому следу.</dd><dt>limitation</dt><dd>Оба источника принадлежат разработчикам; второй агент не гарантирует истину.</dd><dt>action</dt><dd>Проверить source, reproducibility, reviewer и human decision в одном workflow.</dd></dl>
+          </article>
+
+          <article class="news-case news-case--lime">
+            <div class="news-case__head"><span>02</span><div><small>Telegram · draft</small><h3>Kimi K3: модель под процесс</h3></div></div>
+            <div class="news-post">
+              <p><strong>искать одну «лучшую модель» становится всё менее полезно. моделей уже достаточно много, чтобы выбирать не победителя вообще, а подходящий двигатель под конкретный процесс.</strong></p>
+              <p>17 июля Kimi выпустила K3 — новую модель для длинных coding и knowledge-work задач. по данным разработчика, у неё native vision, контекст до 1 млн токенов и 2,8 трлн параметров.</p>
+              <p>K3 уже можно попробовать на Kimi.com, в Kimi Work, Kimi Code и через API. то есть это не research preview, который пока существует только в таблице.</p>
+              <p><strong>но с главным словом релиза — «open» — есть важная оговорка.</strong> полные веса обещаны только к 27 июля, а технический отчёт ещё не опубликован. сегодня перед нами доступный hosted-продукт и обещание будущего открытого релиза, а не готовая модель для самостоятельного развёртывания.</p>
+              <p>с benchmark тоже аккуратно: сравнения опубликованы самой Kimi, а разные модели в таблицах запускались через разные agent harness — Kimi Code, Claude Code или Codex. это влияет на результат.</p>
+              <p>интереснее другое: Kimi сама описала места, где K3 может ломать workflow. качество способно стать нестабильным, если система не передаёт полную историю рассуждений или если переключить модель посреди сессии. ещё один риск — избыточная проактивность: в неоднозначной ситуации агент может принять неожиданное решение за пользователя.</p>
+              <p>поэтому новый выбор выглядит не как «переехать на K3», а как добавить ещё один вариант в routing: задача, качество, стоимость, совместимость и нужные границы.</p>
+              <p>если будете тестировать K3, возьмите одну длинную рабочую задачу и сравните с текущей моделью пять вещей:</p>
+              <ul>
+                <li>качество результата;</li>
+                <li>число повторов;</li>
+                <li>время;</li>
+                <li>цену;</li>
+                <li>объём ручной проверки.</li>
+              </ul>
+              <p class="news-post__sources">источник: <a href="https://www.kimi.com/blog/kimi-k3" target="_blank" rel="noopener noreferrer">Kimi K3</a></p>
+            </div>
+            <div class="source-cards source-cards--one">
+              <p class="source-cards__title">источники</p>
+              <a href="https://www.kimi.com/blog/kimi-k3" target="_blank" rel="noopener noreferrer"><b>Kimi / Moonshot AI</b><small>17.07.2026 · publisher claim</small></a>
+            </div>
+            <dl class="news-ledger"><dt>fact</dt><dd>На snapshot 18.07 K3 была доступна hosted; веса обещаны позже, технический отчёт ещё не опубликован.</dd><dt>inference</dt><dd>Вместо «лучшей модели» нужен routing по задаче, цене, совместимости и границам.</dd><dt>limitation</dt><dd>Benchmarks — publisher-only; harness различается; статус весов мог измениться после snapshot.</dd><dt>action</dt><dd>Сравнить одну длинную задачу по качеству, повторам, времени, цене и ручной проверке.</dd></dl>
+          </article>
+        </div>
+        <details class="source-disclosure reveal">
+          <summary>статус, свежесть и ограничения</summary>
+          <div class="source-disclosure__body">
+            <p><span class="badge badge--fact">fact</span> Повторно проверил тексты по первичным страницам перед writer-run 18 июля 2026.</p>
+            <p><span class="badge badge--limit">limitation</span> Это time-bound snapshot. Числа, доступность и статус обещанных релизов нужно проверять заново перед публикацией.</p>
+            <p><span class="badge badge--inference">inference</span> Поведенческие выводы принадлежат редакционному синтезу, а не самим компаниям.</p>
+          </div>
+        </details>
+      </section>
+
+      <section class="section snap-section" id="logic" data-section="logic">
+        <div class="section-heading reveal">
+          <span class="section-number">03 / выбор направления</span>
+          <h2>почему выбрал AI Ops</h2>
+          <p>Каждый шаг можно открыть и проверить: от публичных слов аудитории до отдельного человеческого решения.</p>
+        </div>
+        <div class="strategy-path reveal">
+          <button type="button" class="strategy-card" data-dialog="strategy-history"><span>01</span><b>история GCONF</b><p>GPT → мета-навыки → vibe coding → первый workflow.</p><small>открыть evidence →</small></button>
+          <i>+</i>
+          <button type="button" class="strategy-card" data-dialog="strategy-product"><span>02</span><b>текущий продукт</b><p>Первый агент, память, правила и рабочий артефакт уже в baseline.</p><small>открыть baseline →</small></button>
+          <i>+</i>
+          <button type="button" class="strategy-card" data-dialog="strategy-audience"><span>03</span><b>язык аудитории</b><p>Доступы, контроль и разрыв между demo и самостоятельным действием.</p><small>открыть quotes →</small></button>
+          <i>+</i>
+          <button type="button" class="strategy-card" data-dialog="strategy-signals"><span>04</span><b>внешние сигналы</b><p>Long-horizon work, agent-readable memory и human planning.</p><small>открыть sources →</small></button>
+          <i>→</i>
+          <button type="button" class="strategy-card strategy-path__selected" data-dialog="strategy-choice"><span>05</span><b>финальный выбор</b><p>Living AI Ops: от первого workflow к поддерживаемой системе.</p><small>открыть decision →</small></button>
+        </div>
+        <p class="strategy-caveat reveal"><span class="badge badge--proposal">proposal</span> Выбрал AI Ops как редакционную рамку work sample, а не как подтверждённую программу следующего потока.</p>
+      </section>
+
+      <section class="section section--dark snap-section" data-section="logic">
+        <div class="section-heading section-heading--light reveal">
+          <span class="section-number">04 / выбор новостей</span>
+          <h2>как выбрал две новости</h2>
+          <p>Сначала пропустил темы через доказательные gates. Score собрал shortlist; финальный выбор сделал отдельно, после проверки.</p>
+        </div>
+        <div class="radar-flow reveal" aria-label="Процесс News Radar">
+          <span>source sweep</span><i>→</i><span>merge</span><i>→</i><span>dedup</span><i>→</i><span>score</span><i>→</i><span>shortlist</span><i>→</i><b>human select</b><i>→</i><span>live re-check</span><i>→</i><span>writer</span>
+        </div>
+
+        <div class="scoring-explainer reveal">
+          <article class="eligibility-gates">
+            <div class="scoring-title"><span>00</span><h3>сначала — eligibility</h3></div>
+            <p>Тема не проходит дальше без прямого источника, official primary для релиза, двух publishers для широкого тренда и нового evidence-backed delta относительно прошлых постов GCONF.</p>
+            <div class="gate-list"><span>direct source</span><span>source hierarchy</span><span>not a rumor</span><span>semantic delta</span><span>no invented claims</span></div>
+          </article>
+
+          <article class="score-formula">
+            <div class="scoring-title"><span>01</span><h3>из чего складывается score</h3></div>
+            <div class="score-components" aria-label="Компоненты priority score">
+              <div><b>20</b><span>рынок и аудитория</span></div>
+              <div><b>20</b><span>связь с GCONF</span></div>
+              <div><b>20</b><span>новизна покрытия</span></div>
+              <div><b>20</b><span>качество evidence</span></div>
+              <div><b>10</b><span>свежесть</span></div>
+              <div><b>10</b><span>потенциал действия</span></div>
+              <div class="score-components__penalty"><b>−20</b><span>risk penalty</span></div>
+            </div>
+            <code>priority = market + GCONF + novelty + evidence + freshness + action − risk</code>
+          </article>
+
+          <div class="score-thresholds" aria-label="Пороговые статусы">
+            <span><b>80–100</b> recommended</span>
+            <span><b>65–79</b> reserve</span>
+            <span><b>&lt;65</b> reject</span>
+            <span><b>ineligible</b> reject независимо от суммы</span>
+          </div>
+        </div>
+
+        <div class="radar-table-wrap reveal">
+          <table class="radar-table">
+            <caption>News Radar snapshot · 18.07.2026</caption>
+            <thead><tr><th scope="col">topic / открыть breakdown</th><th scope="col">score</th><th scope="col">coverage delta</th><th scope="col">decision</th></tr></thead>
+            <tbody>
+              <tr class="is-selected"><td><button type="button" class="radar-topic" data-dialog="radar-science">Validation bottleneck in science <span>↗</span></button></td><td>95</td><td>provenance + reviewer layer</td><td><span class="badge badge--fact">human selected</span></td></tr>
+              <tr><td><button type="button" class="radar-topic" data-dialog="radar-benchmark">Benchmark audit <span>↗</span></button></td><td>89</td><td>eval methodology</td><td>shortlist</td></tr>
+              <tr class="is-selected"><td><button type="button" class="radar-topic" data-dialog="radar-kimi">Kimi K3 <span>↗</span></button></td><td>86</td><td>routing + open caveat</td><td><span class="badge badge--fact">human selected</span></td></tr>
+              <tr><td><button type="button" class="radar-topic" data-dialog="radar-muse-image">Muse Image <span>↗</span></button></td><td>85</td><td>tool-using visual agent</td><td>shortlist</td></tr>
+              <tr><td><button type="button" class="radar-topic" data-dialog="radar-muse-spark">Muse Spark <span>↗</span></button></td><td>84</td><td>model-native orchestration</td><td>shortlist</td></tr>
+              <tr><td><button type="button" class="radar-topic" data-dialog="radar-copilot">Copilot control plane <span>↗</span></button></td><td>77</td><td>cost observability</td><td>reserve</td></tr>
+              <tr class="is-rejected"><td><button type="button" class="radar-topic" data-dialog="radar-chatgpt-work">ChatGPT Work <span>↗</span></button></td><td>79</td><td>already covered</td><td>reject: duplicate</td></tr>
+              <tr class="is-rejected"><td><button type="button" class="radar-topic" data-dialog="radar-reflection">Claude Reflection <span>↗</span></button></td><td>63</td><td>same editorial angle</td><td>reject: duplicate</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="radar-decisions reveal">
+          <p><b>Score ≠ выбор.</b> Benchmark audit получил 89, но для второго поста выбрал Kimi с 86.</p>
+          <p><b>Eligibility важнее суммы.</b> ChatGPT Work набрал 79, но отклонил его как semantic duplicate.</p>
+          <p><b>Квоты нет.</b> Не повышал оценки ради заполнения shortlist; Writer заново проверяет primary source перед текстом.</p>
+        </div>
+        <p class="radar-footnote reveal"><span>selected_topic_ids: []</span> внутри immutable radar-run. Science validation и Kimi выбрал отдельным human gate.</p>
+      </section>
+
+      <section class="section section--dark snap-section architecture-section" id="system" data-section="system">
+        <div class="section-heading section-heading--light reveal">
+          <span class="section-number">05 / система</span>
+          <h2>как собрал систему</h2>
+          <p><strong>AGENT</strong> отмечает шаг, который AI-агент выполняет по repository skill. Skill задаёт контракт и границы; агент делает работу. Нажмите на узел, чтобы открыть его input, output и human gate.</p>
+        </div>
+
+        <div class="system-flow reveal" data-system-map aria-label="Архитектура AI-first редакционной системы GCONF">
+          <section class="flow-lane flow-lane--sources">
+            <span class="flow-lane__label">01 · источники</span>
+            <button type="button" class="flow-node" data-flow-node data-flow-route="core" data-dialog="source-telegram"><b>Telegram</b><small>посты · язык · история</small></button>
+            <button type="button" class="flow-node" data-flow-node data-flow-route="core" data-dialog="source-instagram"><b>Instagram</b><small>22 поста · comments</small></button>
+            <button type="button" class="flow-node flow-node--accent" data-flow-node data-flow-route="core" data-dialog="source-youtube"><b>YouTube</b><small>5 каналов · 10 packages</small></button>
+            <button type="button" class="flow-node" data-flow-node data-flow-route="core" data-dialog="source-history"><b>gconf.io + история</b><small>offer · trajectory</small></button>
+            <button type="button" class="flow-node" data-flow-node data-flow-route="core" data-dialog="source-labs"><b>Official AI labs</b><small>release pages · claims</small></button>
+          </section>
+
+          <div class="flow-connector" data-flow-path="core" aria-hidden="true"><span>→</span></div>
+
+          <section class="flow-lane flow-lane--collection">
+            <span class="flow-lane__label">02 · сбор</span>
+            <button type="button" class="flow-node flow-node--dark flow-node--agent" data-flow-node data-flow-route="core" data-dialog="collection-youtube"><em class="flow-node__kind">agent · skill</em><b>YouTube Research</b><small>yt-dlp · Whisper helpers</small></button>
+            <button type="button" class="flow-node" data-flow-node data-flow-route="core" data-dialog="collection-local"><b>Local packages</b><small>TG · IG · web · files</small></button>
+            <button type="button" class="flow-node flow-node--proposal" data-flow-node data-flow-route="schedule" data-dialog="collection-schedule"><b>Schedule</b><small>можно подключить · not deployed</small></button>
+          </section>
+
+          <div class="flow-connector" data-flow-path="core" aria-hidden="true"><span>→</span></div>
+
+          <section class="flow-lane flow-lane--knowledge">
+            <span class="flow-lane__label">03 · agent knowledge flow</span>
+            <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="core" data-dialog="agent-ingest"><em class="flow-node__kind">agent · skill</em><b>Ingest</b><small>deterministic import</small></button>
+            <span class="flow-step" data-flow-path="core" aria-hidden="true">↓</span>
+            <button type="button" class="flow-database" data-flow-node data-flow-route="core" data-dialog="database"><span>SQLite / FTS</span><small>derived machine index</small></button>
+            <span class="flow-step" data-flow-path="core" aria-hidden="true">↓</span>
+            <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="core" data-dialog="agent-extract"><em class="flow-node__kind">agent · skill</em><b>Insight Extract</b><small>semantic candidates</small></button>
+            <span class="flow-step" data-flow-path="core" aria-hidden="true">↓</span>
+            <button type="button" class="flow-node flow-node--soft" data-flow-node data-flow-route="core" data-dialog="obsidian"><b>Obsidian</b><small>candidate cards</small></button>
+            <div class="human-gate-diamond"><span aria-hidden="true"></span><small>semantic approval</small></div>
+            <button type="button" class="flow-node flow-node--reviewed" data-flow-node data-flow-route="core" data-dialog="reviewed-knowledge"><b>Reviewed knowledge</b><small>approved semantic layer</small></button>
+          </section>
+
+          <div class="flow-connector flow-connector--split" data-flow-path="core" aria-hidden="true"><span>↗</span><span>↘</span></div>
+
+          <section class="flow-lane flow-lane--branches">
+            <span class="flow-lane__label">04 · agent production flow</span>
+            <article class="production-branch production-branch--announcement" data-flow-branch="announcement">
+              <header><span>АНОНС</span><small>strategy → two formats</small></header>
+              <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="announcement" data-dialog="agent-analysis"><em class="flow-node__kind">agent · skill</em><b>Analysis</b><small>2–3 направления</small></button>
+              <div class="human-gate-diamond"><span aria-hidden="true"></span><small>выбор направления</small></div>
+              <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="announcement" data-dialog="agent-announcement-writer"><em class="flow-node__kind">agent · skill</em><b>Writer</b><small>Telegram · slides · caption</small></button>
+              <div class="human-gate-diamond"><span aria-hidden="true"></span><small>факты · copy · permissions</small></div>
+              <div class="branch-output">
+                <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="announcement" data-dialog="agent-carousel"><em class="flow-node__kind">agent · skill</em><b>Carousel</b><small>6 × 4:5</small></button>
+                <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="announcement" data-dialog="agent-formatter"><em class="flow-node__kind">agent · skill</em><b>Formatter</b><small>clean Markdown</small></button>
+              </div>
+              <button type="button" class="manual-output" data-dialog="publication-upgrade"><span>сейчас · manual publication</span><small>upgrade · approval → MCP / schedule ↗</small></button>
+            </article>
+
+            <article class="production-branch production-branch--news" data-flow-branch="news">
+              <header><span>НОВОСТИ</span><small>radar → selected post</small></header>
+              <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="news" data-dialog="agent-radar"><em class="flow-node__kind">agent · skill</em><b>Radar</b><small>dedup · scoring · shortlist</small></button>
+              <div class="human-gate-diamond"><span aria-hidden="true"></span><small>выбор topic ID</small></div>
+              <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="news" data-dialog="agent-news-writer"><em class="flow-node__kind">agent · skill</em><b>Writer</b><small>live source re-check</small></button>
+              <div class="human-gate-diamond"><span aria-hidden="true"></span><small>freshness · limitations · copy</small></div>
+              <button type="button" class="flow-node flow-node--agent" data-flow-node data-flow-route="news" data-dialog="agent-formatter"><em class="flow-node__kind">agent · skill</em><b>Formatter</b><small>selected clean draft</small></button>
+              <button type="button" class="manual-output" data-dialog="publication-upgrade"><span>сейчас · manual publication</span><small>upgrade · approval → MCP / schedule ↗</small></button>
+            </article>
+
+            <button type="button" class="tone-rail" data-flow-node data-flow-route="policy" data-dialog="tone-of-voice"><span>Tone of Voice GCONF</span><small>canonical policy → оба Writer и voice audit</small></button>
+          </section>
+        </div>
+
+        <p class="architecture-legend reveal"><span class="legend-agent">AGENT · SKILL</span> агент выполняет шаг по контракту skill <span class="legend-human"></span> ромб — решение принимает человек <i></i> schedule — возможный upgrade, сейчас не deployed</p>
+        <a class="repo-callout reveal" href="https://github.com/lunatik-210/gconf" target="_blank" rel="noopener noreferrer"><span>review the implementation</span><b>github.com/lunatik-210/gconf →</b><p>В репозитории оставил skills, contracts, knowledge architecture и проверяемые артефакты за пределами презентации.</p></a>
+      </section>
+
+      <dialog class="evidence-dialog" data-evidence-dialog aria-labelledby="evidence-dialog-title" aria-describedby="evidence-dialog-summary">
+        <div class="evidence-dialog__surface">
+          <div class="evidence-dialog__bar">
+            <span data-dialog-kicker>evidence</span>
+            <button type="button" data-dialog-close aria-label="Закрыть окно">×</button>
+          </div>
+          <div class="evidence-dialog__content">
+            <h2 id="evidence-dialog-title" data-dialog-title></h2>
+            <p id="evidence-dialog-summary" class="evidence-dialog__summary" data-dialog-summary></p>
+            <div data-dialog-body></div>
+          </div>
+        </div>
+      </dialog>
+
+      <section class="contact snap-section" id="contact" data-section="contact">
+        <div class="contact__terminal reveal"><span>$</span> hire andrei <b>--via=telegram</b><i class="cursor" aria-hidden="true"></i></div>
+        <h2 class="reveal">если вам нужен человек, который превращает хаос AI-сигналов в работающую систему</h2>
+        <p class="reveal">Умею собрать evidence base, спроектировать агентный production loop, удержать голос бренда и довести исследование до действия аудитории — не пряча ограничения и человеческое решение.</p>
+        <div class="contact__actions reveal">
+          <a class="button button--lime button--large" href="https://telegram.me/anlapin" target="_blank" rel="noopener noreferrer">позвать на собеседование →</a>
+          <a class="button button--ghost button--large" href="https://github.com/lunatik-210/gconf" target="_blank" rel="noopener noreferrer">проверить код на GitHub</a>
+        </div>
+        <div class="contact__meta reveal"><span>Andrei Lapin</span><span>AI-first content &amp; growth</span><span>Moscow · 2026</span></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>GCONF work sample / Andrei Lapin</span>
+      <a href="#top">в начало ↑</a>
+      <a href="https://github.com/lunatik-210/gconf" target="_blank" rel="noopener noreferrer">GitHub / source</a>
+      <a href="https://telegram.me/anlapin" target="_blank" rel="noopener noreferrer">позвать на собеседование →</a>
+    </footer>
+  </div>
+</body>
+</html>

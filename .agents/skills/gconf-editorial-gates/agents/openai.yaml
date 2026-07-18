@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCONF Editorial Gates"
+  short_description: "Фиксировать человеческие решения и гейты GCONF"
+  default_prompt: "Используй $gconf-editorial-gates, чтобы записать или проверить человеческое решение перед переходом к следующему этапу GCONF."

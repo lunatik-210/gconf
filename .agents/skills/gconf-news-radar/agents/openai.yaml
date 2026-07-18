@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCONF News Radar"
+  short_description: "Приоритизировать свежие AI-новости GCONF"
+  default_prompt: "Используй $gconf-news-radar, чтобы пройти все свежие source lanes, сопоставить их с актуальными AI-сигналами и подготовить приоритизированный backlog GCONF без написания постов."

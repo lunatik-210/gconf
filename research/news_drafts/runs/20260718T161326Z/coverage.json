@@ -1,0 +1,30 @@
+[
+  {
+    "topic_id": "news-20260706-claude-code-origin-story",
+    "closest_coverage_refs": ["telegram:1633415027:906", "telegram:1633415027:907"],
+    "coverage_delta": "Prior AI LOVERS coverage explained Claude Code setups and model releases, not the product's internal origin, weak early signals, or repeated-use path.",
+    "central_claim_overlap": "partial",
+    "new_editorial_unit": true
+  },
+  {
+    "topic_id": "news-20260714-fable-cyber-governance-sequence",
+    "closest_coverage_refs": ["telegram:1633415027:1030", "telegram:1633415027:904"],
+    "coverage_delta": "Prior coverage reported Fable 5's return but did not assemble launch, suspension, redeploy, the draft jailbreak framework, and GOLD EAGLE into one governance sequence.",
+    "central_claim_overlap": "partial",
+    "new_editorial_unit": true
+  },
+  {
+    "topic_id": "news-20260714-github-ai-security-detections",
+    "closest_coverage_refs": ["telegram:1633415027:904", "telegram:1633415027:1058"],
+    "coverage_delta": "GCONF discussed agent access and agent-first processes, not labeled AI security findings inside pull requests, their prerequisites, billing, or non-blocking role.",
+    "central_claim_overlap": "partial",
+    "new_editorial_unit": true
+  },
+  {
+    "topic_id": "news-20260716-github-models-retirement-brownout",
+    "closest_coverage_refs": ["telegram:1633415027:929", "telegram:1633415027:1029"],
+    "coverage_delta": "GCONF covered model routing and stack choices, not the GitHub Models shutdown, scheduled brownouts, or July 30 migration deadline.",
+    "central_claim_overlap": "partial",
+    "new_editorial_unit": true
+  }
+]

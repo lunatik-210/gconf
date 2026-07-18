@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "protagonists": {
+    "actor-dima-matskevich": [
+      "telegram:chat:1962191274",
+      "instagram:profile:matskevich",
+      "youtube:channel:ucp1jxsjuf08ogmy5ff9b2dg",
+      "youtube:channel:ucznxsd-w5yyldyaqzv8ne7g"
+    ],
+    "actor-matt-wolfe": [
+      "youtube:channel:uchplebmo18p08akcigti38g"
+    ],
+    "actor-wes-roth": [
+      "youtube:channel:ucqcbqf6yw5kzroddcz-wbsw"
+    ]
+  },
+  "gconf_owned_coverage": [
+    "telegram:chat:1633415027",
+    "instagram:profile:gconf-io"
+  ],
+  "gconf_internal_discovery": [
+    "telegram:chat:2573352710",
+    "telegram:chat:2427462969"
+  ]
+}

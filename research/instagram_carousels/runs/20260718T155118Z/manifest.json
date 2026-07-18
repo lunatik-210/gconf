@@ -1,0 +1,87 @@
+{
+  "run_id": "20260718T155118Z",
+  "workflow_mode": "master-frame-generation",
+  "generation_mode": "built-in image_gen",
+  "format": "4:5",
+  "canvas": [1080, 1350],
+  "source_announcement_run": "research/announcement_drafts/runs/20260718T100953Z",
+  "copy_source": {
+    "path": "research/announcement_drafts/runs/20260718T100953Z/instagram-carousel-v7.md",
+    "sha256": "45b090d35997f0b814677ecd217a74afd586d18c31c886086a9daa9e50d9e5e2"
+  },
+  "copy_inventory": {
+    "outcomes": 5,
+    "program_blocks": 6,
+    "audience_requests": 6,
+    "case_cards": 6,
+    "condition_tags": 4
+  },
+  "date": {
+    "value": "2026-10-27",
+    "display": "27 октября 2026",
+    "status": "proposal_user_authorized"
+  },
+  "cta": {
+    "included": true,
+    "value": "«vibe» в комменты — скинем детали",
+    "status": "user_confirmed_public_precedent",
+    "locator": "Instagram/gconf.io.json"
+  },
+  "palette": {
+    "muted_coral": "#D96C50",
+    "soft_peach": "#F0D8CF",
+    "warm_paper": "#F7F4EE",
+    "graphite": "#171513",
+    "utility_grey": "#77716C",
+    "grid": "#E1DCD4"
+  },
+  "master_frame": {
+    "path": "research/instagram_carousels/runs/20260718T155118Z/master/slide-00-master.png",
+    "sha256": "4e59307b78fa12343e86ea6830385099fbda5b958b131182abaec0fe9adb555d",
+    "dimensions": [1080, 1350],
+    "header_geometry_report": "research/instagram_carousels/runs/20260718T155118Z/master-report.json"
+  },
+  "header_tolerance": {
+    "vertical_px": 8,
+    "horizontal_px": 14,
+    "measured_right_anchor_delta_px": [-13, 6, -7, -4, 8, 8]
+  },
+  "header_overlay_applied": false,
+  "normalization": "exact_resize_preserve_all_edges",
+  "references": {
+    "reference_mode": "grayscale_structure_only",
+    "legacy_reference_policy": "forbid_all_readable_legacy_copy",
+    "feed": {
+      "source": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG",
+      "source_sha256": "44ca155b397a5f5c72911bd01ad8f6e60912323764e24bab8321fc3c52862d38",
+      "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/feed.png",
+      "derived_sha256": "f6ff947c3ba8e45badf717553e70337a9679f6d7c4138833a2f28a9510607bef"
+    },
+    "historical_slides": [
+      {"slide": 1, "source": "Instagram/Прошлый Анонс/IMG_5125.jpg", "source_sha256": "706cde26a15780e77589cf5dee06f2ae0f6f38738e7666db55f8fbcff6371a7e", "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-01.png", "derived_sha256": "9036daf1973a6492410bf574391e39de90634a647f215fdd9e0b4b0b90758fb6"},
+      {"slide": 2, "source": "Instagram/Прошлый Анонс/IMG_5126.jpg", "source_sha256": "98b634d044f58d6ed7f97ac098207e4a14d75761cd6df7d2dac835567ba2de65", "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-02.png", "derived_sha256": "53462c7bff3b3dbfc38d63b2a0b8a28191f02b32be30c14bb9ecedd344f5b06c"},
+      {"slide": 3, "source": "Instagram/Прошлый Анонс/IMG_5127.jpg", "source_sha256": "0055cd00444e6d6e396d898f29bed66194fcb07eea9290959c5372c9bcc8fddb", "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-03.png", "derived_sha256": "7304d5595f21a7fc941048370105173a17c8b1b6748af93c3599d810c2eb5a6e"},
+      {"slide": 4, "source": "Instagram/Прошлый Анонс/IMG_5128.jpg", "source_sha256": "c93c3141f1cb58e16ed4c0c8d11157ca61788113237b0a01a141af6a7dd02687", "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-04.png", "derived_sha256": "03c97688baeab7d2831bd12061bcb9709b42bb59997fb83e25f0fc2402c57688"},
+      {"slide": 5, "source": "Instagram/Прошлый Анонс/IMG_5129.jpg", "source_sha256": "a02cd4726be8214ba7c9919dfee1fc4078924bcece24766e8d224a414fef7bdb", "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-05.png", "derived_sha256": "615bbbe746084cb6293752bfd47cb7d452558feb00ec91003d2b6c97deede8b0"},
+      {"slide": 6, "source": "Instagram/Прошлый Анонс/IMG_5130.jpg", "source_sha256": "fa33e5b1b3af7d74a79d70eca8b86732fa9c74120e7bc78e44526b232b357487", "derived": "research/instagram_carousels/runs/20260718T155118Z/structure-references/slide-06.png", "derived_sha256": "9015f06fd136f46e73f86b336235144dca4a618de3ae51d65379df5a718fd10a"}
+    ]
+  },
+  "slides": [
+    {"slide": 1, "prompt_id": "slide-01-cover", "source": "research/instagram_carousels/runs/20260718T155118Z/source/slide-01.png", "source_sha256": "7dce8d631cf163c7f1590a8c4375b700f973989306e8583e49d9aed84a4634f3", "final": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-01.png", "final_sha256": "4c0cde4b17dd104de5a8cd14e26631d7b7e8fddcef965779fb4ff3be190b3078", "dimensions": [1080, 1350], "content_start_y": 264, "content_end_y": 1252, "vertical_fill": 0.915, "blue_pixels": 0, "coral_pixels": 15999, "coral_ratio": 0.01097},
+    {"slide": 2, "prompt_id": "slide-02-outcomes", "source": "research/instagram_carousels/runs/20260718T155118Z/source/slide-02.png", "source_sha256": "1896dc5a141e5d16d4a3fcd312698771d167e808b313de727c221e4359cdb522", "final": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-02.png", "final_sha256": "16969fa76379fa48ce44608c982dd30c71ade3ec953a78e015ac4ed814943465", "dimensions": [1080, 1350], "content_start_y": 228, "content_end_y": 1179, "vertical_fill": 0.834, "blue_pixels": 0, "coral_pixels": 20760, "coral_ratio": 0.01424},
+    {"slide": 3, "prompt_id": "slide-03-program", "source": "research/instagram_carousels/runs/20260718T155118Z/source/slide-03.png", "source_sha256": "9532e01e77e5827f1c748d8498e8e2137a24ba86f806fae3c8c8f88fe000f274", "final": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-03.png", "final_sha256": "4f62ea6df775dc26cdf8a3ff1bf7b1be8bab1bbff87c15917035d2d7dc8482c0", "dimensions": [1080, 1350], "content_start_y": 179, "content_end_y": 1267, "vertical_fill": 0.954, "blue_pixels": 0, "coral_pixels": 18089, "coral_ratio": 0.01241},
+    {"slide": 4, "prompt_id": "slide-04-requests", "source": "research/instagram_carousels/runs/20260718T155118Z/source/slide-04.png", "source_sha256": "de0a8e90a97529fcd3c9d847579fdaa22f92c463deb44420e7a1226ca4ed31c8", "final": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-04.png", "final_sha256": "37e0c736bf7568046f3090acaee04e77032bf1fdd8aa5c3829255c6769118f6e", "dimensions": [1080, 1350], "content_start_y": 200, "content_end_y": 1276, "vertical_fill": 0.944, "blue_pixels": 0, "coral_pixels": 22762, "coral_ratio": 0.01561},
+    {"slide": 5, "prompt_id": "slide-05-cases", "source": "research/instagram_carousels/runs/20260718T155118Z/source/slide-05.png", "source_sha256": "4f0fbe7b3bdc2809e2f2430b0cd5fc2e5ff01af772dd9c7f6b62d23786115fa8", "final": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-05.png", "final_sha256": "fa867faa9f84af9bc69cebcfb5b5c86dbd523ed553a258b92525a409b271e6ef", "dimensions": [1080, 1350], "content_start_y": 156, "content_end_y": 1174, "vertical_fill": 0.893, "blue_pixels": 0, "coral_pixels": 5504, "coral_ratio": 0.00378},
+    {"slide": 6, "prompt_id": "slide-06-conditions", "source": "research/instagram_carousels/runs/20260718T155118Z/source/slide-06.png", "source_sha256": "229719268b54d03382e13499c1bdfb4b17058700d358d2b4e29ecc4a7c58e868", "final": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-06.png", "final_sha256": "beec0756219d74034b515c6127d8065bf1f1c8df9dd8f1f26fca2c48585db980", "dimensions": [1080, 1350], "content_start_y": 254, "content_end_y": 1240, "vertical_fill": 0.905, "blue_pixels": 0, "coral_pixels": 47902, "coral_ratio": 0.03285}
+  ],
+  "reports": {
+    "structure_provenance": "research/instagram_carousels/runs/20260718T155118Z/structure-provenance.json",
+    "header_geometry": "research/instagram_carousels/runs/20260718T155118Z/header-geometry-report.json",
+    "visual_style": "research/instagram_carousels/runs/20260718T155118Z/visual-style-report.json"
+  },
+  "publication_ready": false,
+  "publication_blockers": [
+    "date is a user-authorized editorial proposal, not a verified cohort fact",
+    "public-use permissions for sensitive participant cases still require review"
+  ]
+}

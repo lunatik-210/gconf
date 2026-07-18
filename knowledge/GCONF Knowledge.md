@@ -8,5 +8,6 @@
 - [[views/Cases Review.base|Cases Review]]
 - [[processing/next-gconf|Insight Processing]]
 - [[processing/lab-signals|Official Lab Signals]]
+- [[editorial/Editorial Control Plane|Editorial Control Plane]]
 
 Сырые Telegram, Instagram, YouTube и Web Articles остаются вне vault и не изменяются importer-ом.

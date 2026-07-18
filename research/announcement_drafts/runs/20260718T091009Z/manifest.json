@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20260718T091009Z",
+  "generated_at": "2026-07-18T09:10:09Z",
+  "review_status": "draft",
+  "publication_ready": false,
+  "analysis_run": "research/announcement_analysis/runs/20260717T200356Z",
+  "direction_id": "direction-living-ai-ops",
+  "prior_announcements": {
+    "telegram_locator": "telegram:1633415027:1040",
+    "instagram_locator": "instagram:gconf.io:DafUhD0F5Yh",
+    "screenshots": [
+      "Instagram/Прошлый Анонс/IMG_5125.jpg",
+      "Instagram/Прошлый Анонс/IMG_5126.jpg",
+      "Instagram/Прошлый Анонс/IMG_5127.jpg",
+      "Instagram/Прошлый Анонс/IMG_5128.jpg",
+      "Instagram/Прошлый Анонс/IMG_5129.jpg",
+      "Instagram/Прошлый Анонс/IMG_5130.jpg"
+    ]
+  },
+  "product_name": "Vibe Coding · AI Ops",
+  "voice_mode": "GCONF",
+  "address": "vy",
+  "channels": ["telegram", "instagram"],
+  "confirmed_facts": {
+    "duration_weeks": 3,
+    "price_usd": 650,
+    "price_rub": 52000,
+    "live_practice": true,
+    "chat_and_qa": true,
+    "recordings_and_materials_forever": true,
+    "program_visible_blocks": 6
+  },
+  "placeholders": [
+    "[ДАТА — НУЖНО ПОДТВЕРДИТЬ]",
+    "[CTA — НУЖНО ПОДТВЕРДИТЬ]"
+  ],
+  "evidence_refs": {
+    "telegram": [
+      "selected-direction-ai-ops",
+      "confirmed-commercial-format",
+      "case-telegram-coach-memory-public"
+    ],
+    "instagram": [
+      "selected-direction-ai-ops",
+      "confirmed-commercial-format",
+      "prior-instagram-structure",
+      "case-telegram-coach-memory-public",
+      "case-procurement-html-public",
+      "case-first-site-public",
+      "case-job-collector-public",
+      "case-home-doctor-public",
+      "case-chat-history-public",
+      "audience-request-principles",
+      "audience-request-working-agents",
+      "audience-request-hotel",
+      "audience-request-investment-workflow",
+      "audience-request-life-partner",
+      "audience-request-stop-drowning"
+    ]
+  },
+  "outputs": [
+    "brief.md",
+    "telegram.md",
+    "instagram-carousel.md",
+    "instagram-caption.md",
+    "evidence-ledger.json",
+    "audit.md",
+    "manifest.json"
+  ],
+  "unresolved": [
+    "future start date",
+    "cohort number",
+    "CTA destination or code word",
+    "new speakers",
+    "capacity",
+    "publication permission for reserve candidate cases"
+  ]
+}

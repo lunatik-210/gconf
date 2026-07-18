@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20260718T093504Z",
+  "generated_at": "2026-07-18T09:35:04Z",
+  "source_announcement_run": "research/announcement_drafts/runs/20260718T091009Z",
+  "generation_mode": "built-in image_gen",
+  "feed_reference": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG",
+  "old_slide_references": [
+    "Instagram/Прошлый Анонс/IMG_5125.jpg",
+    "Instagram/Прошлый Анонс/IMG_5126.jpg",
+    "Instagram/Прошлый Анонс/IMG_5127.jpg",
+    "Instagram/Прошлый Анонс/IMG_5128.jpg",
+    "Instagram/Прошлый Анонс/IMG_5129.jpg",
+    "Instagram/Прошлый Анонс/IMG_5130.jpg"
+  ],
+  "palette": {
+    "primary": "#FF5A2A",
+    "secondary": "#FFD7C7",
+    "paper": "#F5F2EB",
+    "graphite": "#111111",
+    "utility_grey": "#77736C",
+    "grid": "#DDD8CF"
+  },
+  "normalization": "fit without crop, corner-color canvas, 1080x1350 RGB PNG",
+  "placeholder_handling": {
+    "date": "СТАРТ — СКОРО",
+    "cta": "ДЕТАЛИ И ЗАПИСЬ — СКОРО"
+  },
+  "slides": [
+    {"index": 1, "prompt_id": "slide-01-cover", "source": "source/slide-01.png", "final": "generated/slide-01.png", "width": 1080, "height": 1350, "sha256": "7e96bdc38cd6b420f034ddfebd32a97526365bd13c1f2b345345bd9df522709e"},
+    {"index": 2, "prompt_id": "slide-02-outcomes", "source": "source/slide-02.png", "final": "generated/slide-02.png", "width": 1080, "height": 1350, "sha256": "d5b1617e4f7973cd5326d6c49be547e85e2f61973d23d9b7244da355d018d64e"},
+    {"index": 3, "prompt_id": "slide-03-program", "source": "source/slide-03.png", "final": "generated/slide-03.png", "width": 1080, "height": 1350, "sha256": "61ce54059bcfcb7bd711e7257ef09ddf758615c0349f3d8284a41da298aa9cd2"},
+    {"index": 4, "prompt_id": "slide-04-requests", "source": "source/slide-04.png", "final": "generated/slide-04.png", "width": 1080, "height": 1350, "sha256": "118ccef76fc53f539327894169fc20d77b670d47364f3611a7a3536c2fb78197"},
+    {"index": 5, "prompt_id": "slide-05-cases", "source": "source/slide-05.png", "final": "generated/slide-05.png", "width": 1080, "height": 1350, "sha256": "f37dc4e528d4bc1610b3f4e2705fcedbd9c6d0335637e2e2e31e4fb2c94b13b3"},
+    {"index": 6, "prompt_id": "slide-06-cta", "source": "source/slide-06.png", "final": "generated/slide-06.png", "width": 1080, "height": 1350, "sha256": "594b1b969165258a1695c75e0cf7dd167a55edc7cce1da2afd3d08bb45905deb"}
+  ],
+  "qa_status": "passed_for_human_review",
+  "publication_ready": false,
+  "publication_blockers": [
+    "start date is not confirmed",
+    "CTA destination is not confirmed",
+    "visual excerpts are shorter than the long-form announcement copy",
+    "sensitive community case selection needs final editorial approval"
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "topic_id": "news-20260713-gconf-telegram-control-plane",
+    "closest_coverage_refs": [
+      "telegram:1633415027:1006",
+      "telegram:1633415027:1029",
+      "telegram:1633415027:1058"
+    ],
+    "coverage_delta": "The underlying stages were published separately; this draft adds a dated interface-evolution sequence and an explicit six-stage decision-rights model, but still needs a fresh workflow artifact before publication.",
+    "central_claim_overlap": "high",
+    "new_editorial_unit": true
+  },
+  {
+    "topic_id": "news-20260708-gconf-format-time-horizon",
+    "closest_coverage_refs": [
+      "telegram:1633415027:1001",
+      "telegram:1633415027:1028",
+      "telegram:1633415027:1046"
+    ],
+    "coverage_delta": "The cases were already published; this draft turns them into a clearly limited hypothesis about activation versus practice timeboxes and proposes one standardized follow-up measurement.",
+    "central_claim_overlap": "high",
+    "new_editorial_unit": true
+  }
+]

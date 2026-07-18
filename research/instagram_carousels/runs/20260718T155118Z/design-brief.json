@@ -1,0 +1,56 @@
+{
+  "run_id": "20260718T155118Z",
+  "workflow_mode": "master-frame-generation",
+  "source_announcement_run": "research/announcement_drafts/runs/20260718T100953Z",
+  "carousel_file": "instagram-carousel-v7.md",
+  "carousel_sha256": "45b090d35997f0b814677ecd217a74afd586d18c31c886086a9daa9e50d9e5e2",
+  "format": "4:5",
+  "canvas": [1080, 1350],
+  "voice_mode": "GCONF",
+  "address": "вы",
+  "date": {
+    "value": "2026-10-27",
+    "display": "27 октября 2026",
+    "status": "proposal_user_authorized"
+  },
+  "cta": {
+    "included": true,
+    "value": "«vibe» в комменты — скинем детали",
+    "status": "user_confirmed_public_precedent",
+    "locator": "Instagram/gconf.io.json"
+  },
+  "palette": {
+    "muted_coral": "#D96C50",
+    "soft_peach": "#F0D8CF",
+    "warm_paper": "#F7F4EE",
+    "graphite": "#171513",
+    "utility_grey": "#77716C",
+    "grid": "#E1DCD4"
+  },
+  "copy_inventory": {
+    "slide_count": 6,
+    "outcomes": 5,
+    "program_blocks": 6,
+    "audience_requests": 6,
+    "case_cards": 6,
+    "condition_tags": 4
+  },
+  "header_tolerance": {
+    "vertical_px": 8,
+    "horizontal_px": 14,
+    "background_mae": 18
+  },
+  "title_zones": {
+    "slide-01": [210, 330],
+    "slide-02": [150, 240],
+    "slide-03": [150, 240],
+    "slide-04": [150, 240],
+    "slide-05": [150, 240],
+    "slide-06": [200, 330]
+  },
+  "content_end_zone": [1160, 1290],
+  "reference_mode": "grayscale_structure_only",
+  "master_rule": "Each slide is generated independently from the same approved 4:5 slide-00-master.png and its corresponding grayscale structural reference. Generated slides never reference one another.",
+  "header_overlay_applied": false,
+  "publication_ready": false
+}

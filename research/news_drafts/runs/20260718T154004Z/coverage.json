@@ -1,0 +1,9 @@
+[
+  {
+    "topic_id": "news-20260717-kimi-k3-open-frontier",
+    "closest_coverage_refs": ["cov-telegram-929", "cov-telegram-907"],
+    "coverage_delta": "GCONF уже объяснял использование нескольких моделей и публиковал model-release посты, но не покрывал Kimi K3, разницу между текущим hosted access и будущими open weights, а также ограничения harness compatibility и excessive proactiveness.",
+    "central_claim_overlap": "partial",
+    "new_editorial_unit": true
+  }
+]

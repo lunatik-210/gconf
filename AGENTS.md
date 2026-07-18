@@ -190,6 +190,14 @@ analysis does not silently become public copy, and no project skill publishes.
 
 ### Project skills and boundaries
 
+- `$gconf-editorial-gates` records, resolves, backfills, synchronizes, and
+  validates append-only human decision cards under `knowledge/editorial/`.
+  Use it whenever a human selects topics, directions, facts, permissions,
+  exact copy files, or final images, or explicitly delegates a bounded choice.
+  An agent may record an explicit natural-language decision and continue; it
+  must stop and ask on preference-only or ambiguous language. Rankings,
+  validators, prior drafts, and inferred backfills never count as approval.
+
 - `$gconf-youtube-research` takes one YouTube URL or an existing video snapshot,
   collects and normalizes metadata, time-bound statistics, comments, chapters,
   description, thumbnail, captions or transcript fallback, and updates
@@ -350,6 +358,13 @@ Human judgment is required for:
 No completion marker, score, ranking, validator result, or approved evidence
 card replaces these editorial and publication gates.
 
+Agents perform the technical recording. Human decisions may be expressed in
+ordinary language. Record explicit choices through `$gconf-editorial-gates`
+before the downstream action and pass the resulting `decision_id`. A changed
+choice creates a new decision with `supersedes`; never rewrite the old card.
+Backfilled historical decisions use `inferred_backfill` and
+`needs_confirmation` until a human confirms them. Publication remains manual.
+
 ### Artifact and storage responsibilities
 
 - Source packages: `telegram/`, `Instagram/`, `YouTube/`, `Web Articles/`, and
@@ -368,6 +383,10 @@ card replaces these editorial and publication gates.
   Obsidian vault.
 - Processing state: `knowledge/processing/`. Fingerprint completion records
   extraction review, not semantic approval.
+- Editorial control plane: `knowledge/editorial/`. Generated run cards and
+  Obsidian Bases expose workflow state; append-only decision cards preserve
+  human-gate provenance. These card types are operational metadata and must
+  never enter SQLite evidence or semantic extraction.
 - Editorial analysis runs: `research/announcement_analysis/` and
   `research/news_analysis/`.
 - Public-copy writer runs: `research/announcement_drafts/` and

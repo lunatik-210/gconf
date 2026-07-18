@@ -1,0 +1,69 @@
+[
+  {
+    "id": "slide-01-cover",
+    "required_text": [
+      "Vibe Coding · AI Ops",
+      "за 3 недели перейдёте от первого агента, который однажды сработал, к живой AI-операционке: с контекстом, памятью, проверками и понятным ритмом улучшений.",
+      "старт: [ДАТА — НУЖНО ПОДТВЕРДИТЬ] · 3 недели · $650"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: slide 1 of a GCONF Instagram carousel, portrait 4:5. Reference image 1 is the GCONF feed and defines the editorial brand grammar; reference image 2 is the old cover and defines composition only. Generate a new slide, do not edit or copy the old launch. Warm paper #F7F4EE, muted coral #D96C50 used on no more than 25%, graphite #171513, quiet grid #E1DCD4. Preserve a completely empty warm-paper band from y=0 to y=170; no text, metadata, page number, line, logo or decoration there. Begin content at y=185. Keep the strong cover composition but make coral softer and lighter. Use a large black grotesk for the title and a neutral readable grotesk for body. Render every following text block verbatim, with no paraphrase or omission: Vibe Coding · AI Ops | за 3 недели перейдёте от первого агента, который однажды сработал, к живой AI-операционке: с контекстом, памятью, проверками и понятным ритмом улучшений. | старт: [ДАТА — НУЖНО ПОДТВЕРДИТЬ] · 3 недели · $650. No invented date, CTA, cohort number, speaker, icon, watermark, photo, gradient or fake UI."
+  },
+  {
+    "id": "slide-02-outcomes",
+    "required_text": [
+      "01 выберете один повторяемый процесс, который действительно нужен в работе или жизни",
+      "02 соберёте для него контекст, память и правила — без вечного копирования между чатами",
+      "03 свяжете агента с нужными файлами и привычными каналами работы",
+      "04 настроите границы и проверки: где система действует, а где ждёт вашего решения",
+      "05 доведёте первую версию до рабочего ритма и поймёте, как её поддерживать"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: slide 2 of a GCONF Instagram carousel, portrait 4:5. Reference image 1 is the GCONF feed; reference image 2 supplies the five-row editorial rhythm only. Generate a new dense information slide. Warm paper #F7F4EE, graphite #171513, muted coral #D96C50 on less than 12%, quiet grid #E1DCD4. Preserve a completely empty warm-paper band y=0..170 with no header, metadata, counter, line, logo or decoration; content begins at y=185. Heading 'ЗА 3 НЕДЕЛИ ВЫ' uses at most 12% of slide height. Use compact 30–36 px neutral body type, 80–96 px margins, five small numbered markers and thin dividers. Reduce font and gaps, never copy. Render these five outcomes verbatim and complete: 01 выберете один повторяемый процесс, который действительно нужен в работе или жизни | 02 соберёте для него контекст, память и правила — без вечного копирования между чатами | 03 свяжете агента с нужными файлами и привычными каналами работы | 04 настроите границы и проверки: где система действует, а где ждёт вашего решения | 05 доведёте первую версию до рабочего ритма и поймёте, как её поддерживать. No omissions, paraphrases, photos, gradients, watermark, invented copy or extra header."
+  },
+  {
+    "id": "slide-03-program",
+    "required_text": [
+      "доступы и рабочий setup разберём, какие нейронки вам нужны, что установить и как оплатить — и поможем всё настроить, чтобы вы не застряли в самом начале",
+      "контекст и память соберём только нужные файлы, историю и инструкции — чтобы агент не начинал с нуля, а вы понимали, какие данные ему действительно доступны",
+      "живой workflow возьмём одну вашу повторяемую задачу и проведём до проверенного результата — чтобы второй запуск не пришлось снова собирать руками",
+      "мета-навыки: lifecycle научимся замечать, где агент забыл инструкцию, вернул ошибку или сделал тесты для галочки — и чинить процесс, а не бесконечно переписывать промпт",
+      "Q&A и разборы определим минимальные права и ручные проверки — чтобы не отдавать агенту весь компьютер и не доверять критичные действия вслепую",
+      "живая практика созвоны, чат и работа на своих задачах — чтобы не остаться один на один с неработающим setup; записи и материалы остаются навсегда"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: slide 3 of a GCONF Instagram carousel, portrait 4:5. Reference image 1 defines GCONF brand; reference image 2 defines a dense six-block program layout only. Warm paper #F7F4EE, graphite #171513, coral #D96C50 used only for small numbers and keywords, subtle grid #E1DCD4. Reserve y=0..170 as completely blank warm paper; no generated header, counter, logo, divider or metadata. Begin content at y=185. Heading 'ПРОГРАММА ПОТОКА' is compact and no more than 12% height. Build a balanced 2×3 grid. Each card has a small number, bold mixed-case grotesk title and neutral 30 px explanation; 80 px margins. Preserve full copy by reducing type and gaps. Render every block verbatim: доступы и рабочий setup разберём, какие нейронки вам нужны, что установить и как оплатить — и поможем всё настроить, чтобы вы не застряли в самом начале | контекст и память соберём только нужные файлы, историю и инструкции — чтобы агент не начинал с нуля, а вы понимали, какие данные ему действительно доступны | живой workflow возьмём одну вашу повторяемую задачу и проведём до проверенного результата — чтобы второй запуск не пришлось снова собирать руками | мета-навыки: lifecycle научимся замечать, где агент забыл инструкцию, вернул ошибку или сделал тесты для галочки — и чинить процесс, а не бесконечно переписывать промпт | Q&A и разборы определим минимальные права и ручные проверки — чтобы не отдавать агенту весь компьютер и не доверять критичные действия вслепую | живая практика созвоны, чат и работа на своих задачах — чтобы не остаться один на один с неработающим setup; записи и материалы остаются навсегда. No omitted clauses, old program copy, photos, gradients, watermark or extra header."
+  },
+  {
+    "id": "slide-04-requests",
+    "required_text": [
+      "пользуюсь ChatGPT, но не понимаю, с какой своей задачи начать работу с агентами",
+      "в России всё упирается в доступы, аккаунты и оплату — что с этим делать?",
+      "страшно отдавать агенту компьютер и личные данные: где поставить границу?",
+      "контекст снова расползается — агент не помнит прошлые решения и вводные",
+      "Claude Code затягивает задачу, оставляет баги и делает тесты для галочки",
+      "даже записанные инструкции агент иногда пропускает — и снова делает не то"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: slide 4 of a GCONF Instagram carousel, portrait 4:5. Reference image 1 defines the GCONF feed system; reference image 2 defines list density only. Generate a new current-audience slide, not the old professions/countries slide. Warm paper #F7F4EE, graphite #171513, coral #D96C50 under 12%, quiet grid #E1DCD4. Reserve y=0..170 as completely empty warm paper; no header, counter, logo, line or metadata. Begin content at y=185. Compact heading 'С ЧЕМ ПРИХОДЯТ'. Six readable rows with small coral markers and thin rules, neutral 31–34 px type, no invented attributions. Render these six requests verbatim: пользуюсь ChatGPT, но не понимаю, с какой своей задачи начать работу с агентами | в России всё упирается в доступы, аккаунты и оплату — что с этим делать? | страшно отдавать агенту компьютер и личные данные: где поставить границу? | контекст снова расползается — агент не помнит прошлые решения и вводные | Claude Code затягивает задачу, оставляет баги и делает тесты для галочки | даже записанные инструкции агент иногда пропускает — и снова делает не то. Do not add names, jobs, countries, quotes, photos, gradients, watermark or extra header."
+  },
+  {
+    "id": "slide-05-cases",
+    "required_text": [
+      "не обещание одинакового результата — реальные шэринги, на которые мы опираемся.",
+      "память коуч в Telegram + автоматические Markdown-summary «он точно так же помнит контекст, если не лучше» · участница GCONF",
+      "свой инструмент HTML-файл для закупочной задачи «с нулевым опытом программирования сделала удобный html-файл. месяцы не могла допроситься айтишников» · участница GCONF",
+      "первый релиз сайт, собранный с нуля «это мой первый в жизни сайт, и я чувствую себя капец взрослой» · участница GCONF",
+      "рабочий фильтр коллектор вакансий со smart-фильтром «за пару часов на выходных сделал коллектор вакансий со смарт-фильтром, работает вполне годно» · участник GCONF",
+      "оркестрация ролей домашняя система для разбора истории здоровья «собрала для мамы домашнего доктора. скорее мини-оркестр из ролей» · community GCONF",
+      "структура из истории два года переписок собраны для дальнейшего разбора «загрузила всё в codex и получила глубокий психологический анамнез» · community GCONF"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: slide 5 of a GCONF Instagram carousel, portrait 4:5. Reference image 1 defines GCONF brand; reference image 2 defines compact case-card density only. Generate a new dense 2×3 evidence grid on warm paper #F7F4EE with graphite #171513, muted coral #D96C50 below 12%, soft peach #F0D8CF and grid #E1DCD4. Reserve y=0..170 completely blank; no generated metadata, pagination, logo, divider or decoration. Begin content y=185. Compact heading 'С ЧЕМ УХОДЯТ', then the exact caveat in small text. Use 28–31 px quotes and 25–27 px origins, 80 px margins. Reduce type and gaps rather than content. Render all text verbatim: не обещание одинакового результата — реальные шэринги, на которые мы опираемся. | память коуч в Telegram + автоматические Markdown-summary «он точно так же помнит контекст, если не лучше» · участница GCONF | свой инструмент HTML-файл для закупочной задачи «с нулевым опытом программирования сделала удобный html-файл. месяцы не могла допроситься айтишников» · участница GCONF | первый релиз сайт, собранный с нуля «это мой первый в жизни сайт, и я чувствую себя капец взрослой» · участница GCONF | рабочий фильтр коллектор вакансий со smart-фильтром «за пару часов на выходных сделал коллектор вакансий со смарт-фильтром, работает вполне годно» · участник GCONF | оркестрация ролей домашняя система для разбора истории здоровья «собрала для мамы домашнего доктора. скорее мини-оркестр из ролей» · community GCONF | структура из истории два года переписок собраны для дальнейшего разбора «загрузила всё в codex и получила глубокий психологический анамнез» · community GCONF. No paraphrase, missing origin, invented result, photos, gradients, watermark or extra header."
+  },
+  {
+    "id": "slide-06-cta",
+    "required_text": [
+      "Vibe Coding · AI Ops",
+      "[CTA — НУЖНО ПОДТВЕРДИТЬ]",
+      "3 недели живой практики · чат и Q&A · разборы ваших задач записи и материалы — навсегда",
+      "старт: [ДАТА — НУЖНО ПОДТВЕРДИТЬ] длительность: 3 недели стоимость: $650 · 52 000 ₽"
+    ],
+    "prompt": "Use case: ads-marketing. Asset: slide 6 of a GCONF Instagram carousel, portrait 4:5. Reference image 1 defines the GCONF feed; reference image 2 defines compact CTA hierarchy only. Generate a light warm-paper #F7F4EE CTA, never coral full-bleed. Muted coral #D96C50 may occupy at most 25% as chips/rules, with graphite #171513, soft peach #F0D8CF and grid #E1DCD4. Reserve y=0..170 as completely blank warm paper; no header, counter, logo, line or metadata. Begin content y=185. Use compact title and CTA, exactly four readable tags: 'живая практика', 'чат и Q&A', 'разборы ваших задач', 'записи и материалы навсегда'. Place conditions in a compact three-row table. Render all approved text verbatim: Vibe Coding · AI Ops | [CTA — НУЖНО ПОДТВЕРДИТЬ] | 3 недели живой практики · чат и Q&A · разборы ваших задач записи и материалы — навсегда | старт: [ДАТА — НУЖНО ПОДТВЕРДИТЬ] длительность: 3 недели стоимость: $650 · 52 000 ₽. Do not invent date, CTA, cohort number, scarcity, speaker, guarantee, photo, gradient, watermark or extra header."
+  }
+]

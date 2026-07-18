@@ -1,0 +1,49 @@
+{
+  "run_id": "20260718T142638Z",
+  "source_announcement_run": "research/announcement_drafts/runs/20260718T100953Z",
+  "carousel_file": "instagram-carousel-v5.md",
+  "carousel_sha256": "1749545464f17f46d3dfea1c3bef805dfe22d4345753f8bd915c4bddd3861b55",
+  "format": "9:16",
+  "canvas": [1080, 1920],
+  "voice_mode": "GCONF",
+  "address": "вы",
+  "copy_inventory": {
+    "slide_count": 6,
+    "outcomes": 5,
+    "program_blocks": 6,
+    "audience_requests": 6,
+    "case_cards": 6,
+    "condition_tags": 4
+  },
+  "palette": {
+    "muted_coral": "#D96C50",
+    "soft_peach": "#F0D8CF",
+    "warm_paper": "#F7F4EE",
+    "graphite": "#171513",
+    "utility_grey": "#77716C",
+    "grid": "#E1DCD4"
+  },
+  "geometry": {
+    "header": "deterministic overlay y=0..210",
+    "content_zone": "y=211..1919",
+    "first_content_target_y": "230..360",
+    "outer_margin_x": "80..96",
+    "safe_generation_margin_x": 140,
+    "rule": "use the corresponding blue slide as the geometry and density contract"
+  },
+  "reference_roles": [
+    "structure_density_geometry",
+    "format_and_header_zone",
+    "palette_visual_character",
+    "brand_grammar"
+  ],
+  "typography": {
+    "cover": "one large Vibe Coding title, separate smaller AI Ops subtitle",
+    "dense_heading_max_height_percent": 12,
+    "body_px_at_1080": "30-36",
+    "rule": "reduce size and gaps before removing any copy"
+  },
+  "visual_edits": [],
+  "header_owner": ".agents/skills/gconf-instagram-carousel-designer/scripts/apply_shared_header.py",
+  "publication_ready": false
+}

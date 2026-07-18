@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCONF Announcement Writer"
+  short_description: "Draft evidence-backed GCONF announcements"
+  default_prompt: "Use $gconf-announcement-writer to turn a selected analysis direction into Telegram and Instagram announcement drafts."

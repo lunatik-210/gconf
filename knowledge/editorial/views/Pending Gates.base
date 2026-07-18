@@ -1,0 +1,14 @@
+filters:
+  and:
+    - type == "editorial_decision"
+    - status != "confirmed"
+views:
+  - type: table
+    name: Pending Human Gates
+    order:
+      - file.name
+      - workflow
+      - gate_type
+      - status
+      - selected_refs
+      - upstream_ref

@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20260718T154004Z",
+  "generated_at": "2026-07-18T15:40:04Z",
+  "review_status": "ready_for_human_review",
+  "publication_ready": false,
+  "radar_run": "research/news_analysis/runs/20260718T145438Z",
+  "selected_topic_ids": ["news-20260717-kimi-k3-open-frontier"],
+  "human_selection": true,
+  "voice_mode": "GCONF",
+  "address": "vy",
+  "cta_mode": "editorial",
+  "posts": [
+    {
+      "topic_id": "news-20260717-kimi-k3-open-frontier",
+      "file": "news-news-20260717-kimi-k3-open-frontier.md",
+      "format": "release_explainer",
+      "focus": "Не publisher benchmark, а расширение практического выбора моделей по задаче, стоимости, доступности, harness compatibility и границам поведения.",
+      "behavioral_transition": "От поиска одной лучшей модели к одинаковому прикладному тесту и routing по полной стоимости результата.",
+      "tension": "Новый релиз легко добавить в коллекцию подписок, но launch benchmark не показывает устойчивость в конкретном workflow.",
+      "primary_evidence_ref": "ev-kimi-k3",
+      "evidence_refs": ["ev-kimi-k3", "ev-local-open-frontier", "ev-local-model-routing"],
+      "coverage_delta": "Материал впервые для канала разделяет hosted availability и будущий open release Kimi K3, а выбор модели связывает с совместимостью agent harness и границами проактивности.",
+      "cta": {
+        "type": "editorial",
+        "text": "Сравнить K3 и текущую модель на одной длинной задаче по качеству, числу повторов, времени, цене и объёму ручной проверки."
+      },
+      "source_revalidated_at": "2026-07-18T15:40:04Z",
+      "central_fact_status": "unchanged",
+      "format_change_reason": "Радар рекомендовал release_explainer; формат сохранён, потому что центральным событием остаётся конкретный product/model release.",
+      "quality_scores": {
+        "taste": 2,
+        "philosophy": 2,
+        "research": 2,
+        "process_quality": 2,
+        "growth": 1
+      },
+      "publication_ready": false
+    }
+  ],
+  "unresolved_items": [
+    "Full Kimi K3 weights заявлены к 27 июля 2026 года, но ещё не опубликованы и не проверены.",
+    "Kimi K3 technical report ещё не опубликован.",
+    "Независимый прикладной тест на workflow GCONF отсутствует; benchmark остаются publisher claims."
+  ],
+  "output_files": [
+    "brief.md",
+    "news-news-20260717-kimi-k3-open-frontier.md",
+    "evidence-ledger.json",
+    "coverage.json",
+    "audit.md",
+    "manifest.json"
+  ]
+}

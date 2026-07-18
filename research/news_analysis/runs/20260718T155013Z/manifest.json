@@ -1,0 +1,823 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20260718T155013Z",
+  "generated_at": "2026-07-18T15:50:13Z",
+  "review_status": "draft",
+  "selected_topic_ids": [],
+  "parameters": {
+    "default_window_days": 14,
+    "expanded_window_days": 45,
+    "window_expansion_reason": "Две развивающиеся последовательности начались до 14-дневного окна, но получили новый операционный или институциональный шаг внутри окна: brownout GitHub Models 16 июля и запуск GOLD EAGLE 14 июля.",
+    "max_candidates": 10,
+    "minimum_score": 65,
+    "requested_formats": [
+      "flash",
+      "gconf_field_note",
+      "story_lore"
+    ]
+  },
+  "source_snapshot": {
+    "prepared_at": "2026-07-18T15:44:06.444562+00:00",
+    "local_database": "knowledge/_index/gconf.sqlite",
+    "local_database_sha256": "cdfe7d7bab3163ae7eadf1bebcfd52772422e90dd8fe5d403aa913b13552bdcd",
+    "ai_lovers_source_id": "telegram:chat:1633415027",
+    "ai_lovers_document_count": 321,
+    "ai_lovers_first_published_at": "2023-06-14T18:05:56",
+    "ai_lovers_last_published_at": "2026-07-13T19:55:03",
+    "semantic_card_count_in_context": 29,
+    "prior_radar_run": "research/news_analysis/runs/20260718T145438Z",
+    "coverage_queries": [
+      "GitHub Models",
+      "code scanning AI security",
+      "Claude Code internal CLI",
+      "Fable 5 jailbreak safeguards",
+      "Codex architecture requirements",
+      "AI weekend ticket calendar"
+    ],
+    "read_only_context": true
+  },
+  "candidates": [
+    {
+      "topic_id": "news-20260706-claude-code-origin-story",
+      "working_title": "Как внутренний CLI Anthropic стал Claude Code",
+      "event_summary": "6 июля Anthropic опубликовала документированную историю превращения внутреннего инструмента в Claude Code, собранную из свидетельств команды и ранних пользователей.",
+      "event_date": "2026-07-06",
+      "focus": "История важна как процесс создания agentic-продукта: собственная боль команды, раннее внутреннее использование, слабые первые сигналы и постепенное превращение привычки в продукт.",
+      "why_now": "Официальная oral history вышла 12 дней назад и добавляет происхождение продукта, которого не было в прежнем GCONF-покрытии релизов и сетапов Claude Code.",
+      "ai_market_significance": "Показывает, что один из заметных agentic-продуктов вырос не из абстрактного roadmap, а из внутреннего рабочего интерфейса и накопленной практики делегирования.",
+      "gconf_theme": "Среда, практика, agent-first процесс и создание инструмента из собственной повторяемой боли.",
+      "gconf_relevance": "Связывает философию GCONF о живых процессах с проверяемой продуктовой историей и даёт материал для разговора о том, как замечать будущий продукт внутри собственной операционки.",
+      "audience": "Создатели продуктов, небольшие команды, vibe coders и пользователи Claude Code, которым важен не список функций, а путь возникновения рабочего поведения.",
+      "previous_mode": "AI-инструмент проектируется как отдельный продукт и затем внедряется в работу.",
+      "changed_mode": "Команда сначала решает собственную повторяемую задачу внутренним агентным интерфейсом, а продукт кристаллизуется из практики использования.",
+      "closest_coverage_refs": [
+        "cov-telegram-906",
+        "cov-telegram-907"
+      ],
+      "coverage_delta": "AI LOVERS объяснял актуальный сетап Claude Code и отдельные model releases, но не рассказывал происхождение Claude Code, последовательность внутренних решений или слабые ранние сигналы продукта.",
+      "recommended_format": "story_lore",
+      "experiment_or_question": "Разобрать один внутренний tool или скрипт команды: какую регулярную боль он уже снимает, кто возвращается к нему без напоминания и какой артефакт использования доказывает устойчивую привычку.",
+      "facts": [
+        "Anthropic опубликовала материал 6 июля 2026 года.",
+        "Материал описывает путь Claude Code от внутреннего CLI к публичному coding agent через свидетельства создателей и ранних пользователей."
+      ],
+      "inferences": [
+        "Внутренняя частота использования может быть более сильным ранним сигналом agentic-продукта, чем первоначальная внешняя реакция.",
+        "Agent-first продуктовая разработка начинается с поведения команды, а не обязательно с заранее полной спецификации."
+      ],
+      "limitations": [
+        "Источник подготовлен самой Anthropic и отражает ретроспективный взгляд победившего продукта.",
+        "Не следует переносить эту траекторию на любой внутренний tool или утверждать, что слабая ранняя реакция предсказывает успех."
+      ],
+      "editorial_risks": [
+        "Не превращать историю в героический миф о неизбежном успехе.",
+        "Не подменять документированную последовательность непроверенными метриками роста или выручки."
+      ],
+      "evidence_refs": [
+        "ev-anthropic-making-claude-code"
+      ],
+      "source_requirement": "other",
+      "score": {
+        "market_relevance": 18,
+        "gconf_relevance": 19,
+        "coverage_novelty": 19,
+        "evidence_quality": 18,
+        "freshness": 10,
+        "actionability": 9,
+        "risk_penalty": 4,
+        "priority_score": 89
+      },
+      "status": "recommended",
+      "priority_rationale": "Лучшее соответствие Story Lore: свежая официальная последовательность, высокий coverage delta и понятный практический вопрос для продуктовых команд."
+    },
+    {
+      "topic_id": "news-20260714-fable-cyber-governance-sequence",
+      "working_title": "Как один jailbreak превратился в новый контур управления frontier-моделями",
+      "event_summary": "Последовательность от запуска Fable 5 9 июня и приостановки доступа 12 июня до redeploy, проекта шкалы тяжести jailbreak и запуска государственной координации GOLD EAGLE 14 июля.",
+      "event_date": "2026-07-14",
+      "focus": "Не спор о том, кто был прав, а документированный переход от отдельного инцидента доступа к инфраструктуре совместной проверки, классификации риска и координации уязвимостей.",
+      "why_now": "14 июля Белый дом объявил GOLD EAGLE, дав live-продолжение июньской истории; последовательность теперь показывает не только отзыв и возврат модели, но и институциональный ответ.",
+      "ai_market_significance": "Доступность frontier-модели всё чаще зависит не только от capability и цены, но и от процедур тестирования, severity frameworks, government access и механизмов раскрытия уязвимостей.",
+      "gconf_theme": "Полномочия растут вместе с проверками; полезность агента нельзя отделить от governance и обратимости.",
+      "gconf_relevance": "Даёт конкретную историю для тезиса GCONF: чем сильнее и доступнее агент, тем важнее заранее определить границы, проверки и право остановки.",
+      "audience": "Продвинутые пользователи, founders, AI-продуктовые команды и читатели, которым важна реальная цена frontier-capability.",
+      "previous_mode": "Безопасность модели обсуждается как набор скрытых внутренних safeguards поставщика.",
+      "changed_mode": "Инцидент с доступом запускает межорганизационный контур: pre-release testing, severity scoring, disclosure и государственно-частную координацию.",
+      "closest_coverage_refs": [
+        "cov-telegram-1030",
+        "cov-telegram-904"
+      ],
+      "coverage_delta": "AI LOVERS сообщал о возврате Fable 5 и условиях доступа, но не собирал полную цепочку launch → suspension → redeploy → jailbreak framework → GOLD EAGLE и её governance-последствия.",
+      "recommended_format": "story_lore",
+      "experiment_or_question": "Для одного собственного agentic-процесса выписать шкалу инцидента: что считается безобидным сбоем, что требует ручного подтверждения, что останавливает workflow и кто принимает решение о возврате.",
+      "facts": [
+        "Anthropic запустила Fable 5 и Mythos 5 9 июня, приостановила доступ 12 июня, объявила redeploy 30 июня и восстановила доступ 1 июля.",
+        "2 июля Anthropic опубликовала черновой framework тяжести jailbreak.",
+        "14 июля Белый дом объявил GOLD EAGLE как координационный механизм для AI-enabled поиска и исправления уязвимостей."
+      ],
+      "inferences": [
+        "Frontier-model governance превращается из policy-документа в операционный слой релизного процесса.",
+        "Пользователям всё чаще придётся учитывать не только качество модели, но и устойчивость доступа, правила блокировки и fallback-маршрут."
+      ],
+      "limitations": [
+        "Большая часть технической интерпретации конкретного jailbreak исходит от Anthropic; исходный отчёт Amazon не найден в публичном доступе.",
+        "GOLD EAGLE подтверждает новый институциональный шаг, но не доказывает эффективность механизма.",
+        "45-дневное окно используется только потому, что live-событие 14 июля продолжает одну документированную последовательность."
+      ],
+      "editorial_risks": [
+        "Не утверждать, что инцидент напрямую или единолично вызвал GOLD EAGLE.",
+        "Не выдавать позицию Anthropic о тяжести jailbreak за нейтральный технический консенсус.",
+        "Не делать юридические выводы об экспортном контроле сверх опубликованных документов."
+      ],
+      "evidence_refs": [
+        "ev-anthropic-fable-launch",
+        "ev-anthropic-fable-suspension",
+        "ev-anthropic-fable-redeploy",
+        "ev-anthropic-fable-framework",
+        "ev-whitehouse-ai-cyber-eo",
+        "ev-whitehouse-gold-eagle"
+      ],
+      "source_requirement": "broad_trend",
+      "score": {
+        "market_relevance": 20,
+        "gconf_relevance": 18,
+        "coverage_novelty": 19,
+        "evidence_quality": 18,
+        "freshness": 9,
+        "actionability": 8,
+        "risk_penalty": 7,
+        "priority_score": 85
+      },
+      "status": "recommended",
+      "priority_rationale": "Сильная Story Lore с двумя независимыми официальными издателями и live-финалом; penalty сохраняется из-за непубличного исходного jailbreak-отчёта и спорной причинности."
+    },
+    {
+      "topic_id": "news-20260714-github-ai-security-detections",
+      "working_title": "AI security detections появились прямо в pull request",
+      "event_summary": "14 июля GitHub запустила public preview AI-powered security detections в code scanning для pull requests.",
+      "event_date": "2026-07-14",
+      "focus": "Короткий operational delta: AI-generated security findings входят в обычный review-loop до merge, но остаются информационными и не блокируют изменения.",
+      "why_now": "Функция вышла четыре дня назад и меняет конкретный шаг проверки для команд, которые уже создают код с агентами.",
+      "ai_market_significance": "AI входит не только в генерацию кода, но и в слой проверки; при этом provenance результата отмечается отдельной меткой и требует человеческого решения.",
+      "gconf_theme": "Проверка результата, human-in-the-loop и рост governance вместе с agent access.",
+      "gconf_relevance": "Практический пример того, как добавить проверяющий слой в vibe-coding workflow, не притворяясь, что AI-детекция равна гарантии безопасности.",
+      "audience": "Vibe coders, технические founders и команды, которые уже принимают pull requests от coding agents.",
+      "previous_mode": "AI помогает писать код, а security review остаётся отдельным ручным или CodeQL-процессом с ограниченным покрытием языков.",
+      "changed_mode": "AI-powered findings появляются внутри pull request alongside CodeQL и становятся ещё одним входом для review до merge.",
+      "closest_coverage_refs": [
+        "cov-telegram-904",
+        "cov-telegram-1058"
+      ],
+      "coverage_delta": "GCONF обсуждал доступ агентов к системе и agent-first процессы, но не покрывал AI security findings внутри PR, их маркировку, условия включения или неблокирующий статус.",
+      "recommended_format": "flash",
+      "experiment_or_question": "На одном некритичном репозитории сравнить обычный review и review с AI detections: какие классы проблем появились дополнительно, сколько было false positives и какие findings подтвердил человек.",
+      "facts": [
+        "Функция находится в public preview и доступна клиентам GitHub Code Security при включённых enterprise, organization и CodeQL default setup настройках.",
+        "AI findings помечаются как AI, появляются в pull requests и не блокируют merge.",
+        "Запуски расходуют AI credits и требуют GitHub Copilot license."
+      ],
+      "inferences": [
+        "Review-layer становится самостоятельной частью стоимости agentic coding.",
+        "Маркировка происхождения finding полезна для калибровки доверия и аудита."
+      ],
+      "limitations": [
+        "Функция ориентирована на GitHub enterprise workflows и не относится ко всем пользователям GCONF.",
+        "Public preview, AI credits и informational status ограничивают применимость и силу вывода."
+      ],
+      "editorial_risks": [
+        "Не называть функцию автоматической гарантией безопасности.",
+        "Не скрывать лицензионные и billing-условия."
+      ],
+      "evidence_refs": [
+        "ev-github-ai-security"
+      ],
+      "source_requirement": "product_release",
+      "score": {
+        "market_relevance": 17,
+        "gconf_relevance": 17,
+        "coverage_novelty": 19,
+        "evidence_quality": 19,
+        "freshness": 10,
+        "actionability": 9,
+        "risk_penalty": 7,
+        "priority_score": 84
+      },
+      "status": "recommended",
+      "priority_rationale": "Самый чистый Flash: один свежий operational change, прямой первичный источник, понятное ограничение и проверяемый эксперимент."
+    },
+    {
+      "topic_id": "news-20260716-github-models-retirement-brownout",
+      "working_title": "GitHub Models вошёл в финальную фазу отключения",
+      "event_summary": "После анонса полного закрытия GitHub Models 30 июля GitHub провела первый запланированный brownout 16 июля; второй назначен на 23 июля.",
+      "event_date": "2026-07-16",
+      "focus": "Короткое предупреждение о migration deadline: playground, catalog, inference API и BYOK endpoints перестанут работать для всех пользователей.",
+      "why_now": "Первый brownout уже прошёл внутри live-окна, второй будет 23 июля, а окончательное отключение — 30 июля.",
+      "ai_market_significance": "Напоминает, что даже официальный model-access слой может исчезнуть быстро; portability и явный fallback нужны до сбоя, а не после.",
+      "gconf_theme": "Владение процессом, минимальный стек, обратимость и способность заменить один инфраструктурный слой.",
+      "gconf_relevance": "Прямой operational пример для AI Ops: проверить, где workflow зависит от одного endpoint, каталога или BYOK-интерфейса.",
+      "audience": "Разработчики и небольшие команды, использующие GitHub Models API, playground, model catalog или BYOK.",
+      "previous_mode": "GitHub Models используется как стабильная точка доступа к нескольким моделям.",
+      "changed_mode": "Существующим пользователям нужен migration plan до 30 июля; brownout позволяет заранее увидеть реальные точки отказа.",
+      "closest_coverage_refs": [
+        "cov-telegram-929",
+        "cov-telegram-1029"
+      ],
+      "coverage_delta": "GCONF писал о model routing и выборе стека, но не о закрытии GitHub Models, scheduled brownouts или конкретном migration deadline.",
+      "recommended_format": "flash",
+      "experiment_or_question": "До второго brownout составить список вызовов GitHub Models, зафиксировать fallback provider и проверить один запрос через замену без изменения пользовательского результата.",
+      "facts": [
+        "GitHub объявила полное отключение GitHub Models 30 июля 2026 года для всех пользователей.",
+        "В scope закрытия входят playground, model catalog, inference API, BYOK endpoints и связанный UI.",
+        "Brownouts назначены на 16 и 23 июля."
+      ],
+      "inferences": [
+        "Portability становится операционным навыком владельца AI-workflow.",
+        "Scheduled brownout полезнее воспринимать как тест восстановления, а не только как неудобство."
+      ],
+      "limitations": [
+        "Исходный анонс опубликован 1 июля и попадает в расширенное окно; live-основание — brownout 16 июля.",
+        "Тема не касается пользователей, которые не используют GitHub Models."
+      ],
+      "editorial_risks": [
+        "Не смешивать GitHub Models с GitHub Copilot: Copilot не закрывается.",
+        "Не рекомендовать конкретную миграцию без проверки текущего provider и workload."
+      ],
+      "evidence_refs": [
+        "ev-github-models-retirement"
+      ],
+      "source_requirement": "product_release",
+      "score": {
+        "market_relevance": 15,
+        "gconf_relevance": 16,
+        "coverage_novelty": 20,
+        "evidence_quality": 20,
+        "freshness": 10,
+        "actionability": 10,
+        "risk_penalty": 7,
+        "priority_score": 84
+      },
+      "status": "recommended",
+      "priority_rationale": "Узкая, но срочная и полностью проверяемая Flash-тема с конкретным дедлайном и действием; ниже market relevance из-за ограниченной аудитории."
+    },
+    {
+      "topic_id": "news-20260713-gconf-telegram-control-plane",
+      "working_title": "От одного поста через Codex к Telegram как control plane команды",
+      "event_summary": "Публичная последовательность GCONF: 6 июня Codex самостоятельно отправил пост и вложение в Telegram, 1 июля появился персональный ops-loop через Telegram, а 13 июля команда описала Telegram как центр коммуникации и управления проектами.",
+      "event_date": "2026-07-13",
+      "focus": "Не декларация об агентах, а field note об изменении интерфейса работы: Telegram становится входом, агент держит контекст, а человек задаёт права и требования.",
+      "why_now": "Финальная точка последовательности опубликована пять дней назад и показывает развитие собственной практики GCONF за пять недель.",
+      "ai_market_significance": "Показывает consumer-мессенджер как control plane для агентных процессов и одновременно делает видимым новый риск: доступ к чатам, проектам и действиям.",
+      "gconf_theme": "AI Ops, context, минимальные права, agent-first интерфейс и человеческое владение требованиями.",
+      "gconf_relevance": "Это собственная проверяемая практика команды, наиболее подходящая для GCONF Field Note и напрямую связанная со следующим потоком.",
+      "audience": "Участники GCONF, небольшие команды и founders, которые хотят управлять процессами из привычного интерфейса, не строя отдельный dashboard.",
+      "previous_mode": "Telegram — канал общения, а агентный workflow живёт в отдельном приложении или терминале.",
+      "changed_mode": "Telegram становится точкой постановки задачи и наблюдения за процессом, а выполнение и работа с контекстом происходят в агентной системе.",
+      "closest_coverage_refs": [
+        "cov-telegram-1006",
+        "cov-telegram-1029",
+        "cov-telegram-1058"
+      ],
+      "coverage_delta": "Каждая стадия уже была опубликована отдельно; новая editorial unit — проверяемая хронология эволюции интерфейса и decision rights. Для публикации нужен новый артефакт текущего loop, иначе материал будет повтором.",
+      "recommended_format": "gconf_field_note",
+      "experiment_or_question": "Показать один текущий workflow end-to-end: сообщение в Telegram, загруженный контекст, действие агента, место ручного подтверждения, лог результата и минимальные права.",
+      "facts": [
+        "6 июня GCONF публично сообщил, что Codex открыл Telegram на Mac, нашёл диалог, отправил текст и приложил скрин.",
+        "1 июля CEO GCONF описала Telegram-интерфейс к OpenClaw/Hermes и явно назвала доступы и риск.",
+        "13 июля GCONF сообщил о переносе процессов на собственные vibe-coding системы и использовании Telegram для командной коммуникации и управления проектами."
+      ],
+      "inferences": [
+        "Мессенджер становится control plane, когда связывает постановку задачи, контекст, разрешения и наблюдение за выполнением.",
+        "Главный дизайн-вопрос смещается с отдельного UI на читаемость контекста и границы действий агента."
+      ],
+      "limitations": [
+        "Публичные посты не показывают техническую архитектуру, полный permission model, частоту сбоев или стоимость.",
+        "Утверждение о полностью перевезённых процессах является self-report команды.",
+        "Без нового walkthrough или журнала ошибок тема дублирует уже опубликованный пост 1058."
+      ],
+      "editorial_risks": [
+        "Не раскрывать внутренние чаты, персональные данные, credentials или точные security-настройки.",
+        "Не выдавать широкий доступ агента за безопасный default.",
+        "Не утверждать, что интерфейсы исчезнут для всех пользователей."
+      ],
+      "evidence_refs": [
+        "ev-gconf-codex-telegram",
+        "ev-gconf-openclaw-ops",
+        "ev-gconf-team-processes"
+      ],
+      "source_requirement": "field_note",
+      "score": {
+        "market_relevance": 18,
+        "gconf_relevance": 20,
+        "coverage_novelty": 14,
+        "evidence_quality": 17,
+        "freshness": 10,
+        "actionability": 10,
+        "risk_penalty": 8,
+        "priority_score": 81
+      },
+      "status": "recommended",
+      "priority_rationale": "Сильнейший собственный field note, но проходит только как новая хронология с новым workflow-артефактом; без него coverage novelty падает до duplicate."
+    },
+    {
+      "topic_id": "news-20260708-gconf-format-time-horizon",
+      "working_title": "Что успевает измениться за два дня и за три недели практики GCONF",
+      "event_summary": "8 июля GCONF подвёл итоги первого AI weekend с билетным монитором, Telegram-календарём и прототипом игры; более ранние публичные case roundups показывают артефакты трёхнедельного потока.",
+      "event_date": "2026-07-08",
+      "focus": "Сравнить не «какой формат лучше», а тип первого действия и глубину артефакта при разных timeboxes, сохраняя ограничения self-reported кейсов.",
+      "why_now": "Первый weekend завершился десять дней назад и добавил новый формат к уже документированным трёхнедельным циклам.",
+      "ai_market_significance": "Переход к агентам зависит не только от capability модели, но и от дизайна среды: timebox, совместная работа, своя задача и быстрый работающий loop.",
+      "gconf_theme": "Среда, практика, преодоление стартового барьера и переход от наблюдения к собственному артефакту.",
+      "gconf_relevance": "Это собственный продуктовый эксперимент GCONF; field note может помочь команде точнее разделить роль короткого activation-format и длинного цикла практики.",
+      "audience": "Новички, которые застряли между ChatGPT и первым агентом, а также команда GCONF, проектирующая форматы входа.",
+      "previous_mode": "Один формат должен одновременно снять барьер, дать навык и довести сложный процесс до устойчивости.",
+      "changed_mode": "Короткий timebox можно оценивать по первому работающему loop, а длинный цикл — по глубине интеграции, повторяемости и способности поддерживать систему.",
+      "closest_coverage_refs": [
+        "cov-telegram-1001",
+        "cov-telegram-1028",
+        "cov-telegram-1046"
+      ],
+      "coverage_delta": "Кейсы уже опубликованы, но форматы не сравнивались как два разных механизма поведения. Delta остаётся inference и требует внутренней проверки программы и, желательно, follow-up участников.",
+      "recommended_format": "gconf_field_note",
+      "experiment_or_question": "Собрать одинаковый follow-up для участников обоих форматов: запустили ли они артефакт второй раз, что осталось ручным, где процесс сломался и какую поддержку пришлось запросить.",
+      "facts": [
+        "Публичный итог AI weekend содержит три описанных результата: мониторинг билетных слотов, Telegram-календарь и прототип игры.",
+        "Публичные case roundups трёхнедельного потока содержат более сложные рабочие системы, включая POS reporting, инструменты для лингвистов и Telegram-коуча с памятью."
+      ],
+      "inferences": [
+        "Два дня могут быть достаточны для перехода от наблюдения к первому loop, но не доказывают устойчивость процесса.",
+        "Трёхнедельный формат может поддерживать более глубокую интеграцию, однако текущая выборка не позволяет приписать различие только длительности."
+      ],
+      "limitations": [
+        "Кейсы отобраны для публичных публикаций и не образуют сопоставимую выборку.",
+        "Большинство результатов — organizer report или анонимный self-report без usage metrics.",
+        "Нет follow-up о повторном запуске, поддержке и сохранении поведения после завершения формата."
+      ],
+      "editorial_risks": [
+        "Не заявлять причинный эффект длительности.",
+        "Не превращать отдельные кейсы в обещание результата всем участникам.",
+        "Не публиковать анонимные детали без проверки разрешения, если добавляются новые цитаты."
+      ],
+      "evidence_refs": [
+        "ev-gconf-three-week-cases",
+        "ev-gconf-case-roundup",
+        "ev-gconf-weekend-results",
+        "ev-card-ticket-monitor",
+        "ev-card-telegram-calendar"
+      ],
+      "source_requirement": "field_note",
+      "score": {
+        "market_relevance": 14,
+        "gconf_relevance": 20,
+        "coverage_novelty": 12,
+        "evidence_quality": 14,
+        "freshness": 10,
+        "actionability": 10,
+        "risk_penalty": 6,
+        "priority_score": 74
+      },
+      "status": "reserve",
+      "priority_rationale": "Полезный второй Field Note, но пока только reserve: evidence selection bias и отсутствие follow-up не позволяют делать сильный вывод о формате."
+    }
+  ],
+  "rejected_signals": [],
+  "evidence_index": [
+    {
+      "id": "ev-anthropic-making-claude-code",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "official_primary",
+      "publisher": "Anthropic",
+      "title": "The Making of Claude Code",
+      "published_at": "2026-07-06",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://www.anthropic.com/features/making-of-claude-code",
+      "local_source": null,
+      "locator": "web-live:anthropic:making-of-claude-code",
+      "claim_supported": "Anthropic опубликовала внутреннюю историю происхождения Claude Code от CLI к публичному продукту.",
+      "publisher_claim": true,
+      "freshness_days": 12,
+      "freshness_band": "live",
+      "limitation": "Ретроспективная история самой компании; требует осторожности к survivorship bias."
+    },
+    {
+      "id": "ev-anthropic-fable-launch",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "official_primary",
+      "publisher": "Anthropic",
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "published_at": "2026-06-09",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "local_source": null,
+      "locator": "web-live:anthropic:fable-mythos-launch",
+      "claim_supported": "Подтверждает дату запуска, конфигурации доступа и заявленные safeguards моделей.",
+      "publisher_claim": true,
+      "freshness_days": 39,
+      "freshness_band": "fresh",
+      "limitation": "Capability и safety statements исходят от издателя модели."
+    },
+    {
+      "id": "ev-anthropic-fable-suspension",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "official_primary",
+      "publisher": "Anthropic",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "published_at": "2026-06-12",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "local_source": null,
+      "locator": "web-live:anthropic:fable-suspension",
+      "claim_supported": "Подтверждает дату и практический эффект приостановки доступа, а также позицию Anthropic по причине директивы.",
+      "publisher_claim": true,
+      "freshness_days": 36,
+      "freshness_band": "fresh",
+      "limitation": "Техническая трактовка jailbreak и содержания директивы дана заинтересованной стороной."
+    },
+    {
+      "id": "ev-anthropic-fable-redeploy",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "official_primary",
+      "publisher": "Anthropic",
+      "title": "Redeploying Fable 5",
+      "published_at": "2026-06-30",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "local_source": null,
+      "locator": "web-live:anthropic:fable-redeploy",
+      "claim_supported": "Подтверждает восстановление доступа, последовательность событий и proposed cross-industry jailbreak framework.",
+      "publisher_claim": true,
+      "freshness_days": 18,
+      "freshness_band": "fresh",
+      "limitation": "Исходный Amazon report не опубликован; сравнительные тесты принадлежат Anthropic."
+    },
+    {
+      "id": "ev-anthropic-fable-framework",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "official_primary",
+      "publisher": "Anthropic",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "published_at": "2026-07-02",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "local_source": null,
+      "locator": "web-live:anthropic:fable-jailbreak-framework",
+      "claim_supported": "Подтверждает черновую шкалу тяжести jailbreak и описанные границы safety classifiers.",
+      "publisher_claim": true,
+      "freshness_days": 16,
+      "freshness_band": "fresh",
+      "limitation": "Framework ранний и подготовлен одним из поставщиков frontier-моделей."
+    },
+    {
+      "id": "ev-whitehouse-ai-cyber-eo",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "independent_primary",
+      "publisher": "The White House",
+      "title": "Promoting Advanced Artificial Intelligence Innovation and Security",
+      "published_at": "2026-06-02",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "local_source": null,
+      "locator": "web-live:whitehouse:eo-14409",
+      "claim_supported": "Подтверждает государственную рамку AI-enabled cyber defense, benchmark и trusted early access.",
+      "publisher_claim": false,
+      "freshness_days": 46,
+      "freshness_band": "recent",
+      "limitation": "Контекстовый официальный документ; сам по себе не подтверждает детали частного jailbreak-инцидента."
+    },
+    {
+      "id": "ev-whitehouse-gold-eagle",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "independent_primary",
+      "publisher": "The White House",
+      "title": "White House Launches Gold Eagle Initiative for Unprecedented Cybersecurity Vulnerability Coordination",
+      "published_at": "2026-07-14",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
+      "local_source": null,
+      "locator": "web-live:whitehouse:gold-eagle",
+      "claim_supported": "Подтверждает запуск GOLD EAGLE как операционной модели координации AI-enabled поиска и исправления уязвимостей.",
+      "publisher_claim": false,
+      "freshness_days": 4,
+      "freshness_band": "live",
+      "limitation": "Запуск инициативы не доказывает её эффективность и не устанавливает прямую причинность с Fable 5."
+    },
+    {
+      "id": "ev-github-ai-security",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "official_primary",
+      "publisher": "GitHub",
+      "title": "Code scanning shows AI security detections on pull requests",
+      "published_at": "2026-07-14",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests/",
+      "local_source": null,
+      "locator": "web-live:github:ai-security-detections",
+      "claim_supported": "Подтверждает public preview, PR integration, AI labeling, enablement conditions, informational status и billing.",
+      "publisher_claim": false,
+      "freshness_days": 4,
+      "freshness_band": "live",
+      "limitation": "Product changelog не является независимой оценкой качества или false-positive rate."
+    },
+    {
+      "id": "ev-github-models-retirement",
+      "evidence_status": "unindexed_observation",
+      "source_kind": "official_primary",
+      "publisher": "GitHub",
+      "title": "GitHub Models is being fully retired on July 30, 2026",
+      "published_at": "2026-07-01",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026/",
+      "local_source": null,
+      "locator": "web-live:github:models-retirement",
+      "claim_supported": "Подтверждает scope отключения, дедлайн 30 июля и brownouts 16 и 23 июля.",
+      "publisher_claim": false,
+      "freshness_days": 17,
+      "freshness_band": "fresh",
+      "limitation": "Исходная публикация старше 14 дней; live relevance основана на scheduled brownout 16 июля."
+    },
+    {
+      "id": "ev-gconf-codex-telegram",
+      "evidence_status": "fact",
+      "source_kind": "official_primary",
+      "publisher": "GCONF / AI LOVERS",
+      "title": "Codex отправил пост и вложение в Telegram",
+      "published_at": "2026-06-06T14:23:19",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://t.me/gptlovers/1006",
+      "local_source": "telegram/GCONF : AI LOVERS - All Time.json",
+      "locator": "telegram:1633415027:1006",
+      "claim_supported": "Публичный self-report GCONF о первом показанном действии Codex в Telegram на Mac.",
+      "publisher_claim": true,
+      "freshness_days": 42,
+      "freshness_band": "fresh",
+      "limitation": "Нет технического лога, security-конфигурации или частоты ошибок."
+    },
+    {
+      "id": "ev-gconf-openclaw-ops",
+      "evidence_status": "fact",
+      "source_kind": "official_primary",
+      "publisher": "GCONF / AI LOVERS",
+      "title": "OpenClaw / Hermes как персональная AI-операционка через Telegram",
+      "published_at": "2026-07-01T18:46:58",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://t.me/gptlovers/1029",
+      "local_source": "telegram/GCONF : AI LOVERS - All Time.json",
+      "locator": "telegram:1633415027:1029",
+      "claim_supported": "Публичный first-person field report CEO GCONF о Telegram-интерфейсе, контексте, доступах и принятом риске.",
+      "publisher_claim": true,
+      "freshness_days": 17,
+      "freshness_band": "fresh",
+      "limitation": "Self-report без независимой проверки; содержит чувствительные по природе security-детали, которые нельзя расширять догадками."
+    },
+    {
+      "id": "ev-gconf-team-processes",
+      "evidence_status": "fact",
+      "source_kind": "official_primary",
+      "publisher": "GCONF / AI LOVERS",
+      "title": "Agent-first архитектура внутренних процессов GCONF",
+      "published_at": "2026-07-13T19:55:03",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://t.me/gptlovers/1058",
+      "local_source": "telegram/GCONF : AI LOVERS - All Time.json",
+      "locator": "telegram:1633415027:1058",
+      "claim_supported": "Команда публично описывает перенос процессов, Telegram как центр работы и делегирование архитектуры Codex.",
+      "publisher_claim": true,
+      "freshness_days": 5,
+      "freshness_band": "live",
+      "limitation": "Self-report и high-level описание без текущего end-to-end артефакта."
+    },
+    {
+      "id": "ev-gconf-three-week-cases",
+      "evidence_status": "fact",
+      "source_kind": "official_primary",
+      "publisher": "GCONF / AI LOVERS",
+      "title": "Опыты участников трёхнедельного потока",
+      "published_at": "2026-05-23T16:42:09",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://t.me/gptlovers/1001",
+      "local_source": "telegram/GCONF : AI LOVERS - All Time.json",
+      "locator": "telegram:1633415027:1001",
+      "claim_supported": "Публичный organizer roundup описывает несколько типов артефактов участников трёхнедельного потока.",
+      "publisher_claim": true,
+      "freshness_days": 56,
+      "freshness_band": "recent",
+      "limitation": "Отобранная промо-выборка self-reported кейсов; отдельные метрики независимо не проверены."
+    },
+    {
+      "id": "ev-gconf-case-roundup",
+      "evidence_status": "fact",
+      "source_kind": "official_primary",
+      "publisher": "GCONF / AI LOVERS",
+      "title": "Короткий roundup результатов прошлого потока",
+      "published_at": "2026-06-30T17:33:32",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://t.me/gptlovers/1028",
+      "local_source": "telegram/GCONF : AI LOVERS - All Time.json",
+      "locator": "telegram:1633415027:1028",
+      "claim_supported": "Подтверждает разнообразие публично описанных артефактов и переходов участников.",
+      "publisher_claim": true,
+      "freshness_days": 18,
+      "freshness_band": "fresh",
+      "limitation": "Анонимные короткие цитаты без артефактов и denominator."
+    },
+    {
+      "id": "ev-gconf-weekend-results",
+      "evidence_status": "fact",
+      "source_kind": "official_primary",
+      "publisher": "GCONF / AI LOVERS",
+      "title": "Результаты первого AI weekend",
+      "published_at": "2026-07-08T13:18:02",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://t.me/gptlovers/1046",
+      "local_source": "telegram/GCONF : AI LOVERS - All Time.json",
+      "locator": "telegram:1633415027:1046",
+      "claim_supported": "Публичный organizer report описывает pair-work observation и три результата участников двухдневного формата.",
+      "publisher_claim": true,
+      "freshness_days": 10,
+      "freshness_band": "live",
+      "limitation": "Нет сопоставимой выборки, follow-up или независимой проверки результатов."
+    },
+    {
+      "id": "ev-card-ticket-monitor",
+      "evidence_status": "fact",
+      "source_kind": "local_semantic_card",
+      "publisher": "GCONF local knowledge system",
+      "title": "Агент два дня ловил билетные слоты для восьми человек",
+      "published_at": "2026-07-08",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://t.me/gptlovers/1046",
+      "local_source": "knowledge/cases/case-ai-weekend-ticket-slot-monitor.md",
+      "locator": "knowledge:case-ai-weekend-ticket-slot-monitor",
+      "claim_supported": "Approved semantic card сохраняет origin, proof level, behavior shift и ограничения organiser-reported кейса.",
+      "publisher_claim": false,
+      "freshness_days": 10,
+      "freshness_band": "live",
+      "limitation": "Карточка производна от одного публичного Telegram-источника, а не независимое подтверждение."
+    },
+    {
+      "id": "ev-card-telegram-calendar",
+      "evidence_status": "fact",
+      "source_kind": "local_semantic_card",
+      "publisher": "GCONF local knowledge system",
+      "title": "Календарь с управлением через Telegram и дайджестами",
+      "published_at": "2026-07-08",
+      "accessed_at": "2026-07-18T15:50:13Z",
+      "url": "https://t.me/gptlovers/1046",
+      "local_source": "knowledge/cases/case-ai-weekend-telegram-calendar.md",
+      "locator": "knowledge:case-ai-weekend-telegram-calendar",
+      "claim_supported": "Approved semantic card фиксирует описанный workflow, origin, proof level и ограничения кейса.",
+      "publisher_claim": false,
+      "freshness_days": 10,
+      "freshness_band": "live",
+      "limitation": "Карточка производна от одного organizer report и не подтверждает устойчивость использования."
+    }
+  ],
+  "coverage_index": [
+    {
+      "id": "cov-telegram-904",
+      "platform": "telegram",
+      "published_at": "2026-02-06T13:51:21",
+      "locator": "telegram:1633415027:904",
+      "url": "https://t.me/gptlovers/904",
+      "title": "OpenClaw: agentic framework с доступом к системе",
+      "excerpt": "Пост объясняет инструменты, память и доступ агента к файловой системе, shell, браузеру и мессенджерам.",
+      "coverage_role": "Ближайшее прежнее покрытие риска и новых полномочий agentic-систем."
+    },
+    {
+      "id": "cov-telegram-906",
+      "platform": "telegram",
+      "published_at": "2026-02-09T10:19:53",
+      "locator": "telegram:1633415027:906",
+      "url": "https://t.me/gptlovers/906",
+      "title": "Claude Code + Codex в соседних терминалах",
+      "excerpt": "Пост показывает актуальный рабочий сетап Димы и использование нескольких coding agents.",
+      "coverage_role": "Ближайшее продуктовое покрытие Claude Code; происхождение продукта отсутствует."
+    },
+    {
+      "id": "cov-telegram-907",
+      "platform": "telegram",
+      "published_at": "2026-02-10T11:24:58",
+      "locator": "telegram:1633415027:907",
+      "url": "https://t.me/gptlovers/907",
+      "title": "GPT-5.3-Codex: релиз модели для агентного программирования",
+      "excerpt": "Пост объясняет model release через benchmark-цифры и практические задачи Codex для не-разработчиков.",
+      "coverage_role": "Ближайшее прежнее покрытие model-release и агентной разработки."
+    },
+    {
+      "id": "cov-telegram-929",
+      "platform": "telegram",
+      "published_at": "2026-02-21T14:25:12",
+      "locator": "telegram:1633415027:929",
+      "url": "https://t.me/gptlovers/929",
+      "title": "Какую модель использовать в 2026?",
+      "excerpt": "Пост показывает использование нескольких моделей под разные типы задач вместо одной универсальной подписки.",
+      "coverage_role": "Ближайшее покрытие model routing; lifecycle и retirement provider отсутствуют."
+    },
+    {
+      "id": "cov-telegram-1001",
+      "platform": "telegram",
+      "published_at": "2026-05-23T16:42:09",
+      "locator": "telegram:1633415027:1001",
+      "url": "https://t.me/gptlovers/1001",
+      "title": "Опыты участников трёхнедельного потока",
+      "excerpt": "Публичный roundup описывает POS reporting, инструмент для лингвистов, несколько приложений, Markdown-память и Telegram-коуча.",
+      "coverage_role": "Прямое покрытие отдельных case outcomes длинного формата."
+    },
+    {
+      "id": "cov-telegram-1006",
+      "platform": "telegram",
+      "published_at": "2026-06-06T14:23:19",
+      "locator": "telegram:1633415027:1006",
+      "url": "https://t.me/gptlovers/1006",
+      "title": "Codex отправил пост в Telegram",
+      "excerpt": "GCONF сообщил, что Codex открыл Telegram на Mac, нашёл диалог, ввёл текст, приложил скрин и отправил пост.",
+      "coverage_role": "Первая публичная стадия agent-to-Telegram практики команды."
+    },
+    {
+      "id": "cov-telegram-1028",
+      "platform": "telegram",
+      "published_at": "2026-06-30T17:33:32",
+      "locator": "telegram:1633415027:1028",
+      "url": "https://t.me/gptlovers/1028",
+      "title": "Короткий roundup результатов прошлого потока",
+      "excerpt": "Пост собирает короткие анонимные шэринги об инструментах, ботах, приложениях и первых vibe-coding результатах.",
+      "coverage_role": "Прямое прежнее покрытие case outcomes; сравнительный анализ форматов отсутствует."
+    },
+    {
+      "id": "cov-telegram-1029",
+      "platform": "telegram",
+      "published_at": "2026-07-01T18:46:58",
+      "locator": "telegram:1633415027:1029",
+      "url": "https://t.me/gptlovers/1029",
+      "title": "OpenClaw / Hermes: как я собираю AI-операционку",
+      "excerpt": "Field note о Telegram-интерфейсе, контексте, доступах, риске и ежедневных чекинах.",
+      "coverage_role": "Ближайшее GCONF field evidence для agent control plane и операционного подхода."
+    },
+    {
+      "id": "cov-telegram-1030",
+      "platform": "telegram",
+      "published_at": "2026-07-02T08:57:40",
+      "locator": "telegram:1633415027:1030",
+      "url": "https://t.me/gptlovers/1030",
+      "title": "Возврат доступа к Fable 5",
+      "excerpt": "Короткий access update сообщает о возврате Fable 5, лимитах и fallback на Opus.",
+      "coverage_role": "Прямое покрытие availability; governance sequence, jailbreak framework и GOLD EAGLE отсутствуют."
+    },
+    {
+      "id": "cov-telegram-1046",
+      "platform": "telegram",
+      "published_at": "2026-07-08T13:18:02",
+      "locator": "telegram:1633415027:1046",
+      "url": "https://t.me/gptlovers/1046",
+      "title": "Результаты первого AI weekend",
+      "excerpt": "Пост описывает преодоление барьера совместной работой, билетный монитор, Telegram-календарь и прототип игры.",
+      "coverage_role": "Прямое покрытие weekend cases; follow-up и сравнительный форматный вывод отсутствуют."
+    },
+    {
+      "id": "cov-telegram-1058",
+      "platform": "telegram",
+      "published_at": "2026-07-13T19:55:03",
+      "locator": "telegram:1633415027:1058",
+      "url": "https://t.me/gptlovers/1058",
+      "title": "Agent-first архитектура внутренних процессов GCONF",
+      "excerpt": "Пост описывает перенос процессов, Telegram как центр коммуникации и управления, agent-readable design и решение архитектуры через Codex.",
+      "coverage_role": "Прямое актуальное покрытие; новый Field Note допустим только с хронологией и новым end-to-end артефактом."
+    }
+  ],
+  "ingestion_queue": [
+    {
+      "source_id": "queue-anthropic-making-claude-code",
+      "url": "https://www.anthropic.com/features/making-of-claude-code",
+      "reason": "Official primary source for Story Lore; absent from local Web Articles index.",
+      "status": "pending"
+    },
+    {
+      "source_id": "queue-anthropic-fable-sequence",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "reason": "Anchor page for the Fable 5 governance sequence; preserve related launch, suspension and framework pages together.",
+      "status": "pending"
+    },
+    {
+      "source_id": "queue-whitehouse-gold-eagle",
+      "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
+      "reason": "Independent primary source for the live institutional delta.",
+      "status": "pending"
+    },
+    {
+      "source_id": "queue-github-ai-security",
+      "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests/",
+      "reason": "Official operational release absent from local evidence pipeline.",
+      "status": "pending"
+    },
+    {
+      "source_id": "queue-github-models-retirement",
+      "url": "https://github.blog/changelog/2026-07-01-github-models-is-being-fully-retired-on-july-30-2026/",
+      "reason": "Official migration deadline and brownout schedule absent from local evidence pipeline.",
+      "status": "pending"
+    }
+  ],
+  "output_files": [
+    "backlog.md",
+    "manifest.json",
+    "audit.md"
+  ]
+}

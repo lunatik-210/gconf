@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCONF Telegram Formatter"
+  short_description: "Format GCONF posts for Telegram publishing"
+  default_prompt: "Use $gconf-telegram-formatter to format selected GCONF posts and copy publish-ready Markdown files into Telegram, News to publish without changing the source drafts."

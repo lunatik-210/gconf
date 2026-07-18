@@ -1,0 +1,10 @@
+Use case: ads-marketing
+Asset type: blank reusable master-frame for a six-slide GCONF Instagram Story/Reels carousel
+Primary request: Create one completely blank 9:16 editorial frame that will be used as the edit target for six later slides.
+Input images: Image 1 is the GCONF feed and defines brand grammar; Image 2 is the blue previous cover and defines the exact header placement, margins, grid density, and pagination style; Image 3 is the approved coral cover and defines only the new palette and visual character.
+Canvas: exact 9:16 portrait composition intended for 1080×1920.
+Scene/backdrop: warm paper #F7F4EE with a quiet technical grid #E1DCD4 continuing across the complete canvas.
+Header: reproduce the blue reference header geometry. At the top left write exactly “[ gconf ]”. At the top right write exactly “01 / 06”. Use a small monospaced editorial typeface. Keep both elements on the same baseline, with stable outer margins.
+Content zone: completely empty. Do not add a large title, subtitle, labels, chips, boxes, icons, objects, photos, decorations, CTA, date, or body copy.
+Color palette: graphite #171513, muted coral #D96C50, soft peach #F0D8CF, utility grey #77716C, warm paper #F7F4EE, grid #E1DCD4. Coral may appear only as a very restrained tiny brand accent if needed; the header remains quiet.
+Constraints: the header is part of the generated image; no separate header band, no thick divider, no empty white strip distinct from the main canvas. The grid and paper field must remain visually continuous. No watermark, no Instagram UI, no “обложка”, no additional text.

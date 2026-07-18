@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20260718T161326Z",
+  "generated_at": "2026-07-18T16:13:26Z",
+  "review_status": "ready_for_human_review",
+  "publication_ready": false,
+  "radar_run": "research/news_analysis/runs/20260718T155013Z",
+  "selected_topic_ids": [
+    "news-20260706-claude-code-origin-story",
+    "news-20260714-fable-cyber-governance-sequence",
+    "news-20260714-github-ai-security-detections",
+    "news-20260716-github-models-retirement-brownout"
+  ],
+  "human_selection": true,
+  "voice_mode": "GCONF",
+  "address": "vy",
+  "cta_mode": "editorial",
+  "posts": [
+    {
+      "topic_id": "news-20260706-claude-code-origin-story",
+      "file": "news-news-20260706-claude-code-origin-story.md",
+      "format": "story_lore",
+      "focus": "A repeat-use product signal can matter more than the initial reaction to an internal demo.",
+      "behavioral_transition": "From judging a tool by launch reaction to observing voluntary repeat use and completed work artifacts.",
+      "tension": "Teams search roadmaps for product ideas while a repeated internal behavior may already expose one.",
+      "primary_evidence_ref": "ev-anthropic-making-claude-code",
+      "evidence_refs": ["ev-anthropic-making-claude-code"],
+      "coverage_delta": "The internal origin and weak-signal product sequence were absent from prior AI LOVERS Claude Code coverage.",
+      "cta": {
+        "type": "editorial",
+        "text": "Возьмите один внутренний инструмент и проверьте: кто запускает его без напоминания, какую повторяющуюся боль он снимает и какой рабочий артефакт остаётся после использования?"
+      },
+      "source_revalidated_at": "2026-07-18T16:13:26Z",
+      "central_fact_status": "unchanged",
+      "format_change_reason": "None; retained the radar's story_lore format.",
+      "quality_scores": {"taste": 2, "philosophy": 2, "research": 2, "process_quality": 2, "growth": 1},
+      "publication_ready": true
+    },
+    {
+      "topic_id": "news-20260714-fable-cyber-governance-sequence",
+      "file": "news-news-20260714-fable-cyber-governance-sequence.md",
+      "format": "story_lore",
+      "focus": "The documented sequence shows safeguards becoming an operational governance loop rather than a static release claim.",
+      "behavioral_transition": "From declaring safeguards at launch to defining severity, disclosure, stop, restoration, and decision ownership.",
+      "tension": "More capable agents create dual-use value while static safety promises do not specify what happens after a bad signal.",
+      "primary_evidence_ref": "ev-anthropic-fable-redeploy",
+      "evidence_refs": [
+        "ev-anthropic-fable-launch",
+        "ev-anthropic-fable-suspension",
+        "ev-anthropic-fable-redeploy",
+        "ev-anthropic-fable-framework",
+        "ev-whitehouse-ai-cyber-eo",
+        "ev-whitehouse-gold-eagle"
+      ],
+      "coverage_delta": "The complete governance sequence and its operational meaning were absent from the prior Fable return post.",
+      "cta": {
+        "type": "editorial",
+        "text": "Для одного рабочего агента выпишите четыре уровня реакции: записать наблюдение, запросить подтверждение, остановить процесс, вернуть его в работу — и назначьте владельца каждого решения."
+      },
+      "source_revalidated_at": "2026-07-18T16:13:26Z",
+      "central_fact_status": "unchanged",
+      "format_change_reason": "None; retained the radar's story_lore format.",
+      "quality_scores": {"taste": 2, "philosophy": 2, "research": 2, "process_quality": 2, "growth": 1},
+      "publication_ready": true
+    },
+    {
+      "topic_id": "news-20260714-github-ai-security-detections",
+      "file": "news-news-20260714-github-ai-security-detections.md",
+      "format": "flash",
+      "focus": "AI security findings now enter the pull-request review loop but remain labeled, informational, and human-decided.",
+      "behavioral_transition": "From a separate security step to labeled AI findings inside the pull request before merge.",
+      "tension": "AI speeds code creation while review quality and false positives still require human judgment.",
+      "primary_evidence_ref": "ev-github-ai-security",
+      "evidence_refs": ["ev-github-ai-security"],
+      "coverage_delta": "PR-native AI findings, prerequisites, billing, and non-blocking status were not previously covered.",
+      "cta": {
+        "type": "editorial",
+        "text": "На одном некритичном репозитории сравните обычный review с новым слоем: сколько находок подтвердилось и сколько оказалось шумом?"
+      },
+      "source_revalidated_at": "2026-07-18T16:13:26Z",
+      "central_fact_status": "unchanged",
+      "format_change_reason": "None; retained the radar's flash format.",
+      "quality_scores": {"taste": 2, "philosophy": 2, "research": 2, "process_quality": 2, "growth": 1},
+      "publication_ready": false
+    },
+    {
+      "topic_id": "news-20260716-github-models-retirement-brownout",
+      "file": "news-news-20260716-github-models-retirement-brownout.md",
+      "format": "flash",
+      "focus": "GitHub Models users have a concrete migration deadline and a scheduled failure drill before shutdown.",
+      "behavioral_transition": "From assuming a stable provider endpoint to inventorying the dependency and testing a fallback.",
+      "tension": "A convenient hosted model layer can disappear faster than the workflow built around it.",
+      "primary_evidence_ref": "ev-github-models-retirement",
+      "evidence_refs": ["ev-github-models-retirement"],
+      "coverage_delta": "The shutdown, brownouts, and July 30 migration deadline were absent from prior model-routing coverage.",
+      "cta": {
+        "type": "editorial",
+        "text": "До 23 июля найдите все вызовы, назначьте fallback и прогоните через него один реальный запрос."
+      },
+      "source_revalidated_at": "2026-07-18T16:13:26Z",
+      "central_fact_status": "unchanged",
+      "format_change_reason": "None; retained the radar's flash format.",
+      "quality_scores": {"taste": 2, "philosophy": 2, "research": 2, "process_quality": 2, "growth": 1},
+      "publication_ready": false
+    }
+  ],
+  "unresolved_items": [
+    "GitHub AI security detections remain a partial-availability public preview and require a final human eligibility check before publication.",
+    "GitHub Models retirement dates are time-sensitive; recheck the July 23 brownout and July 30 shutdown immediately before publication."
+  ],
+  "output_files": [
+    "brief.md",
+    "evidence-ledger.json",
+    "coverage.json",
+    "audit.md",
+    "manifest.json",
+    "news-news-20260706-claude-code-origin-story.md",
+    "news-news-20260714-fable-cyber-governance-sequence.md",
+    "news-news-20260714-github-ai-security-detections.md",
+    "news-news-20260716-github-models-retirement-brownout.md"
+  ]
+}

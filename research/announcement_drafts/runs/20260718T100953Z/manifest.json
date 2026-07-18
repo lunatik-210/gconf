@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.1",
+  "run_id": "20260718T100953Z",
+  "generated_at": "2026-07-18T10:09:53Z",
+  "review_status": "draft",
+  "publication_ready": false,
+  "analysis_run": "research/announcement_analysis/runs/20260717T200356Z",
+  "direction_id": "direction-living-ai-ops",
+  "prior_run": "research/announcement_drafts/runs/20260718T091009Z",
+  "prior_announcements": {
+    "telegram_locator": "telegram:1633415027:1040",
+    "instagram_locator": "instagram:gconf.io:DafUhD0F5Yh",
+    "screenshots": [
+      "Instagram/Прошлый Анонс/IMG_5125.jpg",
+      "Instagram/Прошлый Анонс/IMG_5126.jpg",
+      "Instagram/Прошлый Анонс/IMG_5127.jpg",
+      "Instagram/Прошлый Анонс/IMG_5128.jpg",
+      "Instagram/Прошлый Анонс/IMG_5129.jpg",
+      "Instagram/Прошлый Анонс/IMG_5130.jpg"
+    ]
+  },
+  "product_name": "Vibe Coding · AI Ops",
+  "voice_mode": "GCONF",
+  "address": "vy",
+  "channels": ["telegram", "instagram"],
+  "confirmed_facts": {
+    "duration_weeks": 3,
+    "price_usd": 650,
+    "price_rub": 52000,
+    "live_practice": true,
+    "chat_and_qa": true,
+    "recordings_and_materials_forever": true,
+    "program_visible_blocks": 6
+  },
+  "placeholders": [
+    "[ДАТА — НУЖНО ПОДТВЕРДИТЬ]",
+    "[CTA — НУЖНО ПОДТВЕРДИТЬ]"
+  ],
+  "program_evidence_map": [
+    {
+      "block_id": "setup-access",
+      "pain_refs": ["pain-russia-access-public", "pain-subscription-setup-public"],
+      "program_action": "выбрать минимальный рабочий стек и разобрать ограничения, аккаунты и оплату",
+      "so_that": "начать первую задачу без технического квеста и лишних подписок",
+      "locators": ["instagram:matskevich:DZ2swDAjcCa:comment:18025397486830739", "telegram:1633415027:1015"]
+    },
+    {
+      "block_id": "context-memory",
+      "pain_refs": ["pain-memory-safety-public", "pain-computer-trust-public"],
+      "program_action": "собрать нужные источники, историю, инструкции и границы данных",
+      "so_that": "не пересказывать вводные заново и понимать доступный агенту контекст",
+      "locators": ["youtube:cwf2vEAigKA:comment:Ugz7EY-JuMv4zGC-RJx4AaABAg.AZEJmr9YXpSAZGnvV6eyfg", "youtube:6WEsPzHyD9k:comment:UgwknNZ_EHPCG3agi5x4AaABAg"]
+    },
+    {
+      "block_id": "live-workflow",
+      "pain_refs": ["pain-beginner-start-public"],
+      "program_action": "провести одну повторяемую задачу от входа до проверенного результата",
+      "so_that": "получить процесс для второго запуска, а не разовое демо",
+      "locators": ["instagram:matskevich:DYxMAm3NjHH:comment:18106582094515315"]
+    },
+    {
+      "block_id": "lifecycle",
+      "pain_refs": ["pain-output-validation-public", "pain-instructions-forgotten-public", "pain-retry-loop-historical"],
+      "program_action": "замечать сбой, проверять результат и менять процесс",
+      "so_that": "чинить причину повторной ошибки, а не бесконечно переписывать промпт",
+      "locators": ["telegram:3614090025:311", "telegram:3614090025:181", "telegram:2573352710:2121"]
+    },
+    {
+      "block_id": "qa-boundaries",
+      "pain_refs": ["pain-computer-trust-public"],
+      "program_action": "определить минимальные права и критичные ручные проверки",
+      "so_that": "не давать агенту лишнюю свободу и не доверять критичные действия вслепую",
+      "locators": ["youtube:6WEsPzHyD9k:comment:UgwknNZ_EHPCG3agi5x4AaABAg"]
+    },
+    {
+      "block_id": "live-practice",
+      "pain_refs": ["pain-beginner-start-public"],
+      "program_action": "работать на своей задаче в созвонах и чате",
+      "so_that": "не остаться один на один с неработающим setup и довести первую версию до запуска",
+      "locators": ["instagram:matskevich:DYxMAm3NjHH:comment:18106582094515315"]
+    }
+  ],
+  "slide4_evidence_summary": {
+    "request_refs": [
+      "pain-beginner-start-public",
+      "pain-russia-access-public",
+      "pain-computer-trust-public",
+      "pain-memory-safety-public",
+      "pain-output-validation-public",
+      "pain-instructions-forgotten-public"
+    ],
+    "fresh_recent_non_prior_count": 6,
+    "historical_carry_forward_count": 0,
+    "unique_locator_count": 6,
+    "carry_forward_reasons": {}
+  },
+  "evidence_refs": {
+    "telegram": [
+      "selected-direction-ai-ops",
+      "confirmed-commercial-format",
+      "case-telegram-coach-memory-public"
+    ],
+    "instagram": [
+      "selected-direction-ai-ops",
+      "confirmed-commercial-format",
+      "prior-instagram-structure",
+      "case-telegram-coach-memory-public",
+      "case-procurement-html-public",
+      "case-first-site-public",
+      "case-job-collector-public",
+      "case-home-doctor-public",
+      "case-chat-history-public",
+      "pain-beginner-start-public",
+      "pain-russia-access-public",
+      "pain-computer-trust-public",
+      "pain-memory-safety-public",
+      "pain-output-validation-public",
+      "pain-instructions-forgotten-public",
+      "pain-subscription-setup-public"
+    ]
+  },
+  "outputs": [
+    "brief.md",
+    "telegram.md",
+    "instagram-carousel.md",
+    "instagram-caption.md",
+    "evidence-ledger.json",
+    "audit.md",
+    "manifest.json"
+  ],
+  "unresolved": [
+    "future start date",
+    "cohort number",
+    "CTA destination or code word",
+    "new speakers",
+    "capacity",
+    "publication permission for exact audience quotations"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "run_id": "20260718T145604Z",
+  "workflow_mode": "master-frame-generation",
+  "generation_mode": "built-in image_gen",
+  "format": "9:16",
+  "canvas": [1080, 1920],
+  "header_overlay_applied": false,
+  "source_announcement_run": "research/announcement_drafts/runs/20260718T100953Z",
+  "copy_source": {
+    "path": "research/announcement_drafts/runs/20260718T100953Z/instagram-carousel-v6.md",
+    "sha256": "8b597892fedc36622ded6ea4b38200d9a639c861f8458011796d7f1358b4632e"
+  },
+  "copy_inventory": {
+    "outcomes": 5,
+    "program_blocks": 6,
+    "audience_requests": 6,
+    "case_cards": 6,
+    "condition_tags": 4
+  },
+  "date": {
+    "value": "2026-10-27",
+    "display": "27 октября 2026",
+    "status": "proposal_user_authorized"
+  },
+  "cta": {
+    "included": false,
+    "placeholder_removed": true
+  },
+  "palette": {
+    "muted_coral": "#D96C50",
+    "soft_peach": "#F0D8CF",
+    "warm_paper": "#F7F4EE",
+    "graphite": "#171513",
+    "utility_grey": "#77716C",
+    "grid": "#E1DCD4"
+  },
+  "master_frame": {
+    "path": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png",
+    "sha256": "60e0eca6f38dd6c3447efbda998fc9492360340e66800721145772a797a9c01c",
+    "header_geometry": {
+      "left_anchor_x": 71,
+      "left_center_y": 88.5,
+      "right_anchor_x": 1019,
+      "right_center_y": 87.0
+    }
+  },
+  "references": {
+    "feed": {
+      "path": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG",
+      "sha256": "44ca155b397a5f5c72911bd01ad8f6e60912323764e24bab8321fc3c52862d38",
+      "role": "master_frame_brand_grammar_only"
+    },
+    "blue_slides": [
+      {"slide": 1, "path": "Instagram/Прошлый Анонс/IMG_5125.jpg", "sha256": "706cde26a15780e77589cf5dee06f2ae0f6f38738e7666db55f8fbcff6371a7e"},
+      {"slide": 2, "path": "Instagram/Прошлый Анонс/IMG_5126.jpg", "sha256": "98b634d044f58d6ed7f97ac098207e4a14d75761cd6df7d2dac835567ba2de65"},
+      {"slide": 3, "path": "Instagram/Прошлый Анонс/IMG_5127.jpg", "sha256": "0055cd00444e6d6e396d898f29bed66194fcb07eea9290959c5372c9bcc8fddb"},
+      {"slide": 4, "path": "Instagram/Прошлый Анонс/IMG_5128.jpg", "sha256": "c93c3141f1cb58e16ed4c0c8d11157ca61788113237b0a01a141af6a7dd02687"},
+      {"slide": 5, "path": "Instagram/Прошлый Анонс/IMG_5129.jpg", "sha256": "a02cd4726be8214ba7c9919dfee1fc4078924bcece24766e8d224a414fef7bdb"},
+      {"slide": 6, "path": "Instagram/Прошлый Анонс/IMG_5130.jpg", "sha256": "fa33e5b1b3af7d74a79d70eca8b86732fa9c74120e7bc78e44526b232b357487"}
+    ]
+  },
+  "slides": [
+    {"slide": 1, "prompt_id": "slide-01-cover", "source": "research/instagram_carousels/runs/20260718T145604Z/source/slide-01.png", "source_sha256": "bee621544887b5216c9a646f3d578f02d9097246173cf8f68980661e97b51e11", "final": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-01.png", "final_sha256": "4827a41baa3b72cdff57fa63dfc1230958939d69ed3c2fb9e985cc2c756b2969", "content_start_y": 431},
+    {"slide": 2, "prompt_id": "slide-02-outcomes", "source": "research/instagram_carousels/runs/20260718T145604Z/source/slide-02.png", "source_sha256": "587f4f2ca47b5d9c6ebbeaa7c618c9b60e9cf3d7a3424d8a7039d3ea89a259e7", "final": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-02.png", "final_sha256": "69559415e4404fa3748f202a6844afc86f744112f9725b5809cea67b3c3a3612", "content_start_y": 251},
+    {"slide": 3, "prompt_id": "slide-03-program", "source": "research/instagram_carousels/runs/20260718T145604Z/source/slide-03.png", "source_sha256": "516ddb83cd182d1cf0c6ef0945b3cfacbadf5631d10c64dbcdf8e91657eee4c0", "final": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-03.png", "final_sha256": "60dfbeaf4dbf7a6a08a58233e621cdb3e72119479b6d917b074ca83a2cd81b79", "content_start_y": 230},
+    {"slide": 4, "prompt_id": "slide-04-requests", "source": "research/instagram_carousels/runs/20260718T145604Z/source/slide-04.png", "source_sha256": "c6c81462a0a2a0236a8bec8a22f0298a14efd87bcba3f2a6bf3d2ecfc8b48446", "final": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-04.png", "final_sha256": "7890c85b4420ea69742c2461bf8f2fd11d7c43974fea040fedd410c9c494954d", "content_start_y": 232},
+    {"slide": 5, "prompt_id": "slide-05-cases", "source": "research/instagram_carousels/runs/20260718T145604Z/source/slide-05.png", "source_sha256": "e79af20feb3f1e6bb3f1e5b609053a678d39f9d703727399869cb3546dbe65f4", "final": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-05.png", "final_sha256": "7a944822c8f2642136e96cff04fbea1184f8ddc360756cf6a539dada616527f1", "content_start_y": 218},
+    {"slide": 6, "prompt_id": "slide-06-conditions", "source": "research/instagram_carousels/runs/20260718T145604Z/source/slide-06.png", "source_sha256": "07fcc8d4a34a398f83f67857337c4cb747611ed28ffb497cebbb37963963e972", "final": "research/instagram_carousels/runs/20260718T145604Z/generated/slide-06.png", "final_sha256": "9fbd339584a096a8a9965de3dca56b37315130064e6dde4958887c5c25095a17", "content_start_y": 280}
+  ],
+  "abandoned_runs_not_reused": ["20260718T135141Z", "20260718T142638Z"],
+  "qa_status": "passed_review_draft",
+  "publication_ready": false,
+  "publication_blockers": [
+    "27 октября 2026 — согласованное предложение, а не подтверждённый факт потока",
+    "публичные разрешения для чувствительных participant cases требуют финальной проверки"
+  ]
+}

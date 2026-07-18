@@ -1,0 +1,13 @@
+filters:
+  and:
+    - type == "editorial_run"
+views:
+  - type: table
+    name: Editorial Runs
+    order:
+      - file.name
+      - workflow
+      - run_kind
+      - workflow_status
+      - publication_status
+      - generated_at

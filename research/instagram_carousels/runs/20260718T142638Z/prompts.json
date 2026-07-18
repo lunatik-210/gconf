@@ -1,0 +1,106 @@
+[
+  {
+    "id": "slide-01-cover",
+    "prompt": "Create the CONTENT ZONE of a 9:16 GCONF Instagram Story/Reels announcement slide. This is ads-marketing editorial design in Russian. The top header is code-owned and will be overwritten: do not invent a header, page number, metadata, or the word ‘обложка’. Begin the actual content directly below that zone, around y=230 on a 1080×1920 canvas. Keep all important text inside a central safe width with 140 px side margins because cover normalization may crop edges. Reference roles: the blue slide is the strict contract for structure, hierarchy, density and vertical positioning; the blank 9:16 master is the strict canvas/header-zone reference; the coral slide supplies only the approved palette and visual character; the feed screenshot supplies overall GCONF brand grammar. Use warm paper #F7F4EE, graphite #171513, muted coral #D96C50, soft peach #F0D8CF, quiet grid #E1DCD4. Flat editorial layout, bold Cyrillic grotesk, no photos, gradients, 3D AI clichés, fake UI, or watermark. Preserve every line below; only line breaks and typography may change. Render one large title and one smaller subtitle; never duplicate the title. Exact copy:\nVibe Coding\nAI Ops\nза 3 недели перейдёте от первого агента, который однажды сработал, к живой AI-операционке:\n- контекст и память - проверки и границы - рабочий ритм улучшений\nстарт: [ДАТА — НУЖНО ПОДТВЕРДИТЬ] · 3 недели · $650",
+    "required_text": [
+      "Vibe Coding",
+      "AI Ops",
+      "за 3 недели перейдёте от первого агента, который однажды сработал, к живой AI-операционке:",
+      "- контекст и память - проверки и границы - рабочий ритм улучшений",
+      "старт: [ДАТА — НУЖНО ПОДТВЕРДИТЬ] · 3 недели · $650"
+    ],
+    "references": [
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5125.jpg"},
+      {"role": "format_and_header_zone", "path": "research/instagram_carousels/templates/header-template-9x16.png"},
+      {"role": "palette_visual_character", "path": "research/instagram_carousels/runs/20260718T131651Z/generated/slide-01.png"},
+      {"role": "brand_grammar", "path": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG"}
+    ]
+  },
+  {
+    "id": "slide-02-outcomes",
+    "prompt": "Create the CONTENT ZONE of a 9:16 GCONF Instagram Story/Reels slide in Russian. The top header is code-owned and will be overwritten; do not generate page numbers or metadata. Begin the heading and first result immediately below the header, around y=230 on 1080×1920, with no second blank buffer. Keep content inside 140 px side safe margins. The blue slide is the strict structure/density/geometry contract; the 9:16 master fixes canvas and header zone; the coral slide supplies palette/visual character only; the feed screenshot supplies GCONF grammar. Warm paper, graphite text, muted coral highlights, soft peach chips and a quiet grid. Use a compact heading plus five full numbered rows. Reduce font and spacing before removing words. No photos, gradients, fake UI, watermark, extra copy, or invented metadata. Preserve exactly:\n01 выберете один повторяемый процесс, который действительно нужен в работе или жизни\n02 соберёте для него контекст, память и правила — без вечного копирования между чатами\n03 свяжете агента с нужными файлами и привычными каналами работы\n04 настроите границы и проверки: где система действует, а где ждёт вашего решения\n05 доведёте первую версию до рабочего ритма и поймёте, как её поддерживать",
+    "required_text": [
+      "01 выберете один повторяемый процесс, который действительно нужен в работе или жизни",
+      "02 соберёте для него контекст, память и правила — без вечного копирования между чатами",
+      "03 свяжете агента с нужными файлами и привычными каналами работы",
+      "04 настроите границы и проверки: где система действует, а где ждёт вашего решения",
+      "05 доведёте первую версию до рабочего ритма и поймёте, как её поддерживать"
+    ],
+    "references": [
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5126.jpg"},
+      {"role": "format_and_header_zone", "path": "research/instagram_carousels/templates/header-template-9x16.png"},
+      {"role": "palette_visual_character", "path": "research/instagram_carousels/runs/20260718T131651Z/generated/slide-02.png"},
+      {"role": "brand_grammar", "path": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG"}
+    ]
+  },
+  {
+    "id": "slide-03-program",
+    "prompt": "Create the CONTENT ZONE of a dense 9:16 GCONF Instagram Story/Reels program slide in Russian. The top header is code-owned and will be overwritten; do not create metadata. Start the content around y=230 with no extra blank zone. Keep everything inside 140 px side safe margins. The matching blue slide is the strict 2×3 structure, density and geometry contract; the 9:16 master fixes format/header zone; the coral slide supplies only palette and visual character; the feed screenshot supplies GCONF grammar. Use a compact heading and a legible 2×3 grid of six blocks, with small bold block names and neutral body copy. Warm paper, graphite, muted coral accents under 15%, soft peach, quiet grid. Reduce font and gaps, never content. No photos, gradients, fake UI, watermark, or extra copy. Preserve each full block exactly:\nдоступы и рабочий setup разберём, какие нейронки вам нужны, что установить и как оплатить — и поможем всё настроить, чтобы вы не застряли в самом начале\nконтекст и память соберём только нужные файлы, историю и инструкции — чтобы агент не начинал с нуля, а вы понимали, какие данные ему действительно доступны\nживой workflow возьмём одну вашу повторяемую задачу и проведём до проверенного результата — чтобы второй запуск не пришлось снова собирать руками\nмета-навыки: lifecycle научимся замечать, где агент забыл инструкцию, вернул ошибку или сделал тесты для галочки — и чинить процесс, а не бесконечно переписывать промпт\nQ&A и разборы определим минимальные права и ручные проверки — чтобы не отдавать агенту весь компьютер и не доверять критичные действия вслепую\nживая практика созвоны, чат и работа на своих задачах — чтобы не остаться один на один с неработающим setup; записи и материалы остаются навсегда",
+    "required_text": [
+      "доступы и рабочий setup разберём, какие нейронки вам нужны, что установить и как оплатить — и поможем всё настроить, чтобы вы не застряли в самом начале",
+      "контекст и память соберём только нужные файлы, историю и инструкции — чтобы агент не начинал с нуля, а вы понимали, какие данные ему действительно доступны",
+      "живой workflow возьмём одну вашу повторяемую задачу и проведём до проверенного результата — чтобы второй запуск не пришлось снова собирать руками",
+      "мета-навыки: lifecycle научимся замечать, где агент забыл инструкцию, вернул ошибку или сделал тесты для галочки — и чинить процесс, а не бесконечно переписывать промпт",
+      "Q&A и разборы определим минимальные права и ручные проверки — чтобы не отдавать агенту весь компьютер и не доверять критичные действия вслепую",
+      "живая практика созвоны, чат и работа на своих задачах — чтобы не остаться один на один с неработающим setup; записи и материалы остаются навсегда"
+    ],
+    "references": [
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5127.jpg"},
+      {"role": "format_and_header_zone", "path": "research/instagram_carousels/templates/header-template-9x16.png"},
+      {"role": "palette_visual_character", "path": "research/instagram_carousels/runs/20260718T131651Z/generated/slide-03.png"},
+      {"role": "brand_grammar", "path": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG"}
+    ]
+  },
+  {
+    "id": "slide-04-requests",
+    "prompt": "Create the CONTENT ZONE of a 9:16 GCONF Instagram Story/Reels audience-requests slide in Russian. The top header is code-owned and will be overwritten; do not generate metadata. Begin around y=230 with no second blank buffer and keep all text inside 140 px side safe margins. The matching blue slide is the strict structure/density/geometry contract; the 9:16 master fixes canvas/header zone; the coral slide supplies palette/visual character only; the feed screenshot supplies GCONF grammar. Use six compact quote-like rows with subtle dividers and selective muted-coral highlights. No names, jobs, countries, attribution, photos, gradients, fake UI, watermark, or extra copy. Preserve all six requests exactly:\nпользуюсь ChatGPT, но не понимаю, с какой своей задачи начать работу с агентами\nв России всё упирается в доступы, аккаунты и оплату — что с этим делать?\nстрашно отдавать агенту компьютер и личные данные: где поставить границу?\nконтекст снова расползается — агент не помнит прошлые решения и вводные\nClaude Code затягивает задачу, оставляет баги и делает тесты для галочки\nдаже записанные инструкции агент иногда пропускает — и снова делает не то",
+    "required_text": [
+      "пользуюсь ChatGPT, но не понимаю, с какой своей задачи начать работу с агентами",
+      "в России всё упирается в доступы, аккаунты и оплату — что с этим делать?",
+      "страшно отдавать агенту компьютер и личные данные: где поставить границу?",
+      "контекст снова расползается — агент не помнит прошлые решения и вводные",
+      "Claude Code затягивает задачу, оставляет баги и делает тесты для галочки",
+      "даже записанные инструкции агент иногда пропускает — и снова делает не то"
+    ],
+    "references": [
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5128.jpg"},
+      {"role": "format_and_header_zone", "path": "research/instagram_carousels/templates/header-template-9x16.png"},
+      {"role": "palette_visual_character", "path": "research/instagram_carousels/runs/20260718T131651Z/generated/slide-04.png"},
+      {"role": "brand_grammar", "path": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG"}
+    ]
+  },
+  {
+    "id": "slide-05-cases",
+    "prompt": "Create the CONTENT ZONE of a dense 9:16 GCONF Instagram Story/Reels evidence slide in Russian. The top header is code-owned and will be overwritten; do not generate metadata. Start around y=230 with no second blank buffer; keep all copy inside 140 px side safe margins. The matching blue slide is the strict 2×3 structure, hierarchy, density and geometry contract; the 9:16 master fixes format/header zone; the coral slide supplies approved palette/visual character only; the feed screenshot supplies GCONF grammar. Use the visible group heading ‘С чем уходят участники GCONF’, then six compact cards. Do not show individual origins, names, professions, countries, permission notes, or a caveat. Reduce font and gaps before text. No photos, gradients, fake UI, watermark, or extra claims. Preserve each case exactly:\nпамять коуч в Telegram + автоматические Markdown-summary «он точно так же помнит контекст, если не лучше»\nсвой инструмент HTML-файл для закупочной задачи «с нулевым опытом программирования сделала удобный html-файл. месяцы не могла допроситься айтишников»\nпервый релиз сайт, собранный с нуля «это мой первый в жизни сайт, и я чувствую себя капец взрослой»\nрабочий фильтр коллектор вакансий со smart-фильтром «за пару часов на выходных сделал коллектор вакансий со смарт-фильтром, работает вполне годно»\nоркестрация ролей домашняя система для разбора истории здоровья «собрала для мамы домашнего доктора. скорее мини-оркестр из ролей»\nструктура из истории два года переписок собраны для дальнейшего разбора «загрузила всё в codex и получила глубокий психологический анамнез»",
+    "required_text": [
+      "память коуч в Telegram + автоматические Markdown-summary «он точно так же помнит контекст, если не лучше»",
+      "свой инструмент HTML-файл для закупочной задачи «с нулевым опытом программирования сделала удобный html-файл. месяцы не могла допроситься айтишников»",
+      "первый релиз сайт, собранный с нуля «это мой первый в жизни сайт, и я чувствую себя капец взрослой»",
+      "рабочий фильтр коллектор вакансий со smart-фильтром «за пару часов на выходных сделал коллектор вакансий со смарт-фильтром, работает вполне годно»",
+      "оркестрация ролей домашняя система для разбора истории здоровья «собрала для мамы домашнего доктора. скорее мини-оркестр из ролей»",
+      "структура из истории два года переписок собраны для дальнейшего разбора «загрузила всё в codex и получила глубокий психологический анамнез»"
+    ],
+    "references": [
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5129.jpg"},
+      {"role": "format_and_header_zone", "path": "research/instagram_carousels/templates/header-template-9x16.png"},
+      {"role": "palette_visual_character", "path": "research/instagram_carousels/runs/20260718T131651Z/generated/slide-05.png"},
+      {"role": "brand_grammar", "path": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG"}
+    ]
+  },
+  {
+    "id": "slide-06-cta",
+    "prompt": "Create the CONTENT ZONE of a 9:16 GCONF Instagram Story/Reels CTA slide in Russian. The top header is code-owned and will be overwritten; do not generate metadata. Begin around y=260 with no second blank buffer and keep all text inside 140 px side safe margins. The matching blue slide is the strict structure/density/geometry contract; the 9:16 master fixes canvas/header zone; the coral slide supplies palette/visual character only; the feed screenshot supplies GCONF grammar. Keep the whole slide on warm paper, never coral full-bleed. Use one editorial title, a compact placeholder CTA, four clearly visible condition tags, and a compact conditions table. Coral at most 25%. No photos, gradients, fake UI, watermark, invented date or CTA. Preserve exactly:\nVibe Coding · AI Ops\n[CTA — НУЖНО ПОДТВЕРДИТЬ]\n3 недели живой практики · чат и Q&A · разборы ваших задач записи и материалы — навсегда\nстарт: [ДАТА — НУЖНО ПОДТВЕРДИТЬ] длительность: 3 недели стоимость: $650 · 52 000 ₽",
+    "required_text": [
+      "Vibe Coding · AI Ops",
+      "[CTA — НУЖНО ПОДТВЕРДИТЬ]",
+      "3 недели живой практики · чат и Q&A · разборы ваших задач записи и материалы — навсегда",
+      "старт: [ДАТА — НУЖНО ПОДТВЕРДИТЬ] длительность: 3 недели стоимость: $650 · 52 000 ₽"
+    ],
+    "references": [
+      {"role": "structure_density_geometry", "path": "Instagram/Прошлый Анонс/IMG_5130.jpg"},
+      {"role": "format_and_header_zone", "path": "research/instagram_carousels/templates/header-template-9x16.png"},
+      {"role": "palette_visual_character", "path": "research/instagram_carousels/runs/20260718T131651Z/generated/slide-06.png"},
+      {"role": "brand_grammar", "path": "Instagram/Прошлый Анонс/инстаграмм аккаунт gconf.PNG"}
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "run_id": "20260718T162641Z",
+  "generated_at": "2026-07-18T16:26:41Z",
+  "review_status": "ready_for_human_review",
+  "publication_ready": false,
+  "radar_run": "research/news_analysis/runs/20260718T155013Z",
+  "selected_topic_ids": [
+    "news-20260713-gconf-telegram-control-plane",
+    "news-20260708-gconf-format-time-horizon"
+  ],
+  "human_selection": true,
+  "voice_mode": "GCONF",
+  "address": "vy",
+  "cta_mode": "editorial",
+  "posts": [
+    {
+      "topic_id": "news-20260713-gconf-telegram-control-plane",
+      "file": "news-news-20260713-gconf-telegram-control-plane.md",
+      "format": "gconf_field_note",
+      "focus": "Telegram becomes an agent entry point only when context, permissions, action, observation, and human decision are designed as one loop.",
+      "behavioral_transition": "From adding a bot to a messenger to mapping an explicit six-stage workflow with a human gate.",
+      "tension": "Convenient access and accumulated context raise usefulness and permission risk together.",
+      "primary_evidence_ref": "ev-gconf-team-processes",
+      "evidence_refs": [
+        "ev-gconf-codex-telegram",
+        "ev-gconf-openclaw-ops",
+        "ev-gconf-team-processes"
+      ],
+      "coverage_delta": "A chronology and decision-rights model join three already-published stages, but a fresh walkthrough is still absent.",
+      "cta": {
+        "type": "editorial",
+        "text": "Возьмите один процесс, который уже начинается в мессенджере, и нарисуйте шесть ячеек: запрос → контекст → разрешение → действие → проверка → результат. Отдельно отметьте шаг, где решение остаётся за вами."
+      },
+      "source_revalidated_at": "2026-07-18T16:26:41Z",
+      "central_fact_status": "unchanged",
+      "format_change_reason": "None; retained the radar's gconf_field_note format.",
+      "quality_scores": {
+        "taste": 2,
+        "philosophy": 2,
+        "research": 2,
+        "process_quality": 2,
+        "growth": 1
+      },
+      "publication_ready": false
+    },
+    {
+      "topic_id": "news-20260708-gconf-format-time-horizon",
+      "file": "news-news-20260708-gconf-format-time-horizon.md",
+      "format": "gconf_field_note",
+      "focus": "Compare short and long formats by the behavior they unlock and retain, not by the attractiveness of first artifacts.",
+      "behavioral_transition": "From celebrating first outputs to measuring second use, manual remainder, failure, and support needs.",
+      "tension": "A fast artifact can remove the starting barrier without proving that a workflow survives after the event.",
+      "primary_evidence_ref": "ev-gconf-weekend-results",
+      "evidence_refs": [
+        "ev-gconf-three-week-cases",
+        "ev-gconf-case-roundup",
+        "ev-gconf-weekend-results",
+        "ev-card-ticket-monitor",
+        "ev-card-telegram-calendar"
+      ],
+      "coverage_delta": "A clearly limited activation-versus-practice hypothesis and standardized follow-up are added to already-published cases.",
+      "cta": {
+        "type": "editorial",
+        "text": "Отправьте участникам обоих форматов одинаковый follow-up: использовали ли вы результат второй раз, что осталось ручным, где он сломался и какая помощь понадобилась?"
+      },
+      "source_revalidated_at": "2026-07-18T16:26:41Z",
+      "central_fact_status": "unchanged",
+      "format_change_reason": "None; retained the radar's gconf_field_note format.",
+      "quality_scores": {
+        "taste": 2,
+        "philosophy": 2,
+        "research": 2,
+        "process_quality": 2,
+        "growth": 1
+      },
+      "publication_ready": false
+    }
+  ],
+  "unresolved_items": [
+    "The Telegram control-plane draft needs a new safe end-to-end workflow artifact, permission boundary, and failure edge before publication.",
+    "The format time-horizon draft needs standardized participant follow-up before its comparative hypothesis can be strengthened or published as a field conclusion."
+  ],
+  "output_files": [
+    "brief.md",
+    "evidence-ledger.json",
+    "coverage.json",
+    "audit.md",
+    "manifest.json",
+    "news-news-20260713-gconf-telegram-control-plane.md",
+    "news-news-20260708-gconf-format-time-horizon.md"
+  ]
+}

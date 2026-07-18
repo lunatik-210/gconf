@@ -1,0 +1,77 @@
+{
+  "ok": true,
+  "results": [
+    {
+      "slide": 1,
+      "path": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-01.png",
+      "ok": true,
+      "errors": [],
+      "content_start_y": 264,
+      "content_end_y": 1252,
+      "vertical_fill": 0.915,
+      "blue_pixels": 0,
+      "coral_pixels": 15999,
+      "coral_ratio": 0.01097
+    },
+    {
+      "slide": 2,
+      "path": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-02.png",
+      "ok": true,
+      "errors": [],
+      "content_start_y": 228,
+      "content_end_y": 1179,
+      "vertical_fill": 0.834,
+      "blue_pixels": 0,
+      "coral_pixels": 20760,
+      "coral_ratio": 0.01424
+    },
+    {
+      "slide": 3,
+      "path": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-03.png",
+      "ok": true,
+      "errors": [],
+      "content_start_y": 179,
+      "content_end_y": 1267,
+      "vertical_fill": 0.954,
+      "blue_pixels": 0,
+      "coral_pixels": 18089,
+      "coral_ratio": 0.01241
+    },
+    {
+      "slide": 4,
+      "path": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-04.png",
+      "ok": true,
+      "errors": [],
+      "content_start_y": 200,
+      "content_end_y": 1276,
+      "vertical_fill": 0.944,
+      "blue_pixels": 0,
+      "coral_pixels": 22762,
+      "coral_ratio": 0.01561
+    },
+    {
+      "slide": 5,
+      "path": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-05.png",
+      "ok": true,
+      "errors": [],
+      "content_start_y": 156,
+      "content_end_y": 1174,
+      "vertical_fill": 0.893,
+      "blue_pixels": 0,
+      "coral_pixels": 5504,
+      "coral_ratio": 0.00378
+    },
+    {
+      "slide": 6,
+      "path": "research/instagram_carousels/runs/20260718T155118Z/generated/slide-06.png",
+      "ok": true,
+      "errors": [],
+      "content_start_y": 254,
+      "content_end_y": 1240,
+      "vertical_fill": 0.905,
+      "blue_pixels": 0,
+      "coral_pixels": 47902,
+      "coral_ratio": 0.03285
+    }
+  ]
+}

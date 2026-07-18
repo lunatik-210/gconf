@@ -1,0 +1,50 @@
+{
+  "ok": true,
+  "master": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png",
+  "results": [
+    {
+      "path": "research/instagram_carousels/runs/20260718T145604Z/master/slide-00-master.png",
+      "ok": true,
+      "errors": [],
+      "master_geometry": {
+        "left_bbox": [
+          71,
+          75,
+          211,
+          102
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1019,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 88.5,
+        "right_anchor_x": 1019,
+        "right_center_y": 87.0
+      },
+      "candidate_geometry": {
+        "left_bbox": [
+          71,
+          75,
+          211,
+          102
+        ],
+        "right_bbox": [
+          909,
+          76,
+          1019,
+          98
+        ],
+        "left_anchor_x": 71,
+        "left_center_y": 88.5,
+        "right_anchor_x": 1019,
+        "right_center_y": 87.0
+      },
+      "background_mae": 0.0,
+      "master_coral_pixels": 1000,
+      "candidate_coral_pixels": 1000
+    }
+  ]
+}

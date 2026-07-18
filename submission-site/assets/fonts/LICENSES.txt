@@ -1,0 +1,7 @@
+Unbounded, Golos Text and JetBrains Mono are redistributed as self-hosted WOFF2 files.
+
+Unbounded — Copyright 2022 The Unbounded Project Authors. Licensed under the SIL Open Font License 1.1.
+Golos Text — Copyright The Golos Text Project Authors. Licensed under the SIL Open Font License 1.1.
+JetBrains Mono — Copyright 2020 The JetBrains Mono Project Authors. Licensed under the SIL Open Font License 1.1.
+
+License text: https://openfontlicense.org/open-font-license-official-text/
