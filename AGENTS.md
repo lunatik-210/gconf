@@ -155,65 +155,229 @@ feelings, or unverified personal positions.
   also asks to index, analyze, or curate the result, hand the completed local
   video package to `$gconf-knowledge-ingest`.
 
-## Local knowledge system
+## End-to-end project process
 
-The project uses a local pipeline:
+The complete operating chain is:
 
-> collected artifacts → deterministic ingestion → insight extraction → Obsidian review → editorial synthesis
+> collection → deterministic ingestion → semantic extraction → human review → editorial analysis → human selection → writing → human approval → formatting/design → manual publication
+
+Do not collapse adjacent stages into one agent action. Collection does not
+perform semantic judgment, ingestion does not write editorial conclusions,
+analysis does not silently become public copy, and no project skill publishes.
+
+### Collection boundaries
+
+- YouTube is the only platform with a complete repository-local collection
+  workflow. Route a YouTube URL through `$gconf-youtube-research`; use
+  `$gconf-yt-dlp` only for low-level probing or extractor diagnostics and
+  `$gconf-local-whisper` only for a local transcript or a captions-unavailable
+  fallback.
+- Telegram exports, Instagram exports, official-lab Web Articles, and local
+  research files must already exist as local artifacts before ingestion. The
+  project currently has no Telegram, Instagram, or general web crawler skill.
+- `$gconf-knowledge-ingest` never downloads, scrapes, transcribes, opens live
+  sources, or calls a network API. It imports local packages only.
+- Live pages opened by `$gconf-announcement-analysis`, `$gconf-news-radar`, or
+  `$gconf-news-writer` are editorial evidence checks, not collection. Material
+  absent from the local pipeline remains `unindexed_observation`; record its
+  URL in `ingestion_queue`. To index it later, first create a valid local source
+  package through an authorized collection step, then run ingestion.
+- Official AI-lab articles live under
+  `Web Articles/<Lab>/<article>/<snapshot>/`. They require checksum-verified
+  `metadata.json` and a full normalized `article.md`; `research-note.md` is
+  secondary editorial navigation. Only exact official domains are accepted,
+  and the importer never fetches the page itself.
 
 ### Project skills and boundaries
 
-- `$gconf-youtube-research` collects and normalizes one YouTube research
-  package. It owns metadata, statistics, comments, chapters, description,
-  captions, transcript fallback, thumbnails, and `YouTube/catalog.json`.
-- `$gconf-yt-dlp` is the low-level YouTube diagnostic and probe skill. Do not
-  use it instead of the complete YouTube research workflow.
-- `$gconf-local-whisper` transcribes local media or provides the transcript
-  fallback when YouTube captions are unavailable.
-- `$gconf-knowledge-ingest` imports already-collected YouTube, Telegram,
-  Instagram, official-lab Web Articles, and local research artifacts into the knowledge system. It must
-  never scrape, download, transcribe, call a network API, or publish content.
-- `$gconf-insight-extract` reads the SQLite index, prepares bounded evidence
-  batches, creates traceable candidate cards, and tracks completed batches by
-  Obsidian fingerprint cards. It must never collect sources, approve cards,
-  draft public content, or publish.
+- `$gconf-youtube-research` takes one YouTube URL or an existing video snapshot,
+  collects and normalizes metadata, time-bound statistics, comments, chapters,
+  description, thumbnail, captions or transcript fallback, and updates
+  `YouTube/catalog.json`. It writes only the YouTube research package, never
+  SQLite or Obsidian. Hand the resulting `video_folder` to
+  `$gconf-knowledge-ingest` when indexing or later analysis is requested.
+- `$gconf-yt-dlp` takes a video URL and produces a probe or diagnostic result.
+  It is a low-level helper for caption and extractor troubleshooting, not the
+  complete artifact workflow, a static-web research tool, or a media archiver.
+  Return to `$gconf-youtube-research` after diagnosis.
+- `$gconf-local-whisper` takes an existing local audio or video file plus an
+  output base and produces `.srt` and `.txt` transcripts. It may serve the
+  YouTube fallback, but it never ingests the transcript, stores a model in the
+  repository, or installs dependencies without explicit approval. Pass a
+  completed local artifact to `$gconf-knowledge-ingest` only when indexing is
+  separately requested.
+- `$gconf-knowledge-ingest` takes an already-collected YouTube, Telegram,
+  Instagram, official-lab Web Article, or local research package. It preserves
+  raw sources, updates `knowledge/_index/gconf.sqlite`, refreshes generated
+  `knowledge/sources/` cards, and writes an auditable report to
+  `knowledge/runs/`. It never collects, transcribes, performs semantic
+  extraction, or publishes. Hand off to `$gconf-insight-extract` when semantic
+  knowledge must be identified or refreshed.
+- `$gconf-insight-extract` takes a valid SQLite index and one pending or stale
+  logical evidence batch. It reads complete evidence context and writes only
+  traceable `review_status: candidate` cards in typed `knowledge/` folders plus
+  processing markers. It never calls the network, approves candidates, drafts
+  content, or publishes. Human review decides whether a candidate becomes part
+  of the approved semantic layer used by editorial work.
+- `$gconf-announcement-analysis` takes a ready local knowledge context, the live
+  `gconf.io` page, announcement history, the tone standard, and current public
+  signals. It writes `analysis.md` and `manifest.json` only under a new
+  `research/announcement_analysis/runs/<UTC-run-id>/`, proposes two or three
+  directions, and leaves selection unset. It never refreshes knowledge,
+  collects sources, writes public copy, or chooses the direction. A human must
+  select a direction before `$gconf-announcement-writer` may run.
+- `$gconf-announcement-writer` takes a validated announcement-analysis run, a
+  human-selected `direction_id`, prior Telegram and Instagram locators,
+  screenshots, product name, voice mode, address form, and a confirmed-facts
+  allowlist. It writes a brief, evidence ledger, standalone Telegram draft,
+  and exactly six Instagram slides plus caption under a new
+  `research/announcement_drafts/runs/<UTC-run-id>/`. It never selects strategy,
+  invents offer facts, designs graphics, mutates evidence, or publishes. After
+  human copy and permission review, hand approved Instagram copy to
+  `$gconf-instagram-carousel-designer` and an explicitly selected clean
+  Telegram draft to `$gconf-telegram-formatter`.
+- `$gconf-instagram-carousel-designer` takes approved six-slide copy from one
+  announcement-writer run and the required local visual references. It uses one
+  approved 1080×1350 master frame and grayscale structural derivatives to write
+  a new `research/instagram_carousels/runs/<UTC-run-id>/` containing source,
+  normalized, and validated six-image assets. It never rewrites strategy or
+  copy, invents facts, modifies source references, or publishes. Human visual
+  approval is required before manual publication.
+- `$gconf-news-radar` takes current public AI signals, a mandatory 30-day sweep
+  of all local source lanes (with a documented maximum extension to 60 days),
+  all semantic-card types, full GCONF-owned prior-channel coverage, and earlier
+  news runs. The lanes include public Telegram, Instagram posts and comments,
+  YouTube videos, transcript chunks and comments, protagonist sources, and
+  internal GCONF/community material as discovery-only evidence. It writes a
+  validated, deduplicated, scored backlog only
+  under a new `research/news_analysis/runs/<UTC-run-id>/`, with
+  `selected_topic_ids: []`. It never drafts public copy, selects topics,
+  collects or ingests sources, alters knowledge, or invokes the writer. A human
+  must explicitly choose topic IDs before `$gconf-news-writer` may run.
+- `$gconf-news-writer` takes a validated radar run, one or more explicit
+  human-selected `topic_id` values, voice mode, address form, and an editorial
+  or confirmed commercial CTA. It reopens primary sources and writes one
+  reviewable Telegram draft per topic under a new
+  `research/news_drafts/runs/<UTC-run-id>/`. It never discovers or substitutes
+  topics, changes radar rankings, mutates evidence, or publishes. If freshness
+  changes the central fact or selected focus, return the topic to human review;
+  otherwise hand an explicitly selected clean draft to
+  `$gconf-telegram-formatter` after editorial approval.
+- `$gconf-telegram-formatter` takes explicit clean public-copy paths or explicit
+  filenames from a writer run. It preserves facts, voice, CTA, links, and
+  limitations while writing new, validated Markdown derivatives to
+  `Telegram, News to publish/` by default. It never infers `latest`, selects or
+  rewrites posts, overwrites source drafts, calls Telegram, schedules, or
+  publishes. The output is a handoff for manual publication only.
 
-Do not duplicate collection logic in downstream skills. A request such as
-“collect this video and add it to the knowledge base” should invoke
-`$gconf-youtube-research` first and `$gconf-knowledge-ingest` second.
-When the request also asks to identify new pains, cases, labs, technologies, trends, or claims,
-invoke `$gconf-insight-extract` third.
+### Knowledge flow
 
-Official AI-lab articles live under `Web Articles/<Lab>/<article>/<snapshot>/`.
-They must contain checksum-verified `metadata.json` and a full normalized
-`article.md`; `research-note.md` is secondary editorial navigation. Only exact
-official domains are accepted. The importer never fetches these pages itself.
+Do not duplicate collection logic in downstream skills. Route common requests
+as follows:
 
-### Storage responsibilities
+- collect one YouTube video:
+  `$gconf-youtube-research`;
+- collect and index a YouTube video:
+  `$gconf-youtube-research` → `$gconf-knowledge-ingest`;
+- collect, index, and identify new pains, cases, labs, technologies, trends, or
+  claims:
+  `$gconf-youtube-research` → `$gconf-knowledge-ingest` →
+  `$gconf-insight-extract`;
+- index an already-collected Telegram, Instagram, Web Article, YouTube, or
+  local research package:
+  `$gconf-knowledge-ingest`, followed by `$gconf-insight-extract` only when
+  semantic extraction is requested.
 
-- `telegram/`, `Instagram/`, `YouTube/`, `Web Articles/`, and `research/` contain source
-  artifacts. Treat them as immutable evidence during ingestion.
-- `knowledge/_index/gconf.sqlite` is the derived machine index. It contains
-  normalized sources, documents, comments, transcript chunks, reply edges,
-  checksums, provenance, and full-text search indexes.
-- `knowledge/` is also an Obsidian vault. Open this directory directly in
-  Obsidian.
-- `knowledge/sources/` contains generated source cards. They may be refreshed
-  or recreated by the importer.
-- Typed folders such as `knowledge/pains/`, `knowledge/cases/`,
-  `knowledge/trends/`, `knowledge/technologies/`, `knowledge/labs/`,
-  `knowledge/actors/`, and `knowledge/cohorts/` contain
-  both candidate and reviewed semantic knowledge. Use `review_status`, not
-  folder location, to distinguish them.
-- `knowledge/processing/` contains committed scope definitions and processing
-  cards. A matching input fingerprint means a logical evidence batch has been
-  fully reviewed by the extractor; it does not mean its semantic candidates
-  have been human-approved.
-- `knowledge/runs/` contains JSON ingestion reports for auditability.
+SQLite and generated source cards are a derived machine index, not the
+editorial source of truth. Raw artifacts remain the evidence. Insight Extract
+creates candidates only; a completed processing fingerprint means the evidence
+batch was reviewed, not that its semantic candidates were human-approved.
+Reviewed Markdown cards are the approved semantic layer.
 
-SQLite is not the editorial source of truth. Raw artifacts remain the evidence,
-and reviewed Markdown cards are the approved semantic layer. The SQLite file
-must be rebuildable from local artifacts without deleting reviewed cards.
+### Announcement flow
+
+Keep the announcement handoff explicit:
+
+> knowledge readiness → `$gconf-announcement-analysis` → human direction selection → `$gconf-announcement-writer` → human copy and permission approval → `$gconf-instagram-carousel-designer` and/or `$gconf-telegram-formatter` → manual publication
+
+- The live `https://www.gconf.io/` page is the mandatory current-offer
+  baseline. A cached or historical approximation is not sufficient.
+- If announcement preflight finds invalid, pending, or stale knowledge, stop
+  and hand off to `$gconf-knowledge-ingest` and then
+  `$gconf-insight-extract`; never refresh either layer silently.
+- Analysis ranks and proposes directions but writes no announcement copy and
+  leaves human selection unset.
+- Writing requires an explicit `direction_id` and confirmed-facts allowlist.
+  Unknown dates, prices, speakers, capacity, curriculum, results, availability,
+  CTA destinations, or permissions remain placeholders or blockers.
+- Evidence approval and publication permission are separate gates. Named or
+  exact quoted material requires documented permission or prior official GCONF
+  publication before it enters clean public copy.
+- The carousel designer accepts approved copy only and may not solve visual
+  constraints by deleting meaning or adding claims. The Telegram formatter
+  accepts an explicitly selected clean public post only.
+
+### News flow
+
+Keep the news handoff explicit:
+
+> live signals plus local knowledge → `$gconf-news-radar` → human topic selection → `$gconf-news-writer` → human draft selection → `$gconf-telegram-formatter` → manual publication
+
+A request for possible or priority news topics stops after the radar backlog.
+The radar must review all required source lanes and full prior coverage, leave
+`selected_topic_ids` empty, and never invoke the writer. Only a later request
+containing a validated radar run and explicit topic IDs may produce drafts.
+The writer must recheck primary-source freshness and may not replace a stale or
+materially changed topic. Neither news skill silently ingests live web evidence;
+use `unindexed_observation` and `ingestion_queue` until a valid local source
+package exists. Formatting starts only from a human-selected clean draft, and
+publication remains manual.
+
+### Mandatory human gates
+
+Human judgment is required for:
+
+1. reviewing and approving semantic candidates;
+2. selecting one announcement direction;
+3. confirming the announcement fact and CTA allowlist;
+4. deciding quotation, case, attribution, and publication permissions;
+5. selecting news topic IDs from a validated radar run;
+6. accepting primary-source freshness and any material limitations;
+7. approving final public copy and selecting the exact draft to hand off;
+8. approving the six final carousel images;
+9. publishing or scheduling any content.
+
+No completion marker, score, ranking, validator result, or approved evidence
+card replaces these editorial and publication gates.
+
+### Artifact and storage responsibilities
+
+- Source packages: `telegram/`, `Instagram/`, `YouTube/`, `Web Articles/`, and
+  local source material under `research/`. Treat source evidence as immutable
+  during ingestion.
+- Derived machine index: `knowledge/_index/gconf.sqlite`, containing normalized
+  sources, documents, comments, transcript chunks, reply edges, checksums,
+  provenance, and full-text search indexes.
+- Generated source cards and ingestion reports: `knowledge/sources/` and
+  `knowledge/runs/`. They may be refreshed or recreated by the importer.
+- Obsidian semantic layer: typed folders such as `knowledge/pains/`,
+  `knowledge/cases/`, `knowledge/trends/`, `knowledge/technologies/`,
+  `knowledge/labs/`, `knowledge/actors/`, `knowledge/cohorts/`, and
+  `knowledge/claims/`. Use `review_status`, not folder location, to distinguish
+  candidates from reviewed knowledge. Open `knowledge/` directly as the
+  Obsidian vault.
+- Processing state: `knowledge/processing/`. Fingerprint completion records
+  extraction review, not semantic approval.
+- Editorial analysis runs: `research/announcement_analysis/` and
+  `research/news_analysis/`.
+- Public-copy writer runs: `research/announcement_drafts/` and
+  `research/news_drafts/`.
+- Visual runs: `research/instagram_carousels/`.
+- Telegram publication handoff: `Telegram, News to publish/`. Files here are
+  formatted derivatives, not proof of publication.
+
+The SQLite file must remain rebuildable from local artifacts without deleting
+reviewed semantic cards.
 
 ### Knowledge ingestion commands
 
