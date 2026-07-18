@@ -19,7 +19,7 @@ gconf/
 ├── YouTube/                     # нормализованные исследовательские пакеты видео
 ├── Web Articles/                # локальные снимки статей официальных AI-лабораторий
 ├── knowledge/                   # Obsidian knowledge base и служебное состояние
-│   ├── _index/gconf.sqlite      # производный локальный SQLite-индекс (не хранится в Git)
+│   ├── _index/gconf.sqlite      # готовый к поиску и полностью пересобираемый SQLite snapshot
 │   ├── sources/                 # сгенерированные карточки источников
 │   ├── pains/, cases/, ...      # смысловые карточки с evidence locators
 │   ├── processing/              # состояние semantic extraction
@@ -47,9 +47,9 @@ gconf/
 
 ### 2. SQLite: машинный поисковый индекс
 
-[`knowledge/_index/gconf.sqlite`](knowledge/_index/) — производный индекс всех локальных источников. Он содержит нормализованные документы, комментарии, фрагменты транскриптов, связи ответов, checksums, provenance и полнотекстовый поиск FTS5.
+[`knowledge/_index/gconf.sqlite`](knowledge/_index/gconf.sqlite) — производный индекс всех локальных источников. Он содержит нормализованные документы, комментарии, фрагменты транскриптов, связи ответов, checksums, provenance и полнотекстовый поиск FTS5.
 
-SQLite — **не источник истины** и не редактируется вручную. Файл исключён из Git: его можно целиком пересобрать из raw-артефактов. Отчёты каждого импорта пишутся в `knowledge/runs/`, а обзорные карточки источников — в `knowledge/sources/`.
+В Git хранится готовый snapshot, чтобы после clone можно было сразу проверять корпус и выполнять поиск. При этом SQLite — **не источник истины** и не редактируется вручную: его можно целиком пересобрать из raw-артефактов. После изменения источников snapshot нужно обновить через ingestion и закоммитить вместе с ними. Отчёты каждого импорта пишутся в `knowledge/runs/`, а обзорные карточки источников — в `knowledge/sources/`.
 
 ### 3. Knowledge base: проверяемый смысловой слой
 
@@ -198,21 +198,23 @@ python3 -B .agents/skills/gconf-knowledge-ingest/scripts/knowledge_ingest.py sca
 
 `doctor` проверит Python, SQLite/FTS5 и наличие source directories. `scan` покажет доступные локальные пакеты, не изменяя их.
 
-### 2. Построить локальную базу
+### 2. Проверить или обновить локальную базу
 
-SQLite не коммитится, поэтому после свежего clone его нужно собрать:
+Готовый SQLite snapshot уже хранится в репозитории, поэтому после свежего clone можно сразу проверить его и выполнять поиск:
+
+```bash
+python3 -B .agents/skills/gconf-knowledge-ingest/scripts/knowledge_ingest.py validate
+python3 -B .agents/skills/gconf-knowledge-ingest/scripts/knowledge_ingest.py search 'агенты OR контекст'
+```
+
+После добавления или обновления source packages пересоберите snapshot и провалидируйте его перед коммитом:
 
 ```bash
 python3 -B .agents/skills/gconf-knowledge-ingest/scripts/knowledge_ingest.py ingest --all
 python3 -B .agents/skills/gconf-knowledge-ingest/scripts/knowledge_ingest.py validate
 ```
 
-После этого можно искать по нормализованному корпусу:
-
-```bash
-python3 -B .agents/skills/gconf-knowledge-ingest/scripts/knowledge_ingest.py search 'агенты OR контекст'
-python3 -B .agents/skills/gconf-knowledge-ingest/scripts/knowledge_ingest.py search 'agent OR context' --chunks
-```
+Для поиска по timestamped-фрагментам YouTube-транскриптов используйте `search 'agent OR context' --chunks`.
 
 `rebuild` нужен только для полного пересоздания производного индекса. Он не должен удалять source exports или проверенные semantic cards:
 

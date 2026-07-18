@@ -27,6 +27,8 @@ YouTube/**/*.wav
 YouTube/**/*.m4a
 YouTube/**/*.mp3
 
-# Rebuildable knowledge indexes and local run state
-knowledge/_index/
+# Rebuildable knowledge index and local run state. Keep one ready-to-query
+# SQLite snapshot in Git so reviewers can inspect the corpus after clone.
+knowledge/_index/*
+!knowledge/_index/gconf.sqlite
 knowledge/runs/
