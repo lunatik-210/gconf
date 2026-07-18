@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "scope": "telegram_announcement_cta",
+  "confirmed_at": "2026-07-18T21:10:29Z",
+  "decision_source": "human_explicit",
+  "cta": {
+    "label": "подробности и записаться на Vibe Coding →",
+    "url": "https://t.me/gptconf_bot"
+  },
+  "limitations": [
+    "Подтверждает только CTA Telegram-анонса.",
+    "Не подтверждает публикацию, расписание или остальные параметры потока."
+  ]
+}

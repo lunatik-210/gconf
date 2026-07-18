@@ -232,6 +232,30 @@ const modalData = {
     summary: "Сейчас handoff публикуется вручную. Следующий шаг — после явного human approval передавать точный утверждённый артефакт в авторизованный MCP-коннектор или scheduled task.",
     body: agentDetails("approved exact artifact + канал + время публикации + разрешённый connector", "немедленная публикация или запланированная задача с audit trail", "публиковать до approval, менять текст, самостоятельно выбирать draft или хранить credentials в репозитории", "точный copy, канал, время, доступы и отмену задачи"),
   },
+  "take-first-launch": {
+    kicker: "ANNOUNCEMENT TRACE · TAKE 01",
+    title: "Первый запуск — ещё не рабочий процесс",
+    summary: "Этот абзац задаёт главный delta: GCONF уже доказал, что первый артефакт доступен; следующий барьер — сделать его повторяемым и поддерживаемым.",
+    body: `${evidence("fact", "«с нулевым опытом программирования сделала удобный html-файл. месяцы не могла допроситься айтишников»", "GCONF / AI LOVERS · 30.06.2026 · telegram:1633415027:1028", "Организаторский шеринг подтверждает первый артефакт, но не его устойчивость и качество.")}${link("https://t.me/gptlovers/1028", "GCONF · первые артефакты", "публичная подборка результатов")}${evidence("fact", "«мы полностью перевезли свои процессы на свои вайбкодинг штуки и постоянно их улучшаем»", "GCONF / AI LOVERS · Дима Мацкевич · 13.07.2026 · telegram:1633415027:1058", "Практика команды показывает направление движения, но не доказывает capability следующего потока.")}${link("https://t.me/gptlovers/1058", "GCONF · процессы команды", "публичный Telegram")}${evidence("inference", "Первый артефакт уже является baseline. Новая ценность — жизненный цикл: повторный запуск, наблюдаемость, исправление и улучшение.", "announcement analysis · direction-living-ai-ops", "Это редакционный вывод, а не подтверждённое обещание будущей программы.")}${link("https://openai.com/index/how-agents-are-transforming-work/", "OpenAI · why now", "single interactions → delegated long-horizon tasks")}`,
+  },
+  "take-context-guardrails": {
+    kicker: "ANNOUNCEMENT TRACE · TAKE 02",
+    title: "Контекст полезен только вместе с границами",
+    summary: "Абзац соединяет две стороны одной системы: память и доступ делают агента полезнее, но одновременно повышают цену ошибки и необходимость человеческого решения.",
+    body: `${evidence("fact", "«он точно так же помнит контекст, если не лучше»", "GCONF / AI LOVERS · 23.05.2026 · telegram:1633415027:1001", "Организаторский шеринг без технического артефакта; качество памяти независимо не проверено.")}${link("https://t.me/gptlovers/1001", "GCONF · кейс памяти", "публичный Telegram")}${evidence("fact", "«Спасибо за эту беседу. А что с безопасностью?»", "@ЮлианаПьянкова-и6е · YouTube comment · 15.05.2026 · youtube:6WEsPzHyD9k:comment:UgwknNZ_EHPCG3agi5x4AaABAg", "Комментарий подтверждает язык страха, а не конкретную уязвимость или безопасность продукта.")}${link("https://www.youtube.com/watch?v=6WEsPzHyD9k&lc=UgwknNZ_EHPCG3agi5x4AaABAg", "Комментарий под видео Димы", "доступы, данные и потеря контроля")}${evidence("fact", "“You trust something else to sort, lint, prioritize the information for you…”", "@Seefood73 · YouTube comment · 16.07.2026 · youtube:cwf2vEAigKA:comment:Ugz7EY-JuMv4zGC-RJx4AaABAg.AZEJmr9YXpSAZGnvV6eyfg", "Один внешний комментарий; используется как evidence напряжения между памятью агента и пониманием человека.")}${link("https://www.youtube.com/watch?v=cwf2vEAigKA&lc=Ugz7EY-JuMv4zGC-RJx4AaABAg.AZEJmr9YXpSAZGnvV6eyfg", "Комментарий под Wes Roth", "agent-readable second brain")}${evidence("inference", "Поэтому в анонсе память, проверки и human decision стоят в одном смысловом блоке: полномочия и контроль должны расти вместе.", "pain-agent-data-access-security + trend-governance-grows-with-agent-access")}`,
+  },
+  "take-real-process": {
+    kicker: "ANNOUNCEMENT TRACE · TAKE 03",
+    title: "AI Ops начинается с одной реальной задачи",
+    summary: "Living AI Ops переведён с абстрактного термина на язык поведения: выбрать повторяемый процесс и провести его от входа до проверяемого результата.",
+    body: `${evidence("fact", "«С чего начать? Куда впихнуть ваш вайб коддинг?»", "jego_tanja · Instagram comment · 27.05.2026 · instagram:matskevich:DYxMAm3NjHH:comment:18106582094515315", "Один публичный комментарий показывает язык затруднения, но не частоту проблемы во всей аудитории.")}${link("https://www.instagram.com/p/DYxMAm3NjHH/c/18106582094515315/", "Комментарий под постом Димы", "голос аудитории · первый шаг")}${evidence("fact", "«Я ничего не понимаю в этом, только знала архитектуру, понимала путь клиента и все»", "@olga_emir · YouTube comment · 15.06.2026 · youtube:6WEsPzHyD9k:comment:UgyRj7j7WWrniJexbJ54AaABAg", "Self-report: функциональность CRM и срок в семь дней независимо не проверены.")}${link("https://www.youtube.com/watch?v=6WEsPzHyD9k&lc=UgyRj7j7WWrniJexbJ54AaABAg", "Комментарий под видео Димы", "предметная модель задачи → рабочий инструмент")}${evidence("fact", "«за пару часов на выходных сделал коллектор вакансий со смарт-фильтром»", "GCONF / AI LOVERS · 30.06.2026 · telegram:1633415027:1028", "Организаторская подборка; качество фильтра независимо не проверено.")}${link("https://t.me/gptlovers/1028", "GCONF · процессные кейсы", "публичный Telegram")}${evidence("proposal", "Вместо каталога инструментов предложен один loop: задача → контекст → действие → проверка → рабочий ритм.", "writing brief · program evidence map", "Команда должна подтвердить, что будущий продукт действительно обеспечивает этот опыт.")}`,
+  },
+  "take-process-over-tools": {
+    kicker: "ANNOUNCEMENT TRACE · TAKE 04",
+    title: "Мета-навык важнее списка инструментов",
+    summary: "Этот смысл защищает анонс от быстрого устаревания и продолжает публичную GCONF-философию: интерфейсы меняются, паттерн действия остаётся.",
+    body: `${evidence("unindexed", "«инструменты меняются, навык остаётся»", "gconf.io · live current-offer baseline · accessed 19.07.2026", "Это публичный принцип текущего продукта, а не доказательство результата будущего потока.")}${link("https://www.gconf.io/", "GCONF · текущий продукт", "процесс вместо списка кнопок")}${evidence("inference", "Публичная траектория GCONF расширяет единицу поведения: ChatGPT → мета-навыки → универсальный agent pattern → личная система.", "GCONF / AI LOVERS · telegram:1633415027:791, :977, :1009, :1040", "Это редакционная интерпретация нескольких запусков, а не одна дословная позиция GCONF.")}<div class="dialog-links">${link("https://t.me/gptlovers/791", "Мета-навыки · 2025")}${link("https://t.me/gptlovers/977", "Agent pattern · 2026")}${link("https://t.me/gptlovers/1009", "Первый workflow · 2026")}${link("https://t.me/gptlovers/1040", "Личная система · 2026")}</div>${evidence("fact", "“Bro, you make it sound so easy.”", "@kirkwoodpaterson9510 · YouTube comment · 15.07.2026 · youtube:cwf2vEAigKA:comment:UgwANiCWq9lmHTlDZRR4AaABAg", "Комментарий показывает demo-to-practice gap, а не невозможность освоить подход.")}${link("https://www.youtube.com/watch?v=cwf2vEAigKA&lc=UgwANiCWq9lmHTlDZRR4AaABAg", "Комментарий под Wes Roth", "голос внешней аудитории")}${evidence("inference", "Поэтому durable output сформулирован как паттерн задачи, контекста, действия, проверки и улучшения — без ставки на один бренд модели.", "current GCONF baseline + historical trajectory + audience tension")}`,
+  },
   "strategy-history": {
     kicker: "AI OPS EVIDENCE · 01",
     title: "История расширяет единицу поведения",
@@ -306,13 +330,89 @@ function setupEvidenceDialog() {
     closeButton.focus();
   };
 
-  document.querySelectorAll("[data-dialog]").forEach((trigger) => trigger.addEventListener("click", () => open(trigger)));
+  document.querySelectorAll("[data-dialog]").forEach((trigger) => {
+    trigger.addEventListener("click", () => open(trigger));
+    if (trigger.getAttribute("role") !== "button") return;
+    trigger.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      event.preventDefault();
+      open(trigger);
+    });
+  });
   closeButton.addEventListener("click", () => dialog.close());
   dialog.addEventListener("click", (event) => {
     if (event.target === dialog) dialog.close();
   });
   dialog.addEventListener("close", () => {
     if (opener) opener.focus();
+  });
+}
+
+function setupCopyButtons() {
+  const buttons = [...document.querySelectorAll("[data-copy-target]")];
+  if (!buttons.length) return;
+
+  const writeText = async (text) => {
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(text);
+      return;
+    }
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.left = "-10000px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    const copied = document.execCommand("copy");
+    textarea.remove();
+    if (!copied) throw new Error("copy command failed");
+  };
+
+  const extractText = (button) => {
+    const target = document.querySelector(button.dataset.copyTarget);
+    if (!target) return "";
+    const clone = target.cloneNode(true);
+    clone.removeAttribute("id");
+    const removeSelector = button.dataset.copyRemove;
+    if (removeSelector) clone.querySelectorAll(removeSelector).forEach((item) => item.remove());
+    clone.querySelectorAll("[data-copy-control]").forEach((item) => item.remove());
+    clone.querySelectorAll("li").forEach((item) => item.insertBefore(document.createTextNode("— "), item.firstChild));
+    clone.querySelectorAll("a[href]").forEach((anchor) => {
+      const label = anchor.textContent.trim();
+      anchor.replaceWith(document.createTextNode(`${label}\n${anchor.href}`));
+    });
+    clone.classList.add("copy-sandbox");
+    document.body.appendChild(clone);
+    const text = clone.innerText
+      .replace(/\u00a0/g, " ")
+      .replace(/[ \t]+\n/g, "\n")
+      .replace(/\n{3,}/g, "\n\n")
+      .trim();
+    clone.remove();
+    return text;
+  };
+
+  buttons.forEach((button) => {
+    const label = button.querySelector("[data-copy-label]");
+    const initialLabel = label ? label.textContent : "скопировать текст";
+    button.addEventListener("click", async () => {
+      const text = extractText(button);
+      if (!text) return;
+      try {
+        await writeText(text);
+        button.classList.add("is-copied");
+        if (label) label.textContent = "скопировано ✓";
+        button.setAttribute("aria-label", "Текст скопирован");
+      } catch {
+        if (label) label.textContent = "не скопировано";
+      }
+      window.setTimeout(() => {
+        button.classList.remove("is-copied");
+        if (label) label.textContent = initialLabel;
+        button.setAttribute("aria-label", `Скопировать ${button.dataset.copyTarget.includes("instagram") ? "Instagram caption" : "Telegram-анонс"}`);
+      }, 1800);
+    });
   });
 }
 
@@ -382,4 +482,5 @@ setupReveal();
 setupProgressAndNavigation();
 setupSystemMap();
 setupEvidenceDialog();
+setupCopyButtons();
 setupCarousel();

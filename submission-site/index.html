@@ -108,14 +108,24 @@
         </div>
 
         <div class="announcement-grid reveal">
-          <article class="telegram-post">
-            <div class="post-header"><div class="post-avatar">G</div><div><b>GCONF · Telegram announcement</b><span>draft</span></div><span class="post-menu">•••</span></div>
-            <div class="post-body">
+          <article class="telegram-post" id="telegram-announcement">
+            <div class="post-header"><div class="post-avatar">G</div><div><b>GCONF · Telegram announcement</b><span>draft</span></div><button type="button" class="copy-text-button" data-copy-control data-copy-target="#telegram-announcement-copy" data-copy-remove=".meaning-guide, .meaning-block__trace" aria-label="Скопировать полный текст Telegram-анонса"><span data-copy-label>скопировать текст</span></button></div>
+            <div class="post-body" id="telegram-announcement-copy">
+              <p class="meaning-guide"><span>reverse trace · 4 key takes</span> Подсвечены только ключевые смысловые решения. Нажмите, чтобы увидеть, откуда взялся этот смысл.</p>
               <p><strong>27 октября 2026 · Vibe Coding · AI Ops · 3 недели</strong></p>
-              <p>собрать первого агента, бота или внутренний инструмент стало заметно проще. сложнее другое: сделать так, чтобы он не остался красивым демо и продолжил жить после первого запуска.</p>
-              <p>контекст расползается между чатами и файлами. автоматизация ломается при первом изменении процесса. память приходится переносить руками. а чем больше доступов получает агент, тем важнее понимать, что именно он делает и где решение должно остаться за человеком.</p>
-              <p>поэтому следующий Vibe Coding · AI Ops — про переход от первого workflow к живой AI-операционке: системе, которая знает ваш контекст, выполняет повторяемую часть работы, оставляет понятный след для проверки и улучшается вместе с вами.</p>
+              <div class="post-meaning-block" role="button" tabindex="0" aria-haspopup="dialog" aria-controls="evidence-dialog" data-dialog="take-first-launch">
+                <p>собрать первого агента, бота или внутренний инструмент стало заметно проще. сложнее другое: сделать так, чтобы он не остался красивым демо и продолжил жить после первого запуска.</p>
+                <span class="meaning-block__trace"><b>take 01</b> почему этот смысл →</span>
+              </div>
+              <div class="post-meaning-block" role="button" tabindex="0" aria-haspopup="dialog" aria-controls="evidence-dialog" data-dialog="take-context-guardrails">
+                <p>контекст расползается между чатами и файлами. автоматизация ломается при первом изменении процесса. память приходится переносить руками. а чем больше доступов получает агент, тем важнее понимать, что именно он делает и где решение должно остаться за человеком.</p>
+                <span class="meaning-block__trace"><b>take 02</b> почему этот смысл →</span>
+              </div>
               <div class="post-more">
+                <div class="post-meaning-block" role="button" tabindex="0" aria-haspopup="dialog" aria-controls="evidence-dialog" data-dialog="take-real-process">
+                  <p>поэтому следующий Vibe Coding · AI Ops — про переход от первого workflow к живой AI-операционке: системе, которая знает ваш контекст, выполняет повторяемую часть работы, оставляет понятный след для проверки и улучшается вместе с вами.</p>
+                  <span class="meaning-block__trace"><b>take 03</b> почему этот смысл →</span>
+                </div>
                   <p>за 3 недели вы:</p>
                   <ul>
                     <li>выберете один реальный процесс и разложите его от входа до результата;</li>
@@ -124,11 +134,14 @@
                     <li>настроите проверки: что можно выполнить автоматически, а где нужен ваш ответ;</li>
                     <li>доведёте первую версию до рабочего ритма.</li>
                   </ul>
+                <div class="post-meaning-block" role="button" tabindex="0" aria-haspopup="dialog" aria-controls="evidence-dialog" data-dialog="take-process-over-tools">
                   <p>это не поток про ещё один список инструментов. модели и интерфейсы будут меняться. важнее схватить паттерн: задача → контекст → действие → проверка → улучшение.</p>
+                  <span class="meaning-block__trace"><b>take 04</b> почему этот смысл →</span>
+                </div>
                   <p>внутри сохраняем работающую основу GCONF: живая практика, разборы ваших задач, чат и Q&amp;A. записи и материалы остаются навсегда.</p>
                   <p>AI-операционка не означает полной автономности. доступы, качество результата и критичные решения остаются зоной человеческой ответственности.</p>
                   <p>стоимость: $650 / 52 000 ₽<br>длительность: 3 недели<br>старт: 27 октября 2026</p>
-                  <p><strong>«vibe» в комменты — скинем детали</strong></p>
+                  <p><a class="telegram-post-cta" href="https://t.me/gptconf_bot" target="_blank" rel="noopener noreferrer"><strong>подробности и записаться на Vibe Coding →</strong></a></p>
               </div>
             </div>
             <div class="post-foot"><span>strategy: living-ai-ops</span><span>voice: GCONF</span></div>
@@ -155,9 +168,9 @@
             </div>
             <p class="carousel-note">← → доступны кнопками и стрелками клавиатуры, когда фокус внутри галереи.</p>
 
-            <article class="instagram-caption">
-              <div class="instagram-caption__head"><span>Instagram</span><b>caption · draft</b></div>
-              <p><strong>[ДАТА — НУЖНО ПОДТВЕРДИТЬ] · Vibe Coding · AI Ops · 3 недели</strong></p>
+            <article class="instagram-caption" id="instagram-caption-copy">
+              <div class="instagram-caption__head"><div><span>Instagram</span><b>caption · draft</b></div><button type="button" class="copy-text-button" data-copy-control data-copy-target="#instagram-caption-copy" data-copy-remove=".instagram-caption__head" aria-label="Скопировать полный текст Instagram caption"><span data-copy-label>скопировать текст</span></button></div>
+              <p><strong>27 октября 2026 · Vibe Coding · AI Ops · 3 недели</strong></p>
               <p>первого агента уже можно собрать за вечер. но между первым удачным запуском и регулярным использованием лежит отдельный навык.</p>
               <div class="instagram-caption__body">
                   <p>на новом потоке берём один ваш реальный процесс и собираем вокруг него живую AI-операционку: контекст, память, правила, нужные связи и проверки. чтобы при следующем изменении задачи не начинать всё с пустого окна.</p>
@@ -204,7 +217,7 @@
                 <li>кто выступает reviewer;</li>
                 <li>какое решение вы точно оставляете за собой?</li>
               </ul>
-              <p class="news-post__sources">источники: <a href="https://deepmind.google/public-policy/conjecture-machines-ai-agents-and-the-new-validation-bottleneck-in-science/" target="_blank" rel="noopener noreferrer">Google DeepMind</a> · <a href="https://www.anthropic.com/news/claude-science-ai-workbench" target="_blank" rel="noopener noreferrer">Anthropic</a></p>
+              <p class="news-post__cta"><span>p.s.</span> через 8 дней стартует следующий поток GCONF — про vibe coding, агентов и AI-операционку.<br><a href="#telegram-announcement">подробности про поток 27 октября →</a></p>
             </div>
             <div class="source-cards">
               <p class="source-cards__title">источники</p>
@@ -232,7 +245,7 @@
                 <li>цену;</li>
                 <li>объём ручной проверки.</li>
               </ul>
-              <p class="news-post__sources">источник: <a href="https://www.kimi.com/blog/kimi-k3" target="_blank" rel="noopener noreferrer">Kimi K3</a></p>
+              <p class="news-post__cta"><span>p.s.</span> через 3 дня стартует следующий поток GCONF — про vibe coding, агентов и AI-операционку.<br><a href="#telegram-announcement">подробности про поток 27 октября →</a></p>
             </div>
             <div class="source-cards source-cards--one">
               <p class="source-cards__title">источники</p>
@@ -337,7 +350,7 @@
       <section class="section section--dark snap-section architecture-section" id="system" data-section="system">
         <div class="section-heading section-heading--light reveal">
           <span class="section-number">05 / система</span>
-          <h2>как собрал систему</h2>
+          <h2>архитектура системы / daily loop</h2>
           <p><strong>AGENT</strong> отмечает шаг, который AI-агент выполняет по repository skill. Skill задаёт контракт и границы; агент делает работу. Нажмите на узел, чтобы открыть его input, output и human gate.</p>
         </div>
 
@@ -410,7 +423,7 @@
         <a class="repo-callout reveal" href="https://github.com/lunatik-210/gconf" target="_blank" rel="noopener noreferrer"><span>review the implementation</span><b>github.com/lunatik-210/gconf →</b><p>В репозитории оставил skills, contracts, knowledge architecture и проверяемые артефакты за пределами презентации.</p></a>
       </section>
 
-      <dialog class="evidence-dialog" data-evidence-dialog aria-labelledby="evidence-dialog-title" aria-describedby="evidence-dialog-summary">
+      <dialog class="evidence-dialog" id="evidence-dialog" data-evidence-dialog aria-labelledby="evidence-dialog-title" aria-describedby="evidence-dialog-summary">
         <div class="evidence-dialog__surface">
           <div class="evidence-dialog__bar">
             <span data-dialog-kicker>evidence</span>
